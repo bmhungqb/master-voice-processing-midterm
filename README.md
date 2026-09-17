@@ -55,6 +55,7 @@ Dự án được phân chia theo 4 vai trò thành viên cốt lõi:
 ```text
 .
 ├── README.md               # Tổng quan dự án, phân công nhiệm vụ và trạng thái
+├── agent.md                # Quy chuẩn kiến trúc & hướng dẫn dành cho AI Agent Coding
 ├── .gitignore              # Cấu hình bỏ qua cache Python và hệ điều hành
 ├── data/                   # Thư mục chứa dữ liệu đầu vào
 │   └── trong_gia_dinh.epub # Tệp sách điện tử gốc đầu vào
