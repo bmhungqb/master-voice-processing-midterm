@@ -7,8 +7,9 @@ Standard: DAISY 3 (DTBook 2005-3 / NISO Z39.86-2005)
 import os
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-EPUB_PATH = os.path.join(BASE_DIR, "trong_gia_dinh.epub")
-OUTPUT_DIR = os.path.join(BASE_DIR, "output")
+DATA_DIR = os.path.join(BASE_DIR, "data")
+EPUB_PATH = os.path.join(DATA_DIR, "trong_gia_dinh.epub")
+OUTPUT_DIR = os.path.join(BASE_DIR, "results", "task1")
 
 # Metadata compliant with DAISY 3 & Course Guidelines
 METADATA = {

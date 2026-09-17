@@ -39,12 +39,12 @@ Dự án được phân chia theo 4 vai trò thành viên cốt lõi:
 
 ## 3. Chi Tiết Kết Quả Nhiệm Vụ 1 (Task 1 Deliverables)
 
-* **Dữ liệu nguồn:** [`trong_gia_dinh.epub`](trong_gia_dinh.epub) (23 chương từ `C0.html` đến `C22.html`).
+* **Dữ liệu nguồn:** [`data/trong_gia_dinh.epub`](data/trong_gia_dinh.epub) (23 chương từ `C0.html` đến `C22.html`).
 * **Kết quả xử lý:** Toàn bộ **23 chương** đã được trích xuất, chuẩn hóa, phân tách câu và tạo tài liệu DTBook XML đạt chuẩn 100%.
   * **Tổng số đoạn văn (`<p>`):** 3,188 đoạn.
   * **Tổng số câu (`<sent>`):** 8,859 câu.
   * **Kiểm thử DTD & XML Syntax:** 23/23 chương **PASSED**.
-* **Dữ liệu đầu ra bàn giao (Handoff Artifacts):** Nằm tại thư mục [`output/`](output/), chia theo từng chương `Trong_Gia_Dinh-Chuong_00/` đến `Trong_Gia_Dinh-Chuong_22/`:
+* **Dữ liệu đầu ra bàn giao (Handoff Artifacts):** Nằm tại thư mục [`results/task1/`](results/task1/), chia theo từng chương `Trong_Gia_Dinh-Chuong_00/` đến `Trong_Gia_Dinh-Chuong_22/`:
   1. `dtbook.xml`: Tệp XML chuẩn DAISY 3 (DTBook 2005-3) với đầy đủ siêu dữ liệu và neo đồng bộ ID.
   2. `segments.json`: Tệp dữ liệu trung gian có cấu trúc phẳng (`sent_id`, `smil_sid`, `p_id`, `seq_id`, `text`) phục vụ trực tiếp cho Thành viên 2 (TTS) và Thành viên 3 (SMIL Alignment).
 
@@ -56,21 +56,23 @@ Dự án được phân chia theo 4 vai trò thành viên cốt lõi:
 .
 ├── README.md               # Tổng quan dự án, phân công nhiệm vụ và trạng thái
 ├── .gitignore              # Cấu hình bỏ qua cache Python và hệ điều hành
-├── trong_gia_dinh.epub     # Tệp sách điện tử gốc đầu vào
+├── data/                   # Thư mục chứa dữ liệu đầu vào
+│   └── trong_gia_dinh.epub # Tệp sách điện tử gốc đầu vào
 ├── src/                    # Toàn bộ mã nguồn xử lý pipeline Task 1
 │   ├── config.py           # Khai báo cấu hình, siêu dữ liệu sách và đường dẫn
 │   ├── extract_clean.py    # Module trích xuất EPUB, làm sạch và tách câu tiếng Việt
 │   ├── generate_dtbook.py  # Module sinh tài liệu DTBook XML 2005-3 chuẩn NISO
 │   ├── validate_dtbook.py  # Module kiểm thử cú pháp XML, tính duy nhất ID và DTD
 │   └── run_task1.py        # Script thực thi pipeline chính
-└── output/                 # Thư mục chứa kết quả 23 chương sách DAISY 3
-    ├── Trong_Gia_Dinh-Chuong_00/
-    │   ├── dtbook.xml
-    │   └── segments.json
-    ├── Trong_Gia_Dinh-Chuong_01/
-    │   ├── dtbook.xml
-    │   └── segments.json
-    └── ... (đến Chương 22)
+└── results/                # Thư mục chứa kết quả của các nhiệm vụ
+    └── task1/              # Kết quả Task 1: 23 chương sách DAISY 3
+        ├── Trong_Gia_Dinh-Chuong_00/
+        │   ├── dtbook.xml
+        │   └── segments.json
+        ├── Trong_Gia_Dinh-Chuong_01/
+        │   ├── dtbook.xml
+        │   └── segments.json
+        └── ... (đến Chương 22)
 ```
 
 ---
