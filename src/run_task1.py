@@ -22,7 +22,10 @@ def process_chapter(chapter_idx: int, epub_path: str = EPUB_PATH, base_output_di
     """
     Process a single chapter: extract, generate DTBook XML, save segments.json, and validate.
     """
-    chapter_folder_name = f"Trong_Gia_Dinh-Chuong_{chapter_idx:02d}"
+    if chapter_idx == 0:
+        chapter_folder_name = "Trong_Gia_Dinh-Gioi_Thieu"
+    else:
+        chapter_folder_name = f"Trong_Gia_Dinh-Chuong_{chapter_idx:02d}"
     chapter_dir = os.path.join(base_output_dir, chapter_folder_name)
     os.makedirs(chapter_dir, exist_ok=True)
 

@@ -44,7 +44,7 @@ Dự án được phân chia theo 4 vai trò thành viên cốt lõi:
   * **Tổng số đoạn văn (`<p>`):** 3,188 đoạn.
   * **Tổng số câu (`<sent>`):** 8,859 câu.
   * **Kiểm thử DTD & XML Syntax:** 23/23 chương **PASSED**.
-* **Dữ liệu đầu ra bàn giao (Handoff Artifacts):** Nằm tại thư mục [`results/task1/`](results/task1/), chia theo từng chương `Trong_Gia_Dinh-Chuong_00/` đến `Trong_Gia_Dinh-Chuong_22/`:
+* **Dữ liệu đầu ra bàn giao (Handoff Artifacts):** Nằm tại thư mục [`results/task1/`](results/task1/), gồm thư mục `Trong_Gia_Dinh-Gioi_Thieu/` và 22 chương `Trong_Gia_Dinh-Chuong_01/` đến `Trong_Gia_Dinh-Chuong_22/`:
   1. `dtbook.xml`: Tệp XML chuẩn DAISY 3 (DTBook 2005-3) với đầy đủ siêu dữ liệu và neo đồng bộ ID.
   2. `segments.json`: Tệp dữ liệu trung gian có cấu trúc phẳng (`sent_id`, `smil_sid`, `p_id`, `seq_id`, `text`) phục vụ trực tiếp cho Thành viên 2 (TTS) và Thành viên 3 (SMIL Alignment).
 
@@ -67,7 +67,7 @@ Dự án được phân chia theo 4 vai trò thành viên cốt lõi:
 │   └── run_task1.py        # Script thực thi pipeline chính
 └── results/                # Thư mục chứa kết quả của các nhiệm vụ
     └── task1/              # Kết quả Task 1: 23 chương sách DAISY 3
-        ├── Trong_Gia_Dinh-Chuong_00/
+        ├── Trong_Gia_Dinh-Gioi_Thieu/
         │   ├── dtbook.xml
         │   └── segments.json
         ├── Trong_Gia_Dinh-Chuong_01/

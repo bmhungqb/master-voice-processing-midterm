@@ -75,6 +75,14 @@ def split_sentences(text: str) -> List[str]:
     return sentences
 
 
+# Manual overrides to correct typos in the original EPUB source
+CHAPTER_TITLE_OVERRIDES = {
+    0: "Giới Thiệu",
+    5: "Phần II: Giã Từ Cõi Chết - Chương 5",
+    22: "Chương 22",
+}
+
+
 def extract_chapter(epub_path: str, chapter_idx: int) -> Dict[str, Any]:
     """
     Extract a single chapter from the EPUB archive.
@@ -90,16 +98,19 @@ def extract_chapter(epub_path: str, chapter_idx: int) -> Dict[str, Any]:
 
     soup = BeautifulSoup(raw_html, "html.parser")
 
-    # Extract chapter title
-    heading_tag = soup.find(["h1", "h2", "h3", "h4"])
-    if heading_tag and heading_tag.get_text(strip=True):
-        chapter_title = clean_text(heading_tag.get_text(strip=True))
+    # Extract chapter title with typo correction
+    if chapter_idx in CHAPTER_TITLE_OVERRIDES:
+        chapter_title = CHAPTER_TITLE_OVERRIDES[chapter_idx]
     else:
-        title_tag = soup.find("title")
-        if title_tag and title_tag.get_text(strip=True):
-            chapter_title = clean_text(title_tag.get_text(strip=True))
+        heading_tag = soup.find(["h1", "h2", "h3", "h4"])
+        if heading_tag and heading_tag.get_text(strip=True):
+            chapter_title = clean_text(heading_tag.get_text(strip=True))
         else:
-            chapter_title = f"Chương {chapter_idx}"
+            title_tag = soup.find("title")
+            if title_tag and title_tag.get_text(strip=True):
+                chapter_title = clean_text(title_tag.get_text(strip=True))
+            else:
+                chapter_title = f"Chương {chapter_idx}"
 
     # Extract paragraphs
     raw_paragraphs = []
