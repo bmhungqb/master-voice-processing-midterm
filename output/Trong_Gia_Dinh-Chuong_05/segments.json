@@ -1,0 +1,1766 @@
+{
+  "metadata": {
+    "dtb:uid": "978-604-69-8175-6",
+    "dtb:generator": "DAISY 3 DTBook Python Pipeline (K35)",
+    "dc:Title": "Trong Gia Đình",
+    "dc:Creator": "Hector Malot",
+    "dc:Translator": "Huỳnh Lý & Mai Hương, Huỳnh Phan Thanh Yên",
+    "dc:Publisher": "NXB Văn Học",
+    "dc:Date": "2017",
+    "dc:Identifier": "978-604-69-8175-6",
+    "dc:Language": "vi-VN",
+    "dc:Subject": "Văn học & Tiểu thuyết",
+    "dc:Format": "ANSI/NISO Z39.86-2005",
+    "dc:Description": "Cuốn sách kể về cuộc đời cô bé Perrine (Perin), 12 tuổi, mồ côi cha mẹ và hành trình đầy khó khăn, thử thách với nghị lực phi thường để vươn lên và được ông nội đón nhận trở lại trong gia đình.",
+    "note": "Bản dịch của GS. Huỳnh Lý & Mai Hương, hiệu đính Huỳnh Phan Thanh Yên"
+  },
+  "chapter_idx": 5,
+  "chapter_title": "Phần Ii: Giã Từ Cõi Chết - Chương 6",
+  "total_paragraphs": 76,
+  "total_sentences": 249,
+  "segments": [
+    {
+      "sent_id": "id_4",
+      "smil_sid": "sid_4",
+      "p_id": "c5_p1",
+      "seq_id": "seq_1",
+      "text": "Cầu kinh siêu độ xong, vị cố đạo rời khỏi nghĩa địa."
+    },
+    {
+      "sent_id": "id_5",
+      "smil_sid": "sid_5",
+      "p_id": "c5_p1",
+      "seq_id": "seq_1",
+      "text": "Bà Hầu tước vẫn ở bên cạnh Perin, còn đứng trước ngôi mộ."
+    },
+    {
+      "sent_id": "id_6",
+      "smil_sid": "sid_6",
+      "p_id": "c5_p1",
+      "seq_id": "seq_1",
+      "text": "Bà đưa cánh tay quàng lưng em và nói:"
+    },
+    {
+      "sent_id": "id_7",
+      "smil_sid": "sid_7",
+      "p_id": "c5_p2",
+      "seq_id": "seq_2",
+      "text": "- Ta đi về chứ!"
+    },
+    {
+      "sent_id": "id_8",
+      "smil_sid": "sid_8",
+      "p_id": "c5_p3",
+      "seq_id": "seq_3",
+      "text": "- Ôi, bác ơi!"
+    },
+    {
+      "sent_id": "id_9",
+      "smil_sid": "sid_9",
+      "p_id": "c5_p4",
+      "seq_id": "seq_4",
+      "text": "- Nào!"
+    },
+    {
+      "sent_id": "id_10",
+      "smil_sid": "sid_10",
+      "p_id": "c5_p4",
+      "seq_id": "seq_4",
+      "text": "Phải đi về thôi!"
+    },
+    {
+      "sent_id": "id_11",
+      "smil_sid": "sid_11",
+      "p_id": "c5_p4",
+      "seq_id": "seq_4",
+      "text": "Bà nhắc lại, như ra lệnh, rồi nắm cánh tay Perin, kéo đi."
+    },
+    {
+      "sent_id": "id_12",
+      "smil_sid": "sid_12",
+      "p_id": "c5_p5",
+      "seq_id": "seq_5",
+      "text": "Họ đi như thế, Perin không hay biết những gì đang xảy ra chung quanh và người ta sẽ dẫn em đi đâu!"
+    },
+    {
+      "sent_id": "id_13",
+      "smil_sid": "sid_13",
+      "p_id": "c5_p5",
+      "seq_id": "seq_5",
+      "text": "Tất cả ý nghĩ, tình cảm, sự sống, em đã để lại nơi mẹ."
+    },
+    {
+      "sent_id": "id_14",
+      "smil_sid": "sid_14",
+      "p_id": "c5_p6",
+      "seq_id": "seq_6",
+      "text": "Họ dừng lại trong một con đường vắng."
+    },
+    {
+      "sent_id": "id_15",
+      "smil_sid": "sid_15",
+      "p_id": "c5_p6",
+      "seq_id": "seq_6",
+      "text": "Bà Hầu tước đã thả tay em."
+    },
+    {
+      "sent_id": "id_16",
+      "smil_sid": "sid_16",
+      "p_id": "c5_p6",
+      "seq_id": "seq_6",
+      "text": "Perin thấy Hạt Muối, Bố Cá Chép và bác bán kẹo kéo ở bên cạnh."
+    },
+    {
+      "sent_id": "id_17",
+      "smil_sid": "sid_17",
+      "p_id": "c5_p6",
+      "seq_id": "seq_6",
+      "text": "Em nhận ra họ một cách lờ mờ: Bà Hầu tước đội mũ có ru băng đen."
+    },
+    {
+      "sent_id": "id_18",
+      "smil_sid": "sid_18",
+      "p_id": "c5_p6",
+      "seq_id": "seq_6",
+      "text": "Hạt Muối ăn mặc chỉnh tề và đội chiếc mũ cao."
+    },
+    {
+      "sent_id": "id_19",
+      "smil_sid": "sid_19",
+      "p_id": "c5_p6",
+      "seq_id": "seq_6",
+      "text": "Bố Cá Chép đã thay chiếc tạp dề muôn thuở, để mặc chiếc áo choàng xẻ vạt, màu hạt dẻ, dài đến chân."
+    },
+    {
+      "sent_id": "id_20",
+      "smil_sid": "sid_20",
+      "p_id": "c5_p6",
+      "seq_id": "seq_6",
+      "text": "Bác bán kẹo kéo mặc chiếc vét bằng da."
+    },
+    {
+      "sent_id": "id_21",
+      "smil_sid": "sid_21",
+      "p_id": "c5_p6",
+      "seq_id": "seq_6",
+      "text": "Bọn họ, những người Paris chính cống, trọng vọng sự từ biệt, đã mặc lễ phục để đi dự đám tang."
+    },
+    {
+      "sent_id": "id_22",
+      "smil_sid": "sid_22",
+      "p_id": "c5_p7",
+      "seq_id": "seq_7",
+      "text": "Là người quan trọng nhất trong nhóm, Hạt Muối lên tiếng trước:"
+    },
+    {
+      "sent_id": "id_23",
+      "smil_sid": "sid_23",
+      "p_id": "c5_p8",
+      "seq_id": "seq_8",
+      "text": "- Cháu ạ, bác cho cháu hay là cháu không phải trả tiền buồng."
+    },
+    {
+      "sent_id": "id_24",
+      "smil_sid": "sid_24",
+      "p_id": "c5_p8",
+      "seq_id": "seq_8",
+      "text": "Cháu muốn ở lại bãi Guylô bao lâu cũng được."
+    },
+    {
+      "sent_id": "id_25",
+      "smil_sid": "sid_25",
+      "p_id": "c5_p9",
+      "seq_id": "seq_9",
+      "text": "- Nếu cháu muốn đi với bác, cháu sẽ kiếm đủ sống."
+    },
+    {
+      "sent_id": "id_26",
+      "smil_sid": "sid_26",
+      "p_id": "c5_p9",
+      "seq_id": "seq_9",
+      "text": "Cũng là một nghề hay đấy chứ!"
+    },
+    {
+      "sent_id": "id_27",
+      "smil_sid": "sid_27",
+      "p_id": "c5_p9",
+      "seq_id": "seq_9",
+      "text": "Bà Hầu tước tiếp theo."
+    },
+    {
+      "sent_id": "id_28",
+      "smil_sid": "sid_28",
+      "p_id": "c5_p10",
+      "seq_id": "seq_10",
+      "text": "Bác bán kẹo cũng nói:"
+    },
+    {
+      "sent_id": "id_29",
+      "smil_sid": "sid_29",
+      "p_id": "c5_p11",
+      "seq_id": "seq_11",
+      "text": "- Cháu thích làm bánh kẹo không?"
+    },
+    {
+      "sent_id": "id_30",
+      "smil_sid": "sid_30",
+      "p_id": "c5_p11",
+      "seq_id": "seq_11",
+      "text": "Bác sẽ nhận cháu."
+    },
+    {
+      "sent_id": "id_31",
+      "smil_sid": "sid_31",
+      "p_id": "c5_p11",
+      "seq_id": "seq_11",
+      "text": "Nghề này cũng hay lắm mà là một nghề chân chính đấy!"
+    },
+    {
+      "sent_id": "id_32",
+      "smil_sid": "sid_32",
+      "p_id": "c5_p12",
+      "seq_id": "seq_12",
+      "text": "Bố Cá Chép không nói nhưng nụ cười trên cái miệng ngậm tăm và một cử chỉ của bàn tay như đưa mới, ông lão đã nói rõ cho mọi người hay sự dự định giúp đỡ của ông."
+    },
+    {
+      "sent_id": "id_33",
+      "smil_sid": "sid_33",
+      "p_id": "c5_p12",
+      "seq_id": "seq_12",
+      "text": "Khi nào cô bé cần một tách nước hầm tuyệt ngon, mời đến gặp ông lão."
+    },
+    {
+      "sent_id": "id_34",
+      "smil_sid": "sid_34",
+      "p_id": "c5_p13",
+      "seq_id": "seq_13",
+      "text": "Những đề nghị xâu chuỗi ấy làm cho Perin không cầm được nước mắt."
+    },
+    {
+      "sent_id": "id_35",
+      "smil_sid": "sid_35",
+      "p_id": "c5_p13",
+      "seq_id": "seq_13",
+      "text": "Cái ngọt ngào của những giọt nước mắt đã chảy hai hôm nay, đốt cháy ruột gan em!"
+    },
+    {
+      "sent_id": "id_36",
+      "smil_sid": "sid_36",
+      "p_id": "c5_p14",
+      "seq_id": "seq_14",
+      "text": "- Ôi, các bác thương cháu quá!"
+    },
+    {
+      "sent_id": "id_37",
+      "smil_sid": "sid_37",
+      "p_id": "c5_p14",
+      "seq_id": "seq_14",
+      "text": "– Perin thì thầm."
+    },
+    {
+      "sent_id": "id_38",
+      "smil_sid": "sid_38",
+      "p_id": "c5_p15",
+      "seq_id": "seq_15",
+      "text": "- Chúng tôi có thể giúp được gì chúng tôi sẵn sàng thôi!"
+    },
+    {
+      "sent_id": "id_39",
+      "smil_sid": "sid_39",
+      "p_id": "c5_p15",
+      "seq_id": "seq_15",
+      "text": "Hạt Muối nói."
+    },
+    {
+      "sent_id": "id_40",
+      "smil_sid": "sid_40",
+      "p_id": "c5_p16",
+      "seq_id": "seq_16",
+      "text": "- Không thể để một cô gái ngoan như cháu bơ vơ giữa Paris này – Bà Hầu tước nói thêm."
+    },
+    {
+      "sent_id": "id_41",
+      "smil_sid": "sid_41",
+      "p_id": "c5_p17",
+      "seq_id": "seq_17",
+      "text": "- Cháu không ở Paris đâu."
+    },
+    {
+      "sent_id": "id_42",
+      "smil_sid": "sid_42",
+      "p_id": "c5_p17",
+      "seq_id": "seq_17",
+      "text": "Cháu phải đi ngay đến nhà bà con cháu!"
+    },
+    {
+      "sent_id": "id_43",
+      "smil_sid": "sid_43",
+      "p_id": "c5_p18",
+      "seq_id": "seq_18",
+      "text": "- Cháu có bà con?"
+    },
+    {
+      "sent_id": "id_44",
+      "smil_sid": "sid_44",
+      "p_id": "c5_p18",
+      "seq_id": "seq_18",
+      "text": "Hạt Muối ngắt lời, trong lúc nhìn những người khách với dáng điệu như muốn nói những người bà con ấy cũng chẳng đáng giá bao nhiêu – Bà con cháu ở đâu?"
+    },
+    {
+      "sent_id": "id_45",
+      "smil_sid": "sid_45",
+      "p_id": "c5_p19",
+      "seq_id": "seq_19",
+      "text": "- Ở quá Amiêng."
+    },
+    {
+      "sent_id": "id_46",
+      "smil_sid": "sid_46",
+      "p_id": "c5_p20",
+      "seq_id": "seq_20",
+      "text": "- Cháu đi Amiêng bằng cách nào?"
+    },
+    {
+      "sent_id": "id_47",
+      "smil_sid": "sid_47",
+      "p_id": "c5_p20",
+      "seq_id": "seq_20",
+      "text": "Cháu còn tiền không?"
+    },
+    {
+      "sent_id": "id_48",
+      "smil_sid": "sid_48",
+      "p_id": "c5_p21",
+      "seq_id": "seq_21",
+      "text": "- Cháu không có đủ tiền để đi tàu hỏa, vì vậy cháu sẽ đi bộ."
+    },
+    {
+      "sent_id": "id_49",
+      "smil_sid": "sid_49",
+      "p_id": "c5_p22",
+      "seq_id": "seq_22",
+      "text": "- Cháu biết đường chứ?"
+    },
+    {
+      "sent_id": "id_50",
+      "smil_sid": "sid_50",
+      "p_id": "c5_p23",
+      "seq_id": "seq_23",
+      "text": "- Cháu có một bản đồ trong túi."
+    },
+    {
+      "sent_id": "id_51",
+      "smil_sid": "sid_51",
+      "p_id": "c5_p24",
+      "seq_id": "seq_24",
+      "text": "- Bản đồ có chỉ cho cháu con đường giữa Paris để đến Amiêng không?"
+    },
+    {
+      "sent_id": "id_52",
+      "smil_sid": "sid_52",
+      "p_id": "c5_p25",
+      "seq_id": "seq_25",
+      "text": "- Không, nhưng nếu bác chỉ cho cháu."
+    },
+    {
+      "sent_id": "id_53",
+      "smil_sid": "sid_53",
+      "p_id": "c5_p26",
+      "seq_id": "seq_26",
+      "text": "Ai cũng nhiệt tình muốn chỉ cho cô bé đường đi Amiêng."
+    },
+    {
+      "sent_id": "id_54",
+      "smil_sid": "sid_54",
+      "p_id": "c5_p26",
+      "seq_id": "seq_26",
+      "text": "Có những ý kiến trái ngược làm cô bé lẫn lộn."
+    },
+    {
+      "sent_id": "id_55",
+      "smil_sid": "sid_55",
+      "p_id": "c5_p26",
+      "seq_id": "seq_26",
+      "text": "Hạt Muối ngăn lại:"
+    },
+    {
+      "sent_id": "id_56",
+      "smil_sid": "sid_56",
+      "p_id": "c5_p27",
+      "seq_id": "seq_27",
+      "text": "- Cháu muốn lạc đường thì cứ nghe các ông, các bà ấy."
+    },
+    {
+      "sent_id": "id_57",
+      "smil_sid": "sid_57",
+      "p_id": "c5_p27",
+      "seq_id": "seq_27",
+      "text": "Này, hãy mua chiếc vé sau xu, đón chuyến tàu hỏa vòng quanh thành phố đến Nhà Thờ phía Bắc."
+    },
+    {
+      "sent_id": "id_58",
+      "smil_sid": "sid_58",
+      "p_id": "c5_p27",
+      "seq_id": "seq_27",
+      "text": "Đến đó, cháu sẽ tìm thấy đường đi Amiêng."
+    },
+    {
+      "sent_id": "id_59",
+      "smil_sid": "sid_59",
+      "p_id": "c5_p27",
+      "seq_id": "seq_27",
+      "text": "Cháu chỉ việc đi thẳng một mạch."
+    },
+    {
+      "sent_id": "id_60",
+      "smil_sid": "sid_60",
+      "p_id": "c5_p27",
+      "seq_id": "seq_27",
+      "text": "Khi nào cháu đi!"
+    },
+    {
+      "sent_id": "id_61",
+      "smil_sid": "sid_61",
+      "p_id": "c5_p28",
+      "seq_id": "seq_28",
+      "text": "- Ngay bây giờ!"
+    },
+    {
+      "sent_id": "id_62",
+      "smil_sid": "sid_62",
+      "p_id": "c5_p28",
+      "seq_id": "seq_28",
+      "text": "Cháu đã hứa với mẹ cháu đi ngay mà!"
+    },
+    {
+      "sent_id": "id_63",
+      "smil_sid": "sid_63",
+      "p_id": "c5_p29",
+      "seq_id": "seq_29",
+      "text": "- Cháu phải vâng lời mẹ cháu, - Bà Hầu tước nói – Hãy đi đi!"
+    },
+    {
+      "sent_id": "id_64",
+      "smil_sid": "sid_64",
+      "p_id": "c5_p29",
+      "seq_id": "seq_29",
+      "text": "Nhưng để cho bác hôn cháu đã!"
+    },
+    {
+      "sent_id": "id_65",
+      "smil_sid": "sid_65",
+      "p_id": "c5_p29",
+      "seq_id": "seq_29",
+      "text": "Cháu là một cô gái dũng cảm!"
+    },
+    {
+      "sent_id": "id_66",
+      "smil_sid": "sid_66",
+      "p_id": "c5_p30",
+      "seq_id": "seq_30",
+      "text": "Những người đàn ông bắt tay."
+    },
+    {
+      "sent_id": "id_67",
+      "smil_sid": "sid_67",
+      "p_id": "c5_p30",
+      "seq_id": "seq_30",
+      "text": "Em bé Perin chỉ còn việc ra khỏi nghĩa địa."
+    },
+    {
+      "sent_id": "id_68",
+      "smil_sid": "sid_68",
+      "p_id": "c5_p30",
+      "seq_id": "seq_30",
+      "text": "Thế nhưng em do dự và định quay trở lại chỗ ngôi mộ mẹ."
+    },
+    {
+      "sent_id": "id_69",
+      "smil_sid": "sid_69",
+      "p_id": "c5_p30",
+      "seq_id": "seq_30",
+      "text": "Vừa lúc ấy, bà Hầu tước đoán được ý nghĩ của em, can thiệp:"
+    },
+    {
+      "sent_id": "id_70",
+      "smil_sid": "sid_70",
+      "p_id": "c5_p31",
+      "seq_id": "seq_31",
+      "text": "- Sao vậy?"
+    },
+    {
+      "sent_id": "id_71",
+      "smil_sid": "sid_71",
+      "p_id": "c5_p31",
+      "seq_id": "seq_31",
+      "text": "Cháu phải đi Amiêng?"
+    },
+    {
+      "sent_id": "id_72",
+      "smil_sid": "sid_72",
+      "p_id": "c5_p31",
+      "seq_id": "seq_31",
+      "text": "Thế thì đi ngay đi!"
+    },
+    {
+      "sent_id": "id_73",
+      "smil_sid": "sid_73",
+      "p_id": "c5_p31",
+      "seq_id": "seq_31",
+      "text": "Như thế tốt hơn!"
+    },
+    {
+      "sent_id": "id_74",
+      "smil_sid": "sid_74",
+      "p_id": "c5_p32",
+      "seq_id": "seq_32",
+      "text": "- Ừ, cháu đi đi!"
+    },
+    {
+      "sent_id": "id_75",
+      "smil_sid": "sid_75",
+      "p_id": "c5_p32",
+      "seq_id": "seq_32",
+      "text": "Hạt Muối tiếp lời."
+    },
+    {
+      "sent_id": "id_76",
+      "smil_sid": "sid_76",
+      "p_id": "c5_p33",
+      "seq_id": "seq_33",
+      "text": "Perin đưa bàn tay, gởi cả tấm lòng biết ơn, cúi đầu chào từ biệt."
+    },
+    {
+      "sent_id": "id_77",
+      "smil_sid": "sid_77",
+      "p_id": "c5_p33",
+      "seq_id": "seq_33",
+      "text": "Em rời khỏi nơi đó, bước vội vàng, lưng rướn ra phía trước, như là đang chạy trốn!"
+    },
+    {
+      "sent_id": "id_78",
+      "smil_sid": "sid_78",
+      "p_id": "c5_p34",
+      "seq_id": "seq_34",
+      "text": "- Tội nghiệp con bé!"
+    },
+    {
+      "sent_id": "id_79",
+      "smil_sid": "sid_79",
+      "p_id": "c5_p35",
+      "seq_id": "seq_35",
+      "text": "Khi Perin lên ngồi trên chiếc xe lửa đi quanh phố em lục trong túi áo, lấy chiếc bản đồ cũ kỹ quả nước Pháp."
+    },
+    {
+      "sent_id": "id_80",
+      "smil_sid": "sid_80",
+      "p_id": "c5_p35",
+      "seq_id": "seq_35",
+      "text": "Từ dạo rời nước Ý, em đã sử dụng cái bản đồ này."
+    },
+    {
+      "sent_id": "id_81",
+      "smil_sid": "sid_81",
+      "p_id": "c5_p35",
+      "seq_id": "seq_35",
+      "text": "Đường đi từ Paris đến Amiêng rất dễ."
+    },
+    {
+      "sent_id": "id_82",
+      "smil_sid": "sid_82",
+      "p_id": "c5_p35",
+      "seq_id": "seq_35",
+      "text": "Chỉ cần theo đường Cale ngày xưa, những xe thư thường đi theo con đường ấy, nên có một gạch đen nhỏ trên bản đồ."
+    },
+    {
+      "sent_id": "id_83",
+      "smil_sid": "sid_83",
+      "p_id": "c5_p35",
+      "seq_id": "seq_35",
+      "text": "Đến Amiêng thì đi đường Bulônhơ."
+    },
+    {
+      "sent_id": "id_84",
+      "smil_sid": "sid_84",
+      "p_id": "c5_p35",
+      "seq_id": "seq_35",
+      "text": "Em tính khoảng cách từ đó đến Marôcua phải ngót một trăm năm chục cây số."
+    },
+    {
+      "sent_id": "id_85",
+      "smil_sid": "sid_85",
+      "p_id": "c5_p35",
+      "seq_id": "seq_35",
+      "text": "Nếu mỗi ngày đi ba chục cây số thì phải sáu ngày mới đến nơi!"
+    },
+    {
+      "sent_id": "id_86",
+      "smil_sid": "sid_86",
+      "p_id": "c5_p35",
+      "seq_id": "seq_35",
+      "text": "Nhưng làm thế nào để đi ba chục cây số một ngày, rồi ngày mai lại đi tiếp ba chục cây số nữa?"
+    },
+    {
+      "sent_id": "id_87",
+      "smil_sid": "sid_87",
+      "p_id": "c5_p36",
+      "seq_id": "seq_36",
+      "text": "Perin đã quen đi bộ bên cạnh Palica hết dặm này đến dặm nọ."
+    },
+    {
+      "sent_id": "id_88",
+      "smil_sid": "sid_88",
+      "p_id": "c5_p36",
+      "seq_id": "seq_36",
+      "text": "Em thấu hiểu đi bên cạnh con lừa khác với việc đi ba chục cây số một mình, hết ngày này qua ngày khác!"
+    },
+    {
+      "sent_id": "id_89",
+      "smil_sid": "sid_89",
+      "p_id": "c5_p36",
+      "seq_id": "seq_36",
+      "text": "Đôi chân sẽ bị tê liệt, đầu gối cứng đờ."
+    },
+    {
+      "sent_id": "id_90",
+      "smil_sid": "sid_90",
+      "p_id": "c5_p36",
+      "seq_id": "seq_36",
+      "text": "Với lại thời tiết sẽ như thế nào trong sáu ngày ấy?"
+    },
+    {
+      "sent_id": "id_91",
+      "smil_sid": "sid_91",
+      "p_id": "c5_p36",
+      "seq_id": "seq_36",
+      "text": "Trời quang, mây tạnh luôn không?"
+    },
+    {
+      "sent_id": "id_92",
+      "smil_sid": "sid_92",
+      "p_id": "c5_p36",
+      "seq_id": "seq_36",
+      "text": "Trời nắng, em có thể đi dầu nắng mấy cũng được."
+    },
+    {
+      "sent_id": "id_93",
+      "smil_sid": "sid_93",
+      "p_id": "c5_p36",
+      "seq_id": "seq_36",
+      "text": "Nhưng nếu trời mưa?"
+    },
+    {
+      "sent_id": "id_94",
+      "smil_sid": "sid_94",
+      "p_id": "c5_p36",
+      "seq_id": "seq_36",
+      "text": "Em sẽ làm thế nào vì chỉ có một bộ áo quần rách như xơ mướp để che thân."
+    },
+    {
+      "sent_id": "id_95",
+      "smil_sid": "sid_95",
+      "p_id": "c5_p36",
+      "seq_id": "seq_36",
+      "text": "Em có thể nằm ngủ dưới một gốc cây trong đêm hè đẹp trời."
+    },
+    {
+      "sent_id": "id_96",
+      "smil_sid": "sid_96",
+      "p_id": "c5_p36",
+      "seq_id": "seq_36",
+      "text": "Tán lá che được sương sa, nhưng khi mưa thì những hạt mưa qua kẽ lá, to hơn hạt mưa ở giữa trời!"
+    },
+    {
+      "sent_id": "id_97",
+      "smil_sid": "sid_97",
+      "p_id": "c5_p37",
+      "seq_id": "seq_37",
+      "text": "Ướt thì em vẫn thường bị ướt."
+    },
+    {
+      "sent_id": "id_98",
+      "smil_sid": "sid_98",
+      "p_id": "c5_p37",
+      "seq_id": "seq_37",
+      "text": "Đến cả một cơn mưa rào, Perin cũng không sợ!"
+    },
+    {
+      "sent_id": "id_99",
+      "smil_sid": "sid_99",
+      "p_id": "c5_p37",
+      "seq_id": "seq_37",
+      "text": "Nhưng làm thế nào để có thể chịu ướt trong sáu ngày, từ sáng đến chiều, và từ chiều đến sáng?"
+    },
+    {
+      "sent_id": "id_100",
+      "smil_sid": "sid_100",
+      "p_id": "c5_p38",
+      "seq_id": "seq_38",
+      "text": "Khi Perin trả lời với Hạt Muối không có đủ tiền để đi tàu lửa, em muốn nói có đủ tiền để đi bộ, nếu không quá dài ngày."
+    },
+    {
+      "sent_id": "id_101",
+      "smil_sid": "sid_101",
+      "p_id": "c5_p39",
+      "seq_id": "seq_39",
+      "text": "Thật ra, Perin có năm phờrăng ba mươi lăm."
+    },
+    {
+      "sent_id": "id_102",
+      "smil_sid": "sid_102",
+      "p_id": "c5_p39",
+      "seq_id": "seq_39",
+      "text": "Khi rời khỏi bãi Guylô."
+    },
+    {
+      "sent_id": "id_103",
+      "smil_sid": "sid_103",
+      "p_id": "c5_p39",
+      "seq_id": "seq_39",
+      "text": "Em vừa trả mất sáu xu vé tàu."
+    },
+    {
+      "sent_id": "id_104",
+      "smil_sid": "sid_104",
+      "p_id": "c5_p39",
+      "seq_id": "seq_39",
+      "text": "Bây giờ em còn năm phờrăng và một xu nằm trong túi cái váy em đang mặc."
+    },
+    {
+      "sent_id": "id_105",
+      "smil_sid": "sid_105",
+      "p_id": "c5_p39",
+      "seq_id": "seq_39",
+      "text": "Mỗi lần Perin cử động mạnh, em nghe tiếng tiền kêu!"
+    },
+    {
+      "sent_id": "id_106",
+      "smil_sid": "sid_106",
+      "p_id": "c5_p39",
+      "seq_id": "seq_39",
+      "text": "Phải làm sao cho số tiền này đừng hết!"
+    },
+    {
+      "sent_id": "id_107",
+      "smil_sid": "sid_107",
+      "p_id": "c5_p39",
+      "seq_id": "seq_39",
+      "text": "Nó phải giúp em đi đến nơi."
+    },
+    {
+      "sent_id": "id_108",
+      "smil_sid": "sid_108",
+      "p_id": "c5_p39",
+      "seq_id": "seq_39",
+      "text": "Hơn thế nữa, nó còn phải giúp em sống vài ngày ở Marôcua."
+    },
+    {
+      "sent_id": "id_109",
+      "smil_sid": "sid_109",
+      "p_id": "c5_p39",
+      "seq_id": "seq_39",
+      "text": "Có thể được như thế không nhỉ?"
+    },
+    {
+      "sent_id": "id_110",
+      "smil_sid": "sid_110",
+      "p_id": "c5_p40",
+      "seq_id": "seq_40",
+      "text": "Perin không giải đáp được câu hỏi liên quan."
+    },
+    {
+      "sent_id": "id_111",
+      "smil_sid": "sid_111",
+      "p_id": "c5_p40",
+      "seq_id": "seq_40",
+      "text": "Khi nghe báo: “Ga Nhà Thờ” em xuống tàu, tìm ngay con đường đi Xanh Đơni."
+    },
+    {
+      "sent_id": "id_112",
+      "smil_sid": "sid_112",
+      "p_id": "c5_p41",
+      "seq_id": "seq_41",
+      "text": "Bây giờ, chỉ còn việc đi thẳng về phía trước."
+    },
+    {
+      "sent_id": "id_113",
+      "smil_sid": "sid_113",
+      "p_id": "c5_p41",
+      "seq_id": "seq_41",
+      "text": "Còn hai, ba giờ nữa mặt trời mới lặn."
+    },
+    {
+      "sent_id": "id_114",
+      "smil_sid": "sid_114",
+      "p_id": "c5_p41",
+      "seq_id": "seq_41",
+      "text": "Em hy vọng đến lúc ấy, đã đi khá xa Paris để có thể nằm ngủ giữa cánh đồng."
+    },
+    {
+      "sent_id": "id_115",
+      "smil_sid": "sid_115",
+      "p_id": "c5_p41",
+      "seq_id": "seq_41",
+      "text": "Chuyện ấy đối với em càng tốt."
+    },
+    {
+      "sent_id": "id_116",
+      "smil_sid": "sid_116",
+      "p_id": "c5_p42",
+      "seq_id": "seq_42",
+      "text": "Thế nhưng, trái với sự chờ đợi của Perin, liên tục nhà máy này nối tiếp xưởng máy nọ."
+    },
+    {
+      "sent_id": "id_117",
+      "smil_sid": "sid_117",
+      "p_id": "c5_p42",
+      "seq_id": "seq_42",
+      "text": "Xa xa, trong cánh đồng, em đã nhìn thấy những mái nhà và những ống khói cao đang nhả những luồng khói đen thui như trong cơn lốc."
+    },
+    {
+      "sent_id": "id_118",
+      "smil_sid": "sid_118",
+      "p_id": "c5_p42",
+      "seq_id": "seq_42",
+      "text": "Từ các nhà máy, nhà xe, xưởng máy, tỏa ra những tiếng ồn ào dữ dội. có những luồng hơi nước thoát ra…"
+    },
+    {
+      "sent_id": "id_119",
+      "smil_sid": "sid_119",
+      "p_id": "c5_p42",
+      "seq_id": "seq_42",
+      "text": "Trong lúc ấy, cũng trên con đường này, trong đám mây bụi dày đặc, màu vàng hoe, những chiếc xe vận tải, xe bò, tàu điện nối đuôi nha hay đi ngược chiều thành hàng dài."
+    },
+    {
+      "sent_id": "id_120",
+      "smil_sid": "sid_120",
+      "p_id": "c5_p42",
+      "seq_id": "seq_42",
+      "text": "Trên những chiếc xe bò ấy có những tấm bạt với dòng chữ “Xưởng Marôcua, Vunphran Panhđavoan” đã từng đập vào mắt em lúc ở Bécxy."
+    },
+    {
+      "sent_id": "id_121",
+      "smil_sid": "sid_121",
+      "p_id": "c5_p42",
+      "seq_id": "seq_42",
+      "text": "Paris không bao giờ hết ư?"
+    },
+    {
+      "sent_id": "id_122",
+      "smil_sid": "sid_122",
+      "p_id": "c5_p42",
+      "seq_id": "seq_42",
+      "text": "Mình không ra khỏi đây chăng?"
+    },
+    {
+      "sent_id": "id_123",
+      "smil_sid": "sid_123",
+      "p_id": "c5_p42",
+      "seq_id": "seq_42",
+      "text": "Perin không sợ im lặng của ban đêm, những bí mật của bóng tối mà sợ Paris, những dãy nhà, đoàn người, ánh sáng của Paris."
+    },
+    {
+      "sent_id": "id_124",
+      "smil_sid": "sid_124",
+      "p_id": "c5_p43",
+      "seq_id": "seq_43",
+      "text": "Một tấm biển xanh dính vào góc một ngôi nhà, cho Perin hay đã vào Xanh Đơni."
+    },
+    {
+      "sent_id": "id_125",
+      "smil_sid": "sid_125",
+      "p_id": "c5_p43",
+      "seq_id": "seq_43",
+      "text": "Điều ấy làm cho em tin tưởng."
+    },
+    {
+      "sent_id": "id_126",
+      "smil_sid": "sid_126",
+      "p_id": "c5_p43",
+      "seq_id": "seq_43",
+      "text": "Sau Xanh Đơni, ắt là đến vùng thôn quê."
+    },
+    {
+      "sent_id": "id_127",
+      "smil_sid": "sid_127",
+      "p_id": "c5_p43",
+      "seq_id": "seq_43",
+      "text": "Tuy Perin không đói nhưng em nghĩ nên mua một miếng bánh để ăn trước khi ngủ nên vào một hiệu bánh."
+    },
+    {
+      "sent_id": "id_128",
+      "smil_sid": "sid_128",
+      "p_id": "c5_p44",
+      "seq_id": "seq_44",
+      "text": "- Bà làm ơn bán cho cháu nửa ký bánh."
+    },
+    {
+      "sent_id": "id_129",
+      "smil_sid": "sid_129",
+      "p_id": "c5_p45",
+      "seq_id": "seq_45",
+      "text": "- Có tiền không?"
+    },
+    {
+      "sent_id": "id_130",
+      "smil_sid": "sid_130",
+      "p_id": "c5_p45",
+      "seq_id": "seq_45",
+      "text": "Mụ bán bánh hỏi vì không tin em bé ăn mặc rách rưới này."
+    },
+    {
+      "sent_id": "id_131",
+      "smil_sid": "sid_131",
+      "p_id": "c5_p46",
+      "seq_id": "seq_46",
+      "text": "Mụ đang ngồi sau quầy hàng."
+    },
+    {
+      "sent_id": "id_132",
+      "smil_sid": "sid_132",
+      "p_id": "c5_p46",
+      "seq_id": "seq_46",
+      "text": "Perin để đồng năm phờrăng lên quầy."
+    },
+    {
+      "sent_id": "id_133",
+      "smil_sid": "sid_133",
+      "p_id": "c5_p47",
+      "seq_id": "seq_47",
+      "text": "- Đây là đồng năm phờrăng."
+    },
+    {
+      "sent_id": "id_134",
+      "smil_sid": "sid_134",
+      "p_id": "c5_p47",
+      "seq_id": "seq_47",
+      "text": "Xin bà trả lại tiền lẻ cho cháu!"
+    },
+    {
+      "sent_id": "id_135",
+      "smil_sid": "sid_135",
+      "p_id": "c5_p48",
+      "seq_id": "seq_48",
+      "text": "Trước khi cắt bánh, mụ ta cầm đồng năm phờrăng, quan sát kỹ."
+    },
+    {
+      "sent_id": "id_136",
+      "smil_sid": "sid_136",
+      "p_id": "c5_p49",
+      "seq_id": "seq_49",
+      "text": "- Cái gì thế này?"
+    },
+    {
+      "sent_id": "id_137",
+      "smil_sid": "sid_137",
+      "p_id": "c5_p49",
+      "seq_id": "seq_49",
+      "text": "Mụ ta hỏi trong lúc dằn đồng bạc trên mặt đá của quầy hàng."
+    },
+    {
+      "sent_id": "id_138",
+      "smil_sid": "sid_138",
+      "p_id": "c5_p50",
+      "seq_id": "seq_50",
+      "text": "- Bà thấy rõ rồi chứ?"
+    },
+    {
+      "sent_id": "id_139",
+      "smil_sid": "sid_139",
+      "p_id": "c5_p50",
+      "seq_id": "seq_50",
+      "text": "Đó là đồng năm phờrăng."
+    },
+    {
+      "sent_id": "id_140",
+      "smil_sid": "sid_140",
+      "p_id": "c5_p51",
+      "seq_id": "seq_51",
+      "text": "- Đứa nào xui mày để mày dám đem đồng năm phờrăng này đưa cho bà?"
+    },
+    {
+      "sent_id": "id_141",
+      "smil_sid": "sid_141",
+      "p_id": "c5_p52",
+      "seq_id": "seq_52",
+      "text": "- Không ai cả!"
+    },
+    {
+      "sent_id": "id_142",
+      "smil_sid": "sid_142",
+      "p_id": "c5_p52",
+      "seq_id": "seq_52",
+      "text": "Cháu nói lại, bà bán cho cháu nửa ký bánh để ăn tối."
+    },
+    {
+      "sent_id": "id_143",
+      "smil_sid": "sid_143",
+      "p_id": "c5_p53",
+      "seq_id": "seq_53",
+      "text": "- Thế thì mày không có bánh đâu?"
+    },
+    {
+      "sent_id": "id_144",
+      "smil_sid": "sid_144",
+      "p_id": "c5_p53",
+      "seq_id": "seq_53",
+      "text": "Xéo nhanh lên, nếu mày không muốn bà báo cho cảnh sát bắt mày!"
+    },
+    {
+      "sent_id": "id_145",
+      "smil_sid": "sid_145",
+      "p_id": "c5_p54",
+      "seq_id": "seq_54",
+      "text": "Perin không phải là đối thủ của mụ ta."
+    },
+    {
+      "sent_id": "id_146",
+      "smil_sid": "sid_146",
+      "p_id": "c5_p54",
+      "seq_id": "seq_54",
+      "text": "Em ấp úng:"
+    },
+    {
+      "sent_id": "id_147",
+      "smil_sid": "sid_147",
+      "p_id": "c5_p55",
+      "seq_id": "seq_55",
+      "text": "- Tại sao lại báo cho họ bắt cháu?"
+    },
+    {
+      "sent_id": "id_148",
+      "smil_sid": "sid_148",
+      "p_id": "c5_p56",
+      "seq_id": "seq_56",
+      "text": "- Bởi vì mày là một con ăn cắp!"
+    },
+    {
+      "sent_id": "id_149",
+      "smil_sid": "sid_149",
+      "p_id": "c5_p57",
+      "seq_id": "seq_57",
+      "text": "- Ối, bà ơi!"
+    },
+    {
+      "sent_id": "id_150",
+      "smil_sid": "sid_150",
+      "p_id": "c5_p58",
+      "seq_id": "seq_58",
+      "text": "-…"
+    },
+    {
+      "sent_id": "id_151",
+      "smil_sid": "sid_151",
+      "p_id": "c5_p58",
+      "seq_id": "seq_58",
+      "text": "Mày muốn đưa cho bà một đồng bạc giả."
+    },
+    {
+      "sent_id": "id_152",
+      "smil_sid": "sid_152",
+      "p_id": "c5_p58",
+      "seq_id": "seq_58",
+      "text": "Có trốn đi không, đồ ăn cắp, đồ du đãng!"
+    },
+    {
+      "sent_id": "id_153",
+      "smil_sid": "sid_153",
+      "p_id": "c5_p58",
+      "seq_id": "seq_58",
+      "text": "Cứ đợi đấy một lát, bà sẽ đi gọi một ông cảnh sát đến cho mà xem!"
+    },
+    {
+      "sent_id": "id_154",
+      "smil_sid": "sid_154",
+      "p_id": "c5_p59",
+      "seq_id": "seq_59",
+      "text": "Perin biết mình không phải là con ăn cắp nhưng em không biết đồng năm phờrăng này thật hay giả!"
+    },
+    {
+      "sent_id": "id_155",
+      "smil_sid": "sid_155",
+      "p_id": "c5_p59",
+      "seq_id": "seq_59",
+      "text": "Còn du đãng thì đúng quá bởi vì em chẳng có chổ ở cũng chẳng có bố mẹ, bà con!"
+    },
+    {
+      "sent_id": "id_156",
+      "smil_sid": "sid_156",
+      "p_id": "c5_p59",
+      "seq_id": "seq_59",
+      "text": "Nếu cảnh sát hỏi, Perin sẽ trả lời thế nào đây?"
+    },
+    {
+      "sent_id": "id_157",
+      "smil_sid": "sid_157",
+      "p_id": "c5_p59",
+      "seq_id": "seq_59",
+      "text": "Rồi họ sẽ làm gì em?"
+    },
+    {
+      "sent_id": "id_158",
+      "smil_sid": "sid_158",
+      "p_id": "c5_p59",
+      "seq_id": "seq_59",
+      "text": "Nhanh như tia chớp, những câu hỏi ấy hiện lên trong trí óc em."
+    },
+    {
+      "sent_id": "id_159",
+      "smil_sid": "sid_159",
+      "p_id": "c5_p59",
+      "seq_id": "seq_59",
+      "text": "Tuy nhiên, trong hoàn cảnh nguy nan Perin vẫn nghĩ đến đồng năm phờrăng trước khi nghĩ đến việc bị bắt."
+    },
+    {
+      "sent_id": "id_160",
+      "smil_sid": "sid_160",
+      "p_id": "c5_p60",
+      "seq_id": "seq_60",
+      "text": "- Nếu bà không muốn bán cho cháu thì ít nhất bà cũng trả lại đồng năm phờrăng cho cháu, Perin vừa nói vừa đưa bàn tay."
+    },
+    {
+      "sent_id": "id_161",
+      "smil_sid": "sid_161",
+      "p_id": "c5_p61",
+      "seq_id": "seq_61",
+      "text": "- Để mày đi chổ khác, đưa đồng năm phờrăng này hả?"
+    },
+    {
+      "sent_id": "id_162",
+      "smil_sid": "sid_162",
+      "p_id": "c5_p61",
+      "seq_id": "seq_61",
+      "text": "Bà giữ đồng năm phờrăng của mày."
+    },
+    {
+      "sent_id": "id_163",
+      "smil_sid": "sid_163",
+      "p_id": "c5_p61",
+      "seq_id": "seq_61",
+      "text": "Nếu mày muốn lấy lại, thì mày đi tìm một ông cảnh sát đến đây!"
+    },
+    {
+      "sent_id": "id_164",
+      "smil_sid": "sid_164",
+      "p_id": "c5_p61",
+      "seq_id": "seq_61",
+      "text": "Chúng tao sẽ cùng kiểm tra."
+    },
+    {
+      "sent_id": "id_165",
+      "smil_sid": "sid_165",
+      "p_id": "c5_p61",
+      "seq_id": "seq_61",
+      "text": "Trong khi chờ đợi, hãy cút đi, đồ ăn cắp!"
+    },
+    {
+      "sent_id": "id_166",
+      "smil_sid": "sid_166",
+      "p_id": "c5_p62",
+      "seq_id": "seq_62",
+      "text": "Tiếng la hét của mụ bán bánh làm cho ba, bốn khách bộ hành dừng lại, tò mò, trao đổi với nhau:"
+    },
+    {
+      "sent_id": "id_167",
+      "smil_sid": "sid_167",
+      "p_id": "c5_p63",
+      "seq_id": "seq_63",
+      "text": "- Có chuyện gì thế"
+    },
+    {
+      "sent_id": "id_168",
+      "smil_sid": "sid_168",
+      "p_id": "c5_p64",
+      "seq_id": "seq_64",
+      "text": "- Cái con này muốn ăn cắp!"
+    },
+    {
+      "sent_id": "id_169",
+      "smil_sid": "sid_169",
+      "p_id": "c5_p65",
+      "seq_id": "seq_65",
+      "text": "- Khi người ta cần thì chẳng thấy bóng dáng cảnh sát."
+    },
+    {
+      "sent_id": "id_170",
+      "smil_sid": "sid_170",
+      "p_id": "c5_p66",
+      "seq_id": "seq_66",
+      "text": "Hoảng hốt, Perin tự hỏi em có đi được không?"
+    },
+    {
+      "sent_id": "id_171",
+      "smil_sid": "sid_171",
+      "p_id": "c5_p66",
+      "seq_id": "seq_66",
+      "text": "Thế nhưng người ta cũng cho em đi."
+    },
+    {
+      "sent_id": "id_172",
+      "smil_sid": "sid_172",
+      "p_id": "c5_p66",
+      "seq_id": "seq_66",
+      "text": "Những lời chửi rủa, la ó đuổi theo em."
+    },
+    {
+      "sent_id": "id_173",
+      "smil_sid": "sid_173",
+      "p_id": "c5_p66",
+      "seq_id": "seq_66",
+      "text": "Em không dám chạy trốn, cũng không dám quay lại nhìn xem người ta có đuổi theo không?"
+    },
+    {
+      "sent_id": "id_174",
+      "smil_sid": "sid_174",
+      "p_id": "c5_p66",
+      "seq_id": "seq_66",
+      "text": "Sau vài phút đối với em như là vô tận, Perin đến cánh đồng, thở phào nhẹ nhõm vì đã vượt qua tất cả!"
+    },
+    {
+      "sent_id": "id_175",
+      "smil_sid": "sid_175",
+      "p_id": "c5_p66",
+      "seq_id": "seq_66",
+      "text": "Mình không bị bắt!"
+    },
+    {
+      "sent_id": "id_176",
+      "smil_sid": "sid_176",
+      "p_id": "c5_p66",
+      "seq_id": "seq_66",
+      "text": "Không còn nghe lời mắng chửi! thật ra, Perin có thể nói: không có cơm ăn, không có tiền, nhưng đó là chuyện tương lai!"
+    },
+    {
+      "sent_id": "id_177",
+      "smil_sid": "sid_177",
+      "p_id": "c5_p66",
+      "seq_id": "seq_66",
+      "text": "Với những người suýt chết đuối, khi choài được lên mặt nước, ý nghĩ đầu tiên của họ không phải là để tự hỏi tối nay và trưa mai họ được ăn gì?"
+    },
+    {
+      "sent_id": "id_178",
+      "smil_sid": "sid_178",
+      "p_id": "c5_p67",
+      "seq_id": "seq_67",
+      "text": "Thế nhưng, sau khi được thấy mình thoát nạn, cái ý nghĩ về bữa ăn ám ảnh Perin dữ dội!"
+    },
+    {
+      "sent_id": "id_179",
+      "smil_sid": "sid_179",
+      "p_id": "c5_p67",
+      "seq_id": "seq_67",
+      "text": "Không phải em chỉ sợ cho chiều hôm nay mà còn ngày mai và những ngày tiếp theo."
+    },
+    {
+      "sent_id": "id_180",
+      "smil_sid": "sid_180",
+      "p_id": "c5_p67",
+      "seq_id": "seq_67",
+      "text": "Perin không còn quá ngây thơ để tưởng tượng nỗi buồn phiền sẽ nuôi em sống."
+    },
+    {
+      "sent_id": "id_181",
+      "smil_sid": "sid_181",
+      "p_id": "c5_p67",
+      "seq_id": "seq_67",
+      "text": "Em hiểu người ta không thể nhịn đói mà đi."
+    },
+    {
+      "sent_id": "id_182",
+      "smil_sid": "sid_182",
+      "p_id": "c5_p67",
+      "seq_id": "seq_67",
+      "text": "Khi tính toán về chuyến đi, em chỉ nghĩ đến nỗi mệt nhọc ở dọc đường, cái rét lúc đêm xuống và cái nóng giữa ban ngày."
+    },
+    {
+      "sent_id": "id_183",
+      "smil_sid": "sid_183",
+      "p_id": "c5_p67",
+      "seq_id": "seq_67",
+      "text": "Còn cái ăn đã có đồng năm phờrăng!"
+    },
+    {
+      "sent_id": "id_184",
+      "smil_sid": "sid_184",
+      "p_id": "c5_p67",
+      "seq_id": "seq_67",
+      "text": "Em chỉ còn một xu!"
+    },
+    {
+      "sent_id": "id_185",
+      "smil_sid": "sid_185",
+      "p_id": "c5_p67",
+      "seq_id": "seq_67",
+      "text": "Làm thế nào để mua được nữa ký bánh cần dùng hàng ngày!"
+    },
+    {
+      "sent_id": "id_186",
+      "smil_sid": "sid_186",
+      "p_id": "c5_p67",
+      "seq_id": "seq_67",
+      "text": "Em lấy gì để ăn?"
+    },
+    {
+      "sent_id": "id_187",
+      "smil_sid": "sid_187",
+      "p_id": "c5_p68",
+      "seq_id": "seq_68",
+      "text": "Tự nhiên, Perin đưa mắt nhìn quanh hai bên đường đi và trong đám ruộng."
+    },
+    {
+      "sent_id": "id_188",
+      "smil_sid": "sid_188",
+      "p_id": "c5_p68",
+      "seq_id": "seq_68",
+      "text": "Ánh nắng hoàng hôn trải trên đám lúa mì mới phơi màu."
+    },
+    {
+      "sent_id": "id_189",
+      "smil_sid": "sid_189",
+      "p_id": "c5_p68",
+      "seq_id": "seq_68",
+      "text": "Những cây củ cải đường xanh mơn mởn và những cây linh lăng thảo, xa tiền thảo thì chẳng ăn được!"
+    },
+    {
+      "sent_id": "id_190",
+      "smil_sid": "sid_190",
+      "p_id": "c5_p68",
+      "seq_id": "seq_68",
+      "text": "Với lại, nếu những đám ruộng ấy trồng dưa có quả chín, hay dâu sai quả thì cũng chẳng có ích gì?"
+    },
+    {
+      "sent_id": "id_191",
+      "smil_sid": "sid_191",
+      "p_id": "c5_p68",
+      "seq_id": "seq_68",
+      "text": "Em không thể đưa tay ra hái trộm dưa hay quả dâu!"
+    },
+    {
+      "sent_id": "id_192",
+      "smil_sid": "sid_192",
+      "p_id": "c5_p68",
+      "seq_id": "seq_68",
+      "text": "Em không thể là ăn cắp, ăn xin, du đãng."
+    },
+    {
+      "sent_id": "id_193",
+      "smil_sid": "sid_193",
+      "p_id": "c5_p68",
+      "seq_id": "seq_68",
+      "text": "Ôi, Perin muốn gặp một con bé cũng khổ sở như em để hỏi xem tụi du đãng lấy dì mà sống trên con đường dài, qua những xứ sở văn minh!"
+    },
+    {
+      "sent_id": "id_194",
+      "smil_sid": "sid_194",
+      "p_id": "c5_p68",
+      "seq_id": "seq_68",
+      "text": "Ở trên đời còn có ai khốn khổ, cực nhục hơn Perin?"
+    },
+    {
+      "sent_id": "id_195",
+      "smil_sid": "sid_195",
+      "p_id": "c5_p68",
+      "seq_id": "seq_68",
+      "text": "Cô đơn không cơm ăn, nhà ở, không có người nâng đỡ, rã rời, kiệt sức, nghẹt thở."
+    },
+    {
+      "sent_id": "id_196",
+      "smil_sid": "sid_196",
+      "p_id": "c5_p68",
+      "seq_id": "seq_68",
+      "text": "Toàn thân nóng ran như đang bị sốt vì buồn phiền."
+    },
+    {
+      "sent_id": "id_197",
+      "smil_sid": "sid_197",
+      "p_id": "c5_p69",
+      "seq_id": "seq_69",
+      "text": "Thế nhưng Perin vẫn phải đi, tuy chẳng hiểu khi đến nơi, người ta có mở cửa đón mình không?"
+    },
+    {
+      "sent_id": "id_198",
+      "smil_sid": "sid_198",
+      "p_id": "c5_p69",
+      "seq_id": "seq_69",
+      "text": "Làm thế nào mà đi đến nơi được nhỉ?"
+    },
+    {
+      "sent_id": "id_199",
+      "smil_sid": "sid_199",
+      "p_id": "c5_p70",
+      "seq_id": "seq_70",
+      "text": "Trong đời sống hàng ngày, tất cả chúng ta đều có những giờ phút dũng cảm hoặc thất vọng."
+    },
+    {
+      "sent_id": "id_200",
+      "smil_sid": "sid_200",
+      "p_id": "c5_p70",
+      "seq_id": "seq_70",
+      "text": "Những lúc ấy, cái gánh mà chúng ta phải mang tự nhiên nặng hay nhẹ hơn."
+    },
+    {
+      "sent_id": "id_201",
+      "smil_sid": "sid_201",
+      "p_id": "c5_p70",
+      "seq_id": "seq_70",
+      "text": "Với Perin, buổi chiều tối thường làm em buồn vô cớ."
+    },
+    {
+      "sent_id": "id_202",
+      "smil_sid": "sid_202",
+      "p_id": "c5_p70",
+      "seq_id": "seq_70",
+      "text": "Cái gánh càng nặng hơn khi bỏ thêm vào đó những nỗi đau khổ em vừa mới trải qua, mà trong lúc này, em đang phải gánh."
+    },
+    {
+      "sent_id": "id_203",
+      "smil_sid": "sid_203",
+      "p_id": "c5_p70",
+      "seq_id": "seq_70",
+      "text": "Chưa lúc nào Perin thấy lúng túng vì phải quyết định."
+    },
+    {
+      "sent_id": "id_204",
+      "smil_sid": "sid_204",
+      "p_id": "c5_p70",
+      "seq_id": "seq_70",
+      "text": "Như một ngọn nến bập bùng, có thể tắt ngấm trước gió, em nghiêng ngả bên này, bên kia như một người say không thể gượng nổi."
+    },
+    {
+      "sent_id": "id_205",
+      "smil_sid": "sid_205",
+      "p_id": "c5_p70",
+      "seq_id": "seq_70",
+      "text": "Buổi chiều, hè đẹp trời, không một gợn mây, một làn gió càng buồn với em."
+    },
+    {
+      "sent_id": "id_206",
+      "smil_sid": "sid_206",
+      "p_id": "c5_p70",
+      "seq_id": "seq_70",
+      "text": "Buổi chiều ấy dịu dàng, đối với những người khác, những bác nông dân đang ngồi trước cửa, hân hoan sau một ngày làm việc."
+    },
+    {
+      "sent_id": "id_207",
+      "smil_sid": "sid_207",
+      "p_id": "c5_p70",
+      "seq_id": "seq_70",
+      "text": "Buổi chiều ấy tươi vui, đối với những người lao động ngoài đồng ruộng."
+    },
+    {
+      "sent_id": "id_208",
+      "smil_sid": "sid_208",
+      "p_id": "c5_p70",
+      "seq_id": "seq_70",
+      "text": "Trở về, đang hít thở mùi xúp ngon lành của bữa cơm chiều."
+    },
+    {
+      "sent_id": "id_209",
+      "smil_sid": "sid_209",
+      "p_id": "c5_p70",
+      "seq_id": "seq_70",
+      "text": "Bầy ngựa cũng đang nhanh chân về chuồng để nghỉ ngơi trước máng cỏ đầy ắp."
+    },
+    {
+      "sent_id": "id_210",
+      "smil_sid": "sid_210",
+      "p_id": "c5_p71",
+      "seq_id": "seq_71",
+      "text": "Khi Perin ra khỏi làng thì em ở giữa hia con đường lớn đều đi đến Cale; một đường đi Êcuăng, một đường đi qua MoaDen, theo tấm biển chỉ đường em đi theo con đường Êcuăng, Perin vẫn muốn đi nữa, tuy bắp chân đã mõi nhừ và đôi chân đau buốt."
+    },
+    {
+      "sent_id": "id_211",
+      "smil_sid": "sid_211",
+      "p_id": "c5_p71",
+      "seq_id": "seq_71",
+      "text": "Buổi chiều tối mát mẻ, vắng lặng làm em cảm thấy yên tâm hơn buổi sáng."
+    },
+    {
+      "sent_id": "id_212",
+      "smil_sid": "sid_212",
+      "p_id": "c5_p71",
+      "seq_id": "seq_71",
+      "text": "Trên đường đi, chẳng ai thèm để ý đến em."
+    },
+    {
+      "sent_id": "id_213",
+      "smil_sid": "sid_213",
+      "p_id": "c5_p71",
+      "seq_id": "seq_71",
+      "text": "Nhưng nếu đi ngay bây giờ, em sẽ phải dừng lại, khi đã quá mệt."
+    },
+    {
+      "sent_id": "id_214",
+      "smil_sid": "sid_214",
+      "p_id": "c5_p71",
+      "seq_id": "seq_71",
+      "text": "Lúc ấy, không thể chọn được một chổ tốt trong đêm tối!"
+    },
+    {
+      "sent_id": "id_215",
+      "smil_sid": "sid_215",
+      "p_id": "c5_p71",
+      "seq_id": "seq_71",
+      "text": "Chắc chắn em đành phải nằm ngủ trên lề đường hay trong một đám ruộng gần đấy."
+    },
+    {
+      "sent_id": "id_216",
+      "smil_sid": "sid_216",
+      "p_id": "c5_p71",
+      "seq_id": "seq_71",
+      "text": "Như thế, thì không yên tâm được! trong hoàn cảnh này, cốt làm sao cho tấm thân trẻ dại được an toàn, mong gì sự thoải mái!"
+    },
+    {
+      "sent_id": "id_217",
+      "smil_sid": "sid_217",
+      "p_id": "c5_p71",
+      "seq_id": "seq_71",
+      "text": "Perin nghĩ nên lợi dụng lúc trời còn sáng, tìm một chỗ để trú ẩn và nằm ngủ để nghĩ ngơi."
+    },
+    {
+      "sent_id": "id_218",
+      "smil_sid": "sid_218",
+      "p_id": "c5_p72",
+      "seq_id": "seq_72",
+      "text": "Loài chim đi ngủ sớm."
+    },
+    {
+      "sent_id": "id_219",
+      "smil_sid": "sid_219",
+      "p_id": "c5_p72",
+      "seq_id": "seq_72",
+      "text": "Khi trời còn sáng hẳn là để chọn nơi trú ẩn tốt!"
+    },
+    {
+      "sent_id": "id_220",
+      "smil_sid": "sid_220",
+      "p_id": "c5_p72",
+      "seq_id": "seq_72",
+      "text": "Perin phải noi gương các con thú vật vì em đang sống như chúng."
+    },
+    {
+      "sent_id": "id_221",
+      "smil_sid": "sid_221",
+      "p_id": "c5_p73",
+      "seq_id": "seq_73",
+      "text": "…"
+    },
+    {
+      "sent_id": "id_222",
+      "smil_sid": "sid_222",
+      "p_id": "c5_p73",
+      "seq_id": "seq_73",
+      "text": "Đến lúc chỉ nhìn thấy cảnh vật lờ mờ, và chờ không có tiếng động trên đường, Perin lướt nhẹ, bò qua đám atisô đến túp lều."
+    },
+    {
+      "sent_id": "id_223",
+      "smil_sid": "sid_223",
+      "p_id": "c5_p73",
+      "seq_id": "seq_73",
+      "text": "Em không thể tưởng tượng nó được sắp xếp chu đáo đến thế!"
+    },
+    {
+      "sent_id": "id_224",
+      "smil_sid": "sid_224",
+      "p_id": "c5_p73",
+      "seq_id": "seq_73",
+      "text": "Có một lớp rơm dày phủ trên nền đất và một bó sậy làm gối."
+    },
+    {
+      "sent_id": "id_225",
+      "smil_sid": "sid_225",
+      "p_id": "c5_p74",
+      "seq_id": "seq_74",
+      "text": "Từ Xanh Đơni, Perin như con thú bị vây bắt."
+    },
+    {
+      "sent_id": "id_226",
+      "smil_sid": "sid_226",
+      "p_id": "c5_p74",
+      "seq_id": "seq_74",
+      "text": "Nhiều lần, em quay đầu xem cảnh sát có bám gót và bắt giữ để làm sáng tỏ câu chuyện đồng năm phờrăng của em?"
+    },
+    {
+      "sent_id": "id_227",
+      "smil_sid": "sid_227",
+      "p_id": "c5_p74",
+      "seq_id": "seq_74",
+      "text": "Trong túp lều, dây thần kinh của em được giãn ra."
+    },
+    {
+      "sent_id": "id_228",
+      "smil_sid": "sid_228",
+      "p_id": "c5_p74",
+      "seq_id": "seq_74",
+      "text": "Trên đầu Perin có một mái nhà, từ đó tỏa xuống sự êm dịu. một cảm giác yên tĩnh lẫn tin cậy nâng đỡ em."
+    },
+    {
+      "sent_id": "id_229",
+      "smil_sid": "sid_229",
+      "p_id": "c5_p74",
+      "seq_id": "seq_74",
+      "text": "Không phải em đã mất hết đâu!"
+    },
+    {
+      "sent_id": "id_230",
+      "smil_sid": "sid_230",
+      "p_id": "c5_p74",
+      "seq_id": "seq_74",
+      "text": "Chưa phải là tất cả đã chấm dứt!"
+    },
+    {
+      "sent_id": "id_231",
+      "smil_sid": "sid_231",
+      "p_id": "c5_p75",
+      "seq_id": "seq_75",
+      "text": "…"
+    },
+    {
+      "sent_id": "id_232",
+      "smil_sid": "sid_232",
+      "p_id": "c5_p75",
+      "seq_id": "seq_75",
+      "text": "Perin nhắm mắt lại."
+    },
+    {
+      "sent_id": "id_233",
+      "smil_sid": "sid_233",
+      "p_id": "c5_p75",
+      "seq_id": "seq_75",
+      "text": "Từ dạo cha em qua đời, mỗi khi ngủ, em liên tưởng hình ảnh người cha."
+    },
+    {
+      "sent_id": "id_234",
+      "smil_sid": "sid_234",
+      "p_id": "c5_p75",
+      "seq_id": "seq_75",
+      "text": "Tối nay, bên người cha, có hình ảnh người mẹ mà em vừa tiễn ra nghĩa địa trong cái ngày ghê sợ này!"
+    },
+    {
+      "sent_id": "id_235",
+      "smil_sid": "sid_235",
+      "p_id": "c5_p75",
+      "seq_id": "seq_75",
+      "text": "Perin thấy cha mẹ cúi xuống, hôn em như lúc cha mẹ còn sống."
+    },
+    {
+      "sent_id": "id_236",
+      "smil_sid": "sid_236",
+      "p_id": "c5_p75",
+      "seq_id": "seq_75",
+      "text": "Em nấc lên, rồi kiệt sức vì mệt mỏi, kiệt sức hơn nữa vì quá cảm động, em ngủ thiếp."
+    },
+    {
+      "sent_id": "id_237",
+      "smil_sid": "sid_237",
+      "p_id": "c5_p75",
+      "seq_id": "seq_75",
+      "text": "Tuy rất mệt, giấc ngủ của Perin vẫn chập chờn."
+    },
+    {
+      "sent_id": "id_238",
+      "smil_sid": "sid_238",
+      "p_id": "c5_p75",
+      "seq_id": "seq_75",
+      "text": "Thỉnh thoảng, tiếng xe lăn bánh trên đường cái làm em tỉnh giấc."
+    },
+    {
+      "sent_id": "id_239",
+      "smil_sid": "sid_239",
+      "p_id": "c5_p75",
+      "seq_id": "seq_75",
+      "text": "Một con tàu hỏa đi qua hay một tiếng động bí mật của đêm tối cũng làm tim em đập mạnh."
+    },
+    {
+      "sent_id": "id_240",
+      "smil_sid": "sid_240",
+      "p_id": "c5_p75",
+      "seq_id": "seq_75",
+      "text": "Rồi em nằm ngủ lại."
+    },
+    {
+      "sent_id": "id_241",
+      "smil_sid": "sid_241",
+      "p_id": "c5_p75",
+      "seq_id": "seq_75",
+      "text": "Nếu Perin biết lúc ấy là mấy giờ thì có lẽ em còn nằm ngủ lại đến bình minh."
+    },
+    {
+      "sent_id": "id_242",
+      "smil_sid": "sid_242",
+      "p_id": "c5_p75",
+      "seq_id": "seq_75",
+      "text": "Nhưng vì không biết giờ giấc, nên em nghĩ lên đường ngay là cẩn thận nhất."
+    },
+    {
+      "sent_id": "id_243",
+      "smil_sid": "sid_243",
+      "p_id": "c5_p75",
+      "seq_id": "seq_75",
+      "text": "Ở nông thôn, người ta dậy sớm. nếu sáng hôm sau, một bác nông dân nào đó thấy em từ túp lều đi ra, thì phiền lắm!"
+    },
+    {
+      "sent_id": "id_244",
+      "smil_sid": "sid_244",
+      "p_id": "c5_p76",
+      "seq_id": "seq_76",
+      "text": "Thế là Perin trườn khỏi túp lều, rồi bò ra khỏi đám ruộng."
+    },
+    {
+      "sent_id": "id_245",
+      "smil_sid": "sid_245",
+      "p_id": "c5_p76",
+      "seq_id": "seq_76",
+      "text": "Em căng tai nghe ngóng, dõi mắt trông chừng."
+    },
+    {
+      "sent_id": "id_246",
+      "smil_sid": "sid_246",
+      "p_id": "c5_p76",
+      "seq_id": "seq_76",
+      "text": "Em đã đến đường cái an toàn rồi lại tiếp tục đi với những bước chân vội vã."
+    },
+    {
+      "sent_id": "id_247",
+      "smil_sid": "sid_247",
+      "p_id": "c5_p76",
+      "seq_id": "seq_76",
+      "text": "Trên nền trời không gợn mây, chi chít những ngôi sao đã mờ nhạt."
+    },
+    {
+      "sent_id": "id_248",
+      "smil_sid": "sid_248",
+      "p_id": "c5_p76",
+      "seq_id": "seq_76",
+      "text": "Về phía đông, một ánh sáng yếu ớt dộ qua những sâu thẳm của đêm tối!"
+    },
+    {
+      "sent_id": "id_249",
+      "smil_sid": "sid_249",
+      "p_id": "c5_p76",
+      "seq_id": "seq_76",
+      "text": "Bình minh sắp đến!"
+    },
+    {
+      "sent_id": "id_250",
+      "smil_sid": "sid_250",
+      "p_id": "c5_p76",
+      "seq_id": "seq_76",
+      "text": "Perin không phải đi lâu."
+    },
+    {
+      "sent_id": "id_251",
+      "smil_sid": "sid_251",
+      "p_id": "c5_p76",
+      "seq_id": "seq_76",
+      "text": "Em đã nhìn thấy, trước mặt, trên nền trắng của bầu trời, một đám đen lờ mờ, in trên một phía các mái nhà, những ống khói và một lầu chuông."
+    },
+    {
+      "sent_id": "id_252",
+      "smil_sid": "sid_252",
+      "p_id": "c5_p76",
+      "seq_id": "seq_76",
+      "text": "Trong lúc đó, phía bên kia, tất cả chìm trong bóng tối."
+    }
+  ]
+}

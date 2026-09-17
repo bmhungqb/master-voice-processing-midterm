@@ -1,0 +1,3691 @@
+{
+  "metadata": {
+    "dtb:uid": "978-604-69-8175-6",
+    "dtb:generator": "DAISY 3 DTBook Python Pipeline (K35)",
+    "dc:Title": "Trong Gia Đình",
+    "dc:Creator": "Hector Malot",
+    "dc:Translator": "Huỳnh Lý & Mai Hương, Huỳnh Phan Thanh Yên",
+    "dc:Publisher": "NXB Văn Học",
+    "dc:Date": "2017",
+    "dc:Identifier": "978-604-69-8175-6",
+    "dc:Language": "vi-VN",
+    "dc:Subject": "Văn học & Tiểu thuyết",
+    "dc:Format": "ANSI/NISO Z39.86-2005",
+    "dc:Description": "Cuốn sách kể về cuộc đời cô bé Perrine (Perin), 12 tuổi, mồ côi cha mẹ và hành trình đầy khó khăn, thử thách với nghị lực phi thường để vươn lên và được ông nội đón nhận trở lại trong gia đình.",
+    "note": "Bản dịch của GS. Huỳnh Lý & Mai Hương, hiệu đính Huỳnh Phan Thanh Yên"
+  },
+  "chapter_idx": 16,
+  "chapter_title": "Chương 16",
+  "total_paragraphs": 185,
+  "total_sentences": 524,
+  "segments": [
+    {
+      "sent_id": "id_4",
+      "smil_sid": "sid_4",
+      "p_id": "c16_p1",
+      "seq_id": "seq_1",
+      "text": "“Cái khó khăn chủ yếu mà tôi gặp, như đã nói với ngài trong lúc tập hợp những tin tức, đó là thời gian trôi qua từ hôn lễ của ông Étmông Panhđavoan, người con trai thân yêu của ngài."
+    },
+    {
+      "sent_id": "id_5",
+      "smil_sid": "sid_5",
+      "p_id": "c16_p1",
+      "seq_id": "seq_1",
+      "text": "Lúc đầu, tôi xin thứ thật thiếu những lời chỉ dẫn của Cha Lơcờléc tôn kính, người đã chủ trì cuộc hôn lễ ấy, tôi như bị lạc hướng."
+    },
+    {
+      "sent_id": "id_6",
+      "smil_sid": "sid_6",
+      "p_id": "c16_p1",
+      "seq_id": "seq_1",
+      "text": "Tôi phải đi tìm kiếm ở nhiều nơi khác nhau, trước khi tập hợp được những tư liệu cho một bức thư trả lời có thể làm vừa lòng ngài."
+    },
+    {
+      "sent_id": "id_7",
+      "smil_sid": "sid_7",
+      "p_id": "c16_p2",
+      "seq_id": "seq_2",
+      "text": "Từ những tư liệu có thể rút ra kết luận: Bà vợ ông Étmông là một thiếu phụ có đủ các đức tính: thông minh, nhân hậu, dịu dàng, một tâm hồn nhạy cảm, một tính cách chính trực, chưa nói đến những nét duyên dáng tuy nhất thời, cũng có tầm quyết định đối với ai còn say đắm những sự phù phiếm của cuộc đời”."
+    },
+    {
+      "sent_id": "id_8",
+      "smil_sid": "sid_8",
+      "p_id": "c16_p3",
+      "seq_id": "seq_3",
+      "text": "Đã bốn lần, Perin dịch lại câu ấy, cái câu có lẽ là rắc rối nhất trong lá thư."
+    },
+    {
+      "sent_id": "id_9",
+      "smil_sid": "sid_9",
+      "p_id": "c16_p3",
+      "seq_id": "seq_3",
+      "text": "Em cố gắng dịch rất chính xác."
+    },
+    {
+      "sent_id": "id_10",
+      "smil_sid": "sid_10",
+      "p_id": "c16_p3",
+      "seq_id": "seq_3",
+      "text": "Nếu em chưa vừa ý, ít nhất em cũng nghĩ là em đã làm hết sức mình."
+    },
+    {
+      "sent_id": "id_11",
+      "smil_sid": "sid_11",
+      "p_id": "c16_p4",
+      "seq_id": "seq_4",
+      "text": "“Đã hết cái thời mà những hiểu biết của phụ nữ Ấn Độ chỉ chú trọng về cái khoa nghi lễ trong nghệ thuật đứng lên, ngồi xuống."
+    },
+    {
+      "sent_id": "id_12",
+      "smil_sid": "sid_12",
+      "p_id": "c16_p4",
+      "seq_id": "seq_4",
+      "text": "Ngày xưa, tất cả nền giáo dục, ngoài những điểm cơ bản ấy, được xem như là một sự mất gốc."
+    },
+    {
+      "sent_id": "id_13",
+      "smil_sid": "sid_13",
+      "p_id": "c16_p4",
+      "seq_id": "seq_4",
+      "text": "Ngày nay, một số đông, kể cả trong những đẳng cấp ở trên, có học thức…"
+    },
+    {
+      "sent_id": "id_14",
+      "smil_sid": "sid_14",
+      "p_id": "c16_p4",
+      "seq_id": "seq_4",
+      "text": "Bố mẹ bà Étmông cũng thế."
+    },
+    {
+      "sent_id": "id_15",
+      "smil_sid": "sid_15",
+      "p_id": "c16_p4",
+      "seq_id": "seq_4",
+      "text": "Họ thuộc gia đình Bàlamôn nghĩa là đã hai lần sanh, theo cánh nói của người Ấn Độ đã có hạnh phúc được đổi qua đạo Thiên Chúa thần thánh của chúng ta do Cha Lơcờléc tôn kính, trong những năm đầu nhận sứ mệnh."
+    },
+    {
+      "sent_id": "id_16",
+      "smil_sid": "sid_16",
+      "p_id": "c16_p5",
+      "seq_id": "seq_5",
+      "text": "Không may cho sự truyền bá giáo lý của chúng ta ở Ấn Độ ảnh hưởng của các đẳng cấp rất mạnh!"
+    },
+    {
+      "sent_id": "id_17",
+      "smil_sid": "sid_17",
+      "p_id": "c16_p5",
+      "seq_id": "seq_5",
+      "text": "Ai mất lòng tin là mất đẳng cấp nghĩa là quan hệ và vị trí đời sống xã hội."
+    },
+    {
+      "sent_id": "id_18",
+      "smil_sid": "sid_18",
+      "p_id": "c16_p5",
+      "seq_id": "seq_5",
+      "text": "Đó là trường hợp của gia đình này, khi đi theo đạo Thiên Chúa, họ đã trở thành kẻ cùng đinh!"
+    },
+    {
+      "sent_id": "id_19",
+      "smil_sid": "sid_19",
+      "p_id": "c16_p6",
+      "seq_id": "seq_6",
+      "text": "Thế là rất tự nhiên, như ngài thấy đó, gia đình này quay về phía xã hội Châu Âu."
+    },
+    {
+      "sent_id": "id_20",
+      "smil_sid": "sid_20",
+      "p_id": "c16_p6",
+      "seq_id": "seq_6",
+      "text": "Một sự hợp tác kinh doanh và tình bạn đã thắt chặt họ với gia đình Pháp."
+    },
+    {
+      "sent_id": "id_21",
+      "smil_sid": "sid_21",
+      "p_id": "c16_p6",
+      "seq_id": "seq_6",
+      "text": "Họ sáng lập một xí nghiệp quan trọng."
+    },
+    {
+      "sent_id": "id_22",
+      "smil_sid": "sid_22",
+      "p_id": "c16_p6",
+      "seq_id": "seq_6",
+      "text": "Đôrétsany (Ấn Độ) và Bécse (Pháp) để kinh doanh một xưởng dệt mutxơlin dưới danh hiệu: Đôrétsany và Bécse."
+    },
+    {
+      "sent_id": "id_23",
+      "smil_sid": "sid_23",
+      "p_id": "c16_p7",
+      "seq_id": "seq_7",
+      "text": "Ông Étmông gặp cô Mari Đôrét sany trong nhà bà Bécse và yêu cô ấy."
+    },
+    {
+      "sent_id": "id_24",
+      "smil_sid": "sid_24",
+      "p_id": "c16_p7",
+      "seq_id": "seq_7",
+      "text": "Tôi không được biết cô Mari vì cô ấy đã dọn đi nơi khác khi tôi đến ĐaKa."
+    },
+    {
+      "sent_id": "id_25",
+      "smil_sid": "sid_25",
+      "p_id": "c16_p8",
+      "seq_id": "seq_8",
+      "text": "Vì sao có những trở ngại trong cuộc hôn nhân này?"
+    },
+    {
+      "sent_id": "id_26",
+      "smil_sid": "sid_26",
+      "p_id": "c16_p8",
+      "seq_id": "seq_8",
+      "text": "Đó là vấn đề mà tôi không phải tìm hiểu."
+    },
+    {
+      "sent_id": "id_27",
+      "smil_sid": "sid_27",
+      "p_id": "c16_p9",
+      "seq_id": "seq_9",
+      "text": "Dù sao, hôn lễ đã được cử hành trong nhà thờ của chúng tôi."
+    },
+    {
+      "sent_id": "id_28",
+      "smil_sid": "sid_28",
+      "p_id": "c16_p9",
+      "seq_id": "seq_9",
+      "text": "Cha Lơcờléc tôn kính đã ban phước cho đôi vợ chồng trẻ: ông Étmông Panhđavoan và cô Mari Đôrétsany."
+    },
+    {
+      "sent_id": "id_29",
+      "smil_sid": "sid_29",
+      "p_id": "c16_p9",
+      "seq_id": "seq_9",
+      "text": "Giấy hôn thú và ngày cưới có ghi lại trong sổ chúng tôi."
+    },
+    {
+      "sent_id": "id_30",
+      "smil_sid": "sid_30",
+      "p_id": "c16_p9",
+      "seq_id": "seq_9",
+      "text": "Nếu ngài cần, chúng tôi có thể gởi bản sao."
+    },
+    {
+      "sent_id": "id_31",
+      "smil_sid": "sid_31",
+      "p_id": "c16_p10",
+      "seq_id": "seq_10",
+      "text": "Trong bốn năm, ông Étmông sống gửi rể…"
+    },
+    {
+      "sent_id": "id_32",
+      "smil_sid": "sid_32",
+      "p_id": "c16_p10",
+      "seq_id": "seq_10",
+      "text": "Nhờ ơn Bề trên, một đứa con, một bé gái ra đời."
+    },
+    {
+      "sent_id": "id_33",
+      "smil_sid": "sid_33",
+      "p_id": "c16_p10",
+      "seq_id": "seq_10",
+      "text": "Họ là một cặp vợ chồng gương mẫu."
+    },
+    {
+      "sent_id": "id_34",
+      "smil_sid": "sid_34",
+      "p_id": "c16_p10",
+      "seq_id": "seq_10",
+      "text": "Những người ở ĐaKa còn giữ những kỷ niệm tốt về họ."
+    },
+    {
+      "sent_id": "id_35",
+      "smil_sid": "sid_35",
+      "p_id": "c16_p11",
+      "seq_id": "seq_11",
+      "text": "Công ty Đôrétsany và Bécse thịnh vượng khá dần thì gặp liên tiếp những tổn thất đáng kể dẫn đến sự phá sản hoàn toàn."
+    },
+    {
+      "sent_id": "id_36",
+      "smil_sid": "sid_36",
+      "p_id": "c16_p11",
+      "seq_id": "seq_11",
+      "text": "Ông bà Đôrétsany từ trần cách nhau mấy tháng."
+    },
+    {
+      "sent_id": "id_37",
+      "smil_sid": "sid_37",
+      "p_id": "c16_p11",
+      "seq_id": "seq_11",
+      "text": "Gia đình Bécse trở về Pháp."
+    },
+    {
+      "sent_id": "id_38",
+      "smil_sid": "sid_38",
+      "p_id": "c16_p11",
+      "seq_id": "seq_11",
+      "text": "Ông Étmông làm một chuyến du lịch thăm dò Đanhusi với tư cách là một nhà sưu tầm thực vật học và những vật hiếm đủ thứ cho những nhà hàng Anh."
+    },
+    {
+      "sent_id": "id_39",
+      "smil_sid": "sid_39",
+      "p_id": "c16_p11",
+      "seq_id": "seq_11",
+      "text": "Ông mang theo vợ và con gái mới lên ba."
+    },
+    {
+      "sent_id": "id_40",
+      "smil_sid": "sid_40",
+      "p_id": "c16_p12",
+      "seq_id": "seq_12",
+      "text": "Từ dạo ấy, ông không trở lại ĐaKa."
+    },
+    {
+      "sent_id": "id_41",
+      "smil_sid": "sid_41",
+      "p_id": "c16_p12",
+      "seq_id": "seq_12",
+      "text": "Một người bạn ông Étmông có viết thư và một vị đồng nghiệp của chúng tôi, được cha Lơcờléc cho hay nhiều chi tiết, đã nói lại với tôi."
+    },
+    {
+      "sent_id": "id_42",
+      "smil_sid": "sid_42",
+      "p_id": "c16_p12",
+      "seq_id": "seq_12",
+      "text": "Vị này có trao đổi thư từ với bà Étmông."
+    },
+    {
+      "sent_id": "id_43",
+      "smil_sid": "sid_43",
+      "p_id": "c16_p12",
+      "seq_id": "seq_12",
+      "text": "Trong nhiều năm, Đơra được chọn làm trung tâm thám hiểm trên biên giới Tây Tạng trong dãy Hymãlạpsơn."
+    },
+    {
+      "sent_id": "id_44",
+      "smil_sid": "sid_44",
+      "p_id": "c16_p12",
+      "seq_id": "seq_12",
+      "text": "Người bạn ấy còn cho biết công việc tiến hành thuận lợi."
+    },
+    {
+      "sent_id": "id_45",
+      "smil_sid": "sid_45",
+      "p_id": "c16_p13",
+      "seq_id": "seq_13",
+      "text": "Tôi chưa đến Đơra nhưng tôi sẽ vui lòng gửi giúp Ngài một lá thư cho vị Cha ở đấy để giúp đỡ Ngài."
+    },
+    {
+      "sent_id": "id_46",
+      "smil_sid": "sid_46",
+      "p_id": "c16_p13",
+      "seq_id": "seq_13",
+      "text": "Nếu Ngài thấy cần thiết.”"
+    },
+    {
+      "sent_id": "id_47",
+      "smil_sid": "sid_47",
+      "p_id": "c16_p14",
+      "seq_id": "seq_14",
+      "text": "Cuối cùng, Perin đã dịch xong bức thư ghê gớm ấy!"
+    },
+    {
+      "sent_id": "id_48",
+      "smil_sid": "sid_48",
+      "p_id": "c16_p14",
+      "seq_id": "seq_14",
+      "text": "Sau khi viết đến chữ cuối, em nhặt vộ giấy tờ và qua phòng ông Vunphran."
+    },
+    {
+      "sent_id": "id_49",
+      "smil_sid": "sid_49",
+      "p_id": "c16_p14",
+      "seq_id": "seq_14",
+      "text": "Em cũng chẳng cần phải dịch cái công thức ghi ở đoạn dưới."
+    },
+    {
+      "sent_id": "id_50",
+      "smil_sid": "sid_50",
+      "p_id": "c16_p14",
+      "seq_id": "seq_14",
+      "text": "Perin thấy ông Vunphran đang đi lại trong phòng, vừa đi vừa đếm bước, để khỏi và vào tường và cũng để quên nỗi chờ mong."
+    },
+    {
+      "sent_id": "id_51",
+      "smil_sid": "sid_51",
+      "p_id": "c16_p15",
+      "seq_id": "seq_15",
+      "text": "- Cháu chậm quá!"
+    },
+    {
+      "sent_id": "id_52",
+      "smil_sid": "sid_52",
+      "p_id": "c16_p15",
+      "seq_id": "seq_15",
+      "text": "Ông nói."
+    },
+    {
+      "sent_id": "id_53",
+      "smil_sid": "sid_53",
+      "p_id": "c16_p16",
+      "seq_id": "seq_16",
+      "text": "- Bức thư dài khó dịch."
+    },
+    {
+      "sent_id": "id_54",
+      "smil_sid": "sid_54",
+      "p_id": "c16_p17",
+      "seq_id": "seq_17",
+      "text": "- Cháu lại còn bị quấy rầy nữa chứ!"
+    },
+    {
+      "sent_id": "id_55",
+      "smil_sid": "sid_55",
+      "p_id": "c16_p17",
+      "seq_id": "seq_17",
+      "text": "Bác nghe cánh cửa phòng cháu mở ra và khép lại hai lần."
+    },
+    {
+      "sent_id": "id_56",
+      "smil_sid": "sid_56",
+      "p_id": "c16_p18",
+      "seq_id": "seq_18",
+      "text": "Ông Vunphran đã hỏi thử, Perin phải thành thực trả lời."
+    },
+    {
+      "sent_id": "id_57",
+      "smil_sid": "sid_57",
+      "p_id": "c16_p18",
+      "seq_id": "seq_18",
+      "text": "Có lẽ đó là lời giải đáp duy nhất, trung thực và đúng đắn với những câu hỏi mà em đương loay hoay mãi, chưa tìm được câu trả lời vừa ý."
+    },
+    {
+      "sent_id": "id_58",
+      "smil_sid": "sid_58",
+      "p_id": "c16_p19",
+      "seq_id": "seq_19",
+      "text": "- Ông Têôdo và ông Taluen vào phòng cháu."
+    },
+    {
+      "sent_id": "id_59",
+      "smil_sid": "sid_59",
+      "p_id": "c16_p20",
+      "seq_id": "seq_20",
+      "text": "- Thế à?"
+    },
+    {
+      "sent_id": "id_60",
+      "smil_sid": "sid_60",
+      "p_id": "c16_p21",
+      "seq_id": "seq_21",
+      "text": "Ông muốn hỏi thêm về chuyện ấy, nhưng dừng lại, ông nói."
+    },
+    {
+      "sent_id": "id_61",
+      "smil_sid": "sid_61",
+      "p_id": "c16_p22",
+      "seq_id": "seq_22",
+      "text": "- Bức thư trước đã!"
+    },
+    {
+      "sent_id": "id_62",
+      "smil_sid": "sid_62",
+      "p_id": "c16_p22",
+      "seq_id": "seq_22",
+      "text": "Chúng ta cùng xem!"
+    },
+    {
+      "sent_id": "id_63",
+      "smil_sid": "sid_63",
+      "p_id": "c16_p22",
+      "seq_id": "seq_22",
+      "text": "Cháu ngồi gần bác, đọc chậm rãi, rõ ràng, đừng lên giọng."
+    },
+    {
+      "sent_id": "id_64",
+      "smil_sid": "sid_64",
+      "p_id": "c16_p23",
+      "seq_id": "seq_23",
+      "text": "Perin đọc nhỏ nhẹ, như lời dặn."
+    },
+    {
+      "sent_id": "id_65",
+      "smil_sid": "sid_65",
+      "p_id": "c16_p23",
+      "seq_id": "seq_23",
+      "text": "Lát sau, ông Vunphran ngăn em lại, nhưng không nói với em ông đang theo dõi dòng suy nghĩ của ông."
+    },
+    {
+      "sent_id": "id_66",
+      "smil_sid": "sid_66",
+      "p_id": "c16_p24",
+      "seq_id": "seq_24",
+      "text": "- Cặp vợ chồng gương mẫu."
+    },
+    {
+      "sent_id": "id_67",
+      "smil_sid": "sid_67",
+      "p_id": "c16_p25",
+      "seq_id": "seq_25",
+      "text": "- Nhà hàng Anh, nhà hàng gì?"
+    },
+    {
+      "sent_id": "id_68",
+      "smil_sid": "sid_68",
+      "p_id": "c16_p26",
+      "seq_id": "seq_26",
+      "text": "- Một người bạn của ông ta?"
+    },
+    {
+      "sent_id": "id_69",
+      "smil_sid": "sid_69",
+      "p_id": "c16_p26",
+      "seq_id": "seq_26",
+      "text": "Người nào?"
+    },
+    {
+      "sent_id": "id_70",
+      "smil_sid": "sid_70",
+      "p_id": "c16_p27",
+      "seq_id": "seq_27",
+      "text": "- Những tin tức này vào thời điểm nào?"
+    },
+    {
+      "sent_id": "id_71",
+      "smil_sid": "sid_71",
+      "p_id": "c16_p28",
+      "seq_id": "seq_28",
+      "text": "Và khi Perin đọc đến đoạn cuối, ông tóm tắt những cảm tưởng và nói:"
+    },
+    {
+      "sent_id": "id_72",
+      "smil_sid": "sid_72",
+      "p_id": "c16_p29",
+      "seq_id": "seq_29",
+      "text": "- Câu kéo dài dòng."
+    },
+    {
+      "sent_id": "id_73",
+      "smil_sid": "sid_73",
+      "p_id": "c16_p29",
+      "seq_id": "seq_29",
+      "text": "Không một cái tên."
+    },
+    {
+      "sent_id": "id_74",
+      "smil_sid": "sid_74",
+      "p_id": "c16_p29",
+      "seq_id": "seq_29",
+      "text": "Không ghi năm tháng."
+    },
+    {
+      "sent_id": "id_75",
+      "smil_sid": "sid_75",
+      "p_id": "c16_p29",
+      "seq_id": "seq_29",
+      "text": "Những ông ấy có trí não mơ hồ thật!"
+    },
+    {
+      "sent_id": "id_76",
+      "smil_sid": "sid_76",
+      "p_id": "c16_p30",
+      "seq_id": "seq_30",
+      "text": "Những nhận xét ấy không trực tiếp đụng đến em."
+    },
+    {
+      "sent_id": "id_77",
+      "smil_sid": "sid_77",
+      "p_id": "c16_p30",
+      "seq_id": "seq_30",
+      "text": "Perin không cần trả lời."
+    },
+    {
+      "sent_id": "id_78",
+      "smil_sid": "sid_78",
+      "p_id": "c16_p30",
+      "seq_id": "seq_30",
+      "text": "Ông Vunphran phá tan sự im lặng, sau một thời gian suy nghĩ khá lâu:"
+    },
+    {
+      "sent_id": "id_79",
+      "smil_sid": "sid_79",
+      "p_id": "c16_p31",
+      "seq_id": "seq_31",
+      "text": "- Cháu dịch được từ tiếng Pháp qua tiếng Anh cũng như cháu đã dịch từ tiếng Anh qua tiếng Pháp?"
+    },
+    {
+      "sent_id": "id_80",
+      "smil_sid": "sid_80",
+      "p_id": "c16_p32",
+      "seq_id": "seq_32",
+      "text": "- Nếu không phải là những câu khó."
+    },
+    {
+      "sent_id": "id_81",
+      "smil_sid": "sid_81",
+      "p_id": "c16_p32",
+      "seq_id": "seq_32",
+      "text": "Vâng thưa ông!"
+    },
+    {
+      "sent_id": "id_82",
+      "smil_sid": "sid_82",
+      "p_id": "c16_p33",
+      "seq_id": "seq_33",
+      "text": "- Một bức điện."
+    },
+    {
+      "sent_id": "id_83",
+      "smil_sid": "sid_83",
+      "p_id": "c16_p34",
+      "seq_id": "seq_34",
+      "text": "- Vâng, cháu nghĩ có thể được!"
+    },
+    {
+      "sent_id": "id_84",
+      "smil_sid": "sid_84",
+      "p_id": "c16_p35",
+      "seq_id": "seq_35",
+      "text": "- Vậy thì cháu ngồi vào cái bàn nhỏ kia!"
+    },
+    {
+      "sent_id": "id_85",
+      "smil_sid": "sid_85",
+      "p_id": "c16_p35",
+      "seq_id": "seq_35",
+      "text": "Cháu viết đi!"
+    },
+    {
+      "sent_id": "id_86",
+      "smil_sid": "sid_86",
+      "p_id": "c16_p35",
+      "seq_id": "seq_35",
+      "text": "Ông đọc:"
+    },
+    {
+      "sent_id": "id_87",
+      "smil_sid": "sid_87",
+      "p_id": "c16_p36",
+      "seq_id": "seq_36",
+      "text": "“Cha Phinđơ"
+    },
+    {
+      "sent_id": "id_88",
+      "smil_sid": "sid_88",
+      "p_id": "c16_p37",
+      "seq_id": "seq_37",
+      "text": "Hội truyền giáo"
+    },
+    {
+      "sent_id": "id_89",
+      "smil_sid": "sid_89",
+      "p_id": "c16_p38",
+      "seq_id": "seq_38",
+      "text": "ĐaKa"
+    },
+    {
+      "sent_id": "id_90",
+      "smil_sid": "sid_90",
+      "p_id": "c16_p39",
+      "seq_id": "seq_39",
+      "text": "Cám ơn về bức thư"
+    },
+    {
+      "sent_id": "id_91",
+      "smil_sid": "sid_91",
+      "p_id": "c16_p40",
+      "seq_id": "seq_40",
+      "text": "Đã trả tiền điện trả lời cho hai mươi chữ."
+    },
+    {
+      "sent_id": "id_92",
+      "smil_sid": "sid_92",
+      "p_id": "c16_p40",
+      "seq_id": "seq_40",
+      "text": "Cho biết:"
+    },
+    {
+      "sent_id": "id_93",
+      "smil_sid": "sid_93",
+      "p_id": "c16_p41",
+      "seq_id": "seq_41",
+      "text": "Tên của người bạn đã nhận tin tức."
+    },
+    {
+      "sent_id": "id_94",
+      "smil_sid": "sid_94",
+      "p_id": "c16_p41",
+      "seq_id": "seq_41",
+      "text": "Ngày tháng cuối về những tin tức ấy."
+    },
+    {
+      "sent_id": "id_95",
+      "smil_sid": "sid_95",
+      "p_id": "c16_p41",
+      "seq_id": "seq_41",
+      "text": "Tên Cha ở Đara."
+    },
+    {
+      "sent_id": "id_96",
+      "smil_sid": "sid_96",
+      "p_id": "c16_p41",
+      "seq_id": "seq_41",
+      "text": "Nhờ viết thư tin Cha hay: Tôi sẽ gửi thư đến Cha."
+    },
+    {
+      "sent_id": "id_97",
+      "smil_sid": "sid_97",
+      "p_id": "c16_p42",
+      "seq_id": "seq_42",
+      "text": "Panhđavoan”"
+    },
+    {
+      "sent_id": "id_98",
+      "smil_sid": "sid_98",
+      "p_id": "c16_p43",
+      "seq_id": "seq_43",
+      "text": "- Cháu dịch bức điện này qua tiếng Anh."
+    },
+    {
+      "sent_id": "id_99",
+      "smil_sid": "sid_99",
+      "p_id": "c16_p43",
+      "seq_id": "seq_43",
+      "text": "Mỗi chữ phải trả một Phrăng sáu mươi."
+    },
+    {
+      "sent_id": "id_100",
+      "smil_sid": "sid_100",
+      "p_id": "c16_p43",
+      "seq_id": "seq_43",
+      "text": "Nên viết ngắn hơn chứ đừng dài hơn."
+    },
+    {
+      "sent_id": "id_101",
+      "smil_sid": "sid_101",
+      "p_id": "c16_p43",
+      "seq_id": "seq_43",
+      "text": "Cháu viết sao cho dễ đọc nhé."
+    },
+    {
+      "sent_id": "id_102",
+      "smil_sid": "sid_102",
+      "p_id": "c16_p44",
+      "seq_id": "seq_44",
+      "text": "Perin nhanh chóng dịch bức điện rồi đọc to."
+    },
+    {
+      "sent_id": "id_103",
+      "smil_sid": "sid_103",
+      "p_id": "c16_p45",
+      "seq_id": "seq_45",
+      "text": "- Bao nhiêu chữ?"
+    },
+    {
+      "sent_id": "id_104",
+      "smil_sid": "sid_104",
+      "p_id": "c16_p45",
+      "seq_id": "seq_45",
+      "text": "Ông hỏi."
+    },
+    {
+      "sent_id": "id_105",
+      "smil_sid": "sid_105",
+      "p_id": "c16_p46",
+      "seq_id": "seq_46",
+      "text": "- Ra tiếng Anh bốn lăm chữ."
+    },
+    {
+      "sent_id": "id_106",
+      "smil_sid": "sid_106",
+      "p_id": "c16_p47",
+      "seq_id": "seq_47",
+      "text": "Ông tính rồi nói to:"
+    },
+    {
+      "sent_id": "id_107",
+      "smil_sid": "sid_107",
+      "p_id": "c16_p48",
+      "seq_id": "seq_48",
+      "text": "- Mất bảy hai Phrăng về bức điện này, ba hai Phrăng về bức điện trả lời."
+    },
+    {
+      "sent_id": "id_108",
+      "smil_sid": "sid_108",
+      "p_id": "c16_p48",
+      "seq_id": "seq_48",
+      "text": "Tất cả là một trăm linh bốn Phrăng."
+    },
+    {
+      "sent_id": "id_109",
+      "smil_sid": "sid_109",
+      "p_id": "c16_p48",
+      "seq_id": "seq_48",
+      "text": "Bác đưa tiền cho cháu."
+    },
+    {
+      "sent_id": "id_110",
+      "smil_sid": "sid_110",
+      "p_id": "c16_p48",
+      "seq_id": "seq_48",
+      "text": "Cháu đích thân đến bưu điện, đọc cho người nhận điện ghi để tránh sai sót."
+    },
+    {
+      "sent_id": "id_111",
+      "smil_sid": "sid_111",
+      "p_id": "c16_p49",
+      "seq_id": "seq_49",
+      "text": "Khi Perin đi ngang hành lang, em gặp Taluen."
+    },
+    {
+      "sent_id": "id_112",
+      "smil_sid": "sid_112",
+      "p_id": "c16_p49",
+      "seq_id": "seq_49",
+      "text": "Ông ta đút hai tay vào túi áo, đang đi dạo, để trông chừng những gì xảy ra trong sân cũng như trong các bu-rô."
+    },
+    {
+      "sent_id": "id_113",
+      "smil_sid": "sid_113",
+      "p_id": "c16_p50",
+      "seq_id": "seq_50",
+      "text": "- Cô đi đâu?"
+    },
+    {
+      "sent_id": "id_114",
+      "smil_sid": "sid_114",
+      "p_id": "c16_p50",
+      "seq_id": "seq_50",
+      "text": "Ông ta hỏi."
+    },
+    {
+      "sent_id": "id_115",
+      "smil_sid": "sid_115",
+      "p_id": "c16_p51",
+      "seq_id": "seq_51",
+      "text": "- Đến bưu điện đánh một bức điện."
+    },
+    {
+      "sent_id": "id_116",
+      "smil_sid": "sid_116",
+      "p_id": "c16_p52",
+      "seq_id": "seq_52",
+      "text": "Perin đang cầm trong tay bức điện."
+    },
+    {
+      "sent_id": "id_117",
+      "smil_sid": "sid_117",
+      "p_id": "c16_p52",
+      "seq_id": "seq_52",
+      "text": "Một tay em cầm tiền."
+    },
+    {
+      "sent_id": "id_118",
+      "smil_sid": "sid_118",
+      "p_id": "c16_p52",
+      "seq_id": "seq_52",
+      "text": "Taluen kéo tờ giấy rất mạnh, nếu em không thả tay, có lẽ đã rách."
+    },
+    {
+      "sent_id": "id_119",
+      "smil_sid": "sid_119",
+      "p_id": "c16_p52",
+      "seq_id": "seq_52",
+      "text": "Ông vội mở ra đọc."
+    },
+    {
+      "sent_id": "id_120",
+      "smil_sid": "sid_120",
+      "p_id": "c16_p52",
+      "seq_id": "seq_52",
+      "text": "Ông tức giận khi thấy viết tiếng Anh, ông nói:"
+    },
+    {
+      "sent_id": "id_121",
+      "smil_sid": "sid_121",
+      "p_id": "c16_p53",
+      "seq_id": "seq_53",
+      "text": "- Cô nên nói với tôi đấy nhé!"
+    },
+    {
+      "sent_id": "id_122",
+      "smil_sid": "sid_122",
+      "p_id": "c16_p54",
+      "seq_id": "seq_54",
+      "text": "- Vâng, thưa ông."
+    },
+    {
+      "sent_id": "id_123",
+      "smil_sid": "sid_123",
+      "p_id": "c16_p55",
+      "seq_id": "seq_55",
+      "text": "Đến ba giờ Perin mới gặp lại ông Vunphran khi ông bấm chuông gọi em cùng đi xuống nhà máy."
+    },
+    {
+      "sent_id": "id_124",
+      "smil_sid": "sid_124",
+      "p_id": "c16_p55",
+      "seq_id": "seq_55",
+      "text": "Lại một lần nữa em tự hỏi ai sẽ thay thế chú Guydôm?"
+    },
+    {
+      "sent_id": "id_125",
+      "smil_sid": "sid_125",
+      "p_id": "c16_p55",
+      "seq_id": "seq_55",
+      "text": "Sau khi người lái xe dắt con Côcô đến, lui gót, em ngạc nhiên khi nghe ông Vunphran bảo em đến ngồi bên cạnh."
+    },
+    {
+      "sent_id": "id_126",
+      "smil_sid": "sid_126",
+      "p_id": "c16_p56",
+      "seq_id": "seq_56",
+      "text": "- Hôm qua, cháu đánh xe tốt."
+    },
+    {
+      "sent_id": "id_127",
+      "smil_sid": "sid_127",
+      "p_id": "c16_p56",
+      "seq_id": "seq_56",
+      "text": "Không lẽ hôm nay cháu đánh xe tồi!"
+    },
+    {
+      "sent_id": "id_128",
+      "smil_sid": "sid_128",
+      "p_id": "c16_p56",
+      "seq_id": "seq_56",
+      "text": "Với lại bác cháu ta cần nói chuyện."
+    },
+    {
+      "sent_id": "id_129",
+      "smil_sid": "sid_129",
+      "p_id": "c16_p56",
+      "seq_id": "seq_56",
+      "text": "Đừng có ai ở bên cạnh, tốt hơn."
+    },
+    {
+      "sent_id": "id_130",
+      "smil_sid": "sid_130",
+      "p_id": "c16_p57",
+      "seq_id": "seq_57",
+      "text": "Họ ra khỏi làng."
+    },
+    {
+      "sent_id": "id_131",
+      "smil_sid": "sid_131",
+      "p_id": "c16_p57",
+      "seq_id": "seq_57",
+      "text": "Trên đường đi, người ta cũng tỏ ý tò mò như hôm qua."
+    },
+    {
+      "sent_id": "id_132",
+      "smil_sid": "sid_132",
+      "p_id": "c16_p57",
+      "seq_id": "seq_57",
+      "text": "Xe nhẹ nhàng lăn bánh qua các cánh đồng đang mùa cắt cỏ."
+    },
+    {
+      "sent_id": "id_133",
+      "smil_sid": "sid_133",
+      "p_id": "c16_p57",
+      "seq_id": "seq_57",
+      "text": "Nãy giờ im lặng, ông Vunphran lên tiếng, trong lúc Perin bối rối chưa muốn giải thích vội."
+    },
+    {
+      "sent_id": "id_134",
+      "smil_sid": "sid_134",
+      "p_id": "c16_p57",
+      "seq_id": "seq_57",
+      "text": "Hình như có nhiều nguy hiểm cho em!"
+    },
+    {
+      "sent_id": "id_135",
+      "smil_sid": "sid_135",
+      "p_id": "c16_p58",
+      "seq_id": "seq_58",
+      "text": "- Cháu có nói với ông: Têôdo và Taluen đã đến phòng giấy cháu."
+    },
+    {
+      "sent_id": "id_136",
+      "smil_sid": "sid_136",
+      "p_id": "c16_p59",
+      "seq_id": "seq_59",
+      "text": "- Vâng, thưa ông."
+    },
+    {
+      "sent_id": "id_137",
+      "smil_sid": "sid_137",
+      "p_id": "c16_p60",
+      "seq_id": "seq_60",
+      "text": "- Họ muốn gì?"
+    },
+    {
+      "sent_id": "id_138",
+      "smil_sid": "sid_138",
+      "p_id": "c16_p61",
+      "seq_id": "seq_61",
+      "text": "Tim như bị bóp nghẹt, Perin ngần ngừ."
+    },
+    {
+      "sent_id": "id_139",
+      "smil_sid": "sid_139",
+      "p_id": "c16_p62",
+      "seq_id": "seq_62",
+      "text": "- Tại sao cháu do dự?"
+    },
+    {
+      "sent_id": "id_140",
+      "smil_sid": "sid_140",
+      "p_id": "c16_p62",
+      "seq_id": "seq_62",
+      "text": "Không phải cháu cần nói rõ với bác sao?"
+    },
+    {
+      "sent_id": "id_141",
+      "smil_sid": "sid_141",
+      "p_id": "c16_p63",
+      "seq_id": "seq_63",
+      "text": "- Vâng, thưa ông, cháu phải nói, nhưng điều ấy không khỏi làm cháu lo ngại."
+    },
+    {
+      "sent_id": "id_142",
+      "smil_sid": "sid_142",
+      "p_id": "c16_p64",
+      "seq_id": "seq_64",
+      "text": "- Người ta không thể do dự khi người ta làm phận sự!"
+    },
+    {
+      "sent_id": "id_143",
+      "smil_sid": "sid_143",
+      "p_id": "c16_p64",
+      "seq_id": "seq_64",
+      "text": "Nếu cháu nghĩ là cháu cần im lặng thì cháu im đi!"
+    },
+    {
+      "sent_id": "id_144",
+      "smil_sid": "sid_144",
+      "p_id": "c16_p64",
+      "seq_id": "seq_64",
+      "text": "Nếu cháu nghĩ là phải trả lời cầu hỏi của bác bởi vì bác hỏi cháu, thì cháu hãy trả lời!"
+    },
+    {
+      "sent_id": "id_145",
+      "smil_sid": "sid_145",
+      "p_id": "c16_p65",
+      "seq_id": "seq_65",
+      "text": "- Cháu nghĩ là cháu phải trả lời."
+    },
+    {
+      "sent_id": "id_146",
+      "smil_sid": "sid_146",
+      "p_id": "c16_p66",
+      "seq_id": "seq_66",
+      "text": "- Bác đang nghe đây!"
+    },
+    {
+      "sent_id": "id_147",
+      "smil_sid": "sid_147",
+      "p_id": "c16_p67",
+      "seq_id": "seq_67",
+      "text": "Perin kể lại những gì xảy ra giữa Têôdo và em."
+    },
+    {
+      "sent_id": "id_148",
+      "smil_sid": "sid_148",
+      "p_id": "c16_p67",
+      "seq_id": "seq_67",
+      "text": "Không thêm bớt một chữ."
+    },
+    {
+      "sent_id": "id_149",
+      "smil_sid": "sid_149",
+      "p_id": "c16_p68",
+      "seq_id": "seq_68",
+      "text": "- Có phải tất cả chỉ có thế không?"
+    },
+    {
+      "sent_id": "id_150",
+      "smil_sid": "sid_150",
+      "p_id": "c16_p68",
+      "seq_id": "seq_68",
+      "text": "Ông Vunphran hỏi em, khi em kể đến đoạn cuối."
+    },
+    {
+      "sent_id": "id_151",
+      "smil_sid": "sid_151",
+      "p_id": "c16_p69",
+      "seq_id": "seq_69",
+      "text": "- Vâng, thưa ông, tất cả là vậy."
+    },
+    {
+      "sent_id": "id_152",
+      "smil_sid": "sid_152",
+      "p_id": "c16_p70",
+      "seq_id": "seq_70",
+      "text": "- Còn Taluen."
+    },
+    {
+      "sent_id": "id_153",
+      "smil_sid": "sid_153",
+      "p_id": "c16_p71",
+      "seq_id": "seq_71",
+      "text": "Perin lại kể về ông quản đốc."
+    },
+    {
+      "sent_id": "id_154",
+      "smil_sid": "sid_154",
+      "p_id": "c16_p71",
+      "seq_id": "seq_71",
+      "text": "Em sắp xếp một chút khi nói đến bệnh hoạn của ông Vunphran để đừng nhắc: “Một tin buồn đột ngột đưa đến, không được chuẩn bị, có thể giết chết ông ấy!”."
+    },
+    {
+      "sent_id": "id_155",
+      "smil_sid": "sid_155",
+      "p_id": "c16_p71",
+      "seq_id": "seq_71",
+      "text": "Rồi sau đợt tấn công thứ nhất của Taluen, em nói những gì vừa mới xảy ra về bức điện."
+    },
+    {
+      "sent_id": "id_156",
+      "smil_sid": "sid_156",
+      "p_id": "c16_p71",
+      "seq_id": "seq_71",
+      "text": "Em cũng không giấu việc Taluen hẹn gặp em sau buổi làm việc, chiều nay."
+    },
+    {
+      "sent_id": "id_157",
+      "smil_sid": "sid_157",
+      "p_id": "c16_p72",
+      "seq_id": "seq_72",
+      "text": "Perin chăm chú vào việc tường thuật, cứ để cho Côcô lơi bước."
+    },
+    {
+      "sent_id": "id_158",
+      "smil_sid": "sid_158",
+      "p_id": "c16_p72",
+      "seq_id": "seq_72",
+      "text": "Con ngựa giá, lợi dụng sự tự do ấy đi núng na, núng nính."
+    },
+    {
+      "sent_id": "id_159",
+      "smil_sid": "sid_159",
+      "p_id": "c16_p72",
+      "seq_id": "seq_72",
+      "text": "Nó hít thở cái mùi cỏ khô ngon lành mà ngọn gió nhẹ ấm áp thổi vào mũi nó."
+    },
+    {
+      "sent_id": "id_160",
+      "smil_sid": "sid_160",
+      "p_id": "c16_p72",
+      "seq_id": "seq_72",
+      "text": "Cùnglúc ấy, gió mang lại tiếng sột soạt của mấy cái lưỡi hái cắt cỏ."
+    },
+    {
+      "sent_id": "id_161",
+      "smil_sid": "sid_161",
+      "p_id": "c16_p72",
+      "seq_id": "seq_72",
+      "text": "Những năm đầu của cuộc đời trở lại trong trí óc nó."
+    },
+    {
+      "sent_id": "id_162",
+      "smil_sid": "sid_162",
+      "p_id": "c16_p72",
+      "seq_id": "seq_72",
+      "text": "Dạo ấy, nó chưa phải làm việc."
+    },
+    {
+      "sent_id": "id_163",
+      "smil_sid": "sid_163",
+      "p_id": "c16_p72",
+      "seq_id": "seq_72",
+      "text": "Nó cùng các bạn nó, những con ngựa cái và bầy ngựa con, phi qua cánh đồng cỏ."
+    },
+    {
+      "sent_id": "id_164",
+      "smil_sid": "sid_164",
+      "p_id": "c16_p72",
+      "seq_id": "seq_72",
+      "text": "Nó có đấu ngờ, một ngày kia, phải đi kéo xe trên những ngã đường bụi bặm."
+    },
+    {
+      "sent_id": "id_165",
+      "smil_sid": "sid_165",
+      "p_id": "c16_p72",
+      "seq_id": "seq_72",
+      "text": "Rồi chịu cực khổ chịu đau đớn với chiếc roi da và sự đối xử tàn ác!"
+    },
+    {
+      "sent_id": "id_166",
+      "smil_sid": "sid_166",
+      "p_id": "c16_p72",
+      "seq_id": "seq_72",
+      "text": "Khi Perin dừng lại, ông Vunphran cũng im lặng khá lâu."
+    },
+    {
+      "sent_id": "id_167",
+      "smil_sid": "sid_167",
+      "p_id": "c16_p72",
+      "seq_id": "seq_72",
+      "text": "Em đang dán mắt nhìn ông."
+    },
+    {
+      "sent_id": "id_168",
+      "smil_sid": "sid_168",
+      "p_id": "c16_p72",
+      "seq_id": "seq_72",
+      "text": "Em thấy khuôn mặt của ông lộ vẻ đau đớn hình như vừa buồn vừa bực."
+    },
+    {
+      "sent_id": "id_169",
+      "smil_sid": "sid_169",
+      "p_id": "c16_p72",
+      "seq_id": "seq_72",
+      "text": "Cuối cùng, ông nói:"
+    },
+    {
+      "sent_id": "id_170",
+      "smil_sid": "sid_170",
+      "p_id": "c16_p73",
+      "seq_id": "seq_73",
+      "text": "- Trước hết, bác phải nói để cháu được yên tâm."
+    },
+    {
+      "sent_id": "id_171",
+      "smil_sid": "sid_171",
+      "p_id": "c16_p73",
+      "seq_id": "seq_73",
+      "text": "Cháu hãy hứa những lời lời của cháu không bao giờ được nhắc lại với chúng nó."
+    },
+    {
+      "sent_id": "id_172",
+      "smil_sid": "sid_172",
+      "p_id": "c16_p73",
+      "seq_id": "seq_73",
+      "text": "Sẽ chẳng có chuyện gì không hay xảy ra với cháu đâu!"
+    },
+    {
+      "sent_id": "id_173",
+      "smil_sid": "sid_173",
+      "p_id": "c16_p73",
+      "seq_id": "seq_73",
+      "text": "Nếu có ai đó muốn trả thù cháu vì cháu đã không nghe theo họ và đã trung thực với bác, bác sẽ bảo vệ cháu."
+    },
+    {
+      "sent_id": "id_174",
+      "smil_sid": "sid_174",
+      "p_id": "c16_p73",
+      "seq_id": "seq_73",
+      "text": "Với lại, bác phải chịu trách nhiệm về mọi việc xảy ra."
+    },
+    {
+      "sent_id": "id_175",
+      "smil_sid": "sid_175",
+      "p_id": "c16_p73",
+      "seq_id": "seq_73",
+      "text": "Bác đã dự đoán những điều ấy vì nó có gợi một ít tò mò."
+    },
+    {
+      "sent_id": "id_176",
+      "smil_sid": "sid_176",
+      "p_id": "c16_p73",
+      "seq_id": "seq_73",
+      "text": "Lúc ấy, đáng lẽ bác không nên đặt cháu vào chỗ nguy hiểm."
+    },
+    {
+      "sent_id": "id_177",
+      "smil_sid": "sid_177",
+      "p_id": "c16_p73",
+      "seq_id": "seq_73",
+      "text": "Trong tương lai, chuyện ấy sẽ không xảy ra."
+    },
+    {
+      "sent_id": "id_178",
+      "smil_sid": "sid_178",
+      "p_id": "c16_p73",
+      "seq_id": "seq_73",
+      "text": "Kể từ ngày mai, cháu không ở trong phòng ông Benđi, vì người ta có thể tìm cháu ở đó."
+    },
+    {
+      "sent_id": "id_179",
+      "smil_sid": "sid_179",
+      "p_id": "c16_p73",
+      "seq_id": "seq_73",
+      "text": "Cháu sẽ ngồi trong phòng của Bác, nơi cái bàn nhỏ mà sáng nay, cháu ngồi viết bức điện."
+    },
+    {
+      "sent_id": "id_180",
+      "smil_sid": "sid_180",
+      "p_id": "c16_p73",
+      "seq_id": "seq_73",
+      "text": "Bác nghĩ không ai dám hỏi cháu, ngay trước mặt bác."
+    },
+    {
+      "sent_id": "id_181",
+      "smil_sid": "sid_181",
+      "p_id": "c16_p73",
+      "seq_id": "seq_73",
+      "text": "Nhưng người ta có thể làm việc ấy ở ngoài buồng giấy, ở nhà bà Prăngxoadơ chẳng hạn!"
+    },
+    {
+      "sent_id": "id_182",
+      "smil_sid": "sid_182",
+      "p_id": "c16_p73",
+      "seq_id": "seq_73",
+      "text": "Từ chiều hôm nay, cháu sẽ có một phòng trong lâu đài và ăn cơm với bác."
+    },
+    {
+      "sent_id": "id_183",
+      "smil_sid": "sid_183",
+      "p_id": "c16_p73",
+      "seq_id": "seq_73",
+      "text": "Bác thấy trước, bác phải giao thiệp với người Ấn Độ, trao đổi thư, điện tín mà chỉ mình cháu được biết."
+    },
+    {
+      "sent_id": "id_184",
+      "smil_sid": "sid_184",
+      "p_id": "c16_p73",
+      "seq_id": "seq_73",
+      "text": "Bác phải đề phòng cẩn thận để người ta không bắt ép cháu nói."
+    },
+    {
+      "sent_id": "id_185",
+      "smil_sid": "sid_185",
+      "p_id": "c16_p73",
+      "seq_id": "seq_73",
+      "text": "Họ có thể khôn khéo moi những tin tức mà cháu cần giữ bí mật."
+    },
+    {
+      "sent_id": "id_186",
+      "smil_sid": "sid_186",
+      "p_id": "c16_p73",
+      "seq_id": "seq_73",
+      "text": "Ở bên bác, cháu sẽ được bảo vệ."
+    },
+    {
+      "sent_id": "id_187",
+      "smil_sid": "sid_187",
+      "p_id": "c16_p73",
+      "seq_id": "seq_73",
+      "text": "Hơn nữa, đó cũng là câu trả lời cảnh báo cho những ai còn mưu tính việc ấy."
+    },
+    {
+      "sent_id": "id_188",
+      "smil_sid": "sid_188",
+      "p_id": "c16_p73",
+      "seq_id": "seq_73",
+      "text": "Sau nữa, đó cũng là một phần thưởng cho cháu."
+    },
+    {
+      "sent_id": "id_189",
+      "smil_sid": "sid_189",
+      "p_id": "c16_p74",
+      "seq_id": "seq_74",
+      "text": "Perin vừa mới run đó, đã tự trấn tĩnh mau chóng."
+    },
+    {
+      "sent_id": "id_190",
+      "smil_sid": "sid_190",
+      "p_id": "c16_p74",
+      "seq_id": "seq_74",
+      "text": "Bây giờ, em quá xúc động bởi niềm vui, nên em không tìm được một từ nào để nói."
+    },
+    {
+      "sent_id": "id_191",
+      "smil_sid": "sid_191",
+      "p_id": "c16_p75",
+      "seq_id": "seq_75",
+      "text": "- Bác tin cháu vì cháu đã dũng cảm đấu tranh chống đói khổ."
+    },
+    {
+      "sent_id": "id_192",
+      "smil_sid": "sid_192",
+      "p_id": "c16_p75",
+      "seq_id": "seq_75",
+      "text": "Khi người ta đã dũngcảm như cháu thì người ta trung thực."
+    },
+    {
+      "sent_id": "id_193",
+      "smil_sid": "sid_193",
+      "p_id": "c16_p75",
+      "seq_id": "seq_75",
+      "text": "Cháu vừa cho bác hay là bác đã không lầm."
+    },
+    {
+      "sent_id": "id_194",
+      "smil_sid": "sid_194",
+      "p_id": "c16_p75",
+      "seq_id": "seq_75",
+      "text": "Bác có thể tin ở cháu như là bác đã biết cháu từ mười năm nay rồi."
+    },
+    {
+      "sent_id": "id_195",
+      "smil_sid": "sid_195",
+      "p_id": "c16_p76",
+      "seq_id": "seq_76",
+      "text": "- Từ dạo cháu ở đây, chắc cháu nghe người ta nói về bác một cách thèm khát: Ở địa vị ông Vunphran, được là ông Vunphran thì sung sướng biết bao!"
+    },
+    {
+      "sent_id": "id_196",
+      "smil_sid": "sid_196",
+      "p_id": "c16_p76",
+      "seq_id": "seq_76",
+      "text": "Sự thật cuộc đời bác rất vất vả, nặng nhọc, và còn khó khăn hơn là cuộc đời của người thợ khốn khổ nhất của bác."
+    },
+    {
+      "sent_id": "id_197",
+      "smil_sid": "sid_197",
+      "p_id": "c16_p76",
+      "seq_id": "seq_76",
+      "text": "Của cải sẵn có mà thiếu sức khỏe thì làm sao mà hưởng thụ được?"
+    },
+    {
+      "sent_id": "id_198",
+      "smil_sid": "sid_198",
+      "p_id": "c16_p76",
+      "seq_id": "seq_76",
+      "text": "Cái gánh nặng nhất, cái gánh nặng đặt trên đôi vai bác đè bẹp bác!"
+    },
+    {
+      "sent_id": "id_199",
+      "smil_sid": "sid_199",
+      "p_id": "c16_p76",
+      "seq_id": "seq_76",
+      "text": "Sáng nào, bác cũng tự nhủ bảy nghìn thợ sống do bác, nhờ bác!"
+    },
+    {
+      "sent_id": "id_200",
+      "smil_sid": "sid_200",
+      "p_id": "c16_p76",
+      "seq_id": "seq_76",
+      "text": "Vì họ, bác phải suy nghĩ, làm việc."
+    },
+    {
+      "sent_id": "id_201",
+      "smil_sid": "sid_201",
+      "p_id": "c16_p76",
+      "seq_id": "seq_76",
+      "text": "Thật là một tai họa, nếu họ thiếu bác!"
+    },
+    {
+      "sent_id": "id_202",
+      "smil_sid": "sid_202",
+      "p_id": "c16_p76",
+      "seq_id": "seq_76",
+      "text": "Vì họ, bác phải đi."
+    },
+    {
+      "sent_id": "id_203",
+      "smil_sid": "sid_203",
+      "p_id": "c16_p76",
+      "seq_id": "seq_76",
+      "text": "Vì danh dự cái nhà máy bác mà bác sáng lập – niềm vui, niềm vinh quang của bác… mà bác thì lại mù lòa!"
+    },
+    {
+      "sent_id": "id_204",
+      "smil_sid": "sid_204",
+      "p_id": "c16_p77",
+      "seq_id": "seq_77",
+      "text": "Ông nghỉ một lát."
+    },
+    {
+      "sent_id": "id_205",
+      "smil_sid": "sid_205",
+      "p_id": "c16_p77",
+      "seq_id": "seq_77",
+      "text": "Lời than thờ cay đắng ấy đã làm nước mắt đọng trên vành mi của Perin."
+    },
+    {
+      "sent_id": "id_206",
+      "smil_sid": "sid_206",
+      "p_id": "c16_p77",
+      "seq_id": "seq_77",
+      "text": "Lát sau, ông Vunphran nói:"
+    },
+    {
+      "sent_id": "id_207",
+      "smil_sid": "sid_207",
+      "p_id": "c16_p78",
+      "seq_id": "seq_78",
+      "text": "- Cháu cần phải biết qua những câu chuyện họ kháo với nhau ở trong làng và bức thư cháu dịch là bác có một người con trai."
+    },
+    {
+      "sent_id": "id_208",
+      "smil_sid": "sid_208",
+      "p_id": "c16_p78",
+      "seq_id": "seq_78",
+      "text": "Có nhiều lý do mà bác không muốn nói, những bất đồng ý kiến quan trọng làm cha con bác phải xa nhau."
+    },
+    {
+      "sent_id": "id_209",
+      "smil_sid": "sid_209",
+      "p_id": "c16_p78",
+      "seq_id": "seq_78",
+      "text": "Sau cuộc hôn nhân, mà bác không đồng ý, có sự tan rã hoàn toàn."
+    },
+    {
+      "sent_id": "id_210",
+      "smil_sid": "sid_210",
+      "p_id": "c16_p78",
+      "seq_id": "seq_78",
+      "text": "Nhưng sự xích mích ấy không thể dập tắt tình thương của bác đối với nó, bởi vì bác yêu nó."
+    },
+    {
+      "sent_id": "id_211",
+      "smil_sid": "sid_211",
+      "p_id": "c16_p78",
+      "seq_id": "seq_78",
+      "text": "Sau bao năm xa cách, bác vẫn trông thấy nó còn bé bỏng, như lúc bác nuôi nó."
+    },
+    {
+      "sent_id": "id_212",
+      "smil_sid": "sid_212",
+      "p_id": "c16_p78",
+      "seq_id": "seq_78",
+      "text": "Khi bác nghĩ đến nó, nghĩa là suốt ngày và đêm quá dài đối với bác!"
+    },
+    {
+      "sent_id": "id_213",
+      "smil_sid": "sid_213",
+      "p_id": "c16_p78",
+      "seq_id": "seq_78",
+      "text": "Con bác đã quên bác, nó chọn một người phụ nữ nó yêu và tổ chức đám cưới mà bác không công nhận."
+    },
+    {
+      "sent_id": "id_214",
+      "smil_sid": "sid_214",
+      "p_id": "c16_p78",
+      "seq_id": "seq_78",
+      "text": "Đáng lẽ, trở về ở bên cạnh bác, nó lại ở lại với vợ con nó vì bác không muốn và cũng không thể đón tiếp người phụ nữ ấy."
+    },
+    {
+      "sent_id": "id_215",
+      "smil_sid": "sid_215",
+      "p_id": "c16_p78",
+      "seq_id": "seq_78",
+      "text": "Bác hy vọng nó sẽ chiều bác."
+    },
+    {
+      "sent_id": "id_216",
+      "smil_sid": "sid_216",
+      "p_id": "c16_p78",
+      "seq_id": "seq_78",
+      "text": "Nó cũng nghĩ là bác sẽ chiều nó."
+    },
+    {
+      "sent_id": "id_217",
+      "smil_sid": "sid_217",
+      "p_id": "c16_p78",
+      "seq_id": "seq_78",
+      "text": "Nhưng cha con bác cùng một tính cách như nhau: Chẳng ai chịu nhường ai!"
+    },
+    {
+      "sent_id": "id_218",
+      "smil_sid": "sid_218",
+      "p_id": "c16_p78",
+      "seq_id": "seq_78",
+      "text": "Bác không nhận được thư nó."
+    },
+    {
+      "sent_id": "id_219",
+      "smil_sid": "sid_219",
+      "p_id": "c16_p78",
+      "seq_id": "seq_78",
+      "text": "Bác chắc là nó biết bác bị bệnh."
+    },
+    {
+      "sent_id": "id_220",
+      "smil_sid": "sid_220",
+      "p_id": "c16_p78",
+      "seq_id": "seq_78",
+      "text": "Bác nghĩ người ta cho nó hay tin tức ở đây."
+    },
+    {
+      "sent_id": "id_221",
+      "smil_sid": "sid_221",
+      "p_id": "c16_p78",
+      "seq_id": "seq_78",
+      "text": "Bác tưởng là nó sẽ trở về."
+    },
+    {
+      "sent_id": "id_222",
+      "smil_sid": "sid_222",
+      "p_id": "c16_p78",
+      "seq_id": "seq_78",
+      "text": "Nó đã không trở về."
+    },
+    {
+      "sent_id": "id_223",
+      "smil_sid": "sid_223",
+      "p_id": "c16_p78",
+      "seq_id": "seq_78",
+      "text": "Có lẽ cái con khốn kiếp ấy đã giữ nó ở lại."
+    },
+    {
+      "sent_id": "id_224",
+      "smil_sid": "sid_224",
+      "p_id": "c16_p78",
+      "seq_id": "seq_78",
+      "text": "Mụ cướp con trai bác mà còn chưa vừa lòng còn giữ nó, không cho nó về với bác, cái con khốn nạn."
+    },
+    {
+      "sent_id": "id_225",
+      "smil_sid": "sid_225",
+      "p_id": "c16_p79",
+      "seq_id": "seq_79",
+      "text": "Perin lắng nghe."
+    },
+    {
+      "sent_id": "id_226",
+      "smil_sid": "sid_226",
+      "p_id": "c16_p79",
+      "seq_id": "seq_79",
+      "text": "Em nín thở."
+    },
+    {
+      "sent_id": "id_227",
+      "smil_sid": "sid_227",
+      "p_id": "c16_p79",
+      "seq_id": "seq_79",
+      "text": "Đôi mắt dán vào đôi môi của ông Vunphran."
+    },
+    {
+      "sent_id": "id_228",
+      "smil_sid": "sid_228",
+      "p_id": "c16_p79",
+      "seq_id": "seq_79",
+      "text": "Đến từ ấy, em ngắt lời:"
+    },
+    {
+      "sent_id": "id_229",
+      "smil_sid": "sid_229",
+      "p_id": "c16_p80",
+      "seq_id": "seq_80",
+      "text": "- Bức thư của Cha Phinđơ viết: “Một người phụ nữ có đầy đủ đức tính dễ thương: Thông minh, nhân hậu, dịu dàng, một trái tim nhạy cảm, một tính cách chính trực”."
+    },
+    {
+      "sent_id": "id_230",
+      "smil_sid": "sid_230",
+      "p_id": "c16_p80",
+      "seq_id": "seq_80",
+      "text": "Người ta sẽ không nói như thế về một con người khốn nạn đâu!"
+    },
+    {
+      "sent_id": "id_231",
+      "smil_sid": "sid_231",
+      "p_id": "c16_p81",
+      "seq_id": "seq_81",
+      "text": "- Bức thư có thể chống lại sự việc."
+    },
+    {
+      "sent_id": "id_232",
+      "smil_sid": "sid_232",
+      "p_id": "c16_p81",
+      "seq_id": "seq_81",
+      "text": "Cái chính là bác thù hằn, giận dữ mụ ta vì mụ ta giữ riết thằng con bác."
+    },
+    {
+      "sent_id": "id_233",
+      "smil_sid": "sid_233",
+      "p_id": "c16_p81",
+      "seq_id": "seq_81",
+      "text": "Đáng lẽ mụ ta phải lánh mặt để cho nó trở về đây sống cuộc sống của nó."
+    },
+    {
+      "sent_id": "id_234",
+      "smil_sid": "sid_234",
+      "p_id": "c16_p81",
+      "seq_id": "seq_81",
+      "text": "Thế mà cha con bác vẫn xa nhau."
+    },
+    {
+      "sent_id": "id_235",
+      "smil_sid": "sid_235",
+      "p_id": "c16_p81",
+      "seq_id": "seq_81",
+      "text": "Cháu thấy đấy, bác đã mất công tìm kiếm, bác cũng chẳng biết bây giờ nó ở đâu?"
+    },
+    {
+      "sent_id": "id_236",
+      "smil_sid": "sid_236",
+      "p_id": "c16_p81",
+      "seq_id": "seq_81",
+      "text": "Cũng như bác, cháu thấy nhữngkhó khăn ngăn cản chuyện thăm dò!"
+    },
+    {
+      "sent_id": "id_237",
+      "smil_sid": "sid_237",
+      "p_id": "c16_p81",
+      "seq_id": "seq_81",
+      "text": "Những khó khăn càng rắc rối thêm là do hoàn cảnh đặc biệt mà bác phải giải thích cho cháu nghe."
+    },
+    {
+      "sent_id": "id_238",
+      "smil_sid": "sid_238",
+      "p_id": "c16_p81",
+      "seq_id": "seq_81",
+      "text": "Có lẽ một cô bé ở lứa tuổi cháu sẽ không thấy đâu."
+    },
+    {
+      "sent_id": "id_239",
+      "smil_sid": "sid_239",
+      "p_id": "c16_p81",
+      "seq_id": "seq_81",
+      "text": "Dẫu sao thì cũng phải làm cho cháu hiểu hết."
+    },
+    {
+      "sent_id": "id_240",
+      "smil_sid": "sid_240",
+      "p_id": "c16_p81",
+      "seq_id": "seq_81",
+      "text": "Bởi vì bác tin ở cháu và cháu sẽ phải giúp bác hoàn thành công việc."
+    },
+    {
+      "sent_id": "id_241",
+      "smil_sid": "sid_241",
+      "p_id": "c16_p81",
+      "seq_id": "seq_81",
+      "text": "Thằng con bác vắng mặt lâu ngày, nó mất tích!"
+    },
+    {
+      "sent_id": "id_242",
+      "smil_sid": "sid_242",
+      "p_id": "c16_p81",
+      "seq_id": "seq_81",
+      "text": "Đã từ lâu, hai cha con bác không liên lạc với nhau."
+    },
+    {
+      "sent_id": "id_243",
+      "smil_sid": "sid_243",
+      "p_id": "c16_p81",
+      "seq_id": "seq_81",
+      "text": "Những tin tức cuối cùng mà người ta nhận được, nhen nhóm cho bác chút hy vọng gì đó."
+    },
+    {
+      "sent_id": "id_244",
+      "smil_sid": "sid_244",
+      "p_id": "c16_p81",
+      "seq_id": "seq_81",
+      "text": "Nếu con bác không còn ở đây thay bác khi bác không còn đủ sức để đảm đương công việc, và để hưởng gia tài thì khi bác chết, ai sẽ chiếm cái vị trí ấy?"
+    },
+    {
+      "sent_id": "id_245",
+      "smil_sid": "sid_245",
+      "p_id": "c16_p81",
+      "seq_id": "seq_81",
+      "text": "Người nào sẽ hưởng cái gia tài này?"
+    },
+    {
+      "sent_id": "id_246",
+      "smil_sid": "sid_246",
+      "p_id": "c16_p81",
+      "seq_id": "seq_81",
+      "text": "Cháu hiểu có những hy vọng ẩn náu sau những câu hỏi ấy?"
+    },
+    {
+      "sent_id": "id_247",
+      "smil_sid": "sid_247",
+      "p_id": "c16_p82",
+      "seq_id": "seq_82",
+      "text": "- Cháu gần hiểu, thưa ông."
+    },
+    {
+      "sent_id": "id_248",
+      "smil_sid": "sid_248",
+      "p_id": "c16_p83",
+      "seq_id": "seq_83",
+      "text": "- Thế là đủ."
+    },
+    {
+      "sent_id": "id_249",
+      "smil_sid": "sid_249",
+      "p_id": "c16_p83",
+      "seq_id": "seq_83",
+      "text": "Bác thích cháu chưa hiểu hết!"
+    },
+    {
+      "sent_id": "id_250",
+      "smil_sid": "sid_250",
+      "p_id": "c16_p83",
+      "seq_id": "seq_83",
+      "text": "Thế là bên cạnh bác, trong những người cần phải giúp đỡ bác, có những người, nếu con bác không trở về thì có lợi cho họ."
+    },
+    {
+      "sent_id": "id_251",
+      "smil_sid": "sid_251",
+      "p_id": "c16_p83",
+      "seq_id": "seq_83",
+      "text": "Vì thế, họ tưởng tượng là con bác đã chết."
+    },
+    {
+      "sent_id": "id_252",
+      "smil_sid": "sid_252",
+      "p_id": "c16_p83",
+      "seq_id": "seq_83",
+      "text": "Con bác mà chết ư?"
+    },
+    {
+      "sent_id": "id_253",
+      "smil_sid": "sid_253",
+      "p_id": "c16_p83",
+      "seq_id": "seq_83",
+      "text": "Làm thế nào lại như thế được!"
+    },
+    {
+      "sent_id": "id_254",
+      "smil_sid": "sid_254",
+      "p_id": "c16_p83",
+      "seq_id": "seq_83",
+      "text": "Chẳng lẽ bác lại bất hạnh như vậy sao?"
+    },
+    {
+      "sent_id": "id_255",
+      "smil_sid": "sid_255",
+      "p_id": "c16_p83",
+      "seq_id": "seq_83",
+      "text": "Họ có thể tin thế, còn bác, bác không thể tin được!"
+    },
+    {
+      "sent_id": "id_256",
+      "smil_sid": "sid_256",
+      "p_id": "c16_p83",
+      "seq_id": "seq_83",
+      "text": "Bác còn làm gì ở trên đời nếu Étmông không còn nữa!"
+    },
+    {
+      "sent_id": "id_257",
+      "smil_sid": "sid_257",
+      "p_id": "c16_p83",
+      "seq_id": "seq_83",
+      "text": "Theo luật của tạo hóa thì con mất bố mẹ chứ không phải bố mẹ mất con cái!"
+    },
+    {
+      "sent_id": "id_258",
+      "smil_sid": "sid_258",
+      "p_id": "c16_p83",
+      "seq_id": "seq_83",
+      "text": "Bác có hàng trăm lý lẽ: Cái này hay hơn cái kia để chứng minh những hy vọng của họ là điên cuồng!"
+    },
+    {
+      "sent_id": "id_259",
+      "smil_sid": "sid_259",
+      "p_id": "c16_p83",
+      "seq_id": "seq_83",
+      "text": "Nếu Étmông đã chết trong một tai nạn, bác phải biết chứ!"
+    },
+    {
+      "sent_id": "id_260",
+      "smil_sid": "sid_260",
+      "p_id": "c16_p83",
+      "seq_id": "seq_83",
+      "text": "Vợ nó là người đầu tiên sẽ tin cho bác hay."
+    },
+    {
+      "sent_id": "id_261",
+      "smil_sid": "sid_261",
+      "p_id": "c16_p83",
+      "seq_id": "seq_83",
+      "text": "Thế thì Étmông không chết, không thể chết!"
+    },
+    {
+      "sent_id": "id_262",
+      "smil_sid": "sid_262",
+      "p_id": "c16_p83",
+      "seq_id": "seq_83",
+      "text": "Bác sẽ là một người cha không có niềm tin, nếu chấp nhận điều trái lại."
+    },
+    {
+      "sent_id": "id_263",
+      "smil_sid": "sid_263",
+      "p_id": "c16_p84",
+      "seq_id": "seq_84",
+      "text": "Perin không nhìn chăm chăm vào ông Vunphran nữa."
+    },
+    {
+      "sent_id": "id_264",
+      "smil_sid": "sid_264",
+      "p_id": "c16_p84",
+      "seq_id": "seq_84",
+      "text": "Em đã quay mặt đi, như sợ ông ấy nhìn rõ em."
+    },
+    {
+      "sent_id": "id_265",
+      "smil_sid": "sid_265",
+      "p_id": "c16_p85",
+      "seq_id": "seq_85",
+      "text": "- Những người khác không có niềm tin ấy có thể nghỉ là con bác đã chết!"
+    },
+    {
+      "sent_id": "id_266",
+      "smil_sid": "sid_266",
+      "p_id": "c16_p85",
+      "seq_id": "seq_85",
+      "text": "Điều ấy giải thích cho cháu sự tò mò của họ và tại sao bác phải đề phòng để giữ bí mật những gì thuộc về việc tìm kiếm tung tích của con bác."
+    },
+    {
+      "sent_id": "id_267",
+      "smil_sid": "sid_267",
+      "p_id": "c16_p85",
+      "seq_id": "seq_85",
+      "text": "Bác nói thật cho cháu như thế đấy."
+    },
+    {
+      "sent_id": "id_268",
+      "smil_sid": "sid_268",
+      "p_id": "c16_p85",
+      "seq_id": "seq_85",
+      "text": "Trước hết để cháu rõ nhiệm vụ mà bác giao cho cháu là trả người con về cho người cha!"
+    },
+    {
+      "sent_id": "id_269",
+      "smil_sid": "sid_269",
+      "p_id": "c16_p85",
+      "seq_id": "seq_85",
+      "text": "Bác tin chắc là cháu có lương tâm để hết lòng với công việc ấy!"
+    },
+    {
+      "sent_id": "id_270",
+      "smil_sid": "sid_270",
+      "p_id": "c16_p85",
+      "seq_id": "seq_85",
+      "text": "Với lại, bác còn nói rõ với cháu, bởi vì đó là nguyên tắc sống của bác: đi thẳng vào mục đích trong khi nói rõ mình đi đâu."
+    },
+    {
+      "sent_id": "id_271",
+      "smil_sid": "sid_271",
+      "p_id": "c16_p85",
+      "seq_id": "seq_85",
+      "text": "Có khi những đứa láu lỉnh không chịu tin bác và cho là bác giả vờ."
+    },
+    {
+      "sent_id": "id_272",
+      "smil_sid": "sid_272",
+      "p_id": "c16_p85",
+      "seq_id": "seq_85",
+      "text": "Chúng bị hẫng và chỉ mất công toi!"
+    },
+    {
+      "sent_id": "id_273",
+      "smil_sid": "sid_273",
+      "p_id": "c16_p85",
+      "seq_id": "seq_85",
+      "text": "Đó là sự trừng phạt!"
+    },
+    {
+      "sent_id": "id_274",
+      "smil_sid": "sid_274",
+      "p_id": "c16_p85",
+      "seq_id": "seq_85",
+      "text": "Người ta sẽ còn tìm cách cám dỗ cháu!"
+    },
+    {
+      "sent_id": "id_275",
+      "smil_sid": "sid_275",
+      "p_id": "c16_p85",
+      "seq_id": "seq_85",
+      "text": "Chuyện ấy có thể xảy ra từ mọi phía!"
+    },
+    {
+      "sent_id": "id_276",
+      "smil_sid": "sid_276",
+      "p_id": "c16_p85",
+      "seq_id": "seq_85",
+      "text": "Như thế, là cháu đã được báo trước: đó là điều bác cần phải làm!"
+    },
+    {
+      "sent_id": "id_277",
+      "smil_sid": "sid_277",
+      "p_id": "c16_p86",
+      "seq_id": "seq_86",
+      "text": "Họ đã đến nơi có thể trông thấy những ống khói của nhà máy Hécchơ, nhà máy xa Marôcua nhất."
+    },
+    {
+      "sent_id": "id_278",
+      "smil_sid": "sid_278",
+      "p_id": "c16_p86",
+      "seq_id": "seq_86",
+      "text": "Chỉ còn vài vòng bánh xe nữa là họ vào làng."
+    },
+    {
+      "sent_id": "id_279",
+      "smil_sid": "sid_279",
+      "p_id": "c16_p86",
+      "seq_id": "seq_86",
+      "text": "Perin xúc động mãnh liệt, run rẩy, muốn tìm lời để đáp, nhưng mãi vẫn không tìm ra."
+    },
+    {
+      "sent_id": "id_280",
+      "smil_sid": "sid_280",
+      "p_id": "c16_p86",
+      "seq_id": "seq_86",
+      "text": "Đầu óc em bị tê liệt vì cảm kích, cái cổ như bị bóp nghẹt, đôi môi khô khốc."
+    },
+    {
+      "sent_id": "id_281",
+      "smil_sid": "sid_281",
+      "p_id": "c16_p87",
+      "seq_id": "seq_87",
+      "text": "- Còn cháu, cuối cùng em nói, cháu cần phải thưa cho ông hay, cháu hết lòng phục vụ ông!"
+    },
+    {
+      "sent_id": "id_282",
+      "smil_sid": "sid_282",
+      "p_id": "c16_p88",
+      "seq_id": "seq_88",
+      "text": "oOo"
+    },
+    {
+      "sent_id": "id_283",
+      "smil_sid": "sid_283",
+      "p_id": "c16_p89",
+      "seq_id": "seq_89",
+      "text": "Buổi chiều, đáng lẽ ông Vunphran đi một vòng thăm các nhà máy rồi trở về phòng làm việc theo thường lệ."
+    },
+    {
+      "sent_id": "id_284",
+      "smil_sid": "sid_284",
+      "p_id": "c16_p89",
+      "seq_id": "seq_89",
+      "text": "Lần này, ông bảo Perin đưa ông thẳng về lâu đài."
+    },
+    {
+      "sent_id": "id_285",
+      "smil_sid": "sid_285",
+      "p_id": "c16_p89",
+      "seq_id": "seq_89",
+      "text": "Đây là lần đầu tiên, Perin vượt qua cánh cổng chấn song mạ vàng nguy nga, lộng lẫy, một kiệt tác của người thợ khóa – nghệ sĩ mà người địa phương bảo vừa muốn trưng bày ở một cuộc triển lãm vừa qua nhưng không làm sao có được!"
+    },
+    {
+      "sent_id": "id_286",
+      "smil_sid": "sid_286",
+      "p_id": "c16_p89",
+      "seq_id": "seq_89",
+      "text": "Nhưng nhà kỹ nghệ giàu sụ này không cho là quá đắt đối với ngôi nhà ở nông thôn của mình."
+    },
+    {
+      "sent_id": "id_287",
+      "smil_sid": "sid_287",
+      "p_id": "c16_p90",
+      "seq_id": "seq_90",
+      "text": "- Cứ theo con đường lớn vòng cung, ông Vunphran nói."
+    },
+    {
+      "sent_id": "id_288",
+      "smil_sid": "sid_288",
+      "p_id": "c16_p91",
+      "seq_id": "seq_91",
+      "text": "Đây cũng là lần đầu tiên, Perin được trông thấy tận mắt những chùm hoa mà trước đây em chỉ trông thấy ở xa như những chấm đỏ, chấm hồng trên bức thảm nhung đậm của mấy bãi cỏ đã cắt sát."
+    },
+    {
+      "sent_id": "id_289",
+      "smil_sid": "sid_289",
+      "p_id": "c16_p91",
+      "seq_id": "seq_91",
+      "text": "Em không cần phải hướng dẫn cho Côcô."
+    },
+    {
+      "sent_id": "id_290",
+      "smil_sid": "sid_290",
+      "p_id": "c16_p91",
+      "seq_id": "seq_91",
+      "text": "Nó đã quá quen thuộc con đường này nên nó bình tĩnh bước."
+    },
+    {
+      "sent_id": "id_291",
+      "smil_sid": "sid_291",
+      "p_id": "c16_p91",
+      "seq_id": "seq_91",
+      "text": "Perin có thể nhìn bên phải, bên trái, những chùm hoa, cây cảnh rất đẹp, xứng đáng được trồng riêng biệt để dễ nhìn thấy."
+    },
+    {
+      "sent_id": "id_292",
+      "smil_sid": "sid_292",
+      "p_id": "c16_p91",
+      "seq_id": "seq_91",
+      "text": "Tuy ông chủ không thể ngắm cây cảnh như ngày nào, khu vườn vẫn không có gì thay đổi trong sự bài trí."
+    },
+    {
+      "sent_id": "id_293",
+      "smil_sid": "sid_293",
+      "p_id": "c16_p91",
+      "seq_id": "seq_91",
+      "text": "Nó vẫn được chi phí về trang trí như cũ bà bảo quản cẩn thận như ở cái thời mà mỗi buổi sáng, buổi chiều, ông chủ còn kiêu hãnh nhìn ngắm."
+    },
+    {
+      "sent_id": "id_294",
+      "smil_sid": "sid_294",
+      "p_id": "c16_p91",
+      "seq_id": "seq_91",
+      "text": "Côcô ngừng lại trước hàng hiên có bậc riêng."
+    },
+    {
+      "sent_id": "id_295",
+      "smil_sid": "sid_295",
+      "p_id": "c16_p91",
+      "seq_id": "seq_91",
+      "text": "Nghe tiếng chuông bác gác cổng báo, một lão bộc đứng đợi:"
+    },
+    {
+      "sent_id": "id_296",
+      "smil_sid": "sid_296",
+      "p_id": "c16_p92",
+      "seq_id": "seq_92",
+      "text": "- Bátxchiêng đấy ư?"
+    },
+    {
+      "sent_id": "id_297",
+      "smil_sid": "sid_297",
+      "p_id": "c16_p92",
+      "seq_id": "seq_92",
+      "text": "Ông Vunphran vẫn ngồi trên xe, nói."
+    },
+    {
+      "sent_id": "id_298",
+      "smil_sid": "sid_298",
+      "p_id": "c16_p93",
+      "seq_id": "seq_93",
+      "text": "- Vâng, thưa ông."
+    },
+    {
+      "sent_id": "id_299",
+      "smil_sid": "sid_299",
+      "p_id": "c16_p94",
+      "seq_id": "seq_94",
+      "text": "- Anh đưa cô thiếu nữ này về phòng bươm bướm sau này sẽ là phòng riêng cho cô ấy đấy!"
+    },
+    {
+      "sent_id": "id_300",
+      "smil_sid": "sid_300",
+      "p_id": "c16_p94",
+      "seq_id": "seq_94",
+      "text": "Anh chăm sóc để người ta đem đến đây tất cả những gì cần thiết để cô ấy tắm, gội, trang điểm."
+    },
+    {
+      "sent_id": "id_301",
+      "smil_sid": "sid_301",
+      "p_id": "c16_p94",
+      "seq_id": "seq_94",
+      "text": "Anh dọn cho cô ấy ăn với tôi."
+    },
+    {
+      "sent_id": "id_302",
+      "smil_sid": "sid_302",
+      "p_id": "c16_p94",
+      "seq_id": "seq_94",
+      "text": "Anh tạt qua bảo Phêlít đưa tôi về buồng giấy."
+    },
+    {
+      "sent_id": "id_303",
+      "smil_sid": "sid_303",
+      "p_id": "c16_p95",
+      "seq_id": "seq_95",
+      "text": "Perin tự hỏi có nằm mơ không?"
+    },
+    {
+      "sent_id": "id_304",
+      "smil_sid": "sid_304",
+      "p_id": "c16_p96",
+      "seq_id": "seq_96",
+      "text": "- Tám giờ, chúng ta ăn cơm tối!"
+    },
+    {
+      "sent_id": "id_305",
+      "smil_sid": "sid_305",
+      "p_id": "c16_p96",
+      "seq_id": "seq_96",
+      "text": "Ông Vunphran nói."
+    },
+    {
+      "sent_id": "id_306",
+      "smil_sid": "sid_306",
+      "p_id": "c16_p96",
+      "seq_id": "seq_96",
+      "text": "Bây giờ, cháu được tự do!"
+    },
+    {
+      "sent_id": "id_307",
+      "smil_sid": "sid_307",
+      "p_id": "c16_p97",
+      "seq_id": "seq_97",
+      "text": "Perin xuống xe, đi theo bác lão bộc."
+    },
+    {
+      "sent_id": "id_308",
+      "smil_sid": "sid_308",
+      "p_id": "c16_p97",
+      "seq_id": "seq_97",
+      "text": "Em hoa mắt như bước vào một tòa lâu đài kỳ diệu!"
+    },
+    {
+      "sent_id": "id_309",
+      "smil_sid": "sid_309",
+      "p_id": "c16_p97",
+      "seq_id": "seq_97",
+      "text": "Và thật thế, cái phòng đồ sộ ở đó có cái cầu thang trang nghiêm với các bậc đá hoa trắng trải thảm đỏ như một con đường đỏ không phải là của một tòa lâu đài sao?"
+    },
+    {
+      "sent_id": "id_310",
+      "smil_sid": "sid_310",
+      "p_id": "c16_p97",
+      "seq_id": "seq_97",
+      "text": "Ở mỗi bậc thang lầu có nhiều loại thảo mộc và hoa đẹp kết hợp trong các giỏ trồng hoa."
+    },
+    {
+      "sent_id": "id_311",
+      "smil_sid": "sid_311",
+      "p_id": "c16_p97",
+      "seq_id": "seq_97",
+      "text": "Mùi hương tỏa thơm ngát trong không khí cô đọng."
+    },
+    {
+      "sent_id": "id_312",
+      "smil_sid": "sid_312",
+      "p_id": "c16_p97",
+      "seq_id": "seq_97",
+      "text": "Bátxchiêng đưa Perin lên lầu hai, mở một cánh cửa nhưng không vào."
+    },
+    {
+      "sent_id": "id_313",
+      "smil_sid": "sid_313",
+      "p_id": "c16_p98",
+      "seq_id": "seq_98",
+      "text": "- Tôi sẽ bảo chị hầu phòng đến gặp cô – bác nói và rút lui."
+    },
+    {
+      "sent_id": "id_314",
+      "smil_sid": "sid_314",
+      "p_id": "c16_p99",
+      "seq_id": "seq_99",
+      "text": "Sau khi đi qua một lối nhỏ hơi tối, Perin bước vào một căn phòng rộng rãi, sáng sủa có chăng vài màu ngà ngà."
+    },
+    {
+      "sent_id": "id_315",
+      "smil_sid": "sid_315",
+      "p_id": "c16_p99",
+      "seq_id": "seq_99",
+      "text": "Trên vải rải rác có những con bướm màu rực rỡ đang bay lượn…"
+    },
+    {
+      "sent_id": "id_316",
+      "smil_sid": "sid_316",
+      "p_id": "c16_p99",
+      "seq_id": "seq_99",
+      "text": "Bàn ghế bằng gỗ quý điểm những chấm nhỏ trên thảm, có những bó hoa đồng nội: hoa màu gà, bờluê, cúc hoang…"
+    },
+    {
+      "sent_id": "id_317",
+      "smil_sid": "sid_317",
+      "p_id": "c16_p100",
+      "seq_id": "seq_100",
+      "text": "Chao ôi!"
+    },
+    {
+      "sent_id": "id_318",
+      "smil_sid": "sid_318",
+      "p_id": "c16_p100",
+      "seq_id": "seq_100",
+      "text": "Tươi mát và xinh xắn quá!"
+    },
+    {
+      "sent_id": "id_319",
+      "smil_sid": "sid_319",
+      "p_id": "c16_p101",
+      "seq_id": "seq_101",
+      "text": "Perin chưa hết ngạc nhiên."
+    },
+    {
+      "sent_id": "id_320",
+      "smil_sid": "sid_320",
+      "p_id": "c16_p101",
+      "seq_id": "seq_101",
+      "text": "Em thích thú lấy chân ấn vào tấm thảm mềm mại."
+    },
+    {
+      "sent_id": "id_321",
+      "smil_sid": "sid_321",
+      "p_id": "c16_p101",
+      "seq_id": "seq_101",
+      "text": "Chân em đang bị tấm thảm đẩy ngược lên thì chị hầu phòng vào."
+    },
+    {
+      "sent_id": "id_322",
+      "smil_sid": "sid_322",
+      "p_id": "c16_p102",
+      "seq_id": "seq_102",
+      "text": "- Bátxchiêng bảo tôi đến đây để cô sai bảo."
+    },
+    {
+      "sent_id": "id_323",
+      "smil_sid": "sid_323",
+      "p_id": "c16_p103",
+      "seq_id": "seq_103",
+      "text": "Một chị hầu phòng mặc quần áomàu sáng, độ mũ trùm đầu bằng tuyn đang đợi lệnh Perin."
+    },
+    {
+      "sent_id": "id_324",
+      "smil_sid": "sid_324",
+      "p_id": "c16_p103",
+      "seq_id": "seq_103",
+      "text": "Trước đây mấy hôm, cô gái ấy ngủ trong lều, nằm trên chiếc giường bằng sậy, ở giữa ao hồ, bạn cùng chuột đồng và ếch nhái!"
+    },
+    {
+      "sent_id": "id_325",
+      "smil_sid": "sid_325",
+      "p_id": "c16_p103",
+      "seq_id": "seq_103",
+      "text": "Phải có một chút thời gian để Perin nhận ra mình."
+    },
+    {
+      "sent_id": "id_326",
+      "smil_sid": "sid_326",
+      "p_id": "c16_p104",
+      "seq_id": "seq_104",
+      "text": "- Xin cám ơn chị!"
+    },
+    {
+      "sent_id": "id_327",
+      "smil_sid": "sid_327",
+      "p_id": "c16_p104",
+      "seq_id": "seq_104",
+      "text": "Cuối cùng em nói."
+    },
+    {
+      "sent_id": "id_328",
+      "smil_sid": "sid_328",
+      "p_id": "c16_p104",
+      "seq_id": "seq_104",
+      "text": "Em không cần gì hết… hình như thế!"
+    },
+    {
+      "sent_id": "id_329",
+      "smil_sid": "sid_329",
+      "p_id": "c16_p105",
+      "seq_id": "seq_105",
+      "text": "- Nếu cô cho phép, tôi xin giới thiệu gian buồng này với cô."
+    },
+    {
+      "sent_id": "id_330",
+      "smil_sid": "sid_330",
+      "p_id": "c16_p106",
+      "seq_id": "seq_106",
+      "text": "Cái mà chị ấy nói: “Giới thiệu gian buồng” nghĩa là mở một cái tủ đứng có kính và một cái kệ ở trong vách tường, những ngăn kéo trong chiếc bàn trang điểm có bàn chải kéo, xà phòng và nhiều chai, lọ."
+    },
+    {
+      "sent_id": "id_331",
+      "smil_sid": "sid_331",
+      "p_id": "c16_p106",
+      "seq_id": "seq_106",
+      "text": "Làm xong mọi việc, chỉ đặt bàn tay lên một nút bấm ở sau tấm rèm:"
+    },
+    {
+      "sent_id": "id_332",
+      "smil_sid": "sid_332",
+      "p_id": "c16_p107",
+      "seq_id": "seq_107",
+      "text": "- Cái này, chị nói, bấm chuông để gọi."
+    },
+    {
+      "sent_id": "id_333",
+      "smil_sid": "sid_333",
+      "p_id": "c16_p107",
+      "seq_id": "seq_107",
+      "text": "Cái kia để bật đèn."
+    },
+    {
+      "sent_id": "id_334",
+      "smil_sid": "sid_334",
+      "p_id": "c16_p108",
+      "seq_id": "seq_108",
+      "text": "Trong phút chốc, lối ra vào, buồng trang điểm, sáng rực lên rồi cũng trong phút chốc tắt ngấm."
+    },
+    {
+      "sent_id": "id_335",
+      "smil_sid": "sid_335",
+      "p_id": "c16_p108",
+      "seq_id": "seq_108",
+      "text": "Perin tưởng như đang ở trong cánh đồng ở ngoại ô Paris khi gặp trận giông tố."
+    },
+    {
+      "sent_id": "id_336",
+      "smil_sid": "sid_336",
+      "p_id": "c16_p108",
+      "seq_id": "seq_108",
+      "text": "Những ánh chớp lòe sáng chỉ đường cho em đi, hay nhấn chìm em trong bóng tối."
+    },
+    {
+      "sent_id": "id_337",
+      "smil_sid": "sid_337",
+      "p_id": "c16_p109",
+      "seq_id": "seq_109",
+      "text": "- Khi nào cô cần sai bảo tôi, xin cô bấm chuông gọi: một tiếng để gọi bác Bátxchiêng, hai tiếng để gọi tôi…"
+    },
+    {
+      "sent_id": "id_338",
+      "smil_sid": "sid_338",
+      "p_id": "c16_p110",
+      "seq_id": "seq_110",
+      "text": "Cái mà “cô muốn” là được ở một mình, để đi thăm gian buồng, để được bình tĩnh lại."
+    },
+    {
+      "sent_id": "id_339",
+      "smil_sid": "sid_339",
+      "p_id": "c16_p110",
+      "seq_id": "seq_110",
+      "text": "Từ sáng đến giờ, những việc liên tiếp xảy ra, làm em mất thăng bằng."
+    },
+    {
+      "sent_id": "id_340",
+      "smil_sid": "sid_340",
+      "p_id": "c16_p110",
+      "seq_id": "seq_110",
+      "text": "Biết bao là sự việc, những chuyện bất ngờ trong vài tiếng!"
+    },
+    {
+      "sent_id": "id_341",
+      "smil_sid": "sid_341",
+      "p_id": "c16_p110",
+      "seq_id": "seq_110",
+      "text": "Ai có thể nói trước được!"
+    },
+    {
+      "sent_id": "id_342",
+      "smil_sid": "sid_342",
+      "p_id": "c16_p110",
+      "seq_id": "seq_110",
+      "text": "Em vừa bị Têôdo và Taluen dọa nạt sáng nay, và đang lo sợ tai họa đe dọa!"
+    },
+    {
+      "sent_id": "id_343",
+      "smil_sid": "sid_343",
+      "p_id": "c16_p110",
+      "seq_id": "seq_110",
+      "text": "Nhưng gió đã xoay chiều khá thuận lợi cho em."
+    },
+    {
+      "sent_id": "id_344",
+      "smil_sid": "sid_344",
+      "p_id": "c16_p110",
+      "seq_id": "seq_110",
+      "text": "Thật là buồn cười khi nghĩ vì bọn họ hận thù em, nên em mới được thế này!"
+    },
+    {
+      "sent_id": "id_345",
+      "smil_sid": "sid_345",
+      "p_id": "c16_p111",
+      "seq_id": "seq_111",
+      "text": "Nhưng em lại còn buồn cười hơn nữa nếu em có thể trông thấy ngài quản đốc khi đón ông Vunphran ở dưới cầu thang các phòng làm việc."
+    },
+    {
+      "sent_id": "id_346",
+      "smil_sid": "sid_346",
+      "p_id": "c16_p112",
+      "seq_id": "seq_112",
+      "text": "- Tôi cho rằng cô bé ấy đã phạm chút ít sai sót."
+    },
+    {
+      "sent_id": "id_347",
+      "smil_sid": "sid_347",
+      "p_id": "c16_p112",
+      "seq_id": "seq_112",
+      "text": "Taluen nói."
+    },
+    {
+      "sent_id": "id_348",
+      "smil_sid": "sid_348",
+      "p_id": "c16_p113",
+      "seq_id": "seq_113",
+      "text": "- Không phải vậy đâu!"
+    },
+    {
+      "sent_id": "id_349",
+      "smil_sid": "sid_349",
+      "p_id": "c16_p114",
+      "seq_id": "seq_114",
+      "text": "- Thế sao ông Philít đánh xe cho ông về?"
+    },
+    {
+      "sent_id": "id_350",
+      "smil_sid": "sid_350",
+      "p_id": "c16_p115",
+      "seq_id": "seq_115",
+      "text": "- Khi đi ngang lâu đài tôi cho em xuống để em có thời giờ chuẩn bị ăn cơm tối."
+    },
+    {
+      "sent_id": "id_351",
+      "smil_sid": "sid_351",
+      "p_id": "c16_p116",
+      "seq_id": "seq_116",
+      "text": "- Ăn cơm tối!"
+    },
+    {
+      "sent_id": "id_352",
+      "smil_sid": "sid_352",
+      "p_id": "c16_p116",
+      "seq_id": "seq_116",
+      "text": "Tôi cho rằng…"
+    },
+    {
+      "sent_id": "id_353",
+      "smil_sid": "sid_353",
+      "p_id": "c16_p117",
+      "seq_id": "seq_117",
+      "text": "- Tôi cho rằng!"
+    },
+    {
+      "sent_id": "id_354",
+      "smil_sid": "sid_354",
+      "p_id": "c16_p117",
+      "seq_id": "seq_117",
+      "text": "Ông Vunphran nói, tôi cho rằng ông chỉ biết đoán mò!"
+    },
+    {
+      "sent_id": "id_355",
+      "smil_sid": "sid_355",
+      "p_id": "c16_p118",
+      "seq_id": "seq_118",
+      "text": "- Tôi cho rằng ông ăn cơm tối với cô bé."
+    },
+    {
+      "sent_id": "id_356",
+      "smil_sid": "sid_356",
+      "p_id": "c16_p119",
+      "seq_id": "seq_119",
+      "text": "- Đúng thế!"
+    },
+    {
+      "sent_id": "id_357",
+      "smil_sid": "sid_357",
+      "p_id": "c16_p119",
+      "seq_id": "seq_119",
+      "text": "Đã từ lâu, tôi mong muốn có bên cạnh một người thông minh, kín đáo, trung thành mà tôi có thể tin cậy được!"
+    },
+    {
+      "sent_id": "id_358",
+      "smil_sid": "sid_358",
+      "p_id": "c16_p120",
+      "seq_id": "seq_120",
+      "text": "- Đúng là cô bé có thể tập hợp những đức tính đã nói đấy, hình như thế."
+    },
+    {
+      "sent_id": "id_359",
+      "smil_sid": "sid_359",
+      "p_id": "c16_p120",
+      "seq_id": "seq_120",
+      "text": "Thông minh, tôi tin chắc là em ấy thông minh."
+    },
+    {
+      "sent_id": "id_360",
+      "smil_sid": "sid_360",
+      "p_id": "c16_p120",
+      "seq_id": "seq_120",
+      "text": "Kín đáo và trung thành em ấy cũng có."
+    },
+    {
+      "sent_id": "id_361",
+      "smil_sid": "sid_361",
+      "p_id": "c16_p120",
+      "seq_id": "seq_120",
+      "text": "Tôi đã có bằng chứng."
+    },
+    {
+      "sent_id": "id_362",
+      "smil_sid": "sid_362",
+      "p_id": "c16_p120",
+      "seq_id": "seq_120",
+      "text": "Tuy ông Vunphran không nhấn mạnh khi nói, nhưng Taluen không hiểu lầm ý nghĩa những lời ấy."
+    },
+    {
+      "sent_id": "id_363",
+      "smil_sid": "sid_363",
+      "p_id": "c16_p121",
+      "seq_id": "seq_121",
+      "text": "- Tôi nhận ra em bé là vì thế!"
+    },
+    {
+      "sent_id": "id_364",
+      "smil_sid": "sid_364",
+      "p_id": "c16_p121",
+      "seq_id": "seq_121",
+      "text": "Tôi cũng không muốn em là mục tiêu của một vài tai họa, không phải vì em, bởi vì tôi tin chắc em không thể sa ngã, nhưng do những người khác, vì thế mà bắt buộc tôi phải giữ em xa những người ấy."
+    },
+    {
+      "sent_id": "id_365",
+      "smil_sid": "sid_365",
+      "p_id": "c16_p122",
+      "seq_id": "seq_122",
+      "text": "Ông Vunphran nhấn mạnh đoạn cuối."
+    },
+    {
+      "sent_id": "id_366",
+      "smil_sid": "sid_366",
+      "p_id": "c16_p123",
+      "seq_id": "seq_123",
+      "text": "- Mặc dù thế nào đi nữa, em bé cũng không rời tôi."
+    },
+    {
+      "sent_id": "id_367",
+      "smil_sid": "sid_367",
+      "p_id": "c16_p123",
+      "seq_id": "seq_123",
+      "text": "Ban ngày, em đưa tôi đi, ăn cơm tối."
+    },
+    {
+      "sent_id": "id_368",
+      "smil_sid": "sid_368",
+      "p_id": "c16_p123",
+      "seq_id": "seq_123",
+      "text": "Điều ấy, sẽ làm cho tôi đỡ buồn."
+    },
+    {
+      "sent_id": "id_369",
+      "smil_sid": "sid_369",
+      "p_id": "c16_p123",
+      "seq_id": "seq_123",
+      "text": "Trong bữa ăn, em nói chuyện cho tôi vui."
+    },
+    {
+      "sent_id": "id_370",
+      "smil_sid": "sid_370",
+      "p_id": "c16_p123",
+      "seq_id": "seq_123",
+      "text": "Em sẽ ở trong tòa lâu đài."
+    },
+    {
+      "sent_id": "id_371",
+      "smil_sid": "sid_371",
+      "p_id": "c16_p124",
+      "seq_id": "seq_124",
+      "text": "Taluen đã có thời giờ để trở lại bình tĩnh."
+    },
+    {
+      "sent_id": "id_372",
+      "smil_sid": "sid_372",
+      "p_id": "c16_p124",
+      "seq_id": "seq_124",
+      "text": "Với tư cách của người quản đốc, trong cách xử sự hàng ngày, không bao giờ trái ý ông chủ."
+    },
+    {
+      "sent_id": "id_373",
+      "smil_sid": "sid_373",
+      "p_id": "c16_p124",
+      "seq_id": "seq_124",
+      "text": "Taluen nói."
+    },
+    {
+      "sent_id": "id_374",
+      "smil_sid": "sid_374",
+      "p_id": "c16_p125",
+      "seq_id": "seq_125",
+      "text": "- Tôi cho là cô bé sẽ làm ông hài lòng."
+    },
+    {
+      "sent_id": "id_375",
+      "smil_sid": "sid_375",
+      "p_id": "c16_p125",
+      "seq_id": "seq_125",
+      "text": "Ông có thể tin ở cô ta, hình như thế."
+    },
+    {
+      "sent_id": "id_376",
+      "smil_sid": "sid_376",
+      "p_id": "c16_p126",
+      "seq_id": "seq_126",
+      "text": "- Tôi cũng cho là thế."
+    },
+    {
+      "sent_id": "id_377",
+      "smil_sid": "sid_377",
+      "p_id": "c16_p127",
+      "seq_id": "seq_127",
+      "text": "Trong lúc ấy, Perin tựa vào lan can nơi cửa sổ của em mơ mộng."
+    },
+    {
+      "sent_id": "id_378",
+      "smil_sid": "sid_378",
+      "p_id": "c16_p127",
+      "seq_id": "seq_127",
+      "text": "Em nhìn phong cảnh trước mắt em: những bồn hoa của khu vườn, những nhà máy, xóm làng với những ngôi nhà thờ."
+    },
+    {
+      "sent_id": "id_379",
+      "smil_sid": "sid_379",
+      "p_id": "c16_p127",
+      "seq_id": "seq_127",
+      "text": "Những cồn cỏ, hốc đất mà nước bạc phản chiếu dưới tia nắng xiên góc của trời chiều."
+    },
+    {
+      "sent_id": "id_380",
+      "smil_sid": "sid_380",
+      "p_id": "c16_p127",
+      "seq_id": "seq_127",
+      "text": "Đối diện với đây, phía bên kia là chòm cây của khu rừng mà em đã ngồi cái hôm em đến đây."
+    },
+    {
+      "sent_id": "id_381",
+      "smil_sid": "sid_381",
+      "p_id": "c16_p127",
+      "seq_id": "seq_127",
+      "text": "Trong ngọn gió chiều tà, Perin nghe có tiếng dịu dàng của mẹ đang thì thầm: “Mẹ thấy con sung sướng!”."
+    },
+    {
+      "sent_id": "id_382",
+      "smil_sid": "sid_382",
+      "p_id": "c16_p127",
+      "seq_id": "seq_127",
+      "text": "Mẹ đã đoán trước tương lai, bà mẹ thân yêu của em."
+    },
+    {
+      "sent_id": "id_383",
+      "smil_sid": "sid_383",
+      "p_id": "c16_p127",
+      "seq_id": "seq_127",
+      "text": "Những hoa cúc đại đóa đã diễn tả được cái lời tiên tri mà mẹ đã mớm cho chúng nói sự thật: “sung sướng!”."
+    },
+    {
+      "sent_id": "id_384",
+      "smil_sid": "sid_384",
+      "p_id": "c16_p127",
+      "seq_id": "seq_127",
+      "text": "Em đã bắt đầu được như thế!"
+    },
+    {
+      "sent_id": "id_385",
+      "smil_sid": "sid_385",
+      "p_id": "c16_p127",
+      "seq_id": "seq_127",
+      "text": "Nếu em chưa đạt được hoàn toàn thì ít nhất em cũng nhìn thấy em đã thành công được phần nào!"
+    },
+    {
+      "sent_id": "id_386",
+      "smil_sid": "sid_386",
+      "p_id": "c16_p127",
+      "seq_id": "seq_127",
+      "text": "Em phải kiên nhẫn, biết chờ đợi."
+    },
+    {
+      "sent_id": "id_387",
+      "smil_sid": "sid_387",
+      "p_id": "c16_p127",
+      "seq_id": "seq_127",
+      "text": "Cái còn lại, đến lúc đến, nó sẽ đến!"
+    },
+    {
+      "sent_id": "id_388",
+      "smil_sid": "sid_388",
+      "p_id": "c16_p127",
+      "seq_id": "seq_127",
+      "text": "Bây giờ, có ai giục em đâu nào?"
+    },
+    {
+      "sent_id": "id_389",
+      "smil_sid": "sid_389",
+      "p_id": "c16_p127",
+      "seq_id": "seq_127",
+      "text": "Ở trong lâu đài này, mà em đã vào rất nhanh chóng em không còn sợ cái đói nghèo và những thiếu thốn!"
+    },
+    {
+      "sent_id": "id_390",
+      "smil_sid": "sid_390",
+      "p_id": "c16_p128",
+      "seq_id": "seq_128",
+      "text": "Khi còi nhà máy báo giờ tan tầm, Perin vẫn còn đứng tựa vào lan can, thả hồn bay theo cánh mộng."
+    },
+    {
+      "sent_id": "id_391",
+      "smil_sid": "sid_391",
+      "p_id": "c16_p128",
+      "seq_id": "seq_128",
+      "text": "Tiếng còi lanh lảnh đã đưa em từ tương lại trở về với hiện tại."
+    },
+    {
+      "sent_id": "id_392",
+      "smil_sid": "sid_392",
+      "p_id": "c16_p128",
+      "seq_id": "seq_128",
+      "text": "Từ đài quan sát, nhô cao trên những con đường làng và những con đường trắng xóa đi qua đồng cỏ xanh, đồng lúa vàng, em thấy tỏa ra cái tổ kiến đen thui, thợ thuyền."
+    },
+    {
+      "sent_id": "id_393",
+      "smil_sid": "sid_393",
+      "p_id": "c16_p128",
+      "seq_id": "seq_128",
+      "text": "Lúc đầu đó là mọt khổi rắn chắc dày đặc, sau chia ra nhiểu nẻo để rồi phân tán thành những khóm nhỏ rồi sẽ tan ngay."
+    },
+    {
+      "sent_id": "id_394",
+      "smil_sid": "sid_394",
+      "p_id": "c16_p129",
+      "seq_id": "seq_129",
+      "text": "Có tiếng chuông báo của bác gác cổng."
+    },
+    {
+      "sent_id": "id_395",
+      "smil_sid": "sid_395",
+      "p_id": "c16_p129",
+      "seq_id": "seq_129",
+      "text": "Chiếc xe của ông Vunphran đi vào con đường vòng tròn theo bước chân bình thản của Côcô."
+    },
+    {
+      "sent_id": "id_396",
+      "smil_sid": "sid_396",
+      "p_id": "c16_p130",
+      "seq_id": "seq_130",
+      "text": "Perin chưa rời khỏi phòng."
+    },
+    {
+      "sent_id": "id_397",
+      "smil_sid": "sid_397",
+      "p_id": "c16_p130",
+      "seq_id": "seq_130",
+      "text": "Ông Vunphran đã dặn em làm vệ sinh."
+    },
+    {
+      "sent_id": "id_398",
+      "smil_sid": "sid_398",
+      "p_id": "c16_p130",
+      "seq_id": "seq_130",
+      "text": "Em xài nước Côlônhơ và xà phòng thả cửa, bánh xà phòng nhiều bọt, mùi thơm dễ chịu khi chiếu đồng hồ trên lò sưởi điểm tám giờ em đi xuống."
+    },
+    {
+      "sent_id": "id_399",
+      "smil_sid": "sid_399",
+      "p_id": "c16_p130",
+      "seq_id": "seq_130",
+      "text": "Em tự hỏi em làm thế nào tìm được phòng ăn."
+    },
+    {
+      "sent_id": "id_400",
+      "smil_sid": "sid_400",
+      "p_id": "c16_p130",
+      "seq_id": "seq_130",
+      "text": "Nhưng em không phải tìm."
+    },
+    {
+      "sent_id": "id_401",
+      "smil_sid": "sid_401",
+      "p_id": "c16_p130",
+      "seq_id": "seq_130",
+      "text": "Một người đầy tớ mặc áo đen, đứng ở hành lang, đã đưa em đến đó."
+    },
+    {
+      "sent_id": "id_402",
+      "smil_sid": "sid_402",
+      "p_id": "c16_p130",
+      "seq_id": "seq_130",
+      "text": "Cùng lúc ấy, ông Vunphran đi vào."
+    },
+    {
+      "sent_id": "id_403",
+      "smil_sid": "sid_403",
+      "p_id": "c16_p130",
+      "seq_id": "seq_130",
+      "text": "Không cần ai dắt, Perin thấy ông đi theo một con đường có kẻ của một thứ vải go dày ở trên tấm thảm."
+    },
+    {
+      "sent_id": "id_404",
+      "smil_sid": "sid_404",
+      "p_id": "c16_p130",
+      "seq_id": "seq_130",
+      "text": "Con đường ấy giúp cho đôi chân ông, thay thế đôi mắt."
+    },
+    {
+      "sent_id": "id_405",
+      "smil_sid": "sid_405",
+      "p_id": "c16_p130",
+      "seq_id": "seq_130",
+      "text": "Một lẵng hoa lan, hương thơm dịu dàng, đặt giữa bàn ăn."
+    },
+    {
+      "sent_id": "id_406",
+      "smil_sid": "sid_406",
+      "p_id": "c16_p130",
+      "seq_id": "seq_130",
+      "text": "Trên bàn, những đồ ăn bằng bạc dày trạm trổ công phu và bằng pha lê mài tinh xảo nhấp nhô phản chiếu dưới ánh điện của cây đèn cầy nhiều ngọn."
+    },
+    {
+      "sent_id": "id_407",
+      "smil_sid": "sid_407",
+      "p_id": "c16_p130",
+      "seq_id": "seq_130",
+      "text": "Perin đứng đằng sau chiếc ghế của em."
+    },
+    {
+      "sent_id": "id_408",
+      "smil_sid": "sid_408",
+      "p_id": "c16_p130",
+      "seq_id": "seq_130",
+      "text": "Em chưa biết nên làm gì."
+    },
+    {
+      "sent_id": "id_409",
+      "smil_sid": "sid_409",
+      "p_id": "c16_p130",
+      "seq_id": "seq_130",
+      "text": "Ông Vunphran đã giúp em:"
+    },
+    {
+      "sent_id": "id_410",
+      "smil_sid": "sid_410",
+      "p_id": "c16_p131",
+      "seq_id": "seq_131",
+      "text": "- Cháu ngồi xuống đi!"
+    },
+    {
+      "sent_id": "id_411",
+      "smil_sid": "sid_411",
+      "p_id": "c16_p132",
+      "seq_id": "seq_132",
+      "text": "Người ta bắt đầu dọn thức ăn."
+    },
+    {
+      "sent_id": "id_412",
+      "smil_sid": "sid_412",
+      "p_id": "c16_p132",
+      "seq_id": "seq_132",
+      "text": "Người đầy tớ đã đưa em đến phòng ăn, đặt đĩa xúp trước mặt em."
+    },
+    {
+      "sent_id": "id_413",
+      "smil_sid": "sid_413",
+      "p_id": "c16_p132",
+      "seq_id": "seq_132",
+      "text": "Trong lúc ấy bác Bátxchiêng bưng một đĩa đấy đến cho ông chủ."
+    },
+    {
+      "sent_id": "id_414",
+      "smil_sid": "sid_414",
+      "p_id": "c16_p132",
+      "seq_id": "seq_132",
+      "text": "Giá Perin ngồi ăn một mình với ông Vunphran thì em thoải mái hơn."
+    },
+    {
+      "sent_id": "id_415",
+      "smil_sid": "sid_415",
+      "p_id": "c16_p132",
+      "seq_id": "seq_132",
+      "text": "Nhưng có những con mắt tò mò, mặc dù là vẫn đứng đắn, của hai người hầu bàn như đang tập trung nhìn em!"
+    },
+    {
+      "sent_id": "id_416",
+      "smil_sid": "sid_416",
+      "p_id": "c16_p132",
+      "seq_id": "seq_132",
+      "text": "Em cảm thấy có lẽ người ta muốn biết “một con vật bé nhỏ” như em ăn uống thế nào?"
+    },
+    {
+      "sent_id": "id_417",
+      "smil_sid": "sid_417",
+      "p_id": "c16_p132",
+      "seq_id": "seq_132",
+      "text": "Em lúng túng và động tác của em phần nào không được thoải mái."
+    },
+    {
+      "sent_id": "id_418",
+      "smil_sid": "sid_418",
+      "p_id": "c16_p132",
+      "seq_id": "seq_132",
+      "text": "Perin may mắn không phạm sai sót."
+    },
+    {
+      "sent_id": "id_419",
+      "smil_sid": "sid_419",
+      "p_id": "c16_p133",
+      "seq_id": "seq_133",
+      "text": "- Từ dạo bác ốm – Ông Vunphran nói – Bác thường ăn hai bát xúp."
+    },
+    {
+      "sent_id": "id_420",
+      "smil_sid": "sid_420",
+      "p_id": "c16_p133",
+      "seq_id": "seq_133",
+      "text": "Cái đó có lợi cho bác!"
+    },
+    {
+      "sent_id": "id_421",
+      "smil_sid": "sid_421",
+      "p_id": "c16_p133",
+      "seq_id": "seq_133",
+      "text": "Cháu thấy rõ chẳng cần theo bác."
+    },
+    {
+      "sent_id": "id_422",
+      "smil_sid": "sid_422",
+      "p_id": "c16_p134",
+      "seq_id": "seq_134",
+      "text": "- Đã từ lâu, cháu chẳng được ăn xúp!"
+    },
+    {
+      "sent_id": "id_423",
+      "smil_sid": "sid_423",
+      "p_id": "c16_p134",
+      "seq_id": "seq_134",
+      "text": "Cháu cũng ăn hai bát!"
+    },
+    {
+      "sent_id": "id_424",
+      "smil_sid": "sid_424",
+      "p_id": "c16_p135",
+      "seq_id": "seq_135",
+      "text": "Thế nhưng đĩa xúp họ dọn cho cô lần này không phải là thứ xúp đã dọn lần đầu."
+    },
+    {
+      "sent_id": "id_425",
+      "smil_sid": "sid_425",
+      "p_id": "c16_p135",
+      "seq_id": "seq_135",
+      "text": "Đó là món xúp bắp cải, cà rốt, khoai rất đơn giản như xúp của một nông dân."
+    },
+    {
+      "sent_id": "id_426",
+      "smil_sid": "sid_426",
+      "p_id": "c16_p136",
+      "seq_id": "seq_136",
+      "text": "Ngoài món tráng miệng, bữa ăn cũng đơn giản."
+    },
+    {
+      "sent_id": "id_427",
+      "smil_sid": "sid_427",
+      "p_id": "c16_p136",
+      "seq_id": "seq_136",
+      "text": "Thức ăn có giò cừu hầm đậu và món xalát."
+    },
+    {
+      "sent_id": "id_428",
+      "smil_sid": "sid_428",
+      "p_id": "c16_p136",
+      "seq_id": "seq_136",
+      "text": "Nhưng thức ăn tráng miệng lại gồm đến bốn cái đĩa có chân đựng bánh gatô và bốn đĩa đựng hoa quả chất đầy những thứ quả hấp dẫn vừa to vừa đẹp xứng đáng với các bông hoa trong bồn!"
+    },
+    {
+      "sent_id": "id_429",
+      "smil_sid": "sid_429",
+      "p_id": "c16_p137",
+      "seq_id": "seq_137",
+      "text": "- Ngày mai, nếu cháu thích, cháu sẽ đi thăm những lồng kính đã cho những thứ quả này – ông Vunphran nói."
+    },
+    {
+      "sent_id": "id_430",
+      "smil_sid": "sid_430",
+      "p_id": "c16_p138",
+      "seq_id": "seq_138",
+      "text": "Rất dè dặt, Perin lấy vài quả anh đào nhưng ông Vunphran muốn ăn mận, đào và nho nữa."
+    },
+    {
+      "sent_id": "id_431",
+      "smil_sid": "sid_431",
+      "p_id": "c16_p139",
+      "seq_id": "seq_139",
+      "text": "- Ở lứa tuổi cháu, bác có thể ăn tất cả các thứ quả mà người ta dọn cho bác."
+    },
+    {
+      "sent_id": "id_432",
+      "smil_sid": "sid_432",
+      "p_id": "c16_p140",
+      "seq_id": "seq_140",
+      "text": "Thế là một lão bộc, đứng sau lưng ông Vunphran rời chổ."
+    },
+    {
+      "sent_id": "id_433",
+      "smil_sid": "sid_433",
+      "p_id": "c16_p140",
+      "seq_id": "seq_140",
+      "text": "Vâng lời ông chủ, bác đặt lên đĩa “cái con vật bé nhỏ này” như là bác cho một con khỉ làm trò ăn một quả mận, một quả đào mà với tư cách người sành ăn."
+    },
+    {
+      "sent_id": "id_434",
+      "smil_sid": "sid_434",
+      "p_id": "c16_p140",
+      "seq_id": "seq_140",
+      "text": "Bác đã chọn kỹ."
+    },
+    {
+      "sent_id": "id_435",
+      "smil_sid": "sid_435",
+      "p_id": "c16_p140",
+      "seq_id": "seq_140",
+      "text": "Tuy có nhiều hoa quả, Perin vẫn mong bữa ăn chóng chấm dứt."
+    },
+    {
+      "sent_id": "id_436",
+      "smil_sid": "sid_436",
+      "p_id": "c16_p140",
+      "seq_id": "seq_140",
+      "text": "Cuộc thử thách càng ngắn càng có lợi cho em."
+    },
+    {
+      "sent_id": "id_437",
+      "smil_sid": "sid_437",
+      "p_id": "c16_p140",
+      "seq_id": "seq_140",
+      "text": "Ngày mai, sự tò mò được thỏa mãn, mấy người đầy tớ sẽ để cho em yên thân!"
+    },
+    {
+      "sent_id": "id_438",
+      "smil_sid": "sid_438",
+      "p_id": "c16_p141",
+      "seq_id": "seq_141",
+      "text": "- Bây giờ cho đến sáng mai, cháu được tự do."
+    },
+    {
+      "sent_id": "id_439",
+      "smil_sid": "sid_439",
+      "p_id": "c16_p141",
+      "seq_id": "seq_141",
+      "text": "Trời sáng trăng cháu có thể đi dạo trong khu vườn."
+    },
+    {
+      "sent_id": "id_440",
+      "smil_sid": "sid_440",
+      "p_id": "c16_p141",
+      "seq_id": "seq_141",
+      "text": "Cháu vào thư viện đọc sách hay lấy sách về buồng cháu mà đọc cũng được!"
+    },
+    {
+      "sent_id": "id_441",
+      "smil_sid": "sid_441",
+      "p_id": "c16_p142",
+      "seq_id": "seq_142",
+      "text": "Perin bối rối."
+    },
+    {
+      "sent_id": "id_442",
+      "smil_sid": "sid_442",
+      "p_id": "c16_p142",
+      "seq_id": "seq_142",
+      "text": "Em tự hỏi có nên thưa với ông Vunphran là em vẫn sẵn sàng để phục vụ ông."
+    },
+    {
+      "sent_id": "id_443",
+      "smil_sid": "sid_443",
+      "p_id": "c16_p142",
+      "seq_id": "seq_142",
+      "text": "Thấy em do dự, người lão bộc ra hiệu thầm lặng cho em."
+    },
+    {
+      "sent_id": "id_444",
+      "smil_sid": "sid_444",
+      "p_id": "c16_p142",
+      "seq_id": "seq_142",
+      "text": "Lúc đầu em chưa hiểu."
+    },
+    {
+      "sent_id": "id_445",
+      "smil_sid": "sid_445",
+      "p_id": "c16_p142",
+      "seq_id": "seq_142",
+      "text": "Bác đưa tay trái ra như đang cầm một quyển sách, và lấy tay phải giở từng trang sách, rồi bác chỉ ông Vunphran trong lúc đôi môi bác cử động và gương mặt bác linh hoạt hẳn lên."
+    },
+    {
+      "sent_id": "id_446",
+      "smil_sid": "sid_446",
+      "p_id": "c16_p142",
+      "seq_id": "seq_142",
+      "text": "Ngay tức khắc, em hiểu bác bảo em phải hỏi ông Vunphran có cần em đọc sách cho ông không?"
+    },
+    {
+      "sent_id": "id_447",
+      "smil_sid": "sid_447",
+      "p_id": "c16_p142",
+      "seq_id": "seq_142",
+      "text": "Nhưng vì em cũng có ý kiến ấy, cho nên em sợ dịch ý của em, hơn là ý của bác lão bộc."
+    },
+    {
+      "sent_id": "id_448",
+      "smil_sid": "sid_448",
+      "p_id": "c16_p142",
+      "seq_id": "seq_142",
+      "text": "Nhưng rồi em mạnh dạn nói:"
+    },
+    {
+      "sent_id": "id_449",
+      "smil_sid": "sid_449",
+      "p_id": "c16_p143",
+      "seq_id": "seq_143",
+      "text": "- Thưa ông, ông không cần cháu ư?"
+    },
+    {
+      "sent_id": "id_450",
+      "smil_sid": "sid_450",
+      "p_id": "c16_p143",
+      "seq_id": "seq_143",
+      "text": "Ông không thích cháu đọc sách cho ông nghe sao?"
+    },
+    {
+      "sent_id": "id_451",
+      "smil_sid": "sid_451",
+      "p_id": "c16_p144",
+      "seq_id": "seq_144",
+      "text": "Perin sung sướng thấy bác lão bộc gật đầu tán thưởng em."
+    },
+    {
+      "sent_id": "id_452",
+      "smil_sid": "sid_452",
+      "p_id": "c16_p144",
+      "seq_id": "seq_144",
+      "text": "Em đã đoán đúng điều em cần nói."
+    },
+    {
+      "sent_id": "id_453",
+      "smil_sid": "sid_453",
+      "p_id": "c16_p145",
+      "seq_id": "seq_145",
+      "text": "- Khi người ta làm việc thì người ta phải có những giờ tự do – ông Vunphran đáp."
+    },
+    {
+      "sent_id": "id_454",
+      "smil_sid": "sid_454",
+      "p_id": "c16_p146",
+      "seq_id": "seq_146",
+      "text": "- Cháu xin bảo đảm với ông là cháu không thấy mệt!…"
+    },
+    {
+      "sent_id": "id_455",
+      "smil_sid": "sid_455",
+      "p_id": "c16_p147",
+      "seq_id": "seq_147",
+      "text": "- Vậy thì, - ông nói – Cháu đi với bác!"
+    },
+    {
+      "sent_id": "id_456",
+      "smil_sid": "sid_456",
+      "p_id": "c16_p148",
+      "seq_id": "seq_148",
+      "text": "Một phòng ngắn ngăn vách phòng ăn có một lối đi bằng vải thô giúp ông Vunphran đi lại dễ dàng đến cái phòng rộng rãi, âm u ấy."
+    },
+    {
+      "sent_id": "id_457",
+      "smil_sid": "sid_457",
+      "p_id": "c16_p148",
+      "seq_id": "seq_148",
+      "text": "Ông Vunphran không thể lạc vì trong đầu óc cũng như trong đôi chân ông, có cái ý niệm về khoảng cách rất chính xác."
+    },
+    {
+      "sent_id": "id_458",
+      "smil_sid": "sid_458",
+      "p_id": "c16_p148",
+      "seq_id": "seq_148",
+      "text": "Perin lại một lần nữa tự hỏi ông Vunphran làm thế nào cho hết thời giờ khi ông chỉ có một mình vì ông không thể đọc được!"
+    },
+    {
+      "sent_id": "id_459",
+      "smil_sid": "sid_459",
+      "p_id": "c16_p148",
+      "seq_id": "seq_148",
+      "text": "Cái phòng nhỏ này khi ông bật đèn không trả lời gì cho em về câu hỏi ấy."
+    },
+    {
+      "sent_id": "id_460",
+      "smil_sid": "sid_460",
+      "p_id": "c16_p148",
+      "seq_id": "seq_148",
+      "text": "Về đồ gỗ, chỉ có một cái bàn lớn, chất đầy giấy tờ, những cặp bìa đựng hồ sơ, mấy cái ghế."
+    },
+    {
+      "sent_id": "id_461",
+      "smil_sid": "sid_461",
+      "p_id": "c16_p148",
+      "seq_id": "seq_148",
+      "text": "Trước một cửa sổ có một ghế dựa xoay to lớn, không có gì ở chung quanh."
+    },
+    {
+      "sent_id": "id_462",
+      "smil_sid": "sid_462",
+      "p_id": "c16_p148",
+      "seq_id": "seq_148",
+      "text": "Thế nhưng trên tấm thảm mòn, bọc trên ghế cho biết ông Vunphran ngồi ở đấy rất nhiều giờ khắc đằng đẵng ngước mắt lên bầu trời mà không nhìn thấy mây…"
+    },
+    {
+      "sent_id": "id_463",
+      "smil_sid": "sid_463",
+      "p_id": "c16_p149",
+      "seq_id": "seq_149",
+      "text": "- Cháu đọc gì cho bác nhỉ?"
+    },
+    {
+      "sent_id": "id_464",
+      "smil_sid": "sid_464",
+      "p_id": "c16_p150",
+      "seq_id": "seq_150",
+      "text": "- Một tờ báo, nếu ông cho phép."
+    },
+    {
+      "sent_id": "id_465",
+      "smil_sid": "sid_465",
+      "p_id": "c16_p151",
+      "seq_id": "seq_151",
+      "text": "- Tốt hơn hết là để ít thời giờ về chuyện báo chí."
+    },
+    {
+      "sent_id": "id_466",
+      "smil_sid": "sid_466",
+      "p_id": "c16_p152",
+      "seq_id": "seq_152",
+      "text": "Perin không có gì để trả lời."
+    },
+    {
+      "sent_id": "id_467",
+      "smil_sid": "sid_467",
+      "p_id": "c16_p152",
+      "seq_id": "seq_152",
+      "text": "Câu em vừa nói chỉ là một đề nghị."
+    },
+    {
+      "sent_id": "id_468",
+      "smil_sid": "sid_468",
+      "p_id": "c16_p153",
+      "seq_id": "seq_153",
+      "text": "- Cháu có thích loại sách du lịch không?"
+    },
+    {
+      "sent_id": "id_469",
+      "smil_sid": "sid_469",
+      "p_id": "c16_p153",
+      "seq_id": "seq_153",
+      "text": "– Ông hỏi."
+    },
+    {
+      "sent_id": "id_470",
+      "smil_sid": "sid_470",
+      "p_id": "c16_p154",
+      "seq_id": "seq_154",
+      "text": "- Thưa ông, có."
+    },
+    {
+      "sent_id": "id_471",
+      "smil_sid": "sid_471",
+      "p_id": "c16_p155",
+      "seq_id": "seq_155",
+      "text": "- Bác cũng thế!"
+    },
+    {
+      "sent_id": "id_472",
+      "smil_sid": "sid_472",
+      "p_id": "c16_p155",
+      "seq_id": "seq_155",
+      "text": "Loại sách ấy vừa giải trí cho đầu óc trong khi bắt nó làm việc!"
+    },
+    {
+      "sent_id": "id_473",
+      "smil_sid": "sid_473",
+      "p_id": "c16_p156",
+      "seq_id": "seq_156",
+      "text": "Rồi như thể để tự nói với mình, không nghĩ là Perin còn đứng ở đó và sẽ nghe thấy:"
+    },
+    {
+      "sent_id": "id_474",
+      "smil_sid": "sid_474",
+      "p_id": "c16_p157",
+      "seq_id": "seq_157",
+      "text": "- Thoát xác, sống những cuộc sống khác với cuộc sống của mình!"
+    },
+    {
+      "sent_id": "id_475",
+      "smil_sid": "sid_475",
+      "p_id": "c16_p158",
+      "seq_id": "seq_158",
+      "text": "Sau một phút im lặng ông nói:"
+    },
+    {
+      "sent_id": "id_476",
+      "smil_sid": "sid_476",
+      "p_id": "c16_p159",
+      "seq_id": "seq_159",
+      "text": "- Chúng ta vào thư viện."
+    },
+    {
+      "sent_id": "id_477",
+      "smil_sid": "sid_477",
+      "p_id": "c16_p160",
+      "seq_id": "seq_160",
+      "text": "Thư viện sát buồng ông Vunphran."
+    },
+    {
+      "sent_id": "id_478",
+      "smil_sid": "sid_478",
+      "p_id": "c16_p160",
+      "seq_id": "seq_160",
+      "text": "Ông chỉ cần mở một cánh cửa, bật đèn cho sáng."
+    },
+    {
+      "sent_id": "id_479",
+      "smil_sid": "sid_479",
+      "p_id": "c16_p160",
+      "seq_id": "seq_160",
+      "text": "Nhưng vì chỉ có một ngọn đèn đỏ, nên gian buồng to lớn, có nhiều gỗ đen, vẫn ở trong bóng tối."
+    },
+    {
+      "sent_id": "id_480",
+      "smil_sid": "sid_480",
+      "p_id": "c16_p161",
+      "seq_id": "seq_161",
+      "text": "- Cháu có biết quyển “Vòng quanh thế giới” không?"
+    },
+    {
+      "sent_id": "id_481",
+      "smil_sid": "sid_481",
+      "p_id": "c16_p161",
+      "seq_id": "seq_161",
+      "text": "– ông hỏi."
+    },
+    {
+      "sent_id": "id_482",
+      "smil_sid": "sid_482",
+      "p_id": "c16_p162",
+      "seq_id": "seq_162",
+      "text": "- Không, thưa ông."
+    },
+    {
+      "sent_id": "id_483",
+      "smil_sid": "sid_483",
+      "p_id": "c16_p163",
+      "seq_id": "seq_163",
+      "text": "- Thế thì chúng ta sẽ tìm thấy trong bản thư mục theo thứ tự a, b, c."
+    },
+    {
+      "sent_id": "id_484",
+      "smil_sid": "sid_484",
+      "p_id": "c16_p164",
+      "seq_id": "seq_164",
+      "text": "Ông dẫn Perin đến cái tủ có bản thư mục, bảo em tìm."
+    },
+    {
+      "sent_id": "id_485",
+      "smil_sid": "sid_485",
+      "p_id": "c16_p164",
+      "seq_id": "seq_164",
+      "text": "Cũng mất một thời gian."
+    },
+    {
+      "sent_id": "id_486",
+      "smil_sid": "sid_486",
+      "p_id": "c16_p164",
+      "seq_id": "seq_164",
+      "text": "Cuối cùng, em đã tìm thấy bản thư mục."
+    },
+    {
+      "sent_id": "id_487",
+      "smil_sid": "sid_487",
+      "p_id": "c16_p165",
+      "seq_id": "seq_165",
+      "text": "- Cháu cần tìm gì?"
+    },
+    {
+      "sent_id": "id_488",
+      "smil_sid": "sid_488",
+      "p_id": "c16_p165",
+      "seq_id": "seq_165",
+      "text": "– Em hỏi."
+    },
+    {
+      "sent_id": "id_489",
+      "smil_sid": "sid_489",
+      "p_id": "c16_p166",
+      "seq_id": "seq_166",
+      "text": "- Chữ Â, cái từ Ấn Độ."
+    },
+    {
+      "sent_id": "id_490",
+      "smil_sid": "sid_490",
+      "p_id": "c16_p167",
+      "seq_id": "seq_167",
+      "text": "Ông vẫn theo dõi ý nghĩ của ông."
+    },
+    {
+      "sent_id": "id_491",
+      "smil_sid": "sid_491",
+      "p_id": "c16_p167",
+      "seq_id": "seq_167",
+      "text": "Ông không có ý nghĩ sống cuộc sống của những người khác như ông đã lần hiểu qua câu tự nhủ của ông."
+    },
+    {
+      "sent_id": "id_492",
+      "smil_sid": "sid_492",
+      "p_id": "c16_p167",
+      "seq_id": "seq_167",
+      "text": "Cái mà ông Vunphran muốn, hẳn là được sống cuộc đời của người con trai ông, trong lúc ông nghe những đoạn miêu tả xứ sở mà ông đang cho đi tìm con ông."
+    },
+    {
+      "sent_id": "id_493",
+      "smil_sid": "sid_493",
+      "p_id": "c16_p168",
+      "seq_id": "seq_168",
+      "text": "- Cháu thấy gì?"
+    },
+    {
+      "sent_id": "id_494",
+      "smil_sid": "sid_494",
+      "p_id": "c16_p169",
+      "seq_id": "seq_169",
+      "text": "- Ấn Độ của các tiểu vương bản địa, cuộc du lịch trong nội địa Ấn Độ và trong xứ sở của giám quốc tướng Miến Điện 1871, 209 đến 208."
+    },
+    {
+      "sent_id": "id_495",
+      "smil_sid": "sid_495",
+      "p_id": "c16_p170",
+      "seq_id": "seq_170",
+      "text": "- Như thế có nghĩa là trong tập 2 năm 1871 trang 209, chúng ta sẽ tìm thấy đoạn tường thuật cuộc du lịch khi mới bắt đầu."
+    },
+    {
+      "sent_id": "id_496",
+      "smil_sid": "sid_496",
+      "p_id": "c16_p170",
+      "seq_id": "seq_170",
+      "text": "Cháu lấy sách rồi chúng ta trở về buồng."
+    },
+    {
+      "sent_id": "id_497",
+      "smil_sid": "sid_497",
+      "p_id": "c16_p171",
+      "seq_id": "seq_171",
+      "text": "Em tìm được quyển sách."
+    },
+    {
+      "sent_id": "id_498",
+      "smil_sid": "sid_498",
+      "p_id": "c16_p171",
+      "seq_id": "seq_171",
+      "text": "Đáng lẽ, em đứng lên, thì em lại ngắm mãi bức chân dung đặt trên bệ lò sưởi."
+    },
+    {
+      "sent_id": "id_499",
+      "smil_sid": "sid_499",
+      "p_id": "c16_p171",
+      "seq_id": "seq_171",
+      "text": "Cặp mắt em bây giờ đã quen với cảnh tranh tối tranh sáng vừa phát hiện ra."
+    },
+    {
+      "sent_id": "id_500",
+      "smil_sid": "sid_500",
+      "p_id": "c16_p172",
+      "seq_id": "seq_172",
+      "text": "- Chuyện gì thế?"
+    },
+    {
+      "sent_id": "id_501",
+      "smil_sid": "sid_501",
+      "p_id": "c16_p172",
+      "seq_id": "seq_172",
+      "text": "– Ông Vunphran hỏi."
+    },
+    {
+      "sent_id": "id_502",
+      "smil_sid": "sid_502",
+      "p_id": "c16_p173",
+      "seq_id": "seq_173",
+      "text": "Perin thành thật trả lời, giọng em xúc động."
+    },
+    {
+      "sent_id": "id_503",
+      "smil_sid": "sid_503",
+      "p_id": "c16_p174",
+      "seq_id": "seq_174",
+      "text": "- Cháu nhìn bức chân dung đặt trên lò sưởi."
+    },
+    {
+      "sent_id": "id_504",
+      "smil_sid": "sid_504",
+      "p_id": "c16_p175",
+      "seq_id": "seq_175",
+      "text": "- Đó là con trai bác lúc hai mươi tuổi."
+    },
+    {
+      "sent_id": "id_505",
+      "smil_sid": "sid_505",
+      "p_id": "c16_p175",
+      "seq_id": "seq_175",
+      "text": "Để bác bật đèn cho cháu nhìn rõ."
+    },
+    {
+      "sent_id": "id_506",
+      "smil_sid": "sid_506",
+      "p_id": "c16_p176",
+      "seq_id": "seq_176",
+      "text": "Ông đến tấm ván lót, ấn vào một cái nút."
+    },
+    {
+      "sent_id": "id_507",
+      "smil_sid": "sid_507",
+      "p_id": "c16_p176",
+      "seq_id": "seq_176",
+      "text": "Những ngọn đèn nhỏ trên khung ảnh và bức chân dung sáng rực lên, Perin đứng lên, để đến gần bức chân dung."
+    },
+    {
+      "sent_id": "id_508",
+      "smil_sid": "sid_508",
+      "p_id": "c16_p176",
+      "seq_id": "seq_176",
+      "text": "Em hét lên và làm rơi quyển “Vòng quanh thế giờ”."
+    },
+    {
+      "sent_id": "id_509",
+      "smil_sid": "sid_509",
+      "p_id": "c16_p177",
+      "seq_id": "seq_177",
+      "text": "- Cháu làm sao thế?"
+    },
+    {
+      "sent_id": "id_510",
+      "smil_sid": "sid_510",
+      "p_id": "c16_p178",
+      "seq_id": "seq_178",
+      "text": "Perin không rời mắt khỏi anh thanh niên mặc áo đi săn bằng nhung xanh lá cây."
+    },
+    {
+      "sent_id": "id_511",
+      "smil_sid": "sid_511",
+      "p_id": "c16_p178",
+      "seq_id": "seq_178",
+      "text": "Anh đội mũ cátkét cao su và lưỡi trai rộng."
+    },
+    {
+      "sent_id": "id_512",
+      "smil_sid": "sid_512",
+      "p_id": "c16_p178",
+      "seq_id": "seq_178",
+      "text": "Anh chống tay trên khẩu súng và lấy tay kia vuốt ve đầu con chó xù lông đen."
+    },
+    {
+      "sent_id": "id_513",
+      "smil_sid": "sid_513",
+      "p_id": "c16_p178",
+      "seq_id": "seq_178",
+      "text": "Trông anh cứ như vừa ở trong tường hiện ra vậy."
+    },
+    {
+      "sent_id": "id_514",
+      "smil_sid": "sid_514",
+      "p_id": "c16_p178",
+      "seq_id": "seq_178",
+      "text": "Perin run rẩy từ đầu đến chân."
+    },
+    {
+      "sent_id": "id_515",
+      "smil_sid": "sid_515",
+      "p_id": "c16_p178",
+      "seq_id": "seq_178",
+      "text": "Nước mắt tuôn trào trên khuôn mặt, và em không có ý nghĩ cưỡng lại."
+    },
+    {
+      "sent_id": "id_516",
+      "smil_sid": "sid_516",
+      "p_id": "c16_p178",
+      "seq_id": "seq_178",
+      "text": "Em chìm đắm, say mê trong khi chiêm ngưỡng."
+    },
+    {
+      "sent_id": "id_517",
+      "smil_sid": "sid_517",
+      "p_id": "c16_p178",
+      "seq_id": "seq_178",
+      "text": "Những giọt nước mắt tuôn trong em lặng."
+    },
+    {
+      "sent_id": "id_518",
+      "smil_sid": "sid_518",
+      "p_id": "c16_p178",
+      "seq_id": "seq_178",
+      "text": "Đã làm lộ nỗi xúc động của em."
+    },
+    {
+      "sent_id": "id_519",
+      "smil_sid": "sid_519",
+      "p_id": "c16_p179",
+      "seq_id": "seq_179",
+      "text": "- Tại sao cháu khóc?"
+    },
+    {
+      "sent_id": "id_520",
+      "smil_sid": "sid_520",
+      "p_id": "c16_p180",
+      "seq_id": "seq_180",
+      "text": "Em phải trả lời."
+    },
+    {
+      "sent_id": "id_521",
+      "smil_sid": "sid_521",
+      "p_id": "c16_p180",
+      "seq_id": "seq_180",
+      "text": "Với một cố gắng cao, em muốn tự chủ trong lời nói."
+    },
+    {
+      "sent_id": "id_522",
+      "smil_sid": "sid_522",
+      "p_id": "c16_p180",
+      "seq_id": "seq_180",
+      "text": "Nhưng em lại thấy giọng em rời rạc:"
+    },
+    {
+      "sent_id": "id_523",
+      "smil_sid": "sid_523",
+      "p_id": "c16_p181",
+      "seq_id": "seq_181",
+      "text": "- Cái chân dung ấy… con trai bác… bác người bố!"
+    },
+    {
+      "sent_id": "id_524",
+      "smil_sid": "sid_524",
+      "p_id": "c16_p182",
+      "seq_id": "seq_182",
+      "text": "Ông Vunphran đứng yên, không hiểu; ông chờ đợi một lát, rồi với giọng thông cảm:"
+    },
+    {
+      "sent_id": "id_525",
+      "smil_sid": "sid_525",
+      "p_id": "c16_p183",
+      "seq_id": "seq_183",
+      "text": "- Cháu nghĩ đến bố cháu à?"
+    },
+    {
+      "sent_id": "id_526",
+      "smil_sid": "sid_526",
+      "p_id": "c16_p184",
+      "seq_id": "seq_184",
+      "text": "- Vâng, thưa ông… vâng, thưa ông."
+    },
+    {
+      "sent_id": "id_527",
+      "smil_sid": "sid_527",
+      "p_id": "c16_p185",
+      "seq_id": "seq_185",
+      "text": "- Tội nghiệp cháu tôi!"
+    }
+  ]
+}

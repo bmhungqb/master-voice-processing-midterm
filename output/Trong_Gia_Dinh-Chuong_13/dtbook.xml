@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE dtbook PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd">
+<dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" xml:lang="vi-VN" version="2005-3">
+  <head>
+    <meta name="dtb:uid" content="978-604-69-8175-6"/>
+    <meta name="dtb:generator" content="DAISY 3 DTBook Python Pipeline (K35)"/>
+    <meta name="dc:Title" content="Trong Gia Đình - Chương 13"/>
+    <meta name="dc:Creator" content="Hector Malot"/>
+    <meta name="dc:Date" content="2017"/>
+    <meta name="dc:Publisher" content="NXB Văn Học"/>
+    <meta name="dc:Identifier" content="978-604-69-8175-6"/>
+    <meta name="dc:Language" content="vi-VN"/>
+    <meta name="dc:Subject" content="Văn học &amp; Tiểu thuyết"/>
+    <meta name="dc:Description" content="Cuốn sách kể về cuộc đời cô bé Perrine (Perin), 12 tuổi, mồ côi cha mẹ và hành trình đầy khó khăn, thử thách với nghị lực phi thường để vươn lên và được ông nội đón nhận trở lại trong gia đình."/>
+    <meta name="note" content="Bản dịch của GS. Huỳnh Lý &amp; Mai Hương, hiệu đính Huỳnh Phan Thanh Yên"/>
+  </head>
+  <book showin="blp">
+    <frontmatter>
+      <doctitle id="forsmil-1" smilref="mo0.smil#sforsmil-1">
+        <sent id="id_1" smilref="mo0.smil#sid_1">Trong Gia Đình</sent>
+      </doctitle>
+      <docauthor id="forsmil-2" smilref="mo0.smil#sforsmil-2">
+        <sent id="id_2" smilref="mo0.smil#sid_2">Hector Malot</sent>
+      </docauthor>
+    </frontmatter>
+    <bodymatter id="bodymatter_0001">
+      <level1>
+        <h1 id="faux-heading" smilref="mo0.smil#sfaux-heading">
+          <sent id="id_3" smilref="mo0.smil#sid_3">Chương 13</sent>
+        </h1>
+        <p id="c13_p1" smilref="mo0.smil#seq_1">
+          <sent id="id_4" smilref="mo0.smil#sid_4">Khi nào thì kỹ sư Phabry trở về.</sent>
+          <sent id="id_5" smilref="mo0.smil#sid_5">Đó là câu hỏi mà Perin lo ngại tự đặt ra.</sent>
+          <sent id="id_6" smilref="mo0.smil#sid_6">Đến ngày đó, chấm dứt việc em làm phiên dịch cho tốp thợ máy!</sent>
+        </p>
+        <p id="c13_p2" smilref="mo0.smil#seq_2">
+          <sent id="id_7" smilref="mo0.smil#sid_7">Công việc phiên dịch những tờ tin tức cho ông, Perin có được tiếp tục cho đến khi ông Benđi khỏi bệnh hay không?</sent>
+          <sent id="id_8" smilref="mo0.smil#sid_8">Đó là một câu hỏi khác còn khiến em lo ngại hơn nữa!</sent>
+        </p>
+        <p id="c13_p3" smilref="mo0.smil#seq_3">
+          <sent id="id_9" smilref="mo0.smil#sid_9">Một buổi sáng thứ năm, Perin đến với tốp thợ máy thì gặp ông Phabry ở xưởng; đang bận rộn kiểm tra những việc đã làm.</sent>
+          <sent id="id_10" smilref="mo0.smil#sid_10">Rất kín đáo, Perin đứng ở một khoảng cách vừa phải và giữ miệng không chen vào những lời giải thích của họ, nhưng chú trưởng đoàn đã gọi em đến tham dự.</sent>
+        </p>
+        <p id="c13_p4" smilref="mo0.smil#seq_4">
+          <sent id="id_11" smilref="mo0.smil#sid_11">- Không có cô bé này, - chú nói – chúng tôi chỉ còn biết khoanh tay!</sent>
+        </p>
+        <p id="c13_p5" smilref="mo0.smil#seq_5">
+          <sent id="id_12" smilref="mo0.smil#sid_12">Thế là Phabry nhìn em, nhưng không nói gì với em.</sent>
+          <sent id="id_13" smilref="mo0.smil#sid_13">Trong lúc đó, về phần em, em không dám hỏi em phải làm gì, nghĩa là em phải ở lại Xanh Pipô hay trở về Marôcua.</sent>
+        </p>
+        <p id="c13_p6" smilref="mo0.smil#seq_6">
+          <sent id="id_14" smilref="mo0.smil#sid_14">Trong nỗi băn khoăn ấy, em đã ở lại.</sent>
+          <sent id="id_15" smilref="mo0.smil#sid_15">Em nghĩ rằng ông Vunphran trước đã cho gọi em đến đây thì chỉ có ông cho ở lại hay trở về.</sent>
+        </p>
+        <p id="c13_p7" smilref="mo0.smil#seq_7">
+          <sent id="id_16" smilref="mo0.smil#sid_16">Ông Vunphran đến xưởng vào giờ quy định.</sent>
+          <sent id="id_17" smilref="mo0.smil#sid_17">Ông quản đốc đưa ông đến và báo cáo cho ông hay những lời chỉ dẫn của ông kỹ sư và những nhận xét của ông ta.</sent>
+          <sent id="id_18" smilref="mo0.smil#sid_18">Ông quản đốc nhận thấy ông Vunphran không được hài lòng.</sent>
+        </p>
+        <p id="c13_p8" smilref="mo0.smil#seq_8">
+          <sent id="id_19" smilref="mo0.smil#sid_19">- Thật là bực mình.</sent>
+          <sent id="id_20" smilref="mo0.smil#sid_20">Cô bé không có ở đây.</sent>
+          <sent id="id_21" smilref="mo0.smil#sid_21">Ông ta bất bình nói.</sent>
+        </p>
+        <p id="c13_p9" smilref="mo0.smil#seq_9">
+          <sent id="id_22" smilref="mo0.smil#sid_22">- Cô ấy đã có mặt ở đây mà.</sent>
+          <sent id="id_23" smilref="mo0.smil#sid_23">– Ông quản đốc trả lời và ra hiệu cho Perin lại gần.</sent>
+        </p>
+        <p id="c13_p10" smilref="mo0.smil#seq_10">
+          <sent id="id_24" smilref="mo0.smil#sid_24">- Tại sao cháu không trở về Marôcua?</sent>
+        </p>
+        <p id="c13_p11" smilref="mo0.smil#seq_11">
+          <sent id="id_25" smilref="mo0.smil#sid_25">- Cháu tưởng cháu chỉ rời khỏi đây khi được lệnh của ông.</sent>
+          <sent id="id_26" smilref="mo0.smil#sid_26">– Em trả lời.</sent>
+        </p>
+        <p id="c13_p12" smilref="mo0.smil#seq_12">
+          <sent id="id_27" smilref="mo0.smil#sid_27">- Cháu nói đúng.</sent>
+          <sent id="id_28" smilref="mo0.smil#sid_28">– Ông ta nói – Cháu phải ở lại đây để nhận công việc do bác sắp đặt khi bác đến…</sent>
+        </p>
+        <p id="c13_p13" smilref="mo0.smil#seq_13">
+          <sent id="id_29" smilref="mo0.smil#sid_29">Ông ta dừng lại, để rồi nói tiếp ngay:</sent>
+        </p>
+        <p id="c13_p14" smilref="mo0.smil#seq_14">
+          <sent id="id_30" smilref="mo0.smil#sid_30">- Ở Marôcua, bác cũng sẽ cần đến cháu!</sent>
+          <sent id="id_31" smilref="mo0.smil#sid_31">Chiều nay, cháu về nhé.</sent>
+          <sent id="id_32" smilref="mo0.smil#sid_32">Sáng mai, cháu đến bàn giấy, bác sẽ nói cho cháu hay công việc của cháu.</sent>
+        </p>
+        <p id="c13_p15" smilref="mo0.smil#seq_15">
+          <sent id="id_33" smilref="mo0.smil#sid_33">Khi Perin đã dịch xong những truyền đạt của ông Vunphran cho tốp thợ máy, ông ra đi.</sent>
+          <sent id="id_34" smilref="mo0.smil#sid_34">Hôm ấy, không ai nói gì đến chuyện đọc báo.</sent>
+          <sent id="id_35" smilref="mo0.smil#sid_35">Nhưng mặc kệ, ngày mai đã coi như được bảo đảm thì việc gì phải lo nghĩ về một điều bất như ý trong ngày hôm nay.</sent>
+          <sent id="id_36" smilref="mo0.smil#sid_36">“Ở Marôcua, bác cũng sẽ cần đến cháu”.</sent>
+          <sent id="id_37" smilref="mo0.smil#sid_37">Đó là câu mà Perin tự nhắc lại trên đường rời Xanh Pipô, trong lúc ngồi bên anh Guydôm.</sent>
+          <sent id="id_38" smilref="mo0.smil#sid_38">Người ta sẽ dùng em vào việc gì nhỉ?</sent>
+          <sent id="id_39" smilref="mo0.smil#sid_39">Trí não của em bay bổng nhưng chẳng bám vào một cái gì vững chắc.</sent>
+        </p>
+        <p id="c13_p16" smilref="mo0.smil#seq_16">
+          <sent id="id_40" smilref="mo0.smil#sid_40">Perin trở về hòn đảo của em và thấy nó gần y như lúc em ra đi.</sent>
+          <sent id="id_41" smilref="mo0.smil#sid_41">Các đồ dùng vẫn ở vị trí của chúng.</sent>
+          <sent id="id_42" smilref="mo0.smil#sid_42">Đến mấy con chim cũng tôn trọng những quả chín trên cây liễu, trong lúc em đi vắng.</sent>
+          <sent id="id_43" smilref="mo0.smil#sid_43">Bữa tối của em lại có thêm một đĩa trái cây mà em không hề nghĩ đến.</sent>
+        </p>
+        <p id="c13_p17" smilref="mo0.smil#seq_17">
+          <sent id="id_44" smilref="mo0.smil#sid_44">Em trở về đây sớm hơn mọi hôm từ xưởng về.</sent>
+          <sent id="id_45" smilref="mo0.smil#sid_45">Em không muốn đi ngủ sớm, sau bữa cơm tối.</sent>
+          <sent id="id_46" smilref="mo0.smil#sid_46">Trong lúc chờ đợi đêm đến, em ra ngồi ở phía ngoài lều cỏ, cả buổi chiều hôm trong đám lau sậy.</sent>
+          <sent id="id_47" smilref="mo0.smil#sid_47">Ở đó, em có thể nhìn rõ hốc đất và hai bờ của nó.</sent>
+          <sent id="id_48" smilref="mo0.smil#sid_48">Em hiểu dầu em vắng mặt không lâu, thời gian vẫn trôi qua và đem lại những thay đổi đáng lo ngại với em.</sent>
+          <sent id="id_49" smilref="mo0.smil#sid_49">Trong những cánh đồng, sự im lặng long trọng của những buổi chiều hôm không còn nữa, sự im lặng đã đập mạnh vào em, những ngày đầu khi em dọn về hòn đảo.</sent>
+          <sent id="id_50" smilref="mo0.smil#sid_50">Lúc ấy ở thung lũng, người ta chỉ nghe trên nước, ở những cây cỏ cao, cũng như dưới chòm lá cây, những cánh chim lướt nhẹ qua, thầm lặng trở về nơi trú trong đêm.</sent>
+          <sent id="id_51" smilref="mo0.smil#sid_51">Bây giờ thì thung lũng bị xáo động ở xa bởi đủ các tiếng động, tiếng đập của cái phảng, tiếng rít của các trục bánh xe, tiếng roi quất, tiếng nói thì thầm.</sent>
+          <sent id="id_52" smilref="mo0.smil#sid_52">Đó là những gì em đã nhận xét khi trở về từ Xanh Pipô.</sent>
+          <sent id="id_53" smilref="mo0.smil#sid_53">Trong cánh đồng, người ta đã bắt đầu cắt cỏ những chỗ dọi nắng, ở đó cỏ đúng độ cắt.</sent>
+          <sent id="id_54" smilref="mo0.smil#sid_54">Chẳng mấy chốc những người thợ cắt cỏ sẽ đến các cánh đồng ở hốc đất của em.</sent>
+          <sent id="id_55" smilref="mo0.smil#sid_55">Ở đấy bị rợp bóng, nên cỏ mọc chậm hơn.</sent>
+        </p>
+        <p id="c13_p18" smilref="mo0.smil#seq_18">
+          <sent id="id_56" smilref="mo0.smil#sid_56">Thế thì không còn nghi ngờ gì nữa, em sẽ phải rời khỏi tổ ấm của em.</sent>
+          <sent id="id_57" smilref="mo0.smil#sid_57">Em không còn được ở đây nữa!</sent>
+          <sent id="id_58" smilref="mo0.smil#sid_58">Mùa cắt cỏ hay mùa săn bắn cũng đưa lại kết quả giống nhau thôi!</sent>
+          <sent id="id_59" smilref="mo0.smil#sid_59">Chỉ còn vài ngày nữa ư?</sent>
+          <sent id="id_60" smilref="mo0.smil#sid_60">Tuy em đã quen với những tấm nệm ấm, những cánh cửa sổ, cánh cửa khép kín, em vẫn nằm ngủ trên giường dương xỉ của em như chưa bao giờ em xa nó.</sent>
+          <sent id="id_61" smilref="mo0.smil#sid_61">Mãi đến khi mặt trời mọc, em mới tỉnh giấc.</sent>
+        </p>
+        <p id="c13_p19" smilref="mo0.smil#seq_19">
+          <sent id="id_62" smilref="mo0.smil#sid_62">Đến song cổng, em đã đứng trước con đường vào xưởng.</sent>
+          <sent id="id_63" smilref="mo0.smil#sid_63">Đáng lẽ, em đi theo các bạn để vào xưởng suốt, Perin lại đi về phía các phòng làm việc và tự hỏi em cần làm gì hay đợi?</sent>
+          <sent id="id_64" smilref="mo0.smil#sid_64">Em quyết định chờ đợi.</sent>
+          <sent id="id_65" smilref="mo0.smil#sid_65">Người ta sẽ tìm thấy em, bởi vì em đứng trước cửa.</sent>
+          <sent id="id_66" smilref="mo0.smil#sid_66">Em phải chờ gần một tiếng.</sent>
+          <sent id="id_67" smilref="mo0.smil#sid_67">Cuối cùng, em thấy Taluen đến.</sent>
+          <sent id="id_68" smilref="mo0.smil#sid_68">Nghiêm khắc, ông ta hỏi em làm gì ở đây.</sent>
+        </p>
+        <p id="c13_p20" smilref="mo0.smil#seq_20">
+          <sent id="id_69" smilref="mo0.smil#sid_69">- Ông Vunphran bảo cháu: sáng nay đến gặp ông ở buồng giấy!</sent>
+        </p>
+        <p id="c13_p21" smilref="mo0.smil#seq_21">
+          <sent id="id_70" smilref="mo0.smil#sid_70">- Sân không phải là buồng giấy!</sent>
+        </p>
+        <p id="c13_p22" smilref="mo0.smil#seq_22">
+          <sent id="id_71" smilref="mo0.smil#sid_71">- Cháu đợi người ta gọi cháu.</sent>
+        </p>
+        <p id="c13_p23" smilref="mo0.smil#seq_23">
+          <sent id="id_72" smilref="mo0.smil#sid_72">- Đi lên đi!</sent>
+        </p>
+        <p id="c13_p24" smilref="mo0.smil#seq_24">
+          <sent id="id_73" smilref="mo0.smil#sid_73">Em theo ông ta.</sent>
+          <sent id="id_74" smilref="mo0.smil#sid_74">Đến hàng hiên ông ta ngồi trên một chiếc ghế hai chân xoạc ra hai bên như cưỡi ngựa.</sent>
+          <sent id="id_75" smilref="mo0.smil#sid_75">Ông lấy tay ra hiệu cho Perin đến trước mặt ông ta.</sent>
+        </p>
+        <p id="c13_p25" smilref="mo0.smil#seq_25">
+          <sent id="id_76" smilref="mo0.smil#sid_76">- Ở Xanh Pipô, cô làm những việc gì?</sent>
+        </p>
+        <p id="c13_p26" smilref="mo0.smil#seq_26">
+          <sent id="id_77" smilref="mo0.smil#sid_77">Perin nói những công việc mà ông Vunphran đã giao cho em.</sent>
+        </p>
+        <p id="c13_p27" smilref="mo0.smil#seq_27">
+          <sent id="id_78" smilref="mo0.smil#sid_78">- Ông Phabry đã nói những điều ngu xuẩn phải không?</sent>
+        </p>
+        <p id="c13_p28" smilref="mo0.smil#seq_28">
+          <sent id="id_79" smilref="mo0.smil#sid_79">- Cháu không biết.</sent>
+        </p>
+        <p id="c13_p29" smilref="mo0.smil#seq_29">
+          <sent id="id_80" smilref="mo0.smil#sid_80">- Thế nào?</sent>
+          <sent id="id_81" smilref="mo0.smil#sid_81">Cô không biết ư?</sent>
+          <sent id="id_82" smilref="mo0.smil#sid_82">Thế thì cô không thông minh tí nào?</sent>
+        </p>
+        <p id="c13_p30" smilref="mo0.smil#seq_30">
+          <sent id="id_83" smilref="mo0.smil#sid_83">- Đúng thế, cháu ngu dại lắm!</sent>
+        </p>
+        <p id="c13_p31" smilref="mo0.smil#seq_31">
+          <sent id="id_84" smilref="mo0.smil#sid_84">- Cô rất thông minh đấy!</sent>
+          <sent id="id_85" smilref="mo0.smil#sid_85">Cô không trả lời cho tôi là vì cô không muốn trả lời đó thôi!</sent>
+          <sent id="id_86" smilref="mo0.smil#sid_86">Đừng quên cô đang nói chuyện với ai nhé!</sent>
+          <sent id="id_87" smilref="mo0.smil#sid_87">Ở đây, tôi là gì?</sent>
+        </p>
+        <p id="c13_p32" smilref="mo0.smil#seq_32">
+          <sent id="id_88" smilref="mo0.smil#sid_88">- Ông quản đốc.</sent>
+        </p>
+        <p id="c13_p33" smilref="mo0.smil#seq_33">
+          <sent id="id_89" smilref="mo0.smil#sid_89">- Nghĩa là ông chủ, bởi là ông chủ cho nên cái gì cũng cần phải qua tay tôi!</sent>
+          <sent id="id_90" smilref="mo0.smil#sid_90">Tôi phải biết tất cả.</sent>
+          <sent id="id_91" smilref="mo0.smil#sid_91">Những đứa nào không vâng lời tôi, tôi đuổi!</sent>
+          <sent id="id_92" smilref="mo0.smil#sid_92">Đừng quên điều ấy!</sent>
+        </p>
+        <p id="c13_p34" smilref="mo0.smil#seq_34">
+          <sent id="id_93" smilref="mo0.smil#sid_93">Thật đúng là con người mà thợ thuyền nói đến trong phòng trọ, ông chủ nghiêm khắc, tên bạo chúa muốn tỏ uy quyền của mình trong các xưởng máy, không phải chỉ riêng ở Marôcua, mà còn ở Xanh Pipô, ở Bacua, ở Phơxen.</sent>
+          <sent id="id_94" smilref="mo0.smil#sid_94">Với ông ta ở khắp nơi, tất cả mọi phương tiện đều tốt để khuếch trương và giữ vững uy quyền của mình ngay bên cạnh ông Vunphran, không những thế mà còn muốn lấn cả ông Vunphran.</sent>
+        </p>
+        <p id="c13_p35" smilref="mo0.smil#seq_35">
+          <sent id="id_95" smilref="mo0.smil#sid_95">Tôi hỏi cô: Ông Phabry đã làm điều gì ngu xuẩn?</sent>
+          <sent id="id_96" smilref="mo0.smil#sid_96">Taluen hạ thấp giọng nhắc lại.</sent>
+        </p>
+        <p id="c13_p36" smilref="mo0.smil#seq_36">
+          <sent id="id_97" smilref="mo0.smil#sid_97">- Cháu không thể nói với ông điều ấy bởi vì cháu không biết, nhưng cháu có thể nhắc lại những nhận xét là ông Vunphran bảo cháu dịch cho mấy chú thợ máy.</sent>
+        </p>
+        <p id="c13_p37" smilref="mo0.smil#seq_37">
+          <sent id="id_98" smilref="mo0.smil#sid_98">Không sót một chữ, Perin nhắc lại những lời nhận xét ấy.</sent>
+        </p>
+        <p id="c13_p38" smilref="mo0.smil#seq_38">
+          <sent id="id_99" smilref="mo0.smil#sid_99">- Có phải đó là tất cả không?</sent>
+        </p>
+        <p id="c13_p39" smilref="mo0.smil#seq_39">
+          <sent id="id_100" smilref="mo0.smil#sid_100">- Đó là tất cả.</sent>
+        </p>
+        <p id="c13_p40" smilref="mo0.smil#seq_40">
+          <sent id="id_101" smilref="mo0.smil#sid_101">- Ông Vunphran có bảo dịch mấy là thư không?</sent>
+        </p>
+        <p id="c13_p41" smilref="mo0.smil#seq_41">
+          <sent id="id_102" smilref="mo0.smil#sid_102">- Thưa ông, không ạ.</sent>
+          <sent id="id_103" smilref="mo0.smil#sid_103">Cháu chỉ dịch những đoạn trong tờ Tin tức và dịch cả tờ “Thông đạt về việc buôn bán, trao đổi và sự kết hợp”.</sent>
+        </p>
+        <p id="c13_p42" smilref="mo0.smil#seq_42">
+          <sent id="id_104" smilref="mo0.smil#sid_104">- Cô nên biết, nếu cô không nói sự thật, tất cả sự thật, tôi cũng sẽ biết hết rất nhanh thôi mà!</sent>
+          <sent id="id_105" smilref="mo0.smil#sid_105">Khi ấy thì… xéo!</sent>
+        </p>
+        <p id="c13_p43" smilref="mo0.smil#seq_43">
+          <sent id="id_106" smilref="mo0.smil#sid_106">Ông nhấn mạnh tiếng cuối cùng bằng một cử chỉ, tuy tiếng ấy đã rất rõ trong sự thô bạo của câu nói.</sent>
+        </p>
+        <p id="c13_p44" smilref="mo0.smil#seq_44">
+          <sent id="id_107" smilref="mo0.smil#sid_107">- Tại sao cháu lại không nói sự thật chứ?</sent>
+        </p>
+        <p id="c13_p45" smilref="mo0.smil#seq_45">
+          <sent id="id_108" smilref="mo0.smil#sid_108">- Đó là tôi đã cho cô một lời cảnh báo trước đấy!</sent>
+        </p>
+        <p id="c13_p46" smilref="mo0.smil#seq_46">
+          <sent id="id_109" smilref="mo0.smil#sid_109">- Cháu xin ghi nhớ, thưa ông, cháu xin hứa với ông điều đó.</sent>
+        </p>
+        <p id="c13_p47" smilref="mo0.smil#seq_47">
+          <sent id="id_110" smilref="mo0.smil#sid_110">- Tốt!</sent>
+          <sent id="id_111" smilref="mo0.smil#sid_111">Bây giờ hãy đến ngồi trên chiếc ghế kia.</sent>
+          <sent id="id_112" smilref="mo0.smil#sid_112">Nếu ông Vunphran cần đến cô, ông sẽ nhớ là đã dặn dò cô đến đây.</sent>
+        </p>
+        <p id="c13_p48" smilref="mo0.smil#seq_48">
+          <sent id="id_113" smilref="mo0.smil#sid_113">Perin ngồi trên ghế gần hai tiếng đồng hồ không dám cựa quậy, trong lúc Taluen còn ở đó.</sent>
+          <sent id="id_114" smilref="mo0.smil#sid_114">Em không dám suy nghĩ nữa!</sent>
+          <sent id="id_115" smilref="mo0.smil#sid_115">Khi ông ta đi khỏi, Perin mới tự nhủ được, nhưng em vẫn lo lắng.</sent>
+          <sent id="id_116" smilref="mo0.smil#sid_116">Đáng lẽ em phải tự trấn an, em chẳng có gì phải sợ cái con người dữ tợn ấy, em cần phải có một sự tự tin vững chắc, điều đó không phù hợp với tính cánh của em.</sent>
+          <sent id="id_117" smilref="mo0.smil#sid_117">Điều mà Taluen đỏi hỏi ở em, em đoán ra được quá rõ!</sent>
+          <sent id="id_118" smilref="mo0.smil#sid_118">Em sẽ là người dọ thám của ông ta bên cạnh ông Vunphran.</sent>
+          <sent id="id_119" smilref="mo0.smil#sid_119">Chỉ đơn giản thôi, bằng cách thuật lại cho ông ta nội dung các bức thư mà em sẽ phải dịch.</sent>
+        </p>
+        <p id="c13_p49" smilref="mo0.smil#seq_49">
+          <sent id="id_120" smilref="mo0.smil#sid_120">Nếu đó là một viễn cảnh rõ rệt làm cho Perin khiếp sợ, nó cũng có cái hay của nó.</sent>
+          <sent id="id_121" smilref="mo0.smil#sid_121">Perin có thể tin rằng Taluen biết, hay ít nhất ông ta cũng nghĩ rằng em sẽ có những bức thư để dịch.</sent>
+          <sent id="id_122" smilref="mo0.smil#sid_122">Nghĩa là ông Vunphran sẽ giữ em bên cạnh, trong thời gian ông Benđi còn bệnh.</sent>
+        </p>
+        <p id="c13_p50" smilref="mo0.smil#seq_50">
+          <sent id="id_123" smilref="mo0.smil#sid_123">Perin lại ngồi cho đến lúc Guydôm đến tìm, để đưa em vào buồng giấy.</sent>
+          <sent id="id_124" smilref="mo0.smil#sid_124">Em gặp ông Vunphran đang ngồi trước một cái bàn lớn đầy các tập hồ sơ.</sent>
+          <sent id="id_125" smilref="mo0.smil#sid_125">Có những cái chặn giấy được ghi bằng một thứ chữ nổi để bàn tay dễ nhận vì con mắt không thấy.</sent>
+          <sent id="id_126" smilref="mo0.smil#sid_126">Ở đầu những vật chặn giấy có những máy móc bằng điện và điện thoại.</sent>
+          <sent id="id_127" smilref="mo0.smil#sid_127">Không báo cho ông Vunphran hay, Guydôm đã khép cửa lại, sau khi Perin vào.</sent>
+          <sent id="id_128" smilref="mo0.smil#sid_128">Sau một giây lát chờ đợi, Perin nghĩ nên báo cho ông Vunphran biết em đã có mặt.</sent>
+        </p>
+        <p id="c13_p51" smilref="mo0.smil#seq_51">
+          <sent id="id_129" smilref="mo0.smil#sid_129">- Cháu là Ôrêli đây.</sent>
+          <sent id="id_130" smilref="mo0.smil#sid_130">Em nói.</sent>
+        </p>
+        <p id="c13_p52" smilref="mo0.smil#seq_52">
+          <sent id="id_131" smilref="mo0.smil#sid_131">- Bác nhận ra bước chân của cháu.</sent>
+          <sent id="id_132" smilref="mo0.smil#sid_132">Lại gần đây cháu và nghe bác nói.</sent>
+          <sent id="id_133" smilref="mo0.smil#sid_133">Nghe cháu kể về những tai họa của cháu và nghị lực cháu đã tỏ rõ để chống chọi, bác rất quan tâm đến số phận của cháu.</sent>
+          <sent id="id_134" smilref="mo0.smil#sid_134">Mặt khác, trong khi phiên dịch với tốp thợ máy và dịch những tài liệu bác giao cho cháu, trong các câu chuyện giữa chúng ta, bác gặp ở cháu một sự thông minh rất vừa ý bác.</sent>
+          <sent id="id_135" smilref="mo0.smil#sid_135">Từ dạo bệnh tật luôn làm bác mù lòa, bác cần một người nhìn thay cho bác.</sent>
+          <sent id="id_136" smilref="mo0.smil#sid_136">Người ấy biết nhìn những gì bác chỉ cho, cũng như biết giải thích cho bác cái gì đập vào mắt mình.</sent>
+          <sent id="id_137" smilref="mo0.smil#sid_137">Nhưng khốn thay, rượu làm cho hắn ngu đần.</sent>
+          <sent id="id_138" smilref="mo0.smil#sid_138">Bây giờ hắn chỉ có thể làm người đánh xe!</sent>
+          <sent id="id_139" smilref="mo0.smil#sid_139">Ấy thế, mà còn phải đừng quá khe khắt.</sent>
+          <sent id="id_140" smilref="mo0.smil#sid_140">Cháu có muốn nhận nhiệm vụ ở bên cạnh bác, ở cái vị trí mà Guydôm đã không biết giữ?</sent>
+          <sent id="id_141" smilref="mo0.smil#sid_141">Để bắt đầu cháu sẽ nhận chín chục phờrăng một tháng và những món tiền thưởng ngoài nếu bác hài lòng về cháu, bác hy vọng thế.</sent>
+        </p>
+        <p id="c13_p53" smilref="mo0.smil#seq_53">
+          <sent id="id_142" smilref="mo0.smil#sid_142">Nỗi vui mừng khiến Perin nghẹn ngào, không trả lời được.</sent>
+        </p>
+        <p id="c13_p54" smilref="mo0.smil#seq_54">
+          <sent id="id_143" smilref="mo0.smil#sid_143">- Cháu không nói gì ư?</sent>
+        </p>
+        <p id="c13_p55" smilref="mo0.smil#seq_55">
+          <sent id="id_144" smilref="mo0.smil#sid_144">- Cháu đang tìm những lời lẽ để cảm ơn ông, nhưng cháu cảm động quá, bối rối quá, không tìm được!</sent>
+          <sent id="id_145" smilref="mo0.smil#sid_145">Xin ông đừng nghĩ là…</sent>
+        </p>
+        <p id="c13_p56" smilref="mo0.smil#seq_56">
+          <sent id="id_146" smilref="mo0.smil#sid_146">Ông Vunphran ngắt lời:</sent>
+        </p>
+        <p id="c13_p57" smilref="mo0.smil#seq_57">
+          <sent id="id_147" smilref="mo0.smil#sid_147">- Bác tin là cháu cảm động!</sent>
+          <sent id="id_148" smilref="mo0.smil#sid_148">Thật thế, giọng nói của cháu cho bác hay điều đó.</sent>
+          <sent id="id_149" smilref="mo0.smil#sid_149">Bác rất hài lòng vì đó là lời hứa là cháu sẽ làm cái gì có thể làm được để bác hài lòng.</sent>
+          <sent id="id_150" smilref="mo0.smil#sid_150">Bây giờ qua chuyện khác; Cháu đã viết thư cho người thân của cháu chưa?</sent>
+        </p>
+        <p id="c13_p58" smilref="mo0.smil#seq_58">
+          <sent id="id_151" smilref="mo0.smil#sid_151">- Thưa ông, chưa.</sent>
+          <sent id="id_152" smilref="mo0.smil#sid_152">Cháu không thể viết được vì cháu chẳng có giấy.</sent>
+        </p>
+        <p id="c13_p59" smilref="mo0.smil#seq_59">
+          <sent id="id_153" smilref="mo0.smil#sid_153">- Được rồi!</sent>
+          <sent id="id_154" smilref="mo0.smil#sid_154">Được rồi!</sent>
+          <sent id="id_155" smilref="mo0.smil#sid_155">Rồi cháu sẽ viết được!</sent>
+          <sent id="id_156" smilref="mo0.smil#sid_156">Cháu sẽ tìm thấy giấy trên bàn làm việc của ông Benđi.</sent>
+          <sent id="id_157" smilref="mo0.smil#sid_157">Trong khi chờ đợi ông ta lành bệnh, cháu sẽ lãnh phần việc của ông ấy.</sent>
+          <sent id="id_158" smilref="mo0.smil#sid_158">Ở bàn giấy ông Benđi, cháu sẽ tìm thấy tất cả các thứ mà cháu cần khi viết thư, cháu nhớ tin cho họ hay cái địa vị của cháu ở trong nhà máy của bác.</sent>
+        </p>
+        <p id="c13_p60" smilref="mo0.smil#seq_60">
+          <sent id="id_159" smilref="mo0.smil#sid_159">Nếu họ có thể cho cháu một chỗ tốt hơn, họ sẽ đón cháu về.</sent>
+          <sent id="id_160" smilref="mo0.smil#sid_160">Nếu không, họ cứ để cháu ở lại đây.</sent>
+        </p>
+        <p id="c13_p61" smilref="mo0.smil#seq_61">
+          <sent id="id_161" smilref="mo0.smil#sid_161">- Chắc chắn là cháu ở lại đây.</sent>
+        </p>
+        <p id="c13_p62" smilref="mo0.smil#seq_62">
+          <sent id="id_162" smilref="mo0.smil#sid_162">- Bác cũng nghĩ thế và bác tin rằng hiện nay đó là điều tốt hơn cả đối với cháu.</sent>
+          <sent id="id_163" smilref="mo0.smil#sid_163">Cháu sẽ làm việc với các buồng giấy, giao thiệp với các nhân viên, truyền đạt những chỉ thị của bác đến họ.</sent>
+          <sent id="id_164" smilref="mo0.smil#sid_164">Mặt khác, cháu phải đi với bác.</sent>
+          <sent id="id_165" smilref="mo0.smil#sid_165">Cháu không thể giữ những áo quần của người thợ, như ông Bơnoa nói với bác, đã bạc màu rồi!</sent>
+        </p>
+        <p id="c13_p63" smilref="mo0.smil#seq_63">
+          <sent id="id_166" smilref="mo0.smil#sid_166">- Những quần áo tơi tả, thưa ông, nhưng xin ông tin rằng không phải vì cháu lười biếng, cũng chẳng phải cháu thờ ơ!</sent>
+        </p>
+        <p id="c13_p64" smilref="mo0.smil#seq_64">
+          <sent id="id_167" smilref="mo0.smil#sid_167">- Cháu đừng chống chế!</sent>
+          <sent id="id_168" smilref="mo0.smil#sid_168">Dù sao, cuối cùng tất cả cái ấy cũng sẽ phải thay đổi.</sent>
+          <sent id="id_169" smilref="mo0.smil#sid_169">Cháu đến phòng Tài vụ, người ta sẽ đưa cho cháu một cái phiếu để cháu có thể nhận được ở cửa hiệu bà Lasesdơ những gì cháu cần: áo quần mặc ngoài, quần áo lót, mũ, giày…</sent>
+        </p>
+        <p id="c13_p65" smilref="mo0.smil#seq_65">
+          <sent id="id_170" smilref="mo0.smil#sid_170">Perin lắng nghe như thể không phải là ông già mù lòa có gương mặt nghiêm khắc mà là một bà tiên xinh đẹp đang nói, chiếu đũa thần khoa múa trên đầu em.</sent>
+          <sent id="id_171" smilref="mo0.smil#sid_171">Ông Vunphran gọi em trở lại với thực tế:</sent>
+        </p>
+        <p id="c13_p66" smilref="mo0.smil#seq_66">
+          <sent id="id_172" smilref="mo0.smil#sid_172">- Cháu được tự do lựa chọn cái gì cháu thích.</sent>
+          <sent id="id_173" smilref="mo0.smil#sid_173">Đừng quên là cách lựa chọn sẽ xác định tính cách của cháu đấy nhé!</sent>
+          <sent id="id_174" smilref="mo0.smil#sid_174">Cháu hãy lo chuyện đó.</sent>
+          <sent id="id_175" smilref="mo0.smil#sid_175">Hôm nay, bác không cần cháu.</sent>
+          <sent id="id_176" smilref="mo0.smil#sid_176">Hẹn ngày mai nhé.</sent>
+        </p>
+        <p id="c13_p67" smilref="mo0.smil#seq_67">
+          <sent id="id_177" smilref="mo0.smil#sid_177">oOo</sent>
+        </p>
+        <p id="c13_p68" smilref="mo0.smil#seq_68">
+          <sent id="id_178" smilref="mo0.smil#sid_178">Khi Perin vào phòng Tài vụ, người ta trao cho em sau khi đã ngắm kỹ em từ đầu đến chân, cái phiếu mà ông Vunphran đã hứa.</sent>
+          <sent id="id_179" smilref="mo0.smil#sid_179">Em ra khỏi nhà máy, tự hỏi không biết cái bà Lasesdơ này ở chỗ nào?</sent>
+        </p>
+        <p id="c13_p69" smilref="mo0.smil#seq_69">
+          <sent id="id_180" smilref="mo0.smil#sid_180">Em mong ước đó là bà chủ hiệu em đã mua vải.</sent>
+          <sent id="id_181" smilref="mo0.smil#sid_181">Em đã quen biết bà ta, sẽ đỡ bối rối khi hỏi bà những thứ mà em cần sắm.</sent>
+          <sent id="id_182" smilref="mo0.smil#sid_182">Câu nói cuối cùng của ông Vunphran: “Cách lựa chọn sẽ xác định tính cách của cháu” làm cho câu nói dễ sợ này càng quan trọng.</sent>
+          <sent id="id_183" smilref="mo0.smil#sid_183">Có lẽ chẳng cần lời cảnh cáo ấy em cũng không dám buông mình trong cách ăn mặc lố lăng.</sent>
+          <sent id="id_184" smilref="mo0.smil#sid_184">Nhưng em không biết cái gì mà em cho là vừa phải thì đối với con mắt ông Vunphran sẽ như thế nào?</sent>
+          <sent id="id_185" smilref="mo0.smil#sid_185">Trong thời thơ ấu, em đã được biết những chiếc áo đẹp.</sent>
+          <sent id="id_186" smilref="mo0.smil#sid_186">Em đã từng mặc những chiếc áo ấy và hãnh diện được đi vênh vang.</sent>
+          <sent id="id_187" smilref="mo0.smil#sid_187">Thật ra, những chiếc áo kiểu ấy vẫn không phù hợp với hiện nay.</sent>
+          <sent id="id_188" smilref="mo0.smil#sid_188">Nhưng những chiếc áo giản dị nhất mà em có thể tìm được, có hợp hơn không nhỉ?</sent>
+          <sent id="id_189" smilref="mo0.smil#sid_189">Nếu ai đó, tối hôm qua nói với em, trong lúc em đang khổ sở vì nghèo đói là người ta sẽ cho em quần áo, vải vóc, em cũng chẳng thể tưởng tượng nổi!</sent>
+          <sent id="id_190" smilref="mo0.smil#sid_190">Thật thế, món quà bất ngờ này làm cho em vui mừng khôn xiết.</sent>
+          <sent id="id_191" smilref="mo0.smil#sid_191">Thế nhưng nỗi bối rối và lo sợ lại xâm chiếm em.</sent>
+        </p>
+        <p id="c13_p70" smilref="mo0.smil#seq_70">
+          <sent id="id_192" smilref="mo0.smil#sid_192">Bà Lasesdơ ở gần nhà Thờ.</sent>
+          <sent id="id_193" smilref="mo0.smil#sid_193">Cửa hiệu của bà hiển nhiên là đẹp nhất, duyên dáng nhất ở Marôcua.</sent>
+          <sent id="id_194" smilref="mo0.smil#sid_194">Một gian trưng bày vải, rubăng, quần áo, mũ, đồ trang sức, các loại nước hoa… đánh thức những ham muốn, nhen nhóm những khát vọng của các cô gái hay làm đỏm ở địa phương.</sent>
+          <sent id="id_195" smilref="mo0.smil#sid_195">Bọn họ tiêu hết tiền lương ở đây cũng như các ông bố, ông chồng của họ xài tiền công trong các quán rượu.</sent>
+          <sent id="id_196" smilref="mo0.smil#sid_196">Cái gian trưng bày ấy càng làm cho Perin thêm rụt rè.</sent>
+          <sent id="id_197" smilref="mo0.smil#sid_197">Một cô gái ăn mặc rách rưới bước vào cửa hiệu không được săn đón của bà chủ cũng như mấy cô thợ ngồi làm việc sau quầy hàng.</sent>
+          <sent id="id_198" smilref="mo0.smil#sid_198">Perin đứng một lúc giữa cửa hiệu, không biết cần nói gì với ai.</sent>
+          <sent id="id_199" smilref="mo0.smil#sid_199">Cuối cùng, em quyết định giơ cao chiếc phong bì emđang cầm trong tay.</sent>
+        </p>
+        <p id="c13_p71" smilref="mo0.smil#seq_71">
+          <sent id="id_200" smilref="mo0.smil#sid_200">- Cái gì thế, em bé?</sent>
+          <sent id="id_201" smilref="mo0.smil#sid_201">– Bà Lasesdơ hỏi.</sent>
+        </p>
+        <p id="c13_p72" smilref="mo0.smil#seq_72">
+          <sent id="id_202" smilref="mo0.smil#sid_202">Perin đưa chiếc phong bì ở một góc có in dòng chữ: “Nhà máy Marôcua, Vunphran Panhđavoan”.</sent>
+          <sent id="id_203" smilref="mo0.smil#sid_203">Chưa đọc hết tờ phiếu, nét mặt bà chủ đã tươi lên với nụ cười dễ gây cảm tình nhất.</sent>
+        </p>
+        <p id="c13_p73" smilref="mo0.smil#seq_73">
+          <sent id="id_204" smilref="mo0.smil#sid_204">- Cô cần gì, thưa cô?</sent>
+          <sent id="id_205" smilref="mo0.smil#sid_205">– Bà ta hỏi Perin trong lúc rời quầy hàng để nhấc một chiếc ghế.</sent>
+        </p>
+        <p id="c13_p74" smilref="mo0.smil#seq_74">
+          <sent id="id_206" smilref="mo0.smil#sid_206">Perin nói em cần quần áo, giày vớ, và một cái mũ.</sent>
+        </p>
+        <p id="c13_p75" smilref="mo0.smil#seq_75">
+          <sent id="id_207" smilref="mo0.smil#sid_207">- Chúng tôi có tất cả những thứ ấy, loại tốt nhất.</sent>
+          <sent id="id_208" smilref="mo0.smil#sid_208">Cô muốn chúng tôi bắt đầu bằng chiếc áo dài?</sent>
+          <sent id="id_209" smilref="mo0.smil#sid_209">Vâng, có phải thế không ạ?</sent>
+          <sent id="id_210" smilref="mo0.smil#sid_210">Tôi sẽ giới thiệu với cô các loại vải, rồi cô sẽ chọn.</sent>
+        </p>
+        <p id="c13_p76" smilref="mo0.smil#seq_76">
+          <sent id="id_211" smilref="mo0.smil#sid_211">Nhưng không phải Perin muốn xem các loại vải mà em muốn một chiếc áo may sẵn.</sent>
+          <sent id="id_212" smilref="mo0.smil#sid_212">Em có thể mặc ngay chiếc áo, hay ít nhất buổi chiều em có áo, để ngày mai cùng đi với ông Vunphran.</sent>
+        </p>
+        <p id="c13_p77" smilref="mo0.smil#seq_77">
+          <sent id="id_213" smilref="mo0.smil#sid_213">- A, cô phải đi cùng với ông Vunphran – Bà chủ vội nói.</sent>
+        </p>
+        <p id="c13_p78" smilref="mo0.smil#seq_78">
+          <sent id="id_214" smilref="mo0.smil#sid_214">Câu chuyện lạ lùng kích thích tính tò mò của bà.</sent>
+          <sent id="id_215" smilref="mo0.smil#sid_215">Bà tự hỏi không biết ông chủ đầy quyền uy ở Marôcua có thể dùng cô gái lang bạt này để làm gì?</sent>
+          <sent id="id_216" smilref="mo0.smil#sid_216">Nhưng, đáng lẽ phải trả lời câu hỏi ấy, Perin tiếp tục giải thích chiếc áo mà em cần phải có màu đen, bởi vì em đang có tang.</sent>
+        </p>
+        <p id="c13_p79" smilref="mo0.smil#seq_79">
+          <sent id="id_217" smilref="mo0.smil#sid_217">- Thế là cái áo ấy để đi đám ma?</sent>
+        </p>
+        <p id="c13_p80" smilref="mo0.smil#seq_80">
+          <sent id="id_218" smilref="mo0.smil#sid_218">- Không.</sent>
+        </p>
+        <p id="c13_p81" smilref="mo0.smil#seq_81">
+          <sent id="id_219" smilref="mo0.smil#sid_219">- Thưa cô, xin cô hiểu cho công dụng mà cô dành cho chiếc áo nói lên cho chúng tôi biết nó cần phải như thế nào: hình dáng, thứ vải, giá tiền.</sent>
+        </p>
+        <p id="c13_p82" smilref="mo0.smil#seq_82">
+          <sent id="id_220" smilref="mo0.smil#sid_220">- Hình dáng: giản dị nhất, thứ vải: chắc và nhẹ; giá tiền: rẻ nhất.</sent>
+        </p>
+        <p id="c13_p83" smilref="mo0.smil#seq_83">
+          <sent id="id_221" smilref="mo0.smil#sid_221">- Tốt, tốt thôi.</sent>
+          <sent id="id_222" smilref="mo0.smil#sid_222">Bà chủ hiệu trả lời.</sent>
+          <sent id="id_223" smilref="mo0.smil#sid_223">Người ta sẽ chỉ cho cô xem!</sent>
+          <sent id="id_224" smilref="mo0.smil#sid_224">Viếcgini, hãy theo cô đây!</sent>
+        </p>
+        <p id="c13_p84" smilref="mo0.smil#seq_84">
+          <sent id="id_225" smilref="mo0.smil#sid_225">Giọng nói đã thay đổi, những cử chỉ cũng thay đổi.</sent>
+          <sent id="id_226" smilref="mo0.smil#sid_226">Rất oai vệ, bà Lasesdơ trở lại ngồi vào chổ của bà, bên tủ két.</sent>
+          <sent id="id_227" smilref="mo0.smil#sid_227">Bà không tự mình phục vụ một cô khách hàng mà bà khinh bỉ vì đã cho bà biết những đòi hỏi như thế!</sent>
+          <sent id="id_228" smilref="mo0.smil#sid_228">Đây chắc là con gái của một người đầy tớ mà ông Vunphran muốn biếu tặng chiếc áo tang, nhưng người đầy tớ ấy là ai?</sent>
+          <sent id="id_229" smilref="mo0.smil#sid_229">Trong lúc Viếcgini mang đến quầy một chiếc áo bằng hàng catsơmia có trang trí ren và hạt huyền, bà chủ can thiệp:</sent>
+        </p>
+        <p id="c13_p85" smilref="mo0.smil#seq_85">
+          <sent id="id_230" smilref="mo0.smil#sid_230">- Cái này không hợp – Bà nói.</sent>
+        </p>
+        <p id="c13_p86" smilref="mo0.smil#seq_86">
+          <sent id="id_231" smilref="mo0.smil#sid_231">Rồi bà chỉ một chiếc váy và một chiếc bờlu vải hoa đen có chấm nhỏ và nói: “Chiếc váy hơi dài, chiếc bờlu hơi rộng nhưng chúng tôi có thể lên gấu, gấp thêm đôi cái nếp và cô sẽ mặc vừa.</sent>
+          <sent id="id_232" smilref="mo0.smil#sid_232">Với lại, bây giờ chúng tôi không có thứ gì khác!”.</sent>
+          <sent id="id_233" smilref="mo0.smil#sid_233">Đấy là một lý do để loại trừ mọi lý do.</sent>
+          <sent id="id_234" smilref="mo0.smil#sid_234">Tuy áo và váy có dài, rộng một chút, Perin cũng cho là rất đẹp.</sent>
+          <sent id="id_235" smilref="mo0.smil#sid_235">Với lại người ta đã bảo đảm là em sẽ mặc vừa, sau khi họ chữa lại thì em phải tin chứ!</sent>
+          <sent id="id_236" smilref="mo0.smil#sid_236">Việc lựa chọn sơmi, bít tất có dễ dàng hơn vì Perin muốn thứ rẻ nhất.</sent>
+          <sent id="id_237" smilref="mo0.smil#sid_237">Khi Perin tuyên bố chỉ lấy hai đôi bít tất và hai chiếc sơmi, Viếcgini cũng tỏ ra khinh bỉ em như bà chủ.</sent>
+          <sent id="id_238" smilref="mo0.smil#sid_238">Cô hạ cố giới thiệu với Perin đôi giày và chiếc mũ cũng chỉ là làm phước, để hoàn thành bộ cánh cho cô bé ngu ngốc này!</sent>
+          <sent id="id_239" smilref="mo0.smil#sid_239">Ai có thể nghĩ đến một sự dại dột tương tự: chỉ có hai đôi tất, hai chiếc sơmi thôi!</sent>
+          <sent id="id_240" smilref="mo0.smil#sid_240">Đã từ lâu, Perin mơ ước óc chiếc mùi xoa, nhưng em cũng chỉ dám mua ba chiếc để bỏ túi.</sent>
+          <sent id="id_241" smilref="mo0.smil#sid_241">Việc mua bán mới này cũng chẳng thay đổi được tình cảm của bà chủ cũng như cô bán hàng.</sent>
+        </p>
+        <p id="c13_p87" smilref="mo0.smil#seq_87">
+          <sent id="id_242" smilref="mo0.smil#sid_242">- Cầm như chẳng được tích sự gì.</sent>
+          <sent id="id_243" smilref="mo0.smil#sid_243">Cái con bé này!</sent>
+        </p>
+        <p id="c13_p88" smilref="mo0.smil#seq_88">
+          <sent id="id_244" smilref="mo0.smil#sid_244">- Bây giờ, chúng tôi có phải đem những thứ này đến cho cô không?</sent>
+          <sent id="id_245" smilref="mo0.smil#sid_245">– Bà Lasesdơ hỏi.</sent>
+        </p>
+        <p id="c13_p89" smilref="mo0.smil#seq_89">
+          <sent id="id_246" smilref="mo0.smil#sid_246">- Cháu xin cảm ơn bà, chiều nay cháu sẽ đến lấy.</sent>
+        </p>
+        <p id="c13_p90" smilref="mo0.smil#seq_90">
+          <sent id="id_247" smilref="mo0.smil#sid_247">- Không đến trước tám giờ và sau chín giờ đấy nhé!</sent>
+        </p>
+        <p id="c13_p91" smilref="mo0.smil#seq_91">
+          <sent id="id_248" smilref="mo0.smil#sid_248">Perin có lý do khi em không muốn người ta mang quần áo đến cho em.</sent>
+          <sent id="id_249" smilref="mo0.smil#sid_249">Em nào biết đêm nay em ngủ ở đâu?</sent>
+          <sent id="id_250" smilref="mo0.smil#sid_250">Ngủ trong hòn đảo của em?</sent>
+          <sent id="id_251" smilref="mo0.smil#sid_251">Không thể nghĩ đến điều ấy!</sent>
+          <sent id="id_252" smilref="mo0.smil#sid_252">Những người không có gì hết, không cần cửa ngõ và ống khóa.</sent>
+          <sent id="id_253" smilref="mo0.smil#sid_253">Nhưng mặc dù bà chủ hiệu tỏ vẻ khinh bỉ, những gì em vừa mua được, vẫn là một gia tài đối với em.</sent>
+          <sent id="id_254" smilref="mo0.smil#sid_254">Nó cần phải được bảo vệ.</sent>
+          <sent id="id_255" smilref="mo0.smil#sid_255">Như thế thì tối hôm sau, em phải có một chỗ ở.</sent>
+          <sent id="id_256" smilref="mo0.smil#sid_256">Rất tự nhiên, em nghĩ đến bà ngoại của Rôdali.</sent>
+          <sent id="id_257" smilref="mo0.smil#sid_257">Ra khỏi cửa hiệu bà Lasesdơ, em đi về phái nhà mẹ Prăngxoadơ.</sent>
+          <sent id="id_258" smilref="mo0.smil#sid_258">Em mong tìm thấy ở đó một gian buồng nhỏ, giá thuê không đắt lắm.</sent>
+          <sent id="id_259" smilref="mo0.smil#sid_259">Em sắp đến hàng rào thì Rôdali đi ra, dáng điệu vui tươi.</sent>
+        </p>
+        <p id="c13_p92" smilref="mo0.smil#seq_92">
+          <sent id="id_260" smilref="mo0.smil#sid_260">- Chị đi ư?</sent>
+        </p>
+        <p id="c13_p93" smilref="mo0.smil#seq_93">
+          <sent id="id_261" smilref="mo0.smil#sid_261">- Còn chị, chị rảnh chứ?</sent>
+        </p>
+        <p id="c13_p94" smilref="mo0.smil#seq_94">
+          <sent id="id_262" smilref="mo0.smil#sid_262">Bằng vài từ họ vội vàng nói cho nhau hiểu.</sent>
+          <sent id="id_263" smilref="mo0.smil#sid_263">Rôdali đi Píchkynhi về một việc khẩn cấp.</sent>
+          <sent id="id_264" smilref="mo0.smil#sid_264">Em không thể trở về nhà ngoại ngay như em muốn để điều đình việc thuê buồng cho bạn.</sent>
+          <sent id="id_265" smilref="mo0.smil#sid_265">Hôm ấy Perin rảnh, tại sao lại không cùng đi Píchkynhi với Rôdali kia chứ?</sent>
+          <sent id="id_266" smilref="mo0.smil#sid_266">Họ sẽ cùng trở về, và cuộc đi chơi sẽ rất thú vị.</sent>
+          <sent id="id_267" smilref="mo0.smil#sid_267">Hai người khẩn trương khi đi.</sent>
+          <sent id="id_268" smilref="mo0.smil#sid_268">Giải quyết xong công việc, khi trở về, cuộc đi chơi thú vị ấy được điểm xuyết nhiều câu chuyện, những phút thơ thẩn, dạo chơi trong một cánh đồng cỏ, nghỉ ngơi dưới bóng mát.</sent>
+          <sent id="id_269" smilref="mo0.smil#sid_269">Mãi đến chiều, họ mới trở về Marôcua.</sent>
+          <sent id="id_270" smilref="mo0.smil#sid_270">Khi đến hàng rào của bà ngoại, Rôdali mới nhớ đến giờ giấc:</sent>
+        </p>
+        <p id="c13_p95" smilref="mo0.smil#seq_95">
+          <sent id="id_271" smilref="mo0.smil#sid_271">- Không biết rồi dì Đênôbi sẽ nói gì.</sent>
+        </p>
+        <p id="c13_p96" smilref="mo0.smil#seq_96">
+          <sent id="id_272" smilref="mo0.smil#sid_272">- Mặc kệ!</sent>
+        </p>
+        <p id="c13_p97" smilref="mo0.smil#seq_97">
+          <sent id="id_273" smilref="mo0.smil#sid_273">- Ừ mặc kệ, tôi đã giải trí thoải mái!</sent>
+          <sent id="id_274" smilref="mo0.smil#sid_274">Còn chị?</sent>
+        </p>
+        <p id="c13_p98" smilref="mo0.smil#seq_98">
+          <sent id="id_275" smilref="mo0.smil#sid_275">- Cả ngày có người trao đổi, mà đi thế này chị vẫn thấy được giải trí thoải mái!</sent>
+          <sent id="id_276" smilref="mo0.smil#sid_276">Chị hãy nghĩ cuộc dạo chơi này đối với người chẳng có ai là bạn bè như tôi, thì sẽ như thế nào?</sent>
+        </p>
+        <p id="c13_p99" smilref="mo0.smil#seq_99">
+          <sent id="id_277" smilref="mo0.smil#sid_277">- Đúng thật như vậy.</sent>
+        </p>
+        <p id="c13_p100" smilref="mo0.smil#seq_100">
+          <sent id="id_278" smilref="mo0.smil#sid_278">May thay, dì Đênôbi đang bận phục vụ khách trọ; nên cuộc điều đình được dàn xếp với bà Prăngxoadơ.</sent>
+          <sent id="id_279" smilref="mo0.smil#sid_279">Điều ấy, cho phép được kết thúc khá nhanh chóng và không vất vả lắm: mỗi tháng năm mươi phờrăng cho một căn buồng có một giường nhỏ với một cửa sổ và bàn trang điểm.</sent>
+        </p>
+        <p id="c13_p101" smilref="mo0.smil#seq_101">
+          <sent id="id_280" smilref="mo0.smil#sid_280">Đến tám giờ, Perin ăn một mình ở bàn ăn của em trong phòng ăn công cộng, chiếc khăn ăn để trên đầu gối.</sent>
+          <sent id="id_281" smilref="mo0.smil#sid_281">Tám giờ rưỡi, em đi lấy quần áo.</sent>
+          <sent id="id_282" smilref="mo0.smil#sid_282">Chín giờ, ở trong buồng riêng, em khóa cửa, đi ngủ.</sent>
+          <sent id="id_283" smilref="mo0.smil#sid_283">Em hơi xúc động, say sưa, cái đầu choáng váng nhưng trong lòng chứa chan hy vọng.</sent>
+          <sent id="id_284" smilref="mo0.smil#sid_284">Bây giờ, hãy chờ xem.</sent>
+        </p>
+        <p id="c13_p102" smilref="mo0.smil#seq_102">
+          <sent id="id_285" smilref="mo0.smil#sid_285">Sáng hôm sau, Perin thấy ông Vunphran bấm chuông theo những tiếng kêu được đánh số trong bảng điện ở phòng ngoài để gọi các trưởng phòng của ông đến dặn dò.</sent>
+          <sent id="id_286" smilref="mo0.smil#sid_286">Nét mặt ông nghiêm khắc làm Perin kinh ngạc.</sent>
+          <sent id="id_287" smilref="mo0.smil#sid_287">Khi em bước vào, đôi mắt không nhìn thấy của ông quay về phía em.</sent>
+          <sent id="id_288" smilref="mo0.smil#sid_288">Em không thể lầm cách biểu lộ tình cảm trên cái gương mặt này, vì em đã quan sát kỹ nên đã hiểu rõ.</sent>
+          <sent id="id_289" smilref="mo0.smil#sid_289">Hiện tại, gương mặt không tỏ vẻ nhân từ.</sent>
+          <sent id="id_290" smilref="mo0.smil#sid_290">Nó tỏ vẻ bất bình và phẫn nộ.</sent>
+        </p>
+        <p id="c13_p103" smilref="mo0.smil#seq_103">
+          <sent id="id_291" smilref="mo0.smil#sid_291">Mình có làm điều gì xấu để người ta có thể chê trách không?</sent>
+          <sent id="id_292" smilref="mo0.smil#sid_292">– Em tự nhủ.</sent>
+        </p>
+        <p id="c13_p104" smilref="mo0.smil#seq_104">
+          <sent id="id_293" smilref="mo0.smil#sid_293">Khi đặt câu hỏi ấy, em chỉ thấy có một câu trả lời: Em mua sắm ở cửa hiệu bà Lassesdơ có quá mức!</sent>
+          <sent id="id_294" smilref="mo0.smil#sid_294">Ông Vunphran đánh giá tính cách của em qua việc mua sắm ấy không?</sent>
+          <sent id="id_295" smilref="mo0.smil#sid_295">Em đã chọn những thứ giản dị, kín đáo.</sent>
+          <sent id="id_296" smilref="mo0.smil#sid_296">Em phải mua gì nữa hay đừng mua gì hết?</sent>
+          <sent id="id_297" smilref="mo0.smil#sid_297">Perin không có thời gian để tìm hiểu.</sent>
+          <sent id="id_298" smilref="mo0.smil#sid_298">Ông Vunphran đã nói với em bằng một giọng nghiêm khắc:</sent>
+        </p>
+        <p id="c13_p105" smilref="mo0.smil#seq_105">
+          <sent id="id_299" smilref="mo0.smil#sid_299">- Tại sao cô không nói với tôi sự thật?</sent>
+        </p>
+        <p id="c13_p106" smilref="mo0.smil#seq_106">
+          <sent id="id_300" smilref="mo0.smil#sid_300">- Thưa ông, về khoản gì mà cháu không nói sự thật với ông?</sent>
+          <sent id="id_301" smilref="mo0.smil#sid_301">Xin ông cho cháu biết.</sent>
+          <sent id="id_302" smilref="mo0.smil#sid_302">Em sợ hãi hỏi lại.</sent>
+        </p>
+        <p id="c13_p107" smilref="mo0.smil#seq_107">
+          <sent id="id_303" smilref="mo0.smil#sid_303">- Về chuyện hạnh kiểm của cô từ ngày đến đây?</sent>
+        </p>
+        <p id="c13_p108" smilref="mo0.smil#seq_108">
+          <sent id="id_304" smilref="mo0.smil#sid_304">- Nhưng thưa ông, cháu xin thề cháu đã nói với ông sự thật!</sent>
+        </p>
+        <p id="c13_p109" smilref="mo0.smil#seq_109">
+          <sent id="id_305" smilref="mo0.smil#sid_305">- Cô nói với tôi cô ở nhà bà Prăng xoadơ.</sent>
+          <sent id="id_306" smilref="mo0.smil#sid_306">Nhưng cô đã rời hẳn chỗ đó thì cô ở chỗ nào vậy?</sent>
+          <sent id="id_307" smilref="mo0.smil#sid_307">Tôi cho cô hay mụ Đênôbi, con bà Prăngxoadơ, hôm qua được người ta hỏi có thêm tin tức về cô đã nói cô chỉ ở một đêm trong phòng trọ.</sent>
+          <sent id="id_308" smilref="mo0.smil#sid_308">Cô đã biến mất sau đó, chẳng ai biết trong thời gian sau, cô đã làm gì?</sent>
+        </p>
+        <p id="c13_p110" smilref="mo0.smil#seq_110">
+          <sent id="id_309" smilref="mo0.smil#sid_309">Perin đã hồi hộp nghe đoạn mở đầu của cuộc thẩm vấn nhưng dần dần, em thấy vững lòng hơn.</sent>
+        </p>
+        <p id="c13_p111" smilref="mo0.smil#seq_111">
+          <sent id="id_310" smilref="mo0.smil#sid_310">- Có một người biết rõ công việc cháu làm, sau khi rời phòng trọ của bà Prăng xoadơ.</sent>
+        </p>
+        <p id="c13_p112" smilref="mo0.smil#seq_112">
+          <sent id="id_311" smilref="mo0.smil#sid_311">- Ai?</sent>
+        </p>
+        <p id="c13_p113" smilref="mo0.smil#seq_113">
+          <sent id="id_312" smilref="mo0.smil#sid_312">- Rôdali, cháu bà ta có thể xác nhận những gì cháu sắp kể nếu ông thấy những gì cháu làm từ ngày hôm ấy xứng đáng để được ông biết đến.</sent>
+        </p>
+        <p id="c13_p114" smilref="mo0.smil#seq_114">
+          <sent id="id_313" smilref="mo0.smil#sid_313">- Cái vị trí mà tôi dành cho cô bên cạnh tôi, đỏi hỏi tôi phải biết rõ cô.</sent>
+        </p>
+        <p id="c13_p115" smilref="mo0.smil#seq_115">
+          <sent id="id_314" smilref="mo0.smil#sid_314">- Vậy thì, thưa ông, cháu xin kể cho ông nghe.</sent>
+          <sent id="id_315" smilref="mo0.smil#sid_315">Khi ông biết rồi ông cho gọi Rôdali đến hỏi riêng chị ấy thôi, trước khi chị ấy gặp lại cháu rồi ông sẽ có bằng chứng là cháu không hề lừa dối ông.</sent>
+        </p>
+        <p id="c13_p116" smilref="mo0.smil#seq_116">
+          <sent id="id_316" smilref="mo0.smil#sid_316">- Ừ, chuyện ấy có thể làm như thế!</sent>
+          <sent id="id_317" smilref="mo0.smil#sid_317">Ông Vunphran nói, giọng dịu lại – Bây giờ cháu hãy kể đi!</sent>
+        </p>
+        <p id="c13_p117" smilref="mo0.smil#seq_117">
+          <sent id="id_318" smilref="mo0.smil#sid_318">Perin tường thuật lại câu chuyện, nhấn mạnh đến sự hãi hùng của em vào cái đêm em nằm ngủ trong phòng trọ, sự chán ngán, những nỗi khó chịu buồn nôn, ngột ngạt của em.</sent>
+        </p>
+        <p id="c13_p118" smilref="mo0.smil#seq_118">
+          <sent id="id_319" smilref="mo0.smil#sid_319">- Cháu không chịu nổi cái mà mọi người chịu đựng được sao?</sent>
+        </p>
+        <p id="c13_p119" smilref="mo0.smil#seq_119">
+          <sent id="id_320" smilref="mo0.smil#sid_320">- Có lẽ những người khác không sống ở giữa trời như cháu.</sent>
+          <sent id="id_321" smilref="mo0.smil#sid_321">Cháu xin cam đoan với ông là cháu không khó tính.</sent>
+          <sent id="id_322" smilref="mo0.smil#sid_322">Sự nghèo khổ đã dạy cho cháu biết chịu đựng.</sent>
+          <sent id="id_323" smilref="mo0.smil#sid_323">Nhưng mà bị nhốt ở trong cái buồng ấy thì cháu sẽ chết mất và cháu không nghĩ rằng cố gắng để tránh khỏi chết lại là một sự hèn nhát.</sent>
+        </p>
+        <p id="c13_p120" smilref="mo0.smil#seq_120">
+          <sent id="id_324" smilref="mo0.smil#sid_324">- Phòng trọ của Prăngxoadơ bẩn thỉu đến thế ư?</sent>
+        </p>
+        <p id="c13_p121" smilref="mo0.smil#seq_121">
+          <sent id="id_325" smilref="mo0.smil#sid_325">- Ôi!</sent>
+          <sent id="id_326" smilref="mo0.smil#sid_326">Thưa ông!</sent>
+          <sent id="id_327" smilref="mo0.smil#sid_327">Giá mà ông thấy thì ông sẽ không cho những cô thợ của ông sống ở đó!</sent>
+        </p>
+        <p id="c13_p122" smilref="mo0.smil#seq_122">
+          <sent id="id_328" smilref="mo0.smil#sid_328">- Hãy kể tiếp đi!</sent>
+        </p>
+        <p id="c13_p123" smilref="mo0.smil#seq_123">
+          <sent id="id_329" smilref="mo0.smil#sid_329">Perin kể đến đoạn tìm thấy hòn đảo và ý định ở lại trong lều cỏ.</sent>
+        </p>
+        <p id="c13_p124" smilref="mo0.smil#seq_124">
+          <sent id="id_330" smilref="mo0.smil#sid_330">- Cháu không sợ ư?</sent>
+        </p>
+        <p id="c13_p125" smilref="mo0.smil#seq_125">
+          <sent id="id_331" smilref="mo0.smil#sid_331">- Cháu đã quen với những cảnh hãi hùng.</sent>
+        </p>
+        <p id="c13_p126" smilref="mo0.smil#seq_126">
+          <sent id="id_332" smilref="mo0.smil#sid_332">- Cháu nói cái hốc đất cuối cùng ở trên con đường đi Xanh Pipô, phía bên trái, phải không?</sent>
+        </p>
+        <p id="c13_p127" smilref="mo0.smil#seq_127">
+          <sent id="id_333" smilref="mo0.smil#sid_333">- Vâng, thưa ông, chính nó.</sent>
+        </p>
+        <p id="c13_p128" smilref="mo0.smil#seq_128">
+          <sent id="id_334" smilref="mo0.smil#sid_334">- Cái lều cỏ ấy là của bác.</sent>
+          <sent id="id_335" smilref="mo0.smil#sid_335">Mấy đứa cháu bác sử dụng nó.</sent>
+          <sent id="id_336" smilref="mo0.smil#sid_336">Cháu ngủ ở đó ư?</sent>
+        </p>
+        <p id="c13_p129" smilref="mo0.smil#seq_129">
+          <sent id="id_337" smilref="mo0.smil#sid_337">- Không phải chỉ ngủ mà còn làm lụng, ăn uống, đãi cơm Rôdali ở đấy nữa!</sent>
+        </p>
+        <p id="c13_p130" smilref="mo0.smil#seq_130">
+          <sent id="id_338" smilref="mo0.smil#sid_338">- Chị ấy sẽ kể cho ông nghe.</sent>
+          <sent id="id_339" smilref="mo0.smil#sid_339">Cháu chỉ rời lều cỏ để đi Xanh Pipô khi ông bảo cháu ở lại để giúp mấy chú thợ máy và tối hôm qua để ngủ ở nhà mẹ Prăngxoadơ.</sent>
+          <sent id="id_340" smilref="mo0.smil#sid_340">Bây giờ cháu có thể mướn một phòng riêng cho cháu.</sent>
+        </p>
+        <p id="c13_p131" smilref="mo0.smil#seq_131">
+          <sent id="id_341" smilref="mo0.smil#sid_341">- Cháu giàu hay sao mà có thể dọn bữa trưa mời bạn?</sent>
+        </p>
+        <p id="c13_p132" smilref="mo0.smil#seq_132">
+          <sent id="id_342" smilref="mo0.smil#sid_342">- Nếu cháu dám kể cho ông nghe!</sent>
+        </p>
+        <p id="c13_p133" smilref="mo0.smil#seq_133">
+          <sent id="id_343" smilref="mo0.smil#sid_343">- Cháu phải nói hết với bác.</sent>
+        </p>
+        <p id="c13_p134" smilref="mo0.smil#seq_134">
+          <sent id="id_344" smilref="mo0.smil#sid_344">- Ông có cho phép cháu làm mất thời gian của ông vì những câu chuyện của trẻ con không ạ?</sent>
+        </p>
+        <p id="c13_p135" smilref="mo0.smil#seq_135">
+          <sent id="id_345" smilref="mo0.smil#sid_345">- Thời gian của bác không ngắn lắm, từ dạo bác không thể dùng nó như bác muốn, thật là dài lắm… và trống rỗng!</sent>
+        </p>
+        <p id="c13_p136" smilref="mo0.smil#seq_136">
+          <sent id="id_346" smilref="mo0.smil#sid_346">Perin nhìn thấy một đám mây lướt qua gương mặt ông Vunphran.</sent>
+          <sent id="id_347" smilref="mo0.smil#sid_347">Điều ấy cho thấy nỗi buồn phiền của một cuộc đời mà người ta ngỡ là hạnh phúc và khối người ghen tị.</sent>
+          <sent id="id_348" smilref="mo0.smil#sid_348">Với cách ông phát âm cái từ “trống rỗng”, em thấy tim em quặn lại.</sent>
+          <sent id="id_349" smilref="mo0.smil#sid_349">Em cũng thế, từ dạo bố mẹ mất em sống một mình nên đã hiểu ngày giờ dài và trống rỗng như thếnào!</sent>
+          <sent id="id_350" smilref="mo0.smil#sid_350">Không có gì trong những ngày ấy, ngoài những nỗi phiền muộn, mệt nhọc và đói khổ của hiện tại.</sent>
+          <sent id="id_351" smilref="mo0.smil#sid_351">Không có một ai để chia sẻ, nâng đỡ hay làm cho em vui.</sent>
+          <sent id="id_352" smilref="mo0.smil#sid_352">Ông Vunphran chưa hế biết nỗi mệt nhọc, thiếu thốn, đói nghèo!</sent>
+          <sent id="id_353" smilref="mo0.smil#sid_353">Nhưng có phải ở trên đời này chỉ có những cái đó thôi hay còn có những nỗi đau khác.</sent>
+          <sent id="id_354" smilref="mo0.smil#sid_354">Chắc những cái đó đã được bộc lộ ra với cái từ như thế, với cái ngữ điệu của chúng.</sent>
+          <sent id="id_355" smilref="mo0.smil#sid_355">Cái đầu nghiêng nghiêng, đôi môi, đôi má sệ xuống, cái gương mặt dài ra cũng có lẽ bởi những kỷ niệm đau buồn!</sent>
+        </p>
+        <p id="c13_p137" smilref="mo0.smil#seq_137">
+          <sent id="id_356" smilref="mo0.smil#sid_356">Nếu em cố gắng làm cho ông Vunphran khuây khỏa được.</sent>
+          <sent id="id_357" smilref="mo0.smil#sid_357">Đối với em, có lẽ chuyện ấy quá táo bạo vì em được biết ông ta rất ít.</sent>
+          <sent id="id_358" smilref="mo0.smil#sid_358">Nhưng tại sao em không mạo hiểm một tí bởi vì chính ông ta bảo em nói kia mà!</sent>
+          <sent id="id_359" smilref="mo0.smil#sid_359">Em muốn cái khuôn mặt ảm đạm này vui lên.</sent>
+          <sent id="id_360" smilref="mo0.smil#sid_360">Em muốn làm cho ông mĩm cười.</sent>
+          <sent id="id_361" smilref="mo0.smil#sid_361">Em có thể theo dõi ông.</sent>
+          <sent id="id_362" smilref="mo0.smil#sid_362">Em sẽ thấy rõ em đã làm cho ông vui hay đã làm phiền ông.</sent>
+          <sent id="id_363" smilref="mo0.smil#sid_363">Ngay tức khắc, bằng một giọng vui vẻ, linhhoạt, em bắt đầu:</sent>
+        </p>
+        <p id="c13_p138" smilref="mo0.smil#seq_138">
+          <sent id="id_364" smilref="mo0.smil#sid_364">- Có gì lạ hơn bữa ăn trưa của chúng cháu là cái cách mà cháu đã tự túc những dụng cụ nhà bếp để nấu nướng.</sent>
+          <sent id="id_365" smilref="mo0.smil#sid_365">Cháu không phải chi tiêu gì hết!</sent>
+          <sent id="id_366" smilref="mo0.smil#sid_366">Cháu không có khả năng.</sent>
+          <sent id="id_367" smilref="mo0.smil#sid_367">Cháu tập hợp những món ăn của cái thực đơn cháu kê bằng cách nào?</sent>
+          <sent id="id_368" smilref="mo0.smil#sid_368">Đó là điều cháu sẽ kể cho ông nghe.</sent>
+          <sent id="id_369" smilref="mo0.smil#sid_369">Cháu bắt đầu bằng đoạn mở đầu để giải thích cháu đã sống như thể nào trong lều cỏ, từ hôm cháu dọn đến.</sent>
+          <sent id="id_370" smilref="mo0.smil#sid_370">Trong lúc Perin tường thuật chuyện của mình, mắt em không rời ông Vunphran.</sent>
+          <sent id="id_371" smilref="mo0.smil#sid_371">Em sẵn sàng dừng lại nếu thấy có dấu hiệu buồn bực.</sent>
+          <sent id="id_372" smilref="mo0.smil#sid_372">Chắc chắn cái đó không lọt qua đôi mắt em được!</sent>
+          <sent id="id_373" smilref="mo0.smil#sid_373">Nhưng em thấy không phải là nỗi buồn bực mà trái lại, đó là sự tò mò, sự quan tâm.</sent>
+        </p>
+        <p id="c13_p139" smilref="mo0.smil#seq_139">
+          <sent id="id_374" smilref="mo0.smil#sid_374">- Cháu đã làm thế à?</sent>
+          <sent id="id_375" smilref="mo0.smil#sid_375">Ông Vunphran ngắt lời em nhiều lần.</sent>
+        </p>
+        <p id="c13_p140" smilref="mo0.smil#seq_140">
+          <sent id="id_376" smilref="mo0.smil#sid_376">Thế rồi ông hỏi em để em nói rõ thêm những đoạn mà em rút ngắn vì sợ làm ông mệt.</sent>
+          <sent id="id_377" smilref="mo0.smil#sid_377">Ông đặt cho em nhiều câu hỏi chứng tỏ ông muốn biết chính xác không phải chỉ việc làm của em, mà còn những phương tiện em đã dùng thay thế những cái mà em không có.</sent>
+        </p>
+        <p id="c13_p141" smilref="mo0.smil#seq_141">
+          <sent id="id_378" smilref="mo0.smil#sid_378">- Cháu đã làm thế à?</sent>
+        </p>
+        <p id="c13_p142" smilref="mo0.smil#seq_142">
+          <sent id="id_379" smilref="mo0.smil#sid_379">Khi Perin kết thúc câu chuyện, ông Vunphran đặt bàn tay lên mái tóc em.</sent>
+        </p>
+        <p id="c13_p143" smilref="mo0.smil#seq_143">
+          <sent id="id_380" smilref="mo0.smil#sid_380">- Cháu là một cô bé nghèo!</sent>
+          <sent id="id_381" smilref="mo0.smil#sid_381">Ông nói.</sent>
+          <sent id="id_382" smilref="mo0.smil#sid_382">Bác rất vui mừng khi thấy người ta có thể giúp cháu nên người mà không uổng công.</sent>
+          <sent id="id_383" smilref="mo0.smil#sid_383">Bây giờ, cháu hãy vào phòng giấy của cháu!</sent>
+          <sent id="id_384" smilref="mo0.smil#sid_384">Cháu dùng thời gian làm việc gì tùy cháu.</sent>
+          <sent id="id_385" smilref="mo0.smil#sid_385">Đến ba giờ, chúng ta sẽ cùng đi.</sent>
+        </p>
+      </level1>
+    </bodymatter>
+  </book>
+</dtbook>

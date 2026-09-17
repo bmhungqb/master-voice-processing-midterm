@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE dtbook PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd">
+<dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" xml:lang="vi-VN" version="2005-3">
+  <head>
+    <meta name="dtb:uid" content="978-604-69-8175-6"/>
+    <meta name="dtb:generator" content="DAISY 3 DTBook Python Pipeline (K35)"/>
+    <meta name="dc:Title" content="Trong Gia Đình - Chương 3"/>
+    <meta name="dc:Creator" content="Hector Malot"/>
+    <meta name="dc:Date" content="2017"/>
+    <meta name="dc:Publisher" content="NXB Văn Học"/>
+    <meta name="dc:Identifier" content="978-604-69-8175-6"/>
+    <meta name="dc:Language" content="vi-VN"/>
+    <meta name="dc:Subject" content="Văn học &amp; Tiểu thuyết"/>
+    <meta name="dc:Description" content="Cuốn sách kể về cuộc đời cô bé Perrine (Perin), 12 tuổi, mồ côi cha mẹ và hành trình đầy khó khăn, thử thách với nghị lực phi thường để vươn lên và được ông nội đón nhận trở lại trong gia đình."/>
+    <meta name="note" content="Bản dịch của GS. Huỳnh Lý &amp; Mai Hương, hiệu đính Huỳnh Phan Thanh Yên"/>
+  </head>
+  <book showin="blp">
+    <frontmatter>
+      <doctitle id="forsmil-1" smilref="mo0.smil#sforsmil-1">
+        <sent id="id_1" smilref="mo0.smil#sid_1">Trong Gia Đình</sent>
+      </doctitle>
+      <docauthor id="forsmil-2" smilref="mo0.smil#sforsmil-2">
+        <sent id="id_2" smilref="mo0.smil#sid_2">Hector Malot</sent>
+      </docauthor>
+    </frontmatter>
+    <bodymatter id="bodymatter_0001">
+      <level1>
+        <h1 id="faux-heading" smilref="mo0.smil#sfaux-heading">
+          <sent id="id_3" smilref="mo0.smil#sid_3">Chương 3</sent>
+        </h1>
+        <p id="c3_p1" smilref="mo0.smil#seq_1">
+          <sent id="id_4" smilref="mo0.smil#sid_4">Perin tìm được dễ dàng những chiếc lọ sứt, mẻ để cắm hoa, trong đám những lọ, chai vỡ.</sent>
+          <sent id="id_5" smilref="mo0.smil#sid_5">Trong chốc lát, mùi hoa đinh tử, hoa cẩm chướng, hái dưới nắng át hẳn mùi hôi, màu sắc tươi mát của các bông hoa soi sáng những bức tường bẩn thỉu.</sent>
+          <sent id="id_6" smilref="mo0.smil#sid_6">Trong lúc dọn lẹp, trang trí gian buồng.</sent>
+          <sent id="id_7" smilref="mo0.smil#sid_7">Perin đã là quen với những người ở buồng bên cạnh.</sent>
+          <sent id="id_8" smilref="mo0.smil#sid_8">Một bà có mái tóc điểm sương, đội cái mũ trùm đầu có rubăng màu cờ tam tài của nước Pháp.</sent>
+          <sent id="id_9" smilref="mo0.smil#sid_9">Một ông cụ cao, lưng còng, mang một tạp dề dài và rộng, tưởng như là y phục duy nhất của cụ.</sent>
+          <sent id="id_10" smilref="mo0.smil#sid_10">Ông cụ cho em hay bà già có rubăng màu cờ tam tài là một ca sĩ đường phố - đây chắc là bà Hầu tước mà Hạt Muối đã nhắc đến – ngày nào cũng thế, bà rời bãi Guylô, tay cầm cái ô màu đỏ và một chiếc gậy lớn.</sent>
+          <sent id="id_11" smilref="mo0.smil#sid_11">Bà cắm gậy ở ngã tư đườn phố hay đầu cầu.</sent>
+          <sent id="id_12" smilref="mo0.smil#sid_12">Bà che ô lên để khỏi nắng.</sent>
+          <sent id="id_13" smilref="mo0.smil#sid_13">Bà hát và bán bản liệt kê những bài hát của bà.</sent>
+          <sent id="id_14" smilref="mo0.smil#sid_14">Bà Hầu tước thì cho biết ông cụ mang tạp dề là người lọc giày dép cũ chọn những gì còn dùng được, từ sáng đến chiều, ông cụ im lặng làm việc như một con cá.</sent>
+          <sent id="id_15" smilref="mo0.smil#sid_15">Vì thế, người ta đặt cho ông cụ cái tên Bố Cá Chép và người ta chỉ biết ông cụ với cái tên ấy.</sent>
+          <sent id="id_16" smilref="mo0.smil#sid_16">Tuy ông cụ không nói, nhưng cái búa của ông cụ cũng làm điếc tai, nhức óc người ta.</sent>
+          <sent id="id_17" smilref="mo0.smil#sid_17">Đến lúc mặt trời lặn, Perin đã dọn dẹp xong và đưa mẹ về buồng. nhìn thấy hoa, bà mẹ ngạc nhiên một cách thú vị.</sent>
+        </p>
+        <p id="c3_p2" smilref="mo0.smil#seq_2">
+          <sent id="id_18" smilref="mo0.smil#sid_18">- Con thân yêu, con thương mẹ quá!</sent>
+        </p>
+        <p id="c3_p3" smilref="mo0.smil#seq_3">
+          <sent id="id_19" smilref="mo0.smil#sid_19">- Nhưng chính là con thương con đấy chứ!</sent>
+          <sent id="id_20" smilref="mo0.smil#sid_20">Thấy mẹ vui, con sung sướng quá!</sent>
+        </p>
+        <p id="c3_p4" smilref="mo0.smil#seq_4">
+          <sent id="id_21" smilref="mo0.smil#sid_21">Đến tối, Perin phải đem mấy lọ hoa ra khỏi gian buồng.</sent>
+          <sent id="id_22" smilref="mo0.smil#sid_22">Khi ấy, người ta lại ngửi cái mùi của gian nhà cũ kỹ, nhưng người bệnh không dám phàn nàn!</sent>
+          <sent id="id_23" smilref="mo0.smil#sid_23">Mà phàn nàn thì làm gì kia chứ khi bà không thể rời bãi Guylô mà đi nơi khác – Bà lên cơn sốt, những mộng mị và xúc động làm bà mệt, nên giấc ngủ chập chờn.</sent>
+        </p>
+        <p id="c3_p5" smilref="mo0.smil#seq_5">
+          <sent id="id_24" smilref="mo0.smil#sid_24">Sáng hôm sau, ông thầy thuốc đến thăm, thấy bà mệt hơn hôm trước, phải thay đơn, Perin lại phải đến gặp ông dược sĩ.</sent>
+          <sent id="id_25" smilref="mo0.smil#sid_25">Lần này, ông đòi năm phờ răng.</sent>
+          <sent id="id_26" smilref="mo0.smil#sid_26">Em không kêu ca gì và mạnh dạn trả tiền.</sent>
+          <sent id="id_27" smilref="mo0.smil#sid_27">Nhưng khi trở về, em không thở được!</sent>
+          <sent id="id_28" smilref="mo0.smil#sid_28">Nếu những chi phí cứ như thế này mãi thì làm thế nào kéo cho đến thứ tư để được cầm trong tay số tiến bán con Palica tội nghiệp?</sent>
+          <sent id="id_29" smilref="mo0.smil#sid_29">Nếu ngày mai, phải trả năm phờ răng hay nhiều hơn thì em biết moi ở đâu ra số tiền ấy?</sent>
+          <sent id="id_30" smilref="mo0.smil#sid_30">Cái thời kì Perin đi đường núi cùng với bố mẹ, cũng có nhiều lần bị đói.</sent>
+          <sent id="id_31" smilref="mo0.smil#sid_31">Khi gia đình em rời Hy Lạp để về Pháp cũng nhiều lần không có bánh để ăn.</sent>
+          <sent id="id_32" smilref="mo0.smil#sid_32">Nhưng chưa lúc nào nguy như hiện nay!</sent>
+          <sent id="id_33" smilref="mo0.smil#sid_33">Ở trong núi, tuy đói họ vẫn hy vọng tìm được ít rau, củ, một con thú rừng…</sent>
+          <sent id="id_34" smilref="mo0.smil#sid_34">Nhiều khi ước mơ trở thành hiện thực, họ có một bữa ăn ngon.</sent>
+          <sent id="id_35" smilref="mo0.smil#sid_35">Về đến châu Âu, thiếu bánh, họ có thể gặp những bác nông dân Hy Lạp Tyrôn để chụp ảnh và nhận tiền của họ.</sent>
+          <sent id="id_36" smilref="mo0.smil#sid_36">Còn ở Paris thì những người không sẵn tiền trong túi, không thể chờ mong gì cả!</sent>
+          <sent id="id_37" smilref="mo0.smil#sid_37">Mẹ con em thì túi đã cạn rồi, biết làm thế nào đây?</sent>
+          <sent id="id_38" smilref="mo0.smil#sid_38">Cái đáng sợ là chính em phải trả lời câu hỏi ấy!</sent>
+          <sent id="id_39" smilref="mo0.smil#sid_39">Em còn biết gì và làm gì được?</sent>
+          <sent id="id_40" smilref="mo0.smil#sid_40">Cái đáng kinh hãi là em phải nhận hết trách nhiệm bởi vì bệnh tật đã làm cho bà mẹ không thể sáng suốt mà xoay xở.</sent>
+          <sent id="id_41" smilref="mo0.smil#sid_41">Và bây giờ, Perin cảm thấy em đang ở địa vị người mẹ tuy chỉ là một đứa trẻ.</sent>
+        </p>
+        <p id="c3_p6" smilref="mo0.smil#seq_6">
+          <sent id="id_42" smilref="mo0.smil#sid_42">Nếu tình thế tốt hơn một chút, Perin sẽ lo động viên và có thêm sức mạnh.</sent>
+          <sent id="id_43" smilref="mo0.smil#sid_43">Nhưng nào đâu có được thế!</sent>
+          <sent id="id_44" smilref="mo0.smil#sid_44">Tuy bà mẹ chẳng bao giờ phàn nàn, trái lại, lúc nào bà cũng lặp lại câu nói quen thuộc: “Rồi sẽ tốt thôi!”.</sent>
+          <sent id="id_45" smilref="mo0.smil#sid_45">Nhưng thật ra, Perin thấy: Rồi mai sẽ không tốt!</sent>
+          <sent id="id_46" smilref="mo0.smil#sid_46">Bà mẹ mất ngủ, sốt và lười ăn, khó thở…</sent>
+          <sent id="id_47" smilref="mo0.smil#sid_47">Những triệu chứng ấy có vẻ tăng lên, nếu em không lầm!</sent>
+        </p>
+        <p id="c3_p7" smilref="mo0.smil#seq_7">
+          <sent id="id_48" smilref="mo0.smil#sid_48">Sáng thứ ba, đến buổi thăm bệnh của thầy thuốc thì cái điều Perin lo ngại về đơn thuốc đã xảy ra!</sent>
+          <sent id="id_49" smilref="mo0.smil#sid_49">Sau khi kiểm tra người bệnh, bác sĩ Xăngđriê lấy trong túi quyển sổ tay, cái quyển sổ tay dễ sợ, đã từng làm cho Perin bối rối.</sent>
+          <sent id="id_50" smilref="mo0.smil#sid_50">Ông chuẩn bị viết.</sent>
+          <sent id="id_51" smilref="mo0.smil#sid_51">Khi ông vừa đặt cây bút chì lên giấy.</sent>
+          <sent id="id_52" smilref="mo0.smil#sid_52">Perin đã có đủ can đảm để ngăn ông:</sent>
+        </p>
+        <p id="c3_p8" smilref="mo0.smil#seq_8">
+          <sent id="id_53" smilref="mo0.smil#sid_53">- Thưa ông, nếu những thứ thuốc mà ông sắp kê không cùng mức quan trọng như nhau thì xin ông chỉ kê những thứ cần gấp.</sent>
+        </p>
+        <p id="c3_p9" smilref="mo0.smil#seq_9">
+          <sent id="id_54" smilref="mo0.smil#sid_54">- Cô muốn nói gì?</sent>
+          <sent id="id_55" smilref="mo0.smil#sid_55">Ông bác sĩ phật ý, hỏi lại.</sent>
+          <sent id="id_56" smilref="mo0.smil#sid_56">Perin run lên, tuy thế, em cũng dám nói tường tận:</sent>
+        </p>
+        <p id="c3_p10" smilref="mo0.smil#seq_10">
+          <sent id="id_57" smilref="mo0.smil#sid_57">- Thưa ông, cháu muốn nói, chúng cháu không có nhiều tiền hôm nay.</sent>
+          <sent id="id_58" smilref="mo0.smil#sid_58">Ngày mai, chúng cháu mới nhận được tiền, khi ấy…</sent>
+        </p>
+        <p id="c3_p11" smilref="mo0.smil#seq_11">
+          <sent id="id_59" smilref="mo0.smil#sid_59">Ông liếc nhìn Perin.</sent>
+          <sent id="id_60" smilref="mo0.smil#sid_60">Sau khi đưa mắt chỗ này chỗ kia, như là lần đầu trông thấy sự nghèo khổ của hai mẹ con em; Ông cất quyển sổ tay vào trong túi áo.</sent>
+        </p>
+        <p id="c3_p12" smilref="mo0.smil#seq_12">
+          <sent id="id_61" smilref="mo0.smil#sid_61">- Ngày mai, tôi sẽ thay đơn.</sent>
+          <sent id="id_62" smilref="mo0.smil#sid_62">Chẳng có gì phải vội.</sent>
+          <sent id="id_63" smilref="mo0.smil#sid_63">Hôm nay vẫn dùng cái đơn thuốc hôm qua cũng được!</sent>
+        </p>
+        <p id="c3_p13" smilref="mo0.smil#seq_13">
+          <sent id="id_64" smilref="mo0.smil#sid_64">“Không có gì phải vôi!”</sent>
+          <sent id="id_65" smilref="mo0.smil#sid_65">Đó là câu nói mà Perin nhớ và lập lại.</sent>
+          <sent id="id_66" smilref="mo0.smil#sid_66">Nếu “Không có gì phải vội” nghĩa là bà mẹ không mệt như em lo ngại!</sent>
+          <sent id="id_67" smilref="mo0.smil#sid_67">Em vẫn có thể hy vọng và đợi chờ.</sent>
+        </p>
+        <p id="c3_p14" smilref="mo0.smil#seq_14">
+          <sent id="id_68" smilref="mo0.smil#sid_68">Thứ tư là ngày Perin chờ đợi!</sent>
+          <sent id="id_69" smilref="mo0.smil#sid_69">Em vừa mong ngày ấy đến lại vừa đau lòng khi nghĩ đến chuyện phải xa Palica, nhưng hai mẹ con chỉ trông chờ vào số tiền bán lừa để sống.</sent>
+          <sent id="id_70" smilref="mo0.smil#sid_70">Vì thế, mỗi lần có thể rời bà mẹ là em chạy vội ra chỗ rào kín để nói chuyện với chú bạn ấy.</sent>
+          <sent id="id_71" smilref="mo0.smil#sid_71">Bây giờ nó không phải làm việc, không phải khó nhọc và đã tìm thấy một kho thức ăn dồi dào.</sent>
+          <sent id="id_72" smilref="mo0.smil#sid_72">Sau những ngày đói khát, chưa bao giờ nó vui như thế!</sent>
+          <sent id="id_73" smilref="mo0.smil#sid_73">Vừa nhìn thấy Perin đi lại phía nó, nó kêu lên bốn, năm tiếng có thể làm rung động những cửa kính mấy túp lều tồi tàn trong bãi Guylô.</sent>
+          <sent id="id_74" smilref="mo0.smil#sid_74">Từ cuộn dây thừng buộc nó, no tung vài cú đá hậu, cho đến khi em đến bên nó.</sent>
+          <sent id="id_75" smilref="mo0.smil#sid_75">Nhưng khi Perin để tay lên lưng nó thì nó dịu ngay.</sent>
+          <sent id="id_76" smilref="mo0.smil#sid_76">Nó vươn cái cổ, rồi ngả đầu trên vai em không nhúc nhích.</sent>
+          <sent id="id_77" smilref="mo0.smil#sid_77">Người và vật cứ đứng như thế.</sent>
+          <sent id="id_78" smilref="mo0.smil#sid_78">Perin vuốt ve con lừa; Con lừa thì vẫy dôi tai, nheo đôi mắt, với những động tác có nhịp điệu.</sent>
+          <sent id="id_79" smilref="mo0.smil#sid_79">Những cái đó cũng như là những lời tâm sự của nó.</sent>
+          <sent id="id_80" smilref="mo0.smil#sid_80">Perin thì thầm:</sent>
+        </p>
+        <p id="c3_p15" smilref="mo0.smil#seq_15">
+          <sent id="id_81" smilref="mo0.smil#sid_81">- Nếu mày biết!</sent>
+        </p>
+        <p id="c3_p16" smilref="mo0.smil#seq_16">
+          <sent id="id_82" smilref="mo0.smil#sid_82">Nhưng nó nào có biết gì và cũng không đoán được!</sent>
+          <sent id="id_83" smilref="mo0.smil#sid_83">Nó rất hài lòng về cuộc sống hiện tại; Được nghỉ ngơi, ăn uống no đủ, được cô chủ vuốt ve.</sent>
+          <sent id="id_84" smilref="mo0.smil#sid_84">Nó tự cho nó là con lừa sung sướng nhất trên đời.</sent>
+          <sent id="id_85" smilref="mo0.smil#sid_85">Với lại bây giờ nó đã là bạn của Hạt Muối.</sent>
+          <sent id="id_86" smilref="mo0.smil#sid_86">Để tỏ tình thân, ông này cho nó những thức ăn vừa miệng.</sent>
+        </p>
+        <p id="c3_p17" smilref="mo0.smil#seq_17">
+          <sent id="id_87" smilref="mo0.smil#sid_87">Buổi sáng hôm thứ hai, nó tìm cách tháo dây đến với ông ta trong lúc ông đang “phân loại” giẻ rách.</sent>
+          <sent id="id_88" smilref="mo0.smil#sid_88">Tò mò, nó dừng lại.</sent>
+          <sent id="id_89" smilref="mo0.smil#sid_89">Hạt Muối giữ thói quen là khi nào cũng để một lít rượu, một cái cốc vừa tầm tay.</sent>
+          <sent id="id_90" smilref="mo0.smil#sid_90">Như thế, ông khỏi mất công đứng dậy, uống một ngụm, khi thèm.</sent>
+          <sent id="id_91" smilref="mo0.smil#sid_91">Sáng hôm ấy, bận công việc, ông không kịp nhìn chung quanh.</sent>
+          <sent id="id_92" smilref="mo0.smil#sid_92">Trời đã nóng, ông lại chăm chú làm việc cho nên cái khát đã đến.</sent>
+          <sent id="id_93" smilref="mo0.smil#sid_93">Cái khát đã cho ông cái biệt danh Hạt Muối.</sent>
+          <sent id="id_94" smilref="mo0.smil#sid_94">Vào lúc ông sắp lấy chai rượu, ông thấy Palica vươn cái cổ dài ra, nhìn ông chăm chú.</sent>
+        </p>
+        <p id="c3_p18" smilref="mo0.smil#seq_18">
+          <sent id="id_95" smilref="mo0.smil#sid_95">- Mày làm cái gì ở đây thế?</sent>
+        </p>
+        <p id="c3_p19" smilref="mo0.smil#seq_19">
+          <sent id="id_96" smilref="mo0.smil#sid_96">Nghe giọng ông gắt gỏng, con lừa chẳng thèm nhúc nhích.</sent>
+        </p>
+        <p id="c3_p20" smilref="mo0.smil#seq_20">
+          <sent id="id_97" smilref="mo0.smil#sid_97">- Mày muốn uống một cốc hả?</sent>
+          <sent id="id_98" smilref="mo0.smil#sid_98">Hạt Muối hỏi.</sent>
+        </p>
+        <p id="c3_p21" smilref="mo0.smil#seq_21">
+          <sent id="id_99" smilref="mo0.smil#sid_99">Đối với ông ta, mọi ý nghĩ đều xoay quanh chữ uống.</sent>
+          <sent id="id_100" smilref="mo0.smil#sid_100">Đáng lẽ ông nâng cốc lên miệng.</sent>
+          <sent id="id_101" smilref="mo0.smil#sid_101">Để đùa chơi, ông đưa cái cốc cho Palica.</sent>
+          <sent id="id_102" smilref="mo0.smil#sid_102">Palica cho sự mời mọc này là thật tình nên đã bước hai bước lên phía trước.</sent>
+          <sent id="id_103" smilref="mo0.smil#sid_103">Nó đưa đôi môi mà nó cố tạo cho thật mỏng, thật dài, rồi hít một hơi hết nửa cốc rượu đầy tận miệng.</sent>
+        </p>
+        <p id="c3_p22" smilref="mo0.smil#seq_22">
+          <sent id="id_104" smilref="mo0.smil#sid_104">- Nhìn kìa!</sent>
+          <sent id="id_105" smilref="mo0.smil#sid_105">Hạt Muối reo lên, cười như nắc nẻ.</sent>
+        </p>
+        <p id="c3_p23" smilref="mo0.smil#seq_23">
+          <sent id="id_106" smilref="mo0.smil#sid_106">Ông ta gọi:</sent>
+        </p>
+        <p id="c3_p24" smilref="mo0.smil#seq_24">
+          <sent id="id_107" smilref="mo0.smil#sid_107">- Bà Hầu tước!</sent>
+          <sent id="id_108" smilref="mo0.smil#sid_108">Bố Cá Chép!</sent>
+        </p>
+        <p id="c3_p25" smilref="mo0.smil#seq_25">
+          <sent id="id_109" smilref="mo0.smil#sid_109">Nghe tiếng gọi, bọn họ chạy đến, cả ông lượm giẻ rách đang mang cái giỏ đầy vừa trở về bãi và ông chủ xe bán kẹo kéo.</sent>
+          <sent id="id_110" smilref="mo0.smil#sid_110">Ông này thường đi các chợ và những nơi có lễ hội để bán hàng.</sent>
+          <sent id="id_111" smilref="mo0.smil#sid_111">Ông treo một cục đường dẻo vào một cái móc quay và kéo ra những cuộn vàng, xanh, đỏ như một cô thợ đang kéo sợi từ cái xa quay.</sent>
+        </p>
+        <p id="c3_p26" smilref="mo0.smil#seq_26">
+          <sent id="id_112" smilref="mo0.smil#sid_112">- Có chuyện gì thế?</sent>
+          <sent id="id_113" smilref="mo0.smil#sid_113">Bà Hầu tước hỏi.</sent>
+        </p>
+        <p id="c3_p27" smilref="mo0.smil#seq_27">
+          <sent id="id_114" smilref="mo0.smil#sid_114">Ông ta lại rót đầy cốc rượu vào đưa cho Palica.</sent>
+        </p>
+        <p id="c3_p28" smilref="mo0.smil#seq_28">
+          <sent id="id_115" smilref="mo0.smil#sid_115">- Bà sẽ thấy, nhưng bà phải thật bình tĩnh.</sent>
+        </p>
+        <p id="c3_p29" smilref="mo0.smil#seq_29">
+          <sent id="id_116" smilref="mo0.smil#sid_116">Cũng như lần trước, con lừa uống hết nửa cốc, giữa những tiếng cười và tiếng la, hét của đam người đang nhìn nó.</sent>
+        </p>
+        <p id="c3_p30" smilref="mo0.smil#seq_30">
+          <sent id="id_117" smilref="mo0.smil#sid_117">- Tôi nghe nói lừa thích uống rượu, nhưng tôi không tin.</sent>
+        </p>
+        <p id="c3_p31" smilref="mo0.smil#seq_31">
+          <sent id="id_118" smilref="mo0.smil#sid_118">- Con này là một bợm nghiền!</sent>
+          <sent id="id_119" smilref="mo0.smil#sid_119">Người khác thêm vào.</sent>
+        </p>
+        <p id="c3_p32" smilref="mo0.smil#seq_32">
+          <sent id="id_120" smilref="mo0.smil#sid_120">- Ông phải mua nó để nó làm ban với ông!</sent>
+          <sent id="id_121" smilref="mo0.smil#sid_121">Bà Hầu tước nói với Hạt Muối.</sent>
+        </p>
+        <p id="c3_p33" smilref="mo0.smil#seq_33">
+          <sent id="id_122" smilref="mo0.smil#sid_122">- Để cho đủ thôi mà!</sent>
+        </p>
+        <p id="c3_p34" smilref="mo0.smil#seq_34">
+          <sent id="id_123" smilref="mo0.smil#sid_123">Hạt Muối không mua Palica.</sent>
+          <sent id="id_124" smilref="mo0.smil#sid_124">Ông bàn với Perin ngày thứ tư sẽ dẫn nó ra Chợ Ngựa.</sent>
+          <sent id="id_125" smilref="mo0.smil#sid_125">Điều đó làm cho Perin nhẹ nhõm trong người.</sent>
+          <sent id="id_126" smilref="mo0.smil#sid_126">Trước đó, em không thể nào tưởng tượng nổi em làm cách nào để tìm ra cái Chợ Ngựa giữa Paris.</sent>
+          <sent id="id_127" smilref="mo0.smil#sid_127">Em cũng không biết làm cách nào để bán con lừa, tranh cái già bán và nhận tiền mà không bị lừa đảo.</sent>
+          <sent id="id_128" smilref="mo0.smil#sid_128">Đã nhiều lần, em nghe kể những chuyện về tụi trộm cắp ở Paris nên em cảm thấy bất lực, không thể chống cự, nếu không may gặp chúng.</sent>
+        </p>
+        <p id="c3_p35" smilref="mo0.smil#seq_35">
+          <sent id="id_129" smilref="mo0.smil#sid_129">Sáng thứ tư, Perin bận rộn sửa soạn cho Palica.</sent>
+          <sent id="id_130" smilref="mo0.smil#sid_130">Đây là một dịp để em vuốt ve, hôn hít nó.</sent>
+          <sent id="id_131" smilref="mo0.smil#sid_131">Nhưng than ôi!</sent>
+          <sent id="id_132" smilref="mo0.smil#sid_132">Buồn làm sao!</sent>
+          <sent id="id_133" smilref="mo0.smil#sid_133">Em sẽ chẳng gặp lại nó!</sent>
+          <sent id="id_134" smilref="mo0.smil#sid_134">Rồi nó sẽ vào tay ai, chú bạn tội nghiệp này?</sent>
+          <sent id="id_135" smilref="mo0.smil#sid_135">Nghĩ đến điều ấy, em lại tưởng như nhìn thấy những con lừa khốn khổ mà em đã gặp trên mấy con đường lớn ở khắp nơi.</sent>
+          <sent id="id_136" smilref="mo0.smil#sid_136">Trên quả đất này, có lẽ lừa sinh ra là để chịu đau khổ!</sent>
+          <sent id="id_137" smilref="mo0.smil#sid_137">Thật ra, từ dạo Palica về với gia đình em, nó cũng có những nỗi cực nhọc, thiếu thốn, nắng dãi mưa dầu, tuyết rơi, băng giá.</sent>
+          <sent id="id_138" smilref="mo0.smil#sid_138">Nhưng ít ra, nó chưa bao giờ bị đánh đập.</sent>
+          <sent id="id_139" smilref="mo0.smil#sid_139">Chắc nó cũng cảm thấy nó đã chia sẻ số phận cực khổ của gia đình cô chủ như một người bạn.</sent>
+          <sent id="id_140" smilref="mo0.smil#sid_140">Còn bây giờ?</sent>
+          <sent id="id_141" smilref="mo0.smil#sid_141">Perin chỉ biết run sợ tự hỏi những người chủ mới của nó sẽ như thế nào?</sent>
+          <sent id="id_142" smilref="mo0.smil#sid_142">Em đã gặp nhiều người chủ, rất nhiều người ác, mà không biết mình độc ác!</sent>
+        </p>
+        <p id="c3_p36" smilref="mo0.smil#seq_36">
+          <sent id="id_143" smilref="mo0.smil#sid_143">Palica lộ vẻ ngạc nhiên, khi thấy người ta không thắng vào cỗ xe mà lấy dây tròng vào cổ nó.</sent>
+          <sent id="id_144" smilref="mo0.smil#sid_144">Còn ngạc nhiên hơn nữa, khi Hạt Muối không muốn đi bộ từ Xaron đến Chợ Ngựa, đã để một cái ghế trên lưng nó và leo lên ngồi, vì Perin dắt nó, chuyện trò với nó, nên nó không chống cự.</sent>
+          <sent id="id_145" smilref="mo0.smil#sid_145">Với lại Hạt Muối chẳng phải là bạn của nó sao?</sent>
+          <sent id="id_146" smilref="mo0.smil#sid_146">Họ đi như thế, Perin dắt Palica.</sent>
+          <sent id="id_147" smilref="mo0.smil#sid_147">Con lừa đi rất nghiêm trang qua các con đường ít xe cộ và người qua lại.</sent>
+          <sent id="id_148" smilref="mo0.smil#sid_148">Họ đến một cái cầu rất rộng rồi đến một khu vườn.</sent>
+          <sent id="id_149" smilref="mo0.smil#sid_149">Bây giờ xe cộ, tàu điện qua lại nhộn nhịp.</sent>
+          <sent id="id_150" smilref="mo0.smil#sid_150">Dắt con lừa đi giữa đường Perin phải hết sức chú ý.</sent>
+        </p>
+        <p id="c3_p37" smilref="mo0.smil#seq_37">
+          <sent id="id_151" smilref="mo0.smil#sid_151">Cuối cùng, họ leo lên một cái dốc, không đứng lắm, và đến trước một cửa song sắt lớn!</sent>
+          <sent id="id_152" smilref="mo0.smil#sid_152">Ở phía trong cửa sắt, có một khoảng đất rộng mà người ta đã ngăn ra nhiều chuồng để nhốt ngựa. lúc ấy, Hạt Muối nhảy xuống đất.</sent>
+        </p>
+        <p id="c3_p38" smilref="mo0.smil#seq_38">
+          <sent id="id_153" smilref="mo0.smil#sid_153">Trong khi ấy, Palica đã có đủ thời gian nhìn chung quanh nó, cho nên khi Perin muốn dắt nó vào phía trong cửa sắt, nó không chịu đi.</sent>
+          <sent id="id_154" smilref="mo0.smil#sid_154">Hay là nó đã đoán được đây là cái Chợ Ngựa, người ta bán ngựa, bán lừa.</sent>
+          <sent id="id_155" smilref="mo0.smil#sid_155">Hoặc là nó sợ?</sent>
+          <sent id="id_156" smilref="mo0.smil#sid_156">Mặc dù Perin đã lấy giọng âu yếm, rồi mệnh lệnh nói với nó, nó vẫn đứng yên.</sent>
+          <sent id="id_157" smilref="mo0.smil#sid_157">Hạt Muối đẩy phía sau thì nó đi tới, nhưng Palica không đoán được bàn tay ai đã sỗ sàng để trên mông nó.</sent>
+          <sent id="id_158" smilref="mo0.smil#sid_158">Nó bèn vừa đá hậu, vừa thụt lùi và kéo Perin theo luôn.</sent>
+          <sent id="id_159" smilref="mo0.smil#sid_159">Một vài người to mò dừng lại vây quanh họ.</sent>
+          <sent id="id_160" smilref="mo0.smil#sid_160">Ở hàng đầu, như thường lệ, là những người bán báo và ván bánh kẹo.</sent>
+          <sent id="id_161" smilref="mo0.smil#sid_161">Người nào cũng góp ý về cách đưa con vật qua cửa. có kẻ nói:</sent>
+        </p>
+        <p id="c3_p39" smilref="mo0.smil#seq_39">
+          <sent id="id_162" smilref="mo0.smil#sid_162">- Đây là một con lừa gây nhiều lý thú cho thằng ngốc nào mua nó.</sent>
+        </p>
+        <p id="c3_p40" smilref="mo0.smil#seq_40">
+          <sent id="id_163" smilref="mo0.smil#sid_163">Lời nhận xét nguy hiểm ấy có thể gây khó khăn cho chủ bán lừa nên Hạt Muối vội phân bua:</sent>
+        </p>
+        <p id="c3_p41" smilref="mo0.smil#seq_41">
+          <sent id="id_164" smilref="mo0.smil#sid_164">- Nó tinh lắm! nó đoán người ta đem bán nó.</sent>
+          <sent id="id_165" smilref="mo0.smil#sid_165">Nó bày những trò ấy để khỏi xa những người chủ nó.</sent>
+        </p>
+        <p id="c3_p42" smilref="mo0.smil#seq_42">
+          <sent id="id_166" smilref="mo0.smil#sid_166">- Ông có chắc thế không?</sent>
+          <sent id="id_167" smilref="mo0.smil#sid_167">Hạt Muối?</sent>
+        </p>
+        <p id="c3_p43" smilref="mo0.smil#seq_43">
+          <sent id="id_168" smilref="mo0.smil#sid_168">- Ông không nhận ra La Cucơri sao?</sent>
+        </p>
+        <p id="c3_p44" smilref="mo0.smil#seq_44">
+          <sent id="id_169" smilref="mo0.smil#sid_169">- Ừ nhỉ!</sent>
+        </p>
+        <p id="c3_p45" smilref="mo0.smil#seq_45">
+          <sent id="id_170" smilref="mo0.smil#sid_170">- Con lừa này là của ông?</sent>
+        </p>
+        <p id="c3_p46" smilref="mo0.smil#seq_46">
+          <sent id="id_171" smilref="mo0.smil#sid_171">- Không, của cô bé.</sent>
+        </p>
+        <p id="c3_p47" smilref="mo0.smil#seq_47">
+          <sent id="id_172" smilref="mo0.smil#sid_172">- Ông biết cô ta?</sent>
+        </p>
+        <p id="c3_p48" smilref="mo0.smil#seq_48">
+          <sent id="id_173" smilref="mo0.smil#sid_173">- Chúng tôi đã uống chung một cốc rượu đấy nhé!</sent>
+          <sent id="id_174" smilref="mo0.smil#sid_174">Nếu bà cần một con lừa tốt, tôi xin giới thiệu nó với bà.</sent>
+        </p>
+        <p id="c3_p49" smilref="mo0.smil#seq_49">
+          <sent id="id_175" smilref="mo0.smil#sid_175">- Tôi cần, nhưng cũng chẳng cần…</sent>
+        </p>
+        <p id="c3_p50" smilref="mo0.smil#seq_50">
+          <sent id="id_176" smilref="mo0.smil#sid_176">- Thế thì chúng ta đi nhậu đã!</sent>
+          <sent id="id_177" smilref="mo0.smil#sid_177">Cóc cần phải trả tiền vào cửa làm gì!</sent>
+        </p>
+        <p id="c3_p51" smilref="mo0.smil#seq_51">
+          <sent id="id_178" smilref="mo0.smil#sid_178">- Hơn nữa, hình như nó cũng không chịu vào!</sent>
+        </p>
+        <p id="c3_p52" smilref="mo0.smil#seq_52">
+          <sent id="id_179" smilref="mo0.smil#sid_179">- Tôi đã nói với bà là nó láu cá lắm!</sent>
+        </p>
+        <p id="c3_p53" smilref="mo0.smil#seq_53">
+          <sent id="id_180" smilref="mo0.smil#sid_180">- Nếu tôi mua nó, không phải để nó làm những trò láu cá ấy, cũng chẳng phải để nó uống rượu, mà để nó làm việc.</sent>
+        </p>
+        <p id="c3_p54" smilref="mo0.smil#seq_54">
+          <sent id="id_181" smilref="mo0.smil#sid_181">- Nó dai sức lắm! nó đi từ Hy Lạp đến đây không nghỉ.</sent>
+        </p>
+        <p id="c3_p55" smilref="mo0.smil#seq_55">
+          <sent id="id_182" smilref="mo0.smil#sid_182">- Từ Hy Lạp.</sent>
+        </p>
+        <p id="c3_p56" smilref="mo0.smil#seq_56">
+          <sent id="id_183" smilref="mo0.smil#sid_183">Hạt Muối ra hiệu cho Perin đang đi theo.</sent>
+          <sent id="id_184" smilref="mo0.smil#sid_184">Em chỉ được nghe vài tiếng trong câu chuyện của hai người.</sent>
+          <sent id="id_185" smilref="mo0.smil#sid_185">Bây giờ palica ngoan ngoãn đi theo cô chủ, không cần kéo dây tròng vì không phải vào chợ.</sent>
+        </p>
+        <p id="c3_p57" smilref="mo0.smil#seq_57">
+          <sent id="id_186" smilref="mo0.smil#sid_186">Sau khi đi vào một con đường nhỏ.</sent>
+          <sent id="id_187" smilref="mo0.smil#sid_187">Hạt Muối là La Rucơri dừng lại trước một quán rượu.</sent>
+          <sent id="id_188" smilref="mo0.smil#sid_188">Người ta mang chai rượu, hai cái cốc đặt trên bàn, bên lề đường.</sent>
+          <sent id="id_189" smilref="mo0.smil#sid_189">Trong lúc đó, Perin đứng trước mặt họ, ở ngoài đường, tay vẫn giữ cái dây buộc con lừa.</sent>
+        </p>
+        <p id="c3_p58" smilref="mo0.smil#seq_58">
+          <sent id="id_190" smilref="mo0.smil#sid_190">- Rồi bà xem nó có tinh không chứ!</sent>
+        </p>
+        <p id="c3_p59" smilref="mo0.smil#seq_59">
+          <sent id="id_191" smilref="mo0.smil#sid_191">Hạt Muối nói và đưa cốc rượu cho con lừa.</sent>
+        </p>
+        <p id="c3_p60" smilref="mo0.smil#seq_60">
+          <sent id="id_192" smilref="mo0.smil#sid_192">Ngay tức khắc, Palica vươn dài cái cổ, đưa môi hít ngay nửa cốc rượu, trong lúc Perin không dám ngăn lại.</sent>
+          <sent id="id_193" smilref="mo0.smil#sid_193">Hạt Muối thắng lợi, nói:</sent>
+        </p>
+        <p id="c3_p61" smilref="mo0.smil#seq_61">
+          <sent id="id_194" smilref="mo0.smil#sid_194">- Thấy chưa?</sent>
+        </p>
+        <p id="c3_p62" smilref="mo0.smil#seq_62">
+          <sent id="id_195" smilref="mo0.smil#sid_195">Nhưng La Rucơri không chia sẻ nỗi vui của ông ta.</sent>
+        </p>
+        <p id="c3_p63" smilref="mo0.smil#seq_63">
+          <sent id="id_196" smilref="mo0.smil#sid_196">Tôi không cần nó để uống rượu!</sent>
+          <sent id="id_197" smilref="mo0.smil#sid_197">Tôi cần nó để kéo chiếc xe chở những tấm da thỏ của tôi!</sent>
+        </p>
+        <p id="c3_p64" smilref="mo0.smil#seq_64">
+          <sent id="id_198" smilref="mo0.smil#sid_198">- Tôi đã nói với bà rồi mà!</sent>
+          <sent id="id_199" smilref="mo0.smil#sid_199">Con lừa này kéo một cỗ xe từ Hy Lạp đến!</sent>
+        </p>
+        <p id="c3_p65" smilref="mo0.smil#seq_65">
+          <sent id="id_200" smilref="mo0.smil#sid_200">- A, đó lại là chuyện khác!</sent>
+        </p>
+        <p id="c3_p66" smilref="mo0.smil#seq_66">
+          <sent id="id_201" smilref="mo0.smil#sid_201">Việc kiểm tra Palica được làm cẩn thận và tỷ mỉ.</sent>
+          <sent id="id_202" smilref="mo0.smil#sid_202">Sau đó La Rucơri hỏi Perin định giá bao nhiêu.</sent>
+          <sent id="id_203" smilref="mo0.smil#sid_203">Em nói là một trăm phờ răng, cái giá mà em đã bàn với Hạt Muối.</sent>
+          <sent id="id_204" smilref="mo0.smil#sid_204">Nhưng bà ta hét toáng lên: “Một trăm phờ răng, một con lừa bán không có bảo đảm!</sent>
+          <sent id="id_205" smilref="mo0.smil#sid_205">Cô coi thường thiên hạ quá!”.</sent>
+          <sent id="id_206" smilref="mo0.smil#sid_206">Thế rồi con Palica khốn khổ lại phải chịu một cuộc kiểm tra, để người ta chê bai đủ thứ, từ cái mũi đến cái móng.</sent>
+          <sent id="id_207" smilref="mo0.smil#sid_207">“Hai mươi phờ răng”.</sent>
+          <sent id="id_208" smilref="mo0.smil#sid_208">Nó chỉ đáng thế thôi!</sent>
+          <sent id="id_209" smilref="mo0.smil#sid_209">Thế là được giá lắm rồi.</sent>
+        </p>
+        <p id="c3_p67" smilref="mo0.smil#seq_67">
+          <sent id="id_210" smilref="mo0.smil#sid_210">- Được thôi!</sent>
+          <sent id="id_211" smilref="mo0.smil#sid_211">Hạt Muối sau một cuộc tranh cải nói.</sent>
+          <sent id="id_212" smilref="mo0.smil#sid_212">Chúng tôi sẽ dắt nó vào chợ!</sent>
+        </p>
+        <p id="c3_p68" smilref="mo0.smil#seq_68">
+          <sent id="id_213" smilref="mo0.smil#sid_213">Perin thở phào.</sent>
+          <sent id="id_214" smilref="mo0.smil#sid_214">Ý nghĩ chỉ nhận được hai mươi phờ răng đã làm em chết điếng!</sent>
+          <sent id="id_215" smilref="mo0.smil#sid_215">Trong hoàn cảnh hiện nay, thì hai mươi phờ răng cũng chưa đủ để mua sắm những thứ cần thiết nhất!</sent>
+        </p>
+        <p id="c3_p69" smilref="mo0.smil#seq_69">
+          <sent id="id_216" smilref="mo0.smil#sid_216">- Để xem lần này nó có chịu vào không!</sent>
+          <sent id="id_217" smilref="mo0.smil#sid_217">La Rucơri nói.</sent>
+        </p>
+        <p id="c3_p70" smilref="mo0.smil#seq_70">
+          <sent id="id_218" smilref="mo0.smil#sid_218">Con lừa ngoan ngoãn đi theo cô chủ đến cổng Chợ Ngựa.</sent>
+          <sent id="id_219" smilref="mo0.smil#sid_219">Đến đó, nó đứng ỳ.</sent>
+          <sent id="id_220" smilref="mo0.smil#sid_220">Perin phải năn nỉ, vừa nói vừa kéo nó nhưng nó nằm ngay ra giữa đường.</sent>
+        </p>
+        <p id="c3_p71" smilref="mo0.smil#seq_71">
+          <sent id="id_221" smilref="mo0.smil#sid_221">Palica, tao van mày!</sent>
+          <sent id="id_222" smilref="mo0.smil#sid_222">– Perin tức tối, kêu lên.</sent>
+          <sent id="id_223" smilref="mo0.smil#sid_223">Nhưng con lừa giả vờ chết, không nghe gì hết!</sent>
+        </p>
+        <p id="c3_p72" smilref="mo0.smil#seq_72">
+          <sent id="id_224" smilref="mo0.smil#sid_224">Người ta vây quanh và bông đùa.</sent>
+          <sent id="id_225" smilref="mo0.smil#sid_225">Có kẻ nói:</sent>
+        </p>
+        <p id="c3_p73" smilref="mo0.smil#seq_73">
+          <sent id="id_226" smilref="mo0.smil#sid_226">- Hãy lấy lửa đốt đuôi nó!</sent>
+        </p>
+        <p id="c3_p74" smilref="mo0.smil#seq_74">
+          <sent id="id_227" smilref="mo0.smil#sid_227">- Bán nó kể cũng gay đấy.</sent>
+          <sent id="id_228" smilref="mo0.smil#sid_228">Có người hưởng ứng.</sent>
+        </p>
+        <p id="c3_p75" smilref="mo0.smil#seq_75">
+          <sent id="id_229" smilref="mo0.smil#sid_229">- Cứ nện mạnh vào là xong thôi!</sent>
+        </p>
+        <p id="c3_p76" smilref="mo0.smil#seq_76">
+          <sent id="id_230" smilref="mo0.smil#sid_230">Hạt Muối nổi khùng, Perin thất vọng.</sent>
+        </p>
+        <p id="c3_p77" smilref="mo0.smil#seq_77">
+          <sent id="id_231" smilref="mo0.smil#sid_231">Các người thấy đấy, nó không chịu vào!</sent>
+          <sent id="id_232" smilref="mo0.smil#sid_232">La Rucơri nói.</sent>
+          <sent id="id_233" smilref="mo0.smil#sid_233">Thấy nó tinh khôn, chắc là nó tốt, tôi trả ba mươi phờ răng vậy, nào nhanh lên!</sent>
+          <sent id="id_234" smilref="mo0.smil#sid_234">Nhận tiền đi.</sent>
+          <sent id="id_235" smilref="mo0.smil#sid_235">Nếu không bằng lòng thì tôi mua con khác.</sent>
+        </p>
+        <p id="c3_p78" smilref="mo0.smil#seq_78">
+          <sent id="id_236" smilref="mo0.smil#sid_236">Hạt Muối đưa mắt hỏi Perin, đồng thời cũng ra hiệu, bảo cô bé nên bằng lòng.</sent>
+          <sent id="id_237" smilref="mo0.smil#sid_237">Như bi tê liệt vì thất vọng, em không thể quyết định.</sent>
+          <sent id="id_238" smilref="mo0.smil#sid_238">Vừa lúc ấy, để cho con đường được thông suốt, một cảnh sát đến, nói cộc cằn:</sent>
+        </p>
+        <p id="c3_p79" smilref="mo0.smil#seq_79">
+          <sent id="id_239" smilref="mo0.smil#sid_239">- Đi lên, hoặc lùi lại đi chứ?</sent>
+          <sent id="id_240" smilref="mo0.smil#sid_240">Không được đứng ở đây.</sent>
+        </p>
+        <p id="c3_p80" smilref="mo0.smil#seq_80">
+          <sent id="id_241" smilref="mo0.smil#sid_241">Perin không thể tiến lên vì Palica không muốn đi.</sent>
+          <sent id="id_242" smilref="mo0.smil#sid_242">Vậy thì phải lùi lại.</sent>
+          <sent id="id_243" smilref="mo0.smil#sid_243">Khi con lừa hiểu chủ nó không bắt nó phải vào chợ, nó đứng lên ngoan ngoãn theo cô bé, vẫy tai một cách thoải mái.</sent>
+        </p>
+        <p id="c3_p81" smilref="mo0.smil#seq_81">
+          <sent id="id_244" smilref="mo0.smil#sid_244">La Rucơri giao số tiền ba mươi phờ răng cho Perin bằng những đồng năm phở răng và nói:</sent>
+        </p>
+        <p id="c3_p82" smilref="mo0.smil#seq_82">
+          <sent id="id_245" smilref="mo0.smil#sid_245">- Bây giờ, phải đưa cái ông này về nhà giúp tôi!</sent>
+          <sent id="id_246" smilref="mo0.smil#sid_246">Tôi vừa mới quen, có thể ông ta chẳng chịu theo tôi về đường Lầu Răngchiê.</sent>
+          <sent id="id_247" smilref="mo0.smil#sid_247">Cũng gần đây thôi!</sent>
+        </p>
+        <p id="c3_p83" smilref="mo0.smil#seq_83">
+          <sent id="id_248" smilref="mo0.smil#sid_248">Con đường ấy đối với Hạt Muối là quá xa, nên ông không đồng ý, ông nói với Perin:</sent>
+        </p>
+        <p id="c3_p84" smilref="mo0.smil#seq_84">
+          <sent id="id_249" smilref="mo0.smil#sid_249">- Cháu đi theo bà đi!</sent>
+          <sent id="id_250" smilref="mo0.smil#sid_250">Đừng buồn, cháu ạ!</sent>
+          <sent id="id_251" smilref="mo0.smil#sid_251">Bà ta là người tốt.</sent>
+          <sent id="id_252" smilref="mo0.smil#sid_252">Con lừa của cháu sẽ không khổ đâu.</sent>
+        </p>
+        <p id="c3_p85" smilref="mo0.smil#seq_85">
+          <sent id="id_253" smilref="mo0.smil#sid_253">- Cháu làm sao trở về Xaron được?</sent>
+          <sent id="id_254" smilref="mo0.smil#sid_254">Perin hỏi.</sent>
+          <sent id="id_255" smilref="mo0.smil#sid_255">Lần đầu tiên em thấy Paris rộng mênh mông và sợ bị lạc!</sent>
+        </p>
+        <p id="c3_p86" smilref="mo0.smil#seq_86">
+          <sent id="id_256" smilref="mo0.smil#sid_256">- Rất dễ thôi!</sent>
+          <sent id="id_257" smilref="mo0.smil#sid_257">Cháu cứ đi dọc theo các thành luỹ.</sent>
+        </p>
+        <p id="c3_p87" smilref="mo0.smil#seq_87">
+          <sent id="id_258" smilref="mo0.smil#sid_258">Giờ phút chia tay đã đến!</sent>
+          <sent id="id_259" smilref="mo0.smil#sid_259">Sau khi buộc con lừa vào chuồng.</sent>
+          <sent id="id_260" smilref="mo0.smil#sid_260">Perin không cầm được nước mắt, nên đã làm ướt cả đầu nó trong khi hôn nó.</sent>
+          <sent id="id_261" smilref="mo0.smil#sid_261">La Rucơri nói:</sent>
+        </p>
+        <p id="c3_p88" smilref="mo0.smil#seq_88">
+          <sent id="id_262" smilref="mo0.smil#sid_262">- Nó ở đây không khổ cực đâu!</sent>
+          <sent id="id_263" smilref="mo0.smil#sid_263">Bà hứa với cháu điều ấy!</sent>
+        </p>
+        <p id="c3_p89" smilref="mo0.smil#seq_89">
+          <sent id="id_264" smilref="mo0.smil#sid_264">- Chúng cháu thương nhau lắm, bà ơi!</sent>
+        </p>
+      </level1>
+    </bodymatter>
+  </book>
+</dtbook>
