@@ -19,3 +19,8 @@ ENV/
 .vscode/
 *.swp
 *.swo
+
+# Local task notes
+tasks.md
+plan.md
+README_TASK1.md

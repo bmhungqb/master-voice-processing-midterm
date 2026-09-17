@@ -55,9 +55,6 @@ Dự án được phân chia theo 4 vai trò thành viên cốt lõi:
 ```text
 .
 ├── README.md               # Tổng quan dự án, phân công nhiệm vụ và trạng thái
-├── README_TASK1.md         # Báo cáo kỹ thuật chi tiết của Nhiệm vụ 1
-├── tasks.md                # Yêu cầu đề bài đồ án giữa kỳ bộ môn Xử lý tiếng nói
-├── plan.md                 # Liên kết tài liệu hướng dẫn và dữ liệu mẫu tham khảo
 ├── .gitignore              # Cấu hình bỏ qua cache Python và hệ điều hành
 ├── trong_gia_dinh.epub     # Tệp sách điện tử gốc đầu vào
 ├── src/                    # Toàn bộ mã nguồn xử lý pipeline Task 1
