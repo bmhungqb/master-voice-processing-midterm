@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE dtbook PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd">
+<dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" xml:lang="vi-VN" version="2005-3">
+  <head>
+    <meta name="dtb:uid" content="978-604-69-8175-6"/>
+    <meta name="dtb:generator" content="DAISY 3 DTBook Python Pipeline (K35)"/>
+    <meta name="dc:Title" content="Trong Gia Đình - Chương 4"/>
+    <meta name="dc:Creator" content="Hector Malot"/>
+    <meta name="dc:Date" content="2017"/>
+    <meta name="dc:Publisher" content="NXB Văn Học"/>
+    <meta name="dc:Identifier" content="978-604-69-8175-6"/>
+    <meta name="dc:Language" content="vi-VN"/>
+    <meta name="dc:Subject" content="Văn học &amp; Tiểu thuyết"/>
+    <meta name="dc:Description" content="Cuốn sách kể về cuộc đời cô bé Perrine (Perin), 12 tuổi, mồ côi cha mẹ và hành trình đầy khó khăn, thử thách với nghị lực phi thường để vươn lên và được ông nội đón nhận trở lại trong gia đình."/>
+    <meta name="note" content="Bản dịch của GS. Huỳnh Lý &amp; Mai Hương, hiệu đính Huỳnh Phan Thanh Yên"/>
+  </head>
+  <book showin="blp">
+    <frontmatter>
+      <doctitle id="forsmil-1" smilref="mo0.smil#sforsmil-1">
+        <sent id="id_1" smilref="mo0.smil#sid_1">Trong Gia Đình</sent>
+      </doctitle>
+      <docauthor id="forsmil-2" smilref="mo0.smil#sforsmil-2">
+        <sent id="id_2" smilref="mo0.smil#sid_2">Hector Malot</sent>
+      </docauthor>
+    </frontmatter>
+    <bodymatter id="bodymatter_0001">
+      <level1>
+        <h1 id="faux-heading" smilref="mo0.smil#sfaux-heading">
+          <sent id="id_3" smilref="mo0.smil#sid_3">Chương 4</sent>
+        </h1>
+        <p id="c4_p1" smilref="mo0.smil#seq_1">
+          <sent id="id_4" smilref="mo0.smil#sid_4">Rồi đây, hai mẹ con em sẽ xoay xở thế nào với ba mươi phờrăng, trong khi dự chi đến một trăm phờrăng.</sent>
+        </p>
+        <p id="c4_p2" smilref="mo0.smil#seq_2">
+          <sent id="id_5" smilref="mo0.smil#sid_5">Bà mẹ quyết định:</sent>
+        </p>
+        <p id="c4_p3" smilref="mo0.smil#seq_3">
+          <sent id="id_6" smilref="mo0.smil#sid_6">- Phải đi thôi!</sent>
+          <sent id="id_7" smilref="mo0.smil#sid_7">Phải đi ngay tức khắc đến Marôcua.</sent>
+        </p>
+        <p id="c4_p4" smilref="mo0.smil#seq_4">
+          <sent id="id_8" smilref="mo0.smil#sid_8">- Mẹ đã khỏe chưa?</sent>
+        </p>
+        <p id="c4_p5" smilref="mo0.smil#seq_5">
+          <sent id="id_9" smilref="mo0.smil#sid_9">- Mẹ phải cố gắng chứ!</sent>
+          <sent id="id_10" smilref="mo0.smil#sid_10">Chúng ta đã chờ đợi quá lâu vì hy vọng mẹ sẽ bình phục: nhưng sự bình phục ấy sẽ không đến ở nơi này đâu!</sent>
+          <sent id="id_11" smilref="mo0.smil#sid_11">Trong lúc ấy thì túi tiền của chúng ta đã cạn cũng như số tiền bán con Palica tội nghiệp rồi sẽ mòn dần.</sent>
+          <sent id="id_12" smilref="mo0.smil#sid_12">Mẹ cũng muốn chúng ta không đến đó trong tình trạng nghèo khổ này.</sent>
+          <sent id="id_13" smilref="mo0.smil#sid_13">Nhưng biết đâu cái nghèo khổ càng thảm hại càng làm cho người ta thương cảm.</sent>
+          <sent id="id_14" smilref="mo0.smil#sid_14">Cần phải đi thôi!</sent>
+        </p>
+        <p id="c4_p6" smilref="mo0.smil#seq_6">
+          <sent id="id_15" smilref="mo0.smil#sid_15">- Ngay hôm nay sao?</sent>
+        </p>
+        <p id="c4_p7" smilref="mo0.smil#seq_7">
+          <sent id="id_16" smilref="mo0.smil#sid_16">- Hôm nay thì muộn rồi!</sent>
+          <sent id="id_17" smilref="mo0.smil#sid_17">Chúng ta sẽ đến đó trong đêm tối thì biết về đâu kia chứ?</sent>
+          <sent id="id_18" smilref="mo0.smil#sid_18">Sáng mai vậy!</sent>
+          <sent id="id_19" smilref="mo0.smil#sid_19">Chiều nay, con đi hỏi giờ tàu chạy tuyến đường sắt khu Bắc và giá vé đi đến ga Pichkynhi.</sent>
+        </p>
+        <p id="c4_p8" smilref="mo0.smil#seq_8">
+          <sent id="id_20" smilref="mo0.smil#sid_20">Perin bối rối hỏi Hạt Muối.</sent>
+          <sent id="id_21" smilref="mo0.smil#sid_21">Ông ta bảo em phải tìm trong đống giấy chắc sẽ thấy bản hướng dẫn của đướng sắt.</sent>
+          <sent id="id_22" smilref="mo0.smil#sid_22">Theo giấy hướng dẫn, buổi sáng có hai chuyến: lúc sáu giờ và mười giờ.</sent>
+          <sent id="id_23" smilref="mo0.smil#sid_23">Giá vé hạng ba đến ga Pichkynhi là chín phờrăng hai lăm, một chỗ ngồi.</sent>
+        </p>
+        <p id="c4_p9" smilref="mo0.smil#seq_9">
+          <sent id="id_24" smilref="mo0.smil#sid_24">- Chúng ta sẽ đi chuyến mười giờ, - Bà mẹ nói – Chúng ta thuê xe ngựa.</sent>
+          <sent id="id_25" smilref="mo0.smil#sid_25">Mẹ không thể đi bộ đến ga được vì quá xa!</sent>
+          <sent id="id_26" smilref="mo0.smil#sid_26">Mẹ chỉ đủ sức đi đến bến xe ngựa.</sent>
+        </p>
+        <p id="c4_p10" smilref="mo0.smil#seq_10">
+          <sent id="id_27" smilref="mo0.smil#sid_27">Thế nhưng bà không đi đến đó được!</sent>
+        </p>
+        <p id="c4_p11" smilref="mo0.smil#seq_11">
+          <sent id="id_28" smilref="mo0.smil#sid_28">Lúc chín giờ, bà muốn tựa vào con gái đi đón xe vì Perin đã đi gọi và xe sắp đến.</sent>
+          <sent id="id_29" smilref="mo0.smil#sid_29">Từ buồng mẹ con bà ra đường cái không phải là xa nhưng tim bà yếu quá!</sent>
+          <sent id="id_30" smilref="mo0.smil#sid_30">Nếu Perin không đỡ kịp, thì bà đã ngã rồi!</sent>
+        </p>
+        <p id="c4_p12" smilref="mo0.smil#seq_12">
+          <sent id="id_31" smilref="mo0.smil#sid_31">- Rồi mẹ sẽ khỏi thôi!</sent>
+          <sent id="id_32" smilref="mo0.smil#sid_32">– Bà nói thầm thì – Con đừng lo!</sent>
+          <sent id="id_33" smilref="mo0.smil#sid_33">Rồi sẽ tốt thôi!</sent>
+        </p>
+        <p id="c4_p13" smilref="mo0.smil#seq_13">
+          <sent id="id_34" smilref="mo0.smil#sid_34">Tuy nhiên, thật chẳng tốt tí nào!</sent>
+          <sent id="id_35" smilref="mo0.smil#sid_35">Bà Hầu tước trông thấy hai mẹ con ra đi như thế, đã mang đến một cái ghế.</sent>
+          <sent id="id_36" smilref="mo0.smil#sid_36">Một cố gắng tuyệt vọng đã nâng đỡ bà mẹ của Perin cho tới đây.</sent>
+          <sent id="id_37" smilref="mo0.smil#sid_37">Bởi thế, khi bà ngồi xuống ghế thì bị choáng!</sent>
+          <sent id="id_38" smilref="mo0.smil#sid_38">Bà ngạt thở, không nói được nữa!</sent>
+        </p>
+        <p id="c4_p14" smilref="mo0.smil#seq_14">
+          <sent id="id_39" smilref="mo0.smil#sid_39">- Phải để mẹ cháu nằm dài, bà Hầu tước nói, phải xoa bóp cho mẹ cháu!</sent>
+          <sent id="id_40" smilref="mo0.smil#sid_40">Không hề gì đâu, cháu đừng sợ!</sent>
+          <sent id="id_41" smilref="mo0.smil#sid_41">Cháu đi gọi Bố Cá Chép.</sent>
+          <sent id="id_42" smilref="mo0.smil#sid_42">Có hai người, bác sẽ đưa mẹ cháu về buồng!</sent>
+          <sent id="id_43" smilref="mo0.smil#sid_43">Mẹ con cháu không thể ra đi… ngay bây giờ được.</sent>
+        </p>
+        <p id="c4_p15" smilref="mo0.smil#seq_15">
+          <sent id="id_44" smilref="mo0.smil#sid_44">Bà Hầu tước là một phụ nữ giàu kinh nghiệm.</sent>
+          <sent id="id_45" smilref="mo0.smil#sid_45">Khi người bệnh nằm dài, tim lại đập, hơi thở trở lại bình thường.</sent>
+          <sent id="id_46" smilref="mo0.smil#sid_46">Một lát sau, bà mẹ Perin muốn ngồi dậy, vì thế bà lại ngất.</sent>
+        </p>
+        <p id="c4_p16" smilref="mo0.smil#seq_16">
+          <sent id="id_47" smilref="mo0.smil#sid_47">Bà thấy đó, bà phải nằm yên!</sent>
+          <sent id="id_48" smilref="mo0.smil#sid_48">– Bà Hầu tước nói như ra lệnh.</sent>
+          <sent id="id_49" smilref="mo0.smil#sid_49">Ngày mai, bà sẽ lên đường!</sent>
+          <sent id="id_50" smilref="mo0.smil#sid_50">Bây giờ, bà dùng một tách nước hầm.</sent>
+          <sent id="id_51" smilref="mo0.smil#sid_51">Tôi sẽ hỏi xin Bố Cá Chép cho bà.</sent>
+        </p>
+        <p id="c4_p17" smilref="mo0.smil#seq_17">
+          <sent id="id_52" smilref="mo0.smil#sid_52">Không đợi trả lời, bà vào buồng ông láng giếng ngồi làm việc và nói:</sent>
+        </p>
+        <p id="c4_p18" smilref="mo0.smil#seq_18">
+          <sent id="id_53" smilref="mo0.smil#sid_53">- Ông cho tôi xin một tách nước hầm cho người bệnh!</sent>
+        </p>
+        <p id="c4_p19" smilref="mo0.smil#seq_19">
+          <sent id="id_54" smilref="mo0.smil#sid_54">Một nụ cười thay câu trả lời của Bố Cá Chép.</sent>
+          <sent id="id_55" smilref="mo0.smil#sid_55">Ngay tức khắc, ông ta mở vung cái nồi đất đang sôi trên bếp.</sent>
+          <sent id="id_56" smilref="mo0.smil#sid_56">Mùi thơm của nồi hầm tỏa ra trong gian buồng.</sent>
+        </p>
+        <p id="c4_p20" smilref="mo0.smil#seq_20">
+          <sent id="id_57" smilref="mo0.smil#sid_57">Ông ta tự hào và sung sướng, trợ mắt, phồng mũi nhìn bà Hầu tước.</sent>
+        </p>
+        <p id="c4_p21" smilref="mo0.smil#seq_21">
+          <sent id="id_58" smilref="mo0.smil#sid_58">- Ừ, mi hầm ngon quá!</sent>
+          <sent id="id_59" smilref="mo0.smil#sid_59">Bà Hầu tước nói.</sent>
+          <sent id="id_60" smilref="mo0.smil#sid_60">Nếu bát nước hầm này cứu được người phụ nữ khốn khổ thì bà ta sẽ được cứu sống!</sent>
+          <sent id="id_61" smilref="mo0.smil#sid_61">Nhưng bà Hầu tước hạ thấp giọng, ông biết đấy, bà ấy mệt nặng, chắc không thể sống được!</sent>
+        </p>
+        <p id="c4_p22" smilref="mo0.smil#seq_22">
+          <sent id="id_62" smilref="mo0.smil#sid_62">Bố Cá Chép đưa tay ra.</sent>
+          <sent id="id_63" smilref="mo0.smil#sid_63">Với động tác ấy, ông muốn nói: “Chúng ta còn biết làm thế nào được chứ?”.</sent>
+        </p>
+        <p id="c4_p23" smilref="mo0.smil#seq_23">
+          <sent id="id_64" smilref="mo0.smil#sid_64">Họ làm gì ư?</sent>
+          <sent id="id_65" smilref="mo0.smil#sid_65">Thì mỗi người một cách, họ cũng đã làm nhưng tai họa là một việc thường xảy ra với những người nghèo khổ, làm cho họ không còn thấy ngạc nhiên và cũng không phản ứng nữa!</sent>
+          <sent id="id_66" smilref="mo0.smil#sid_66">Ở trên đời này, ai trách được tai họa kia chứ?</sent>
+          <sent id="id_67" smilref="mo0.smil#sid_67">Bạn hôm nay, tôi ngày mai, thế thôi!</sent>
+          <sent id="id_68" smilref="mo0.smil#sid_68">Bố Cá Chép đã múc bát nước hầm cho bà Hầu tước.</sent>
+          <sent id="id_69" smilref="mo0.smil#sid_69">Bà cẩn thận mang về, không để rơi vãi một giọt.</sent>
+          <sent id="id_70" smilref="mo0.smil#sid_70">Bà quỳ gần bên nệm, nói với người bệnh.</sent>
+        </p>
+        <p id="c4_p24" smilref="mo0.smil#seq_24">
+          <sent id="id_71" smilref="mo0.smil#sid_71">- Bà húp một miếng!</sent>
+          <sent id="id_72" smilref="mo0.smil#sid_72">Đừng cử động, hãy há miệng!</sent>
+        </p>
+        <p id="c4_p25" smilref="mo0.smil#seq_25">
+          <sent id="id_73" smilref="mo0.smil#sid_73">Rất cẩn thận bà đổ một thìa nước hầm vào trong miệng người bệnh.</sent>
+          <sent id="id_74" smilref="mo0.smil#sid_74">Người bệnh không nuốt được, lại nôn ra và một cơn choáng kéo dài hơn lần trước, lại đến!</sent>
+        </p>
+        <p id="c4_p26" smilref="mo0.smil#seq_26">
+          <sent id="id_75" smilref="mo0.smil#sid_75">Đúng thế, nước hầm không hợp với người bệnh!</sent>
+          <sent id="id_76" smilref="mo0.smil#sid_76">Bà Hầu tước nhận thấy vậy.</sent>
+          <sent id="id_77" smilref="mo0.smil#sid_77">Để khỏi lãng phí, bà bắt Perin uống bát nước hầm.</sent>
+        </p>
+        <p id="c4_p27" smilref="mo0.smil#seq_27">
+          <sent id="id_78" smilref="mo0.smil#sid_78">- Cháu cần phải có sức!</sent>
+          <sent id="id_79" smilref="mo0.smil#sid_79">Phải cố gắng!</sent>
+          <sent id="id_80" smilref="mo0.smil#sid_80">Cháu ạ!</sent>
+        </p>
+        <p id="c4_p28" smilref="mo0.smil#seq_28">
+          <sent id="id_81" smilref="mo0.smil#sid_81">Với bà Hầu tước bát nước hầm là phương thuốc chữa bách bệnh.</sent>
+          <sent id="id_82" smilref="mo0.smil#sid_82">Bây giờ, bà không còn thấy hiệu nghiệm nữa thì bà cũng bó tay!</sent>
+          <sent id="id_83" smilref="mo0.smil#sid_83">Bà không còn nghĩ được cách gì hay hơn là đi gọi ông thầy thuốc.</sent>
+          <sent id="id_84" smilref="mo0.smil#sid_84">Có thể ông ấy sẽ làm được việc gì chăng!</sent>
+          <sent id="id_85" smilref="mo0.smil#sid_85">Tuy ông thầy thuốc vẫn kê đơn, nhưng khi ra về, ông đã nói thẳng với bà Hầu tước rằng ông không thể cứu được người bệnh:</sent>
+        </p>
+        <p id="c4_p29" smilref="mo0.smil#seq_29">
+          <sent id="id_86" smilref="mo0.smil#sid_86">- Đây là một phụ nữ kiệt sức vì đau khổ, đói rét, phiền muộn và mệt nhọc.</sent>
+          <sent id="id_87" smilref="mo0.smil#sid_87">Nếu đi tàu, bà ấy sẽ chết trên tàu.</sent>
+          <sent id="id_88" smilref="mo0.smil#sid_88">Bây giờ chỉ còn tính giờ thôi!</sent>
+          <sent id="id_89" smilref="mo0.smil#sid_89">Có lẽ một cơn choáng sẽ đón bà ấy đi!</sent>
+        </p>
+        <p id="c4_p30" smilref="mo0.smil#seq_30">
+          <sent id="id_90" smilref="mo0.smil#sid_90">Tuy thầy thuốc nói chỉ tình giờ nhưng không phải thế!</sent>
+          <sent id="id_91" smilref="mo0.smil#sid_91">Sự sống với tuổi già dễ tắt ngấm thì sức chịu đựng của tuổi trẻ dai hơn!</sent>
+          <sent id="id_92" smilref="mo0.smil#sid_92">Người bệnh không nuốt được cả nước hầm lẫn thuốc men, tuy tình trạng sức khỏe không khá hơn, cũng chẳng xấu đi!</sent>
+          <sent id="id_93" smilref="mo0.smil#sid_93">Bà ta nằm dài, vẫn thoi thóp trên nệm, không cử động, gần như không thở, trong trạng thái nửa tỉnh nửa mê.</sent>
+        </p>
+        <p id="c4_p31" smilref="mo0.smil#seq_31">
+          <sent id="id_94" smilref="mo0.smil#sid_94">Vì thế, Perin vẫn hy vọng.</sent>
+          <sent id="id_95" smilref="mo0.smil#sid_95">Ý nghĩ về cái chết ám ảnh những người lớn tuổi.</sent>
+          <sent id="id_96" smilref="mo0.smil#sid_96">Họ gặp cái chế ở khắp nơi, rất gần tuy nó đang còn ở xa.</sent>
+          <sent id="id_97" smilref="mo0.smil#sid_97">Tuổi trẻ thì không thể chịu nổi, từ chối không muốn nhìn nó, dù lúc ấy, nó đe dọa ngay trước mắt!</sent>
+          <sent id="id_98" smilref="mo0.smil#sid_98">Tại sao mẹ không lành bệnh?</sent>
+          <sent id="id_99" smilref="mo0.smil#sid_99">Tại sao mẹ phải chết?</sent>
+          <sent id="id_100" smilref="mo0.smil#sid_100">Đến năm sáu chục tuổi người ta mới chết mà mẹ chưa đến ba mươi!</sent>
+          <sent id="id_101" smilref="mo0.smil#sid_101">Mẹ làm gì nên tội mà phải chết yểu kia chứa?</sent>
+          <sent id="id_102" smilref="mo0.smil#sid_102">Mẹ là người phụ nữ dịu hiền nhất, người mẹ rất mực thương con, suốt đời tốt với chồng, con và mọi người!</sent>
+        </p>
+        <p id="c4_p32" smilref="mo0.smil#seq_32">
+          <sent id="id_103" smilref="mo0.smil#sid_103">Không thể như thế được.</sent>
+          <sent id="id_104" smilref="mo0.smil#sid_104">Trái lại, mẹ sẽ lành bệnh!</sent>
+          <sent id="id_105" smilref="mo0.smil#sid_105">Perin tìm ra được những lý lẽ tốt nhất để chứng minh.</sent>
+          <sent id="id_106" smilref="mo0.smil#sid_106">Ngay trong trạng thái nửa tỉnh, nửa mê của bà mẹ, em cũng cho đó là cách nghỉ ngơi rất tự nhiên sau những ngày mệt nhọc và thiếu thốn.</sent>
+          <sent id="id_107" smilref="mo0.smil#sid_107">Mặc dù vậy, khi quá xốn xang vì lo ngại, em vẫn hỏi ý kiến bà Hầu tước.</sent>
+          <sent id="id_108" smilref="mo0.smil#sid_108">Bà này trấn an em, vì bà cũng đang hy vọng:</sent>
+        </p>
+        <p id="c4_p33" smilref="mo0.smil#seq_33">
+          <sent id="id_109" smilref="mo0.smil#sid_109">- Mẹ cháu không thể chết được.</sent>
+          <sent id="id_110" smilref="mo0.smil#sid_110">Bà đã thoát được cơn choáng đầu tiên rồi mà!</sent>
+        </p>
+        <p id="c4_p34" smilref="mo0.smil#seq_34">
+          <sent id="id_111" smilref="mo0.smil#sid_111">- Có đúng thế không ạ?</sent>
+        </p>
+        <p id="c4_p35" smilref="mo0.smil#seq_35">
+          <sent id="id_112" smilref="mo0.smil#sid_112">- Hạt Muối và Bố Cá Chép cũng nghĩ như vậy!</sent>
+        </p>
+        <p id="c4_p36" smilref="mo0.smil#seq_36">
+          <sent id="id_113" smilref="mo0.smil#sid_113">Bây giờ, được người ta động viên và cũng tự trấn an mình nên Perin có thể yên tâm về tình trạng bà mẹ.</sent>
+          <sent id="id_114" smilref="mo0.smil#sid_114">Nỗi lo lắng lớn nhất của em là tự hỏi số tiền ba mươi phờrăng của La Rucơri đến hôm nào thì hết?</sent>
+          <sent id="id_115" smilref="mo0.smil#sid_115">Những chi tiêu của mẹ con em, dù cố dè xẻn mấy đi nữa, vẫn khi thì khoản này, khi thì khoản nọ và còn những chi tiêu bất thường nữa, cứ làm mòn nhanh chóng số tiền kia!</sent>
+          <sent id="id_116" smilref="mo0.smil#sid_116">“Tiền vào nhà khó, như gió vào nhà trống” bay đi rất nhanh!</sent>
+          <sent id="id_117" smilref="mo0.smil#sid_117">Khi tiêu hết đồng xu cuối cùng, thì hai mẹ con em sẽ đi đâu?</sent>
+          <sent id="id_118" smilref="mo0.smil#sid_118">Tìm đâu ra chút ít tiền vì mẹ con em có còn gì nữa đâu!</sent>
+          <sent id="id_119" smilref="mo0.smil#sid_119">Thật vậy, chẳng còn chút gì, ngoài mấy cái quần rách tơi tả.</sent>
+          <sent id="id_120" smilref="mo0.smil#sid_120">Làm sao hai mẹ con em đến Marôcua được chứ?</sent>
+        </p>
+        <p id="c4_p37" smilref="mo0.smil#seq_37">
+          <sent id="id_121" smilref="mo0.smil#sid_121">Một buổi chiều, Perin đang ở trong trạng thái lo ngại, bàng hoàng thì cảm thấy bàn tay bà mẹ mà em đang nắm bổng siết chặt tay em.</sent>
+        </p>
+        <p id="c4_p38" smilref="mo0.smil#seq_38">
+          <sent id="id_122" smilref="mo0.smil#sid_122">- Mẹ cần gì?</sent>
+          <sent id="id_123" smilref="mo0.smil#sid_123">Trở về với thực tại, em vội vàng hỏi.</sent>
+        </p>
+        <p id="c4_p39" smilref="mo0.smil#seq_39">
+          <sent id="id_124" smilref="mo0.smil#sid_124">- Nói chuyện với con!</sent>
+          <sent id="id_125" smilref="mo0.smil#sid_125">Vì đã đến lúc mẹ phải trối trăn rồi!</sent>
+        </p>
+        <p id="c4_p40" smilref="mo0.smil#seq_40">
+          <sent id="id_126" smilref="mo0.smil#sid_126">- Ối!</sent>
+          <sent id="id_127" smilref="mo0.smil#sid_127">Mẹ ơi!</sent>
+        </p>
+        <p id="c4_p41" smilref="mo0.smil#seq_41">
+          <sent id="id_128" smilref="mo0.smil#sid_128">- Đừng ngắt lời mẹ, con thân yêu, hãy cố gắng đừng xúc động quá mạnh, cũng như mẹ, không để cho nỗi thất vọng lấn át.</sent>
+          <sent id="id_129" smilref="mo0.smil#sid_129">Mẹ cũng muốn làm cho con đừng lo sợ, vì thế hôm nay, mẹ vẫn im lặng.</sent>
+          <sent id="id_130" smilref="mo0.smil#sid_130">Mẹ không muốn con đau khổ, nhưng mẹ phải nói, dầu là chuyện ấy rất đau lòng cho hai mẹ con ta!</sent>
+          <sent id="id_131" smilref="mo0.smil#sid_131">Mẹ sẽ là một bà mẹ tồi, yếu đuối và hèn nhát.</sent>
+          <sent id="id_132" smilref="mo0.smil#sid_132">Ít nhất là dại dột nếu còn chần chừ!</sent>
+          <sent id="id_133" smilref="mo0.smil#sid_133">Bà mẹ nghỉ một lát, vừa để thở vừa để cho những ý nghĩ chập chờn được sáng tỏ:</sent>
+        </p>
+        <p id="c4_p42" smilref="mo0.smil#seq_42">
+          <sent id="id_134" smilref="mo0.smil#sid_134">- Chúng ta phải xa nhau!</sent>
+        </p>
+        <p id="c4_p43" smilref="mo0.smil#seq_43">
+          <sent id="id_135" smilref="mo0.smil#sid_135">Perin nức nở, vì không thể chịu đựng nổi nữa!</sent>
+        </p>
+        <p id="c4_p44" smilref="mo0.smil#seq_44">
+          <sent id="id_136" smilref="mo0.smil#sid_136">- Ừ, thật là dễ sợ, con thân yêu, tuy nhiên mẹ tự hỏi có phải như thế là tốt cho con không?</sent>
+          <sent id="id_137" smilref="mo0.smil#sid_137">Con sẽ được giới thiệu là một cô bé mồ côi chứ không phải có một bà mẹ mà người ta xua đuổi!</sent>
+          <sent id="id_138" smilref="mo0.smil#sid_138">Dẫu sao trời đã muốn thế, con sẽ ở lại một mình trên đời.</sent>
+          <sent id="id_139" smilref="mo0.smil#sid_139">Trong vài phút nữa, hoặc là ngày mai…</sent>
+        </p>
+        <p id="c4_p45" smilref="mo0.smil#seq_45">
+          <sent id="id_140" smilref="mo0.smil#sid_140">Sự xúc động ngắt lời bà mẹ.</sent>
+          <sent id="id_141" smilref="mo0.smil#sid_141">Một lát sau, bà lại nói:</sent>
+        </p>
+        <p id="c4_p46" smilref="mo0.smil#seq_46">
+          <sent id="id_142" smilref="mo0.smil#sid_142">- Khi mẹ không còn nữa, có những thủ tục phải làm.</sent>
+          <sent id="id_143" smilref="mo0.smil#sid_143">Con hãy lấy trong túi áo mẹ tờ giấy bọc trong hai lớp lụa và con đưa cho những ai hỏi con: Đó là giấy hôn thú trong đó có tên mẹ và tên cha con!</sent>
+          <sent id="id_144" smilref="mo0.smil#sid_144">Con xin người ta trả lại cho con vì nó rất cần thiết để sau này xác nhận việc khai sinh của con.</sent>
+          <sent id="id_145" smilref="mo0.smil#sid_145">Con phải giữ thật cẩn thận.</sent>
+          <sent id="id_146" smilref="mo0.smil#sid_146">Tuy nhiên, con cũng có thể làm mất, con phải học thuộc lòng, để đừng bao giờ quên!</sent>
+          <sent id="id_147" smilref="mo0.smil#sid_147">Cái ngày mà con đưa trình tờ giấy ấy, con xin một bản sao.</sent>
+          <sent id="id_148" smilref="mo0.smil#sid_148">Con nghe rõ mẹ nói chứ?</sent>
+          <sent id="id_149" smilref="mo0.smil#sid_149">Con có nhớ hết những gì mẹ nói với con không?</sent>
+        </p>
+        <p id="c4_p47" smilref="mo0.smil#seq_47">
+          <sent id="id_150" smilref="mo0.smil#sid_150">- Thưa mẹ, có ạ.</sent>
+        </p>
+        <p id="c4_p48" smilref="mo0.smil#seq_48">
+          <sent id="id_151" smilref="mo0.smil#sid_151">- Con sẽ khổ, bị tê liệt, nhưng đừng nản lòng!</sent>
+          <sent id="id_152" smilref="mo0.smil#sid_152">Khi con chẳng còn gì để làm ở Paris, ở đây con sẽ trơ trọi, cô đơn!</sent>
+          <sent id="id_153" smilref="mo0.smil#sid_153">Con phải đến Marôcua!</sent>
+          <sent id="id_154" smilref="mo0.smil#sid_154">Nếu có đủ tiền để mua vé, con đi xe lửa.</sent>
+          <sent id="id_155" smilref="mo0.smil#sid_155">Nếu không có đủ tiền thì con đi bộ.</sent>
+          <sent id="id_156" smilref="mo0.smil#sid_156">Thà con nằm ngủ bên vệ đường, nhịn đói, còn hơn là ở lại Paris.</sent>
+          <sent id="id_157" smilref="mo0.smil#sid_157">Con hứa với mẹ chứ?</sent>
+        </p>
+        <p id="c4_p49" smilref="mo0.smil#seq_49">
+          <sent id="id_158" smilref="mo0.smil#sid_158">- Con xin hứa!</sent>
+        </p>
+        <p id="c4_p50" smilref="mo0.smil#seq_50">
+          <sent id="id_159" smilref="mo0.smil#sid_159">- Tuy hoàn cảnh của chúng ta thật là khủng khiếp, nhưng đối với mẹ thật là nhẹ nhõm khi nghĩ mọi việc rồi sẽ xảy ra như thế!</sent>
+        </p>
+        <p id="c4_p51" smilref="mo0.smil#seq_51">
+          <sent id="id_160" smilref="mo0.smil#sid_160">Thế nhưng sự “nhẹ nhõm” ấy không đủ mạnh để lướt một cơn choáng mới!</sent>
+          <sent id="id_161" smilref="mo0.smil#sid_161">Trong một thời gian khá lâu, bà mẹ không thở, không nói, không cử động.</sent>
+          <sent id="id_162" smilref="mo0.smil#sid_162">Perin cúi xuống người mẹ, run rẩy lo lắng, luống cuống vì thất vọng.</sent>
+        </p>
+        <p id="c4_p52" smilref="mo0.smil#seq_52">
+          <sent id="id_163" smilref="mo0.smil#sid_163">- Mẹ ơi!</sent>
+          <sent id="id_164" smilref="mo0.smil#sid_164">Mẹ ơi!</sent>
+        </p>
+        <p id="c4_p53" smilref="mo0.smil#seq_53">
+          <sent id="id_165" smilref="mo0.smil#sid_165">Tiếng gọi ấy làm bà mẹ hồi tỉnh:</sent>
+        </p>
+        <p id="c4_p54" smilref="mo0.smil#seq_54">
+          <sent id="id_166" smilref="mo0.smil#sid_166">- Hồi nãy, bà thì thầm, đứt quãng – Mẹ còn phải dặn con vài điều nữa!</sent>
+          <sent id="id_167" smilref="mo0.smil#sid_167">Mẹ phải làm việc ấy, nhưng mẹ không nhớ đã nói gì với con rồi!</sent>
+          <sent id="id_168" smilref="mo0.smil#sid_168">Con đợi một lát nhé!</sent>
+        </p>
+        <p id="c4_p55" smilref="mo0.smil#seq_55">
+          <sent id="id_169" smilref="mo0.smil#sid_169">Một lát sau, bà lại nói:</sent>
+        </p>
+        <p id="c4_p56" smilref="mo0.smil#seq_56">
+          <sent id="id_170" smilref="mo0.smil#sid_170">- Thế này nhé, ừ thế đấy…</sent>
+          <sent id="id_171" smilref="mo0.smil#sid_171">Con đến Marôcua.</sent>
+          <sent id="id_172" smilref="mo0.smil#sid_172">Đừng vội vàng, con không có quyền đòi hỏi gì hết!</sent>
+          <sent id="id_173" smilref="mo0.smil#sid_173">Con sẽ nhận được cái gì do tự con, tự ở con mà thôi!</sent>
+          <sent id="id_174" smilref="mo0.smil#sid_174">Con phải tốt bụng, làm sao cho người ta yêu con…</sent>
+          <sent id="id_175" smilref="mo0.smil#sid_175">Người ta không thể nào ghét con gái của mẹ!</sent>
+          <sent id="id_176" smilref="mo0.smil#sid_176">Thế là chấm dứt hoạn nạn.</sent>
+        </p>
+        <p id="c4_p57" smilref="mo0.smil#seq_57">
+          <sent id="id_177" smilref="mo0.smil#sid_177">Bà mẹ chắp tay lại và cái nhìn của bà có vẻ xuất thần.</sent>
+        </p>
+        <p id="c4_p58" smilref="mo0.smil#seq_58">
+          <sent id="id_178" smilref="mo0.smil#sid_178">- Mẹ thấy con… ư, thấy con sung sướng!</sent>
+          <sent id="id_179" smilref="mo0.smil#sid_179">Mẹ ước ao được chết với ý nghĩ ấy và hy vọng hình ảnh của mẹ sống mãi trong trái tim con!</sent>
+        </p>
+        <p id="c4_p59" smilref="mo0.smil#seq_59">
+          <sent id="id_180" smilref="mo0.smil#sid_180">Bà thành khẩn nói những lời ấy như lời cầu nguyện.</sent>
+          <sent id="id_181" smilref="mo0.smil#sid_181">Rồi kiệt sức, vì đã cố gắng, bà lại rơi mình xuống tấm nệm, bất động.</sent>
+          <sent id="id_182" smilref="mo0.smil#sid_182">Nhưng bà không ngất vì còn thở thoi thóp.</sent>
+        </p>
+        <p id="c4_p60" smilref="mo0.smil#seq_60">
+          <sent id="id_183" smilref="mo0.smil#sid_183">Perin đợi một lát, thấy mẹ vẫn ở trong trạng thái ấy, em rời khỏi buồng. vừa đến khoảng đất rào kín, em khóc nức nở và gieo mình trên cỏ.</sent>
+          <sent id="id_184" smilref="mo0.smil#sid_184">Hình như quả tim, cái đầu, đôi chân em đều bị tê liệt vì đã tự kiềm chế quá lâu!</sent>
+          <sent id="id_185" smilref="mo0.smil#sid_185">Trong vài phút, Perin đứng đó, kiệt quệ, nghẹn ngào!</sent>
+          <sent id="id_186" smilref="mo0.smil#sid_186">Mặc dù ở trạng thái vô tri vô giác, em vẫn ý thức được rằng em không nên để mẹ nằm một mình.</sent>
+          <sent id="id_187" smilref="mo0.smil#sid_187">Perin đứng dậy, cố gắng trấn tĩnh một chút, ít nhất là ngoài mặt.</sent>
+          <sent id="id_188" smilref="mo0.smil#sid_188">Em giữ cho nước mắt khỏi tuôn trào và nén những cơn nấc tuyệt vọng.</sent>
+          <sent id="id_189" smilref="mo0.smil#sid_189">Bóng tối trùm lên khu bãi.</sent>
+          <sent id="id_190" smilref="mo0.smil#sid_190">Perin đi mà chẳng biết em đi đâu, thẳng tiến về phía trước, hay cứ loanh quanh một chỗ!</sent>
+          <sent id="id_191" smilref="mo0.smil#sid_191">Em cố giữ mình để đừng khóc to nhưng lại càng nức nở!</sent>
+          <sent id="id_192" smilref="mo0.smil#sid_192">Perin đi ngang chiếc xe goòng, có lẽ lần này là lần thứ mười.</sent>
+          <sent id="id_193" smilref="mo0.smil#sid_193">Bác bán kẹo kéo vẫn theo dõi em từ trước, ra khỏi nhà, tay cầm hai cái kẹo, đến gần và nói với giọng thông cảm.</sent>
+        </p>
+        <p id="c4_p61" smilref="mo0.smil#seq_61">
+          <sent id="id_194" smilref="mo0.smil#sid_194">- Cháu có chuyện buồn.</sent>
+        </p>
+        <p id="c4_p62" smilref="mo0.smil#seq_62">
+          <sent id="id_195" smilref="mo0.smil#sid_195">- Ối, bác ơi!</sent>
+        </p>
+        <p id="c4_p63" smilref="mo0.smil#seq_63">
+          <sent id="id_196" smilref="mo0.smil#sid_196">- Cháu cầm lấy!</sent>
+          <sent id="id_197" smilref="mo0.smil#sid_197">Ông ta đưa hai cái kẹo cho Perin.</sent>
+          <sent id="id_198" smilref="mo0.smil#sid_198">Những của ngọt này rất tốt khi người ta có chuyện buồn phiền.</sent>
+        </p>
+      </level1>
+    </bodymatter>
+  </book>
+</dtbook>

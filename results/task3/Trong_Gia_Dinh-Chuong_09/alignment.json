@@ -1,0 +1,6282 @@
+{
+  "chapter_idx": 9,
+  "chapter_title": "Chương 9",
+  "audio_file": "Chuong_09.mp3",
+  "audio_duration": 2408.64,
+  "aligner": {
+    "engine": "ctc",
+    "model": "nguyenvulebinh/wav2vec2-base-vietnamese-250h",
+    "error": null
+  },
+  "counts": {
+    "exact": 126,
+    "aligned": 568,
+    "silence": 2
+  },
+  "clips": [
+    {
+      "sent_id": "id_1",
+      "smil_sid": "sid_1",
+      "container_id": "sforsmil-1",
+      "clip_begin": 0.0,
+      "clip_end": 1.13,
+      "method": "exact",
+      "source_text": "Trong Gia Đình"
+    },
+    {
+      "sent_id": "id_2",
+      "smil_sid": "sid_2",
+      "container_id": "sforsmil-2",
+      "clip_begin": 1.13,
+      "clip_end": 2.5,
+      "method": "exact",
+      "source_text": "Hector Malot"
+    },
+    {
+      "sent_id": "id_3",
+      "smil_sid": "sid_3",
+      "container_id": "sfaux-heading",
+      "clip_begin": 2.5,
+      "clip_end": 3.47,
+      "method": "exact",
+      "source_text": "Chương 9"
+    },
+    {
+      "sent_id": "id_4",
+      "smil_sid": "sid_4",
+      "container_id": "seq_1",
+      "clip_begin": 3.47,
+      "clip_end": 5.81,
+      "method": "aligned",
+      "source_text": "Perin vội vàng thay quần áo."
+    },
+    {
+      "sent_id": "id_5",
+      "smil_sid": "sid_5",
+      "container_id": "seq_1",
+      "clip_begin": 5.81,
+      "clip_end": 10.853,
+      "method": "aligned",
+      "source_text": "Được ở một mình trong phòng chẳng có ai tò mò nhìn ngó, em sung sướng quá!"
+    },
+    {
+      "sent_id": "id_6",
+      "smil_sid": "sid_6",
+      "container_id": "seq_1",
+      "clip_begin": 10.853,
+      "clip_end": 15.975,
+      "method": "aligned",
+      "source_text": "Nhưng khi đặt lưng trên tấm nệm, em không thấy cái cảm giác dễ chịu mà em mong ước."
+    },
+    {
+      "sent_id": "id_7",
+      "smil_sid": "sid_7",
+      "container_id": "seq_1",
+      "clip_begin": 15.975,
+      "clip_end": 19.396,
+      "method": "aligned",
+      "source_text": "Nệm nhám quá, dầu dệt bằng dăm bào vẫn êm hơn."
+    },
+    {
+      "sent_id": "id_8",
+      "smil_sid": "sid_8",
+      "container_id": "seq_1",
+      "clip_begin": 19.396,
+      "clip_end": 21.957,
+      "method": "aligned",
+      "source_text": "Nhưng chuyện ấy nào có ý nghĩa gì!"
+    },
+    {
+      "sent_id": "id_9",
+      "smil_sid": "sid_9",
+      "container_id": "seq_1",
+      "clip_begin": 21.957,
+      "clip_end": 28.07,
+      "method": "aligned",
+      "source_text": "Lần đầu Perin nằm ngủ dưới đất cũng thấy đất cứng lắm, nhưng rồi sẽ nhanh chóng quen dần thôi!"
+    },
+    {
+      "sent_id": "id_10",
+      "smil_sid": "sid_10",
+      "container_id": "seq_2",
+      "clip_begin": 28.07,
+      "clip_end": 33.235,
+      "method": "aligned",
+      "source_text": "Cánh cửa vừa mở, một thiếu nữ khoảng mười lăm tuổi và phòng thay uần áo."
+    },
+    {
+      "sent_id": "id_11",
+      "smil_sid": "sid_11",
+      "container_id": "seq_2",
+      "clip_begin": 33.235,
+      "clip_end": 37.079,
+      "method": "aligned",
+      "source_text": "Thỉnh thoảng cô ta liếc về phía Perin và không nói gì."
+    },
+    {
+      "sent_id": "id_12",
+      "smil_sid": "sid_12",
+      "container_id": "seq_2",
+      "clip_begin": 37.079,
+      "clip_end": 43.685,
+      "method": "aligned",
+      "source_text": "Cô ta diện bộ cánh ngày lễ nên phải mất khá nhiều thời gian để sắp xếp áo quần trong cái rương nhỏ."
+    },
+    {
+      "sent_id": "id_13",
+      "smil_sid": "sid_13",
+      "container_id": "seq_2",
+      "clip_begin": 43.685,
+      "clip_end": 46.028,
+      "method": "aligned",
+      "source_text": "Cô treo quần áo lao động trên đinh."
+    },
+    {
+      "sent_id": "id_14",
+      "smil_sid": "sid_14",
+      "container_id": "seq_2",
+      "clip_begin": 46.028,
+      "clip_end": 48.14,
+      "method": "aligned",
+      "source_text": "Để ngày mai mặc đi làm."
+    },
+    {
+      "sent_id": "id_15",
+      "smil_sid": "sid_15",
+      "container_id": "seq_3",
+      "clip_begin": 48.14,
+      "clip_end": 51.521,
+      "method": "aligned",
+      "source_text": "Một người khác đi vào, rồi người thứ ba, thứ tư."
+    },
+    {
+      "sent_id": "id_16",
+      "smil_sid": "sid_16",
+      "container_id": "seq_3",
+      "clip_begin": 51.521,
+      "clip_end": 53.782,
+      "method": "aligned",
+      "source_text": "Thế rồi họ kháo chuyện điếc cả tai."
+    },
+    {
+      "sent_id": "id_17",
+      "smil_sid": "sid_17",
+      "container_id": "seq_3",
+      "clip_begin": 53.782,
+      "clip_end": 55.543,
+      "method": "aligned",
+      "source_text": "Cả bốn người cùng nói."
+    },
+    {
+      "sent_id": "id_18",
+      "smil_sid": "sid_18",
+      "container_id": "seq_3",
+      "clip_begin": 55.543,
+      "clip_end": 57.744,
+      "method": "aligned",
+      "source_text": "Ai cũng kể lại công việc ngày hôm nay."
+    },
+    {
+      "sent_id": "id_19",
+      "smil_sid": "sid_19",
+      "container_id": "seq_3",
+      "clip_begin": 57.744,
+      "clip_end": 64.408,
+      "method": "aligned",
+      "source_text": "Trong khoảng cách giữa các giường, họ kéo, họ đẩy mấy cái hộp, cái thúng của họ, chồng chất lên nhau."
+    },
+    {
+      "sent_id": "id_20",
+      "smil_sid": "sid_20",
+      "container_id": "seq_3",
+      "clip_begin": 64.408,
+      "clip_end": 68.44,
+      "method": "aligned",
+      "source_text": "Họ mất cả bình tĩnh, nổi cáu và trút cả lên đầu bà chủ nhà:"
+    },
+    {
+      "sent_id": "id_21",
+      "smil_sid": "sid_21",
+      "container_id": "seq_4",
+      "clip_begin": 68.44,
+      "clip_end": 69.73,
+      "method": "exact",
+      "source_text": "- Chà, cái lều!"
+    },
+    {
+      "sent_id": "id_22",
+      "smil_sid": "sid_22",
+      "container_id": "seq_5",
+      "clip_begin": 69.73,
+      "clip_end": 71.98,
+      "method": "exact",
+      "source_text": "- Bà ta lại nhét thêm giường nữa!"
+    },
+    {
+      "sent_id": "id_23",
+      "smil_sid": "sid_23",
+      "container_id": "seq_6",
+      "clip_begin": 71.98,
+      "clip_end": 74.521,
+      "method": "aligned",
+      "source_text": "Những câu chuyện không ngừng nhưng có thay đổi."
+    },
+    {
+      "sent_id": "id_24",
+      "smil_sid": "sid_24",
+      "container_id": "seq_6",
+      "clip_begin": 74.521,
+      "clip_end": 78.723,
+      "method": "aligned",
+      "source_text": "Người ta kể cho nhau nghe những gì thú vị đã xảy ra trong ngày."
+    },
+    {
+      "sent_id": "id_25",
+      "smil_sid": "sid_25",
+      "container_id": "seq_6",
+      "clip_begin": 78.723,
+      "clip_end": 88.549,
+      "method": "aligned",
+      "source_text": "Người ta nói đến ngày mai, công việc ở xưởng, nỗi bất bình, những lời than thở, cãi cọ của mọi người, những chuyện ngồi lê đôi mách trong cả nhà máy."
+    },
+    {
+      "sent_id": "id_26",
+      "smil_sid": "sid_26",
+      "container_id": "seq_6",
+      "clip_begin": 88.549,
+      "clip_end": 95.273,
+      "method": "aligned",
+      "source_text": "Người ta không quên đôi lời về những kẻ bề trên: Ông Vunphran, những “thanh niên”, để gọi hay người cháu."
+    },
+    {
+      "sent_id": "id_27",
+      "smil_sid": "sid_27",
+      "container_id": "seq_6",
+      "clip_begin": 95.273,
+      "clip_end": 99.015,
+      "method": "aligned",
+      "source_text": "Người ta chỉ gọi ông quản đốc Taluen có một lần."
+    },
+    {
+      "sent_id": "id_28",
+      "smil_sid": "sid_28",
+      "container_id": "seq_6",
+      "clip_begin": 99.015,
+      "clip_end": 106.99,
+      "method": "aligned",
+      "source_text": "Người ta dùng những tính từ để nói nhiều hơn là những câu dài, những nhận xét về ông ta: lão Gầy, lão Chồn, tên Phản Bội."
+    },
+    {
+      "sent_id": "id_29",
+      "smil_sid": "sid_29",
+      "container_id": "seq_7",
+      "clip_begin": 106.99,
+      "clip_end": 109.911,
+      "method": "aligned",
+      "source_text": "Tình trạng mâu thuẫn làm cho Perin ngạc nhiên."
+    },
+    {
+      "sent_id": "id_30",
+      "smil_sid": "sid_30",
+      "container_id": "seq_7",
+      "clip_begin": 109.911,
+      "clip_end": 115.834,
+      "method": "aligned",
+      "source_text": "Những lời mách lẻo mà em nghe được rất là quan trọng, Perin những muốn chăm chú theo dõi."
+    },
+    {
+      "sent_id": "id_31",
+      "smil_sid": "sid_31",
+      "container_id": "seq_7",
+      "clip_begin": 115.834,
+      "clip_end": 121.778,
+      "method": "aligned",
+      "source_text": "Mặt khác, em lại cảm thấy khó chịu, như là xấu hổ, vì đã nghe trộm những câu chuyện ấy."
+    },
+    {
+      "sent_id": "id_32",
+      "smil_sid": "sid_32",
+      "container_id": "seq_7",
+      "clip_begin": 121.778,
+      "clip_end": 123.699,
+      "method": "aligned",
+      "source_text": "Dần dần, họ bớt nói."
+    },
+    {
+      "sent_id": "id_33",
+      "smil_sid": "sid_33",
+      "container_id": "seq_7",
+      "clip_begin": 123.699,
+      "clip_end": 125.19,
+      "method": "aligned",
+      "source_text": "Có một giọng mệt mỏi:"
+    },
+    {
+      "sent_id": "id_34",
+      "smil_sid": "sid_34",
+      "container_id": "seq_8",
+      "clip_begin": 125.19,
+      "clip_end": 126.48,
+      "method": "exact",
+      "source_text": "- Phải đi ngủ chứ!"
+    },
+    {
+      "sent_id": "id_35",
+      "smil_sid": "sid_35",
+      "container_id": "seq_9",
+      "clip_begin": 126.48,
+      "clip_end": 128.01,
+      "method": "exact",
+      "source_text": "- Nào ai cấm đâu!"
+    },
+    {
+      "sent_id": "id_36",
+      "smil_sid": "sid_36",
+      "container_id": "seq_10",
+      "clip_begin": 128.01,
+      "clip_end": 129.78,
+      "method": "exact",
+      "source_text": "- La Noayden chưa về!"
+    },
+    {
+      "sent_id": "id_37",
+      "smil_sid": "sid_37",
+      "container_id": "seq_11",
+      "clip_begin": 129.78,
+      "clip_end": 134.75,
+      "method": "exact",
+      "source_text": "Vừa lúc ấy, người ta nghe những bước chân nặng nề và khập khiểng ở phía cầu thang."
+    },
+    {
+      "sent_id": "id_38",
+      "smil_sid": "sid_38",
+      "container_id": "seq_12",
+      "clip_begin": 134.75,
+      "clip_end": 135.96,
+      "method": "exact",
+      "source_text": "- Bà ấy về đó."
+    },
+    {
+      "sent_id": "id_39",
+      "smil_sid": "sid_39",
+      "container_id": "seq_13",
+      "clip_begin": 135.96,
+      "clip_end": 137.628,
+      "method": "aligned",
+      "source_text": "Những bước chân dừng lại."
+    },
+    {
+      "sent_id": "id_40",
+      "smil_sid": "sid_40",
+      "container_id": "seq_13",
+      "clip_begin": 137.628,
+      "clip_end": 140.05,
+      "method": "aligned",
+      "source_text": "Có người ngã rồi những tiếng rên xiết:"
+    },
+    {
+      "sent_id": "id_41",
+      "smil_sid": "sid_41",
+      "container_id": "seq_14",
+      "clip_begin": 140.05,
+      "clip_end": 141.5,
+      "method": "exact",
+      "source_text": "- Mụ ta ngã rồi!"
+    },
+    {
+      "sent_id": "id_42",
+      "smil_sid": "sid_42",
+      "container_id": "seq_15",
+      "clip_begin": 141.5,
+      "clip_end": 145.27,
+      "method": "exact",
+      "source_text": "Những tiếng rên rỉ vẫn tiếp diễn, xen lẫn tiếng gọi:"
+    },
+    {
+      "sent_id": "id_43",
+      "smil_sid": "sid_43",
+      "container_id": "seq_16",
+      "clip_begin": 145.27,
+      "clip_end": 146.395,
+      "method": "aligned",
+      "source_text": "- Létđơ!"
+    },
+    {
+      "sent_id": "id_44",
+      "smil_sid": "sid_44",
+      "container_id": "seq_16",
+      "clip_begin": 146.395,
+      "clip_end": 147.883,
+      "method": "aligned",
+      "source_text": "Hãy đến đây con ơi!"
+    },
+    {
+      "sent_id": "id_45",
+      "smil_sid": "sid_45",
+      "container_id": "seq_16",
+      "clip_begin": 147.883,
+      "clip_end": 149.28,
+      "method": "aligned",
+      "source_text": "Giúp mẹ một tay nào!"
+    },
+    {
+      "sent_id": "id_46",
+      "smil_sid": "sid_46",
+      "container_id": "seq_17",
+      "clip_begin": 149.28,
+      "clip_end": 151.31,
+      "method": "aligned",
+      "source_text": "Nhưng Létđơ không nhúc nhích."
+    },
+    {
+      "sent_id": "id_47",
+      "smil_sid": "sid_47",
+      "container_id": "seq_17",
+      "clip_begin": 151.31,
+      "clip_end": 153.37,
+      "method": "aligned",
+      "source_text": "Sau một lát, tiếng kêu ngừng hẳn."
+    },
+    {
+      "sent_id": "id_48",
+      "smil_sid": "sid_48",
+      "container_id": "seq_18",
+      "clip_begin": 153.37,
+      "clip_end": 154.82,
+      "method": "exact",
+      "source_text": "- Mụ ta ngủ rồi!"
+    },
+    {
+      "sent_id": "id_49",
+      "smil_sid": "sid_49",
+      "container_id": "seq_19",
+      "clip_begin": 154.82,
+      "clip_end": 156.11,
+      "method": "exact",
+      "source_text": "- May quá chừng!"
+    },
+    {
+      "sent_id": "id_50",
+      "smil_sid": "sid_50",
+      "container_id": "seq_20",
+      "clip_begin": 156.11,
+      "clip_end": 157.516,
+      "method": "aligned",
+      "source_text": "Mụ ta không ngủ."
+    },
+    {
+      "sent_id": "id_51",
+      "smil_sid": "sid_51",
+      "container_id": "seq_20",
+      "clip_begin": 157.516,
+      "clip_end": 160.92,
+      "method": "aligned",
+      "source_text": "Trái lại, mụ cố gắng leo lên cầu thang, rồi gọi:"
+    },
+    {
+      "sent_id": "id_52",
+      "smil_sid": "sid_52",
+      "container_id": "seq_21",
+      "clip_begin": 160.92,
+      "clip_end": 162.968,
+      "method": "aligned",
+      "source_text": "- Létđơ, con của mẹ!"
+    },
+    {
+      "sent_id": "id_53",
+      "smil_sid": "sid_53",
+      "container_id": "seq_21",
+      "clip_begin": 162.968,
+      "clip_end": 164.857,
+      "method": "aligned",
+      "source_text": "Đến đây giúp mẹ nào Létđơ!"
+    },
+    {
+      "sent_id": "id_54",
+      "smil_sid": "sid_54",
+      "container_id": "seq_21",
+      "clip_begin": 164.857,
+      "clip_end": 165.65,
+      "method": "aligned",
+      "source_text": "Létđơ."
+    },
+    {
+      "sent_id": "id_55",
+      "smil_sid": "sid_55",
+      "container_id": "seq_22",
+      "clip_begin": 165.65,
+      "clip_end": 167.514,
+      "method": "aligned",
+      "source_text": "Mụ ta không tiến lên được."
+    },
+    {
+      "sent_id": "id_56",
+      "smil_sid": "sid_56",
+      "container_id": "seq_22",
+      "clip_begin": 167.514,
+      "clip_end": 172.164,
+      "method": "aligned",
+      "source_text": "Thật thế tiếng kêu vẫn từ dưới cầu thang vang lên càng khẩn cấp."
+    },
+    {
+      "sent_id": "id_57",
+      "smil_sid": "sid_57",
+      "container_id": "seq_22",
+      "clip_begin": 172.164,
+      "clip_end": 174.7,
+      "method": "aligned",
+      "source_text": "Thế rồi, tiếng kêu ấy kéo thêm tiếng khóc."
+    },
+    {
+      "sent_id": "id_58",
+      "smil_sid": "sid_58",
+      "container_id": "seq_23",
+      "clip_begin": 174.7,
+      "clip_end": 178.15,
+      "method": "exact",
+      "source_text": "Cuối cùng, Létđơ mặc chiếc váy lót và đi xuống."
+    },
+    {
+      "sent_id": "id_59",
+      "smil_sid": "sid_59",
+      "container_id": "seq_24",
+      "clip_begin": 178.15,
+      "clip_end": 179.075,
+      "method": "aligned",
+      "source_text": "- Ôi!"
+    },
+    {
+      "sent_id": "id_60",
+      "smil_sid": "sid_60",
+      "container_id": "seq_24",
+      "clip_begin": 179.075,
+      "clip_end": 181.52,
+      "method": "aligned",
+      "source_text": "Con gái của mẹ, con gái của mẹ."
+    },
+    {
+      "sent_id": "id_61",
+      "smil_sid": "sid_61",
+      "container_id": "seq_25",
+      "clip_begin": 181.52,
+      "clip_end": 183.93,
+      "method": "exact",
+      "source_text": "La Noayden cảm động hét lên."
+    },
+    {
+      "sent_id": "id_62",
+      "smil_sid": "sid_62",
+      "container_id": "seq_26",
+      "clip_begin": 183.93,
+      "clip_end": 189.021,
+      "method": "aligned",
+      "source_text": "Hình như họ chỉ có việc leo lên cầu thang, bây giờ có vẻ như chắc chắn hơn."
+    },
+    {
+      "sent_id": "id_63",
+      "smil_sid": "sid_63",
+      "container_id": "seq_26",
+      "clip_begin": 189.021,
+      "clip_end": 192.98,
+      "method": "aligned",
+      "source_text": "Nhưng niềm vui được thấy Létđơ đã đuổi xa cái ý nghĩ ấy."
+    },
+    {
+      "sent_id": "id_64",
+      "smil_sid": "sid_64",
+      "container_id": "seq_27",
+      "clip_begin": 192.98,
+      "clip_end": 194.286,
+      "method": "aligned",
+      "source_text": "- Con đi với mẹ!"
+    },
+    {
+      "sent_id": "id_65",
+      "smil_sid": "sid_65",
+      "container_id": "seq_27",
+      "clip_begin": 194.286,
+      "clip_end": 196.91,
+      "method": "aligned",
+      "source_text": "Mẹ sẽ trả tiền cho con một ly nhé."
+    },
+    {
+      "sent_id": "id_66",
+      "smil_sid": "sid_66",
+      "container_id": "seq_28",
+      "clip_begin": 196.91,
+      "clip_end": 200.04,
+      "method": "exact",
+      "source_text": "Létđơ không để cho lời đề nghị ấy cám dỗ."
+    },
+    {
+      "sent_id": "id_67",
+      "smil_sid": "sid_67",
+      "container_id": "seq_29",
+      "clip_begin": 200.04,
+      "clip_end": 201.291,
+      "method": "aligned",
+      "source_text": "- Chúng ta về đi ngủ."
+    },
+    {
+      "sent_id": "id_68",
+      "smil_sid": "sid_68",
+      "container_id": "seq_29",
+      "clip_begin": 201.291,
+      "clip_end": 202.37,
+      "method": "aligned",
+      "source_text": "– Cô ta nói."
+    },
+    {
+      "sent_id": "id_69",
+      "smil_sid": "sid_69",
+      "container_id": "seq_30",
+      "clip_begin": 202.37,
+      "clip_end": 204.722,
+      "method": "aligned",
+      "source_text": "- Không, con hãy đến với mẹ!"
+    },
+    {
+      "sent_id": "id_70",
+      "smil_sid": "sid_70",
+      "container_id": "seq_30",
+      "clip_begin": 204.722,
+      "clip_end": 206.3,
+      "method": "aligned",
+      "source_text": "Létđơ bé nhỏ của mẹ!"
+    },
+    {
+      "sent_id": "id_71",
+      "smil_sid": "sid_71",
+      "container_id": "seq_31",
+      "clip_begin": 206.3,
+      "clip_end": 214.07,
+      "method": "exact",
+      "source_text": "Cuộc tranh cải kéo dài, La Noayden vẫn bướng bỉnh với cái ý nghĩ mới, nhắc mãi cái từ của mụ ta, vẫn cái từ ấy:"
+    },
+    {
+      "sent_id": "id_72",
+      "smil_sid": "sid_72",
+      "container_id": "seq_32",
+      "clip_begin": 214.07,
+      "clip_end": 215.2,
+      "method": "exact",
+      "source_text": "- Một ly nhỏ!"
+    },
+    {
+      "sent_id": "id_73",
+      "smil_sid": "sid_73",
+      "container_id": "seq_33",
+      "clip_begin": 215.2,
+      "clip_end": 220.902,
+      "method": "aligned",
+      "source_text": "Trước đây, Perin nghĩ khi có một cái mái che trên đầu, em sẽ có được giấc ngủ ngon."
+    },
+    {
+      "sent_id": "id_74",
+      "smil_sid": "sid_74",
+      "container_id": "seq_33",
+      "clip_begin": 220.902,
+      "clip_end": 230.726,
+      "method": "aligned",
+      "source_text": "Bây giờ, em thấy nằm ngủ ngoài đồng, trong bóng tối, phải lo sợ thời tiết thay đổi, còn tốt hơn là nằm chen chúc trong cái phòng hỗn tạp, ồn ào này."
+    },
+    {
+      "sent_id": "id_75",
+      "smil_sid": "sid_75",
+      "container_id": "seq_33",
+      "clip_begin": 230.726,
+      "clip_end": 235.708,
+      "method": "aligned",
+      "source_text": "Cái mùi gây buồn nôn của nó bắt đầu làm cho Perin ngột ngạt, khó chịu."
+    },
+    {
+      "sent_id": "id_76",
+      "smil_sid": "sid_76",
+      "container_id": "seq_33",
+      "clip_begin": 235.708,
+      "clip_end": 239.36,
+      "method": "aligned",
+      "source_text": "Em tự hỏi làm thế nào để chịu đựng nổi thêm vài tiếng nữa?"
+    },
+    {
+      "sent_id": "id_77",
+      "smil_sid": "sid_77",
+      "container_id": "seq_34",
+      "clip_begin": 239.36,
+      "clip_end": 242.326,
+      "method": "aligned",
+      "source_text": "Bên ngoài, cuộc tranh cãi vẫn kéo dài."
+    },
+    {
+      "sent_id": "id_78",
+      "smil_sid": "sid_78",
+      "container_id": "seq_34",
+      "clip_begin": 242.326,
+      "clip_end": 248.09,
+      "method": "aligned",
+      "source_text": "Người ta nghe La Noayden nhắc lại mãi: “Một ly nhỏ” tiếng Létđơ trả lời: “Ngày mai!”."
+    },
+    {
+      "sent_id": "id_79",
+      "smil_sid": "sid_79",
+      "container_id": "seq_35",
+      "clip_begin": 248.09,
+      "clip_end": 249.495,
+      "method": "aligned",
+      "source_text": "- Tôi đi giúp Létđơ đây."
+    },
+    {
+      "sent_id": "id_80",
+      "smil_sid": "sid_80",
+      "container_id": "seq_35",
+      "clip_begin": 249.495,
+      "clip_end": 253.3,
+      "method": "aligned",
+      "source_text": "– Một phụ nữ lên tiếng, nếu không sẽ kéo đến ngày mai!"
+    },
+    {
+      "sent_id": "id_81",
+      "smil_sid": "sid_81",
+      "container_id": "seq_36",
+      "clip_begin": 253.3,
+      "clip_end": 255.95,
+      "method": "exact",
+      "source_text": "Người phụ nữ ấy ngồi dậy và đi xuống!"
+    },
+    {
+      "sent_id": "id_82",
+      "smil_sid": "sid_82",
+      "container_id": "seq_37",
+      "clip_begin": 255.95,
+      "clip_end": 264.299,
+      "method": "aligned",
+      "source_text": "Thế là trong cầu thang có tiếng ồn xen lẫn những bước đi nặng nề và những tiếng kêu của những người ở tầng trệt vì sự ồn ào ấy."
+    },
+    {
+      "sent_id": "id_83",
+      "smil_sid": "sid_83",
+      "container_id": "seq_37",
+      "clip_begin": 264.299,
+      "clip_end": 266.422,
+      "method": "aligned",
+      "source_text": "Hình như cả nhà đã được báo động."
+    },
+    {
+      "sent_id": "id_84",
+      "smil_sid": "sid_84",
+      "container_id": "seq_37",
+      "clip_begin": 266.422,
+      "clip_end": 269.706,
+      "method": "aligned",
+      "source_text": "Cuối cùng, La Noayden được đưa và phòng."
+    },
+    {
+      "sent_id": "id_85",
+      "smil_sid": "sid_85",
+      "container_id": "seq_37",
+      "clip_begin": 269.706,
+      "clip_end": 272.84,
+      "method": "aligned",
+      "source_text": "Mụ ta vẫn khóc và gào thét một cách thất vọng:"
+    },
+    {
+      "sent_id": "id_86",
+      "smil_sid": "sid_86",
+      "container_id": "seq_38",
+      "clip_begin": 272.84,
+      "clip_end": 275.33,
+      "method": "exact",
+      "source_text": "- Nào tôi đã làm gì các người kia chứ?"
+    },
+    {
+      "sent_id": "id_87",
+      "smil_sid": "sid_87",
+      "container_id": "seq_39",
+      "clip_begin": 275.33,
+      "clip_end": 281.343,
+      "method": "aligned",
+      "source_text": "Không thèm quan tâm đến những lời than vãn, người ta vẫn thay quần áo, đỡ mụ ta nằm xuống."
+    },
+    {
+      "sent_id": "id_88",
+      "smil_sid": "sid_88",
+      "container_id": "seq_39",
+      "clip_begin": 281.343,
+      "clip_end": 284.62,
+      "method": "aligned",
+      "source_text": "Nhưng mụ ta cũng chẳng chịu ngủ và vẫn khóc nức nở:"
+    },
+    {
+      "sent_id": "id_89",
+      "smil_sid": "sid_89",
+      "container_id": "seq_40",
+      "clip_begin": 284.62,
+      "clip_end": 289.247,
+      "method": "aligned",
+      "source_text": "- Nào tôi có làm gì các người mà các người đối xử với tôi tàn nhẫn thế này!"
+    },
+    {
+      "sent_id": "id_90",
+      "smil_sid": "sid_90",
+      "container_id": "seq_40",
+      "clip_begin": 289.247,
+      "clip_end": 290.87,
+      "method": "aligned",
+      "source_text": "Ôi, tôi khổ quá!"
+    },
+    {
+      "sent_id": "id_91",
+      "smil_sid": "sid_91",
+      "container_id": "seq_40",
+      "clip_begin": 290.87,
+      "clip_end": 295.357,
+      "method": "aligned",
+      "source_text": "Tôi không phải là con ăn cắp thế mà người ta không thèm uống với tôi!"
+    },
+    {
+      "sent_id": "id_92",
+      "smil_sid": "sid_92",
+      "container_id": "seq_40",
+      "clip_begin": 295.357,
+      "clip_end": 297.19,
+      "method": "aligned",
+      "source_text": "Létđơ, mẹ khát quá!"
+    },
+    {
+      "sent_id": "id_93",
+      "smil_sid": "sid_93",
+      "container_id": "seq_41",
+      "clip_begin": 297.19,
+      "clip_end": 300.911,
+      "method": "aligned",
+      "source_text": "Mụ ta càng phàn nàn, người trong phòng càng tức giận."
+    },
+    {
+      "sent_id": "id_94",
+      "smil_sid": "sid_94",
+      "container_id": "seq_41",
+      "clip_begin": 300.911,
+      "clip_end": 305.053,
+      "method": "aligned",
+      "source_text": "Tuy căm tức nhiều hay ít, mỗi người hét lên tiếng nói của mình."
+    },
+    {
+      "sent_id": "id_95",
+      "smil_sid": "sid_95",
+      "container_id": "seq_41",
+      "clip_begin": 305.053,
+      "clip_end": 306.753,
+      "method": "aligned",
+      "source_text": "Nhưng mụ ta vẫn tiếp tục."
+    },
+    {
+      "sent_id": "id_96",
+      "smil_sid": "sid_96",
+      "container_id": "seq_41",
+      "clip_begin": 306.753,
+      "clip_end": 311.315,
+      "method": "aligned",
+      "source_text": "Tiếng nói của mụ ta có lúc chậm lại, yếu dần như là sắp ngủ."
+    },
+    {
+      "sent_id": "id_97",
+      "smil_sid": "sid_97",
+      "container_id": "seq_41",
+      "clip_begin": 311.315,
+      "clip_end": 314.616,
+      "method": "aligned",
+      "source_text": "Liền ngay sau đó, mụ lại nói nhanh và gào lên."
+    },
+    {
+      "sent_id": "id_98",
+      "smil_sid": "sid_98",
+      "container_id": "seq_41",
+      "clip_begin": 314.616,
+      "clip_end": 317.718,
+      "method": "aligned",
+      "source_text": "Những người vừa mới chợp mắt, giật mình, tỉnh dậy."
+    },
+    {
+      "sent_id": "id_99",
+      "smil_sid": "sid_99",
+      "container_id": "seq_41",
+      "clip_begin": 317.718,
+      "clip_end": 322.71,
+      "method": "aligned",
+      "source_text": "Họ giận dữ hét lên, khiến mụ hoảng sợ, nhưng cũng chẳng làm cho mụ câm họng được."
+    },
+    {
+      "sent_id": "id_100",
+      "smil_sid": "sid_100",
+      "container_id": "seq_42",
+      "clip_begin": 322.71,
+      "clip_end": 326.14,
+      "method": "aligned",
+      "source_text": "- Tại sao các người lại đối xử tàn nhẫn với tôi chứ?"
+    },
+    {
+      "sent_id": "id_101",
+      "smil_sid": "sid_101",
+      "container_id": "seq_42",
+      "clip_begin": 326.14,
+      "clip_end": 328.146,
+      "method": "aligned",
+      "source_text": "Cứ việc nghe rồi tha thứ!"
+    },
+    {
+      "sent_id": "id_102",
+      "smil_sid": "sid_102",
+      "container_id": "seq_42",
+      "clip_begin": 328.146,
+      "clip_end": 329.28,
+      "method": "aligned",
+      "source_text": "Thế là đủ rồi!"
+    },
+    {
+      "sent_id": "id_103",
+      "smil_sid": "sid_103",
+      "container_id": "seq_43",
+      "clip_begin": 329.28,
+      "clip_end": 332.57,
+      "method": "exact",
+      "source_text": "- Chị có sáng kiến rất hay là rước bà ta lên!"
+    },
+    {
+      "sent_id": "id_104",
+      "smil_sid": "sid_104",
+      "container_id": "seq_44",
+      "clip_begin": 332.57,
+      "clip_end": 334.42,
+      "method": "exact",
+      "source_text": "- Làm sao mà ngủ được chứ?"
+    },
+    {
+      "sent_id": "id_105",
+      "smil_sid": "sid_105",
+      "container_id": "seq_45",
+      "clip_begin": 334.42,
+      "clip_end": 336.815,
+      "method": "aligned",
+      "source_text": "Đó cũng là ý nghĩ của Perin."
+    },
+    {
+      "sent_id": "id_106",
+      "smil_sid": "sid_106",
+      "container_id": "seq_45",
+      "clip_begin": 336.815,
+      "clip_end": 337.71,
+      "method": "aligned",
+      "source_text": "Em tự hỏi:"
+    },
+    {
+      "sent_id": "id_107",
+      "smil_sid": "sid_107",
+      "container_id": "seq_46",
+      "clip_begin": 337.71,
+      "clip_end": 340.174,
+      "method": "aligned",
+      "source_text": "Những chiều chủ nhật đều như thế này chăng?"
+    },
+    {
+      "sent_id": "id_108",
+      "smil_sid": "sid_108",
+      "container_id": "seq_46",
+      "clip_begin": 340.174,
+      "clip_end": 344.361,
+      "method": "aligned",
+      "source_text": "Bạn bè của La Noayden làm thế nào để chịu đựng được mụ ta?"
+    },
+    {
+      "sent_id": "id_109",
+      "smil_sid": "sid_109",
+      "container_id": "seq_46",
+      "clip_begin": 344.361,
+      "clip_end": 349.08,
+      "method": "aligned",
+      "source_text": "Ở Marôcua không còn ngôi nhà nào khác để được nằm ngủ yên ổn sao?"
+    },
+    {
+      "sent_id": "id_110",
+      "smil_sid": "sid_110",
+      "container_id": "seq_47",
+      "clip_begin": 349.08,
+      "clip_end": 353.365,
+      "method": "aligned",
+      "source_text": "Trong gian phòng này không phải chỉ có sự ồn ào làm người ta khó chịu."
+    },
+    {
+      "sent_id": "id_111",
+      "smil_sid": "sid_111",
+      "container_id": "seq_47",
+      "clip_begin": 353.365,
+      "clip_end": 358.872,
+      "method": "aligned",
+      "source_text": "Em bắt đầu cảm thấy cái không khí mà mọi người hít thở ở đây không hợp với em."
+    },
+    {
+      "sent_id": "id_112",
+      "smil_sid": "sid_112",
+      "container_id": "seq_47",
+      "clip_begin": 358.872,
+      "clip_end": 364.69,
+      "method": "aligned",
+      "source_text": "Em lộn ruột, ướt đẫm mồ hôi vì nóng bức, nghẹt thở và ngửi nhiều mùi hôi hám."
+    },
+    {
+      "sent_id": "id_113",
+      "smil_sid": "sid_113",
+      "container_id": "seq_48",
+      "clip_begin": 364.69,
+      "clip_end": 369.432,
+      "method": "aligned",
+      "source_text": "Cuối cùng, mụ La Noayden thao thao bất tuyệt rồi cũng phải chậm lại."
+    },
+    {
+      "sent_id": "id_114",
+      "smil_sid": "sid_114",
+      "container_id": "seq_48",
+      "clip_begin": 369.432,
+      "clip_end": 373.934,
+      "method": "aligned",
+      "source_text": "Mụ chỉ còn ném ra những tiếng lè nhè, sau đó thì có tiếng ngáy."
+    },
+    {
+      "sent_id": "id_115",
+      "smil_sid": "sid_115",
+      "container_id": "seq_48",
+      "clip_begin": 373.934,
+      "clip_end": 378.637,
+      "method": "aligned",
+      "source_text": "Tuy gian phòng trở lại im lặng, nhưng Perin vẫn không tài nào ngủ được."
+    },
+    {
+      "sent_id": "id_116",
+      "smil_sid": "sid_116",
+      "container_id": "seq_48",
+      "clip_begin": 378.637,
+      "clip_end": 384.63,
+      "method": "aligned",
+      "source_text": "Em ngạt thở - Có những tiếng trầm trầm ở sau em – Mồ hôi ướt như tắm từ đầu đến chân em."
+    },
+    {
+      "sent_id": "id_117",
+      "smil_sid": "sid_117",
+      "container_id": "seq_49",
+      "clip_begin": 384.63,
+      "clip_end": 388.776,
+      "method": "aligned",
+      "source_text": "Không cần tìm nguyên nhân: Perin ngạt vì thiếu không khí!"
+    },
+    {
+      "sent_id": "id_118",
+      "smil_sid": "sid_118",
+      "container_id": "seq_49",
+      "clip_begin": 388.776,
+      "clip_end": 393.424,
+      "method": "aligned",
+      "source_text": "Trong phòng trọ, không ai kêu ca gì vì họ đã quen sống như thế này!"
+    },
+    {
+      "sent_id": "id_119",
+      "smil_sid": "sid_119",
+      "container_id": "seq_49",
+      "clip_begin": 393.424,
+      "clip_end": 396.88,
+      "method": "aligned",
+      "source_text": "Perin quen ngủ ngoài đồng nên mới cảm thấy ngột ngạt!"
+    },
+    {
+      "sent_id": "id_120",
+      "smil_sid": "sid_120",
+      "container_id": "seq_50",
+      "clip_begin": 396.88,
+      "clip_end": 403.866,
+      "method": "aligned",
+      "source_text": "Các bà nông dân đã quen với cái không khí ấy trong phòng trọ - Perin cũng sẽ quen dần như họ thôi."
+    },
+    {
+      "sent_id": "id_121",
+      "smil_sid": "sid_121",
+      "container_id": "seq_50",
+      "clip_begin": 403.866,
+      "clip_end": 406.068,
+      "method": "aligned",
+      "source_text": "Phải dũng cảm và kiên trì!"
+    },
+    {
+      "sent_id": "id_122",
+      "smil_sid": "sid_122",
+      "container_id": "seq_50",
+      "clip_begin": 406.068,
+      "clip_end": 414.615,
+      "method": "aligned",
+      "source_text": "Tuy Perin không phải là nông dân nhưng em cũng đã trải qua một cuộc sống khá vất vả như họ, và cả những người khổ cực nhất trong đám họ."
+    },
+    {
+      "sent_id": "id_123",
+      "smil_sid": "sid_123",
+      "container_id": "seq_50",
+      "clip_begin": 414.615,
+      "clip_end": 419.83,
+      "method": "aligned",
+      "source_text": "Vì thế em thấy không có lý gì em lại không chịu đựng nổi, trong khi những người khác chịu được!"
+    },
+    {
+      "sent_id": "id_124",
+      "smil_sid": "sid_124",
+      "container_id": "seq_51",
+      "clip_begin": 419.83,
+      "clip_end": 423.01,
+      "method": "aligned",
+      "source_text": "Chỉ cần đừng thở, rồi giấc ngủ sẽ đến!"
+    },
+    {
+      "sent_id": "id_125",
+      "smil_sid": "sid_125",
+      "container_id": "seq_51",
+      "clip_begin": 423.01,
+      "clip_end": 426.571,
+      "method": "aligned",
+      "source_text": "Perin biết rõ trong khi ngủ, khứu giác không làm việc."
+    },
+    {
+      "sent_id": "id_126",
+      "smil_sid": "sid_126",
+      "container_id": "seq_51",
+      "clip_begin": 426.571,
+      "clip_end": 427.512,
+      "method": "aligned",
+      "source_text": "Khốn thay!"
+    },
+    {
+      "sent_id": "id_127",
+      "smil_sid": "sid_127",
+      "container_id": "seq_51",
+      "clip_begin": 427.512,
+      "clip_end": 431.033,
+      "method": "aligned",
+      "source_text": "Người ta không thể muốn thở lúc nào, theo cách nào cũng được!"
+    },
+    {
+      "sent_id": "id_128",
+      "smil_sid": "sid_128",
+      "container_id": "seq_51",
+      "clip_begin": 431.033,
+      "clip_end": 441.036,
+      "method": "aligned",
+      "source_text": "Perin đã hoài công ngậm miệng, nính thở, nhưng rồi em lại phải mở đôi môi, để hai lỗ mũi hít một hơi thật sâu vì trong phổi em không còn không khí."
+    },
+    {
+      "sent_id": "id_129",
+      "smil_sid": "sid_129",
+      "container_id": "seq_51",
+      "clip_begin": 441.036,
+      "clip_end": 446.817,
+      "method": "aligned",
+      "source_text": "Cái đang sợ nhất là bất chấp tất cả, em đã phải lặp lại nhiều cái động tác ấy!"
+    },
+    {
+      "sent_id": "id_130",
+      "smil_sid": "sid_130",
+      "container_id": "seq_51",
+      "clip_begin": 446.817,
+      "clip_end": 448.218,
+      "method": "aligned",
+      "source_text": "Thế thì tại sao?"
+    },
+    {
+      "sent_id": "id_131",
+      "smil_sid": "sid_131",
+      "container_id": "seq_51",
+      "clip_begin": 448.218,
+      "clip_end": 449.938,
+      "method": "aligned",
+      "source_text": "Việc gì sẽ xảy ra nào?"
+    },
+    {
+      "sent_id": "id_132",
+      "smil_sid": "sid_132",
+      "container_id": "seq_51",
+      "clip_begin": 449.938,
+      "clip_end": 452.719,
+      "method": "aligned",
+      "source_text": "Nếu Perin không thờ, em sẽ bị ngạt!"
+    },
+    {
+      "sent_id": "id_133",
+      "smil_sid": "sid_133",
+      "container_id": "seq_51",
+      "clip_begin": 452.719,
+      "clip_end": 454.55,
+      "method": "aligned",
+      "source_text": "Nếu thế, Perin ốm mất!"
+    },
+    {
+      "sent_id": "id_134",
+      "smil_sid": "sid_134",
+      "container_id": "seq_52",
+      "clip_begin": 454.55,
+      "clip_end": 460.451,
+      "method": "aligned",
+      "source_text": "Trong lúc trăn trở, bàn tay Perin chạm phải tờ giấy dán ở cửa sổ thay tấm kính."
+    },
+    {
+      "sent_id": "id_135",
+      "smil_sid": "sid_135",
+      "container_id": "seq_52",
+      "clip_begin": 460.451,
+      "clip_end": 462.751,
+      "method": "aligned",
+      "source_text": "Gường em nằm đặt ở ngay cạnh đấy."
+    },
+    {
+      "sent_id": "id_136",
+      "smil_sid": "sid_136",
+      "container_id": "seq_52",
+      "clip_begin": 462.751,
+      "clip_end": 464.972,
+      "method": "aligned",
+      "source_text": "Tờ giấy không phải là một tấm kính."
+    },
+    {
+      "sent_id": "id_137",
+      "smil_sid": "sid_137",
+      "container_id": "seq_52",
+      "clip_begin": 464.972,
+      "clip_end": 468.733,
+      "method": "aligned",
+      "source_text": "Perin có thể làm thủng một lỗ mà không có tiếng động."
+    },
+    {
+      "sent_id": "id_138",
+      "smil_sid": "sid_138",
+      "container_id": "seq_52",
+      "clip_begin": 468.733,
+      "clip_end": 476.414,
+      "method": "aligned",
+      "source_text": "Không khí bên ngoài lỗ thủng sẽ vào gian phòng, Perin có làm điều gì xấu hổ đâu, khi chọt thủng tờ giấy?"
+    },
+    {
+      "sent_id": "id_139",
+      "smil_sid": "sid_139",
+      "container_id": "seq_52",
+      "clip_begin": 476.414,
+      "clip_end": 481.215,
+      "method": "aligned",
+      "source_text": "Mấy người tuy quen với không khí ô nhiễm này, chắc họ cũng vẫn khổ vì nó."
+    },
+    {
+      "sent_id": "id_140",
+      "smil_sid": "sid_140",
+      "container_id": "seq_52",
+      "clip_begin": 481.215,
+      "clip_end": 484.196,
+      "method": "aligned",
+      "source_text": "Thế thì miễn là đừng làm cho họ thức dậy."
+    },
+    {
+      "sent_id": "id_141",
+      "smil_sid": "sid_141",
+      "container_id": "seq_52",
+      "clip_begin": 484.196,
+      "clip_end": 486.817,
+      "method": "aligned",
+      "source_text": "Perin có thể xé miếng giấy ấy."
+    },
+    {
+      "sent_id": "id_142",
+      "smil_sid": "sid_142",
+      "container_id": "seq_52",
+      "clip_begin": 486.817,
+      "clip_end": 490.978,
+      "method": "aligned",
+      "source_text": "Nhưng Perin chẳng cần làm việc ấy, vì sẽ để lại dấu vết."
+    },
+    {
+      "sent_id": "id_143",
+      "smil_sid": "sid_143",
+      "container_id": "seq_52",
+      "clip_begin": 490.978,
+      "clip_end": 494.878,
+      "method": "aligned",
+      "source_text": "Em vừa sờ đến tờ giấy thì thấy người ta dán chưa khít."
+    },
+    {
+      "sent_id": "id_144",
+      "smil_sid": "sid_144",
+      "container_id": "seq_52",
+      "clip_begin": 494.878,
+      "clip_end": 499.79,
+      "method": "aligned",
+      "source_text": "Perin lấy móng tay gỡ thử và giấc ngủ đến với em trong tư thế ấy!"
+    },
+    {
+      "sent_id": "id_145",
+      "smil_sid": "sid_145",
+      "container_id": "seq_53",
+      "clip_begin": 499.79,
+      "clip_end": 506.073,
+      "method": "aligned",
+      "source_text": "Khi em tỉnh dậy, một ánh sáng quá yếu ớt nhuộm trắng tấm giấy, nhưng chẳng soi sáng gian buồng."
+    },
+    {
+      "sent_id": "id_146",
+      "smil_sid": "sid_146",
+      "container_id": "seq_53",
+      "clip_begin": 506.073,
+      "clip_end": 508.495,
+      "method": "aligned",
+      "source_text": "Bên ngoài, bầy gà trống đang gáy."
+    },
+    {
+      "sent_id": "id_147",
+      "smil_sid": "sid_147",
+      "container_id": "seq_53",
+      "clip_begin": 508.495,
+      "clip_end": 511.857,
+      "method": "aligned",
+      "source_text": "Qua lỗ thủng của tờ giấy, không khí lạnh lọt vào."
+    },
+    {
+      "sent_id": "id_148",
+      "smil_sid": "sid_148",
+      "container_id": "seq_53",
+      "clip_begin": 511.857,
+      "clip_end": 513.278,
+      "method": "aligned",
+      "source_text": "Trời đã rạng đông."
+    },
+    {
+      "sent_id": "id_149",
+      "smil_sid": "sid_149",
+      "container_id": "seq_53",
+      "clip_begin": 513.278,
+      "clip_end": 518.861,
+      "method": "aligned",
+      "source_text": "Mặc dù co luồng gió từ bên ngoài vào, mùi hôi của buồng ngủ vẫn chưa bay đi hết."
+    },
+    {
+      "sent_id": "id_150",
+      "smil_sid": "sid_150",
+      "container_id": "seq_53",
+      "clip_begin": 518.861,
+      "clip_end": 524.284,
+      "method": "aligned",
+      "source_text": "Tuy có một ít không khí trong sạch vào đây, nhưng không khí ô nhiễm chưa ra khỏi chút nào!"
+    },
+    {
+      "sent_id": "id_151",
+      "smil_sid": "sid_151",
+      "container_id": "seq_53",
+      "clip_begin": 524.284,
+      "clip_end": 529.427,
+      "method": "aligned",
+      "source_text": "Nó dồn lại, làm dày thêm, nóng hơn, thành một sự rịn ướt ngạt thở."
+    },
+    {
+      "sent_id": "id_152",
+      "smil_sid": "sid_152",
+      "container_id": "seq_53",
+      "clip_begin": 529.427,
+      "clip_end": 530.988,
+      "method": "aligned",
+      "source_text": "Mọi người vẫn ngủ say."
+    },
+    {
+      "sent_id": "id_153",
+      "smil_sid": "sid_153",
+      "container_id": "seq_53",
+      "clip_begin": 530.988,
+      "clip_end": 533.52,
+      "method": "aligned",
+      "source_text": "Thỉnh thoảng cớ vài tiếng ú ớ chen vào."
+    },
+    {
+      "sent_id": "id_154",
+      "smil_sid": "sid_154",
+      "container_id": "seq_54",
+      "clip_begin": 533.52,
+      "clip_end": 541.181,
+      "method": "aligned",
+      "source_text": "Perin vụng về cho khuỷu tay khá mạnh vào mặt kính khi muốn mở rộng lỗ thủng ở mảnh giấy."
+    },
+    {
+      "sent_id": "id_155",
+      "smil_sid": "sid_155",
+      "container_id": "seq_54",
+      "clip_begin": 541.181,
+      "clip_end": 546.242,
+      "method": "aligned",
+      "source_text": "Cánh cửa không thật khớp trong khung kêu lên và có những tiếng ngân vang kéo dài."
+    },
+    {
+      "sent_id": "id_156",
+      "smil_sid": "sid_156",
+      "container_id": "seq_54",
+      "clip_begin": 546.242,
+      "clip_end": 548.843,
+      "method": "aligned",
+      "source_text": "Không có ai thức dậy như em lo ngại."
+    },
+    {
+      "sent_id": "id_157",
+      "smil_sid": "sid_157",
+      "container_id": "seq_54",
+      "clip_begin": 548.843,
+      "clip_end": 552.024,
+      "method": "aligned",
+      "source_text": "Tiếng động khác thường ấy cũng không quấy rầy ai cả."
+    },
+    {
+      "sent_id": "id_158",
+      "smil_sid": "sid_158",
+      "container_id": "seq_54",
+      "clip_begin": 552.024,
+      "clip_end": 559.125,
+      "method": "aligned",
+      "source_text": "Thế là Perin quyết định: rất nhẹ nhàng, không một tiếng động, em lấy áo, váy thong thả mặc vào."
+    },
+    {
+      "sent_id": "id_159",
+      "smil_sid": "sid_159",
+      "container_id": "seq_54",
+      "clip_begin": 559.125,
+      "clip_end": 564.367,
+      "method": "aligned",
+      "source_text": "Em đi chân đất, tay cầm đôi giày và tiến ra cửa theo ánh sáng của vầng đông."
+    },
+    {
+      "sent_id": "id_160",
+      "smil_sid": "sid_160",
+      "container_id": "seq_54",
+      "clip_begin": 564.367,
+      "clip_end": 567.687,
+      "method": "aligned",
+      "source_text": "Cửa chỉ gài chốt, Perin mở rất êm."
+    },
+    {
+      "sent_id": "id_161",
+      "smil_sid": "sid_161",
+      "container_id": "seq_54",
+      "clip_begin": 567.687,
+      "clip_end": 569.668,
+      "method": "aligned",
+      "source_text": "Em đã đứng ở ngoài cầu thang gác."
+    },
+    {
+      "sent_id": "id_162",
+      "smil_sid": "sid_162",
+      "container_id": "seq_54",
+      "clip_begin": 569.668,
+      "clip_end": 572.589,
+      "method": "aligned",
+      "source_text": "Không ai nhìn thấy Perin vừa đi ra."
+    },
+    {
+      "sent_id": "id_163",
+      "smil_sid": "sid_163",
+      "container_id": "seq_54",
+      "clip_begin": 572.589,
+      "clip_end": 576.58,
+      "method": "aligned",
+      "source_text": "Em ngồi bên bậc thứ nhất của cầu thang, mang giày và đi xuống."
+    },
+    {
+      "sent_id": "id_164",
+      "smil_sid": "sid_164",
+      "container_id": "seq_55",
+      "clip_begin": 576.58,
+      "clip_end": 578.02,
+      "method": "aligned",
+      "source_text": "Ôi, không khí trong lành!"
+    },
+    {
+      "sent_id": "id_165",
+      "smil_sid": "sid_165",
+      "container_id": "seq_55",
+      "clip_begin": 578.02,
+      "clip_end": 578.961,
+      "method": "aligned",
+      "source_text": "Mát rượi!"
+    },
+    {
+      "sent_id": "id_166",
+      "smil_sid": "sid_166",
+      "container_id": "seq_55",
+      "clip_begin": 578.961,
+      "clip_end": 583.463,
+      "method": "aligned",
+      "source_text": "Chưa bao giờ Perin được hít thở với niềm hạnh phúc trọn vẹn như thế này!"
+    },
+    {
+      "sent_id": "id_167",
+      "smil_sid": "sid_167",
+      "container_id": "seq_55",
+      "clip_begin": 583.463,
+      "clip_end": 589.427,
+      "method": "aligned",
+      "source_text": "Đi qua sân, em há miệng, mũi phập phồng, đôi tay đung đưa, cái đầu vung vẩy."
+    },
+    {
+      "sent_id": "id_168",
+      "smil_sid": "sid_168",
+      "container_id": "seq_55",
+      "clip_begin": 589.427,
+      "clip_end": 593.489,
+      "method": "aligned",
+      "source_text": "Tiếng động của những bước chân đánh thức một con chó ở gần đấy."
+    },
+    {
+      "sent_id": "id_169",
+      "smil_sid": "sid_169",
+      "container_id": "seq_55",
+      "clip_begin": 593.489,
+      "clip_end": 597.191,
+      "method": "aligned",
+      "source_text": "Nó sủa và lát sau, nhiều con chó khác sủa theo ầm ĩ."
+    },
+    {
+      "sent_id": "id_170",
+      "smil_sid": "sid_170",
+      "container_id": "seq_55",
+      "clip_begin": 597.191,
+      "clip_end": 600.092,
+      "method": "aligned",
+      "source_text": "Perin cần cử động mà cái sân nhỏ quá!"
+    },
+    {
+      "sent_id": "id_171",
+      "smil_sid": "sid_171",
+      "container_id": "seq_55",
+      "clip_begin": 600.092,
+      "clip_end": 602.854,
+      "method": "aligned",
+      "source_text": "Qua hàng rào đã mở, em ra ngoài đường."
+    },
+    {
+      "sent_id": "id_172",
+      "smil_sid": "sid_172",
+      "container_id": "seq_55",
+      "clip_begin": 602.854,
+      "clip_end": 605.715,
+      "method": "aligned",
+      "source_text": "Em bước thẳng về phía trước, không biết sẽ đi đâu."
+    },
+    {
+      "sent_id": "id_173",
+      "smil_sid": "sid_173",
+      "container_id": "seq_55",
+      "clip_begin": 605.715,
+      "clip_end": 607.056,
+      "method": "aligned",
+      "source_text": "Nhưng ở trên đầu."
+    },
+    {
+      "sent_id": "id_174",
+      "smil_sid": "sid_174",
+      "container_id": "seq_55",
+      "clip_begin": 607.056,
+      "clip_end": 611.138,
+      "method": "aligned",
+      "source_text": "Perin nhìn thấy bình minh nhuộm trắng các ngọn cây và nóc nhà."
+    },
+    {
+      "sent_id": "id_175",
+      "smil_sid": "sid_175",
+      "container_id": "seq_55",
+      "clip_begin": 611.138,
+      "clip_end": 613.355,
+      "method": "aligned",
+      "source_text": "Trong chốc lát nữa, trời sáng tỏ."
+    },
+    {
+      "sent_id": "id_176",
+      "smil_sid": "sid_176",
+      "container_id": "seq_55",
+      "clip_begin": 613.355,
+      "clip_end": 617.118,
+      "method": "aligned",
+      "source_text": "Vừa lúc ấy, trong im lặng sâu thẳm có tiếng chuông."
+    },
+    {
+      "sent_id": "id_177",
+      "smil_sid": "sid_177",
+      "container_id": "seq_55",
+      "clip_begin": 617.118,
+      "clip_end": 622.684,
+      "method": "aligned",
+      "source_text": "Đồng hồ nhà máy điểm ba tiếng báo cho em hay còn ba tiếng nữa mới đến giờ vào xưởng."
+    },
+    {
+      "sent_id": "id_178",
+      "smil_sid": "sid_178",
+      "container_id": "seq_55",
+      "clip_begin": 622.684,
+      "clip_end": 625.346,
+      "method": "aligned",
+      "source_text": "Perin sẽ làm gì trong thời gian này?"
+    },
+    {
+      "sent_id": "id_179",
+      "smil_sid": "sid_179",
+      "container_id": "seq_55",
+      "clip_begin": 625.346,
+      "clip_end": 628.61,
+      "method": "aligned",
+      "source_text": "Em không muốn để mệt mỏi trước khi lao động."
+    },
+    {
+      "sent_id": "id_180",
+      "smil_sid": "sid_180",
+      "container_id": "seq_55",
+      "clip_begin": 628.61,
+      "clip_end": 630.912,
+      "method": "aligned",
+      "source_text": "Em cũng không thể cuốc bộ đến lúc ấy."
+    },
+    {
+      "sent_id": "id_181",
+      "smil_sid": "sid_181",
+      "container_id": "seq_55",
+      "clip_begin": 630.912,
+      "clip_end": 633.525,
+      "method": "aligned",
+      "source_text": "Tốt hơn hết, em ngồi nghỉ để chờ đợi."
+    },
+    {
+      "sent_id": "id_182",
+      "smil_sid": "sid_182",
+      "container_id": "seq_56",
+      "clip_begin": 633.525,
+      "clip_end": 636.991,
+      "method": "aligned",
+      "source_text": "Từng phút, từng phút, bầu trời sáng tỏ dần."
+    },
+    {
+      "sent_id": "id_183",
+      "smil_sid": "sid_183",
+      "container_id": "seq_56",
+      "clip_begin": 636.991,
+      "clip_end": 642.54,
+      "method": "aligned",
+      "source_text": "Dưới ánh sáng trên mặt đất, cảnh vật chung quanh đã có nhữnghình dáng khá rõ rệt."
+    },
+    {
+      "sent_id": "id_184",
+      "smil_sid": "sid_184",
+      "container_id": "seq_56",
+      "clip_begin": 642.54,
+      "clip_end": 645.135,
+      "method": "aligned",
+      "source_text": "Perin có thể phân biệt mình đang ở đâu."
+    },
+    {
+      "sent_id": "id_185",
+      "smil_sid": "sid_185",
+      "container_id": "seq_57",
+      "clip_begin": 645.135,
+      "clip_end": 652.936,
+      "method": "aligned",
+      "source_text": "Em đang đứng trên mép một mô đất bắt đầu từ đây và hình như kéo dài lớp nước của nó để dồn vào các vũng nước khác!"
+    },
+    {
+      "sent_id": "id_186",
+      "smil_sid": "sid_186",
+      "container_id": "seq_57",
+      "clip_begin": 652.936,
+      "clip_end": 660.058,
+      "method": "aligned",
+      "source_text": "Mô đất nối tiếp mô đất. có cái lớn, cái bé do sự tình cờ của cuộc khai thác than bùn đến tận con sông lớn."
+    },
+    {
+      "sent_id": "id_187",
+      "smil_sid": "sid_187",
+      "container_id": "seq_57",
+      "clip_begin": 660.058,
+      "clip_end": 664.279,
+      "method": "aligned",
+      "source_text": "Khi rời khỏi PichKynhi có phải em đã trông thấy như thế này?"
+    },
+    {
+      "sent_id": "id_188",
+      "smil_sid": "sid_188",
+      "container_id": "seq_57",
+      "clip_begin": 664.279,
+      "clip_end": 669.721,
+      "method": "aligned",
+      "source_text": "Hình như ở đây vắng vẻ, hẻo lánh hơn và có nhiều hàng cây lộn xộn che khuất."
+    },
+    {
+      "sent_id": "id_189",
+      "smil_sid": "sid_189",
+      "container_id": "seq_57",
+      "clip_begin": 669.721,
+      "clip_end": 671.701,
+      "method": "aligned",
+      "source_text": "Perin dừng lại một lát."
+    },
+    {
+      "sent_id": "id_190",
+      "smil_sid": "sid_190",
+      "container_id": "seq_57",
+      "clip_begin": 671.701,
+      "clip_end": 681.123,
+      "method": "aligned",
+      "source_text": "Em cho chỗ ấy chưa tốt để ngồi nghỉ nên lại tiếp tục đi, em rời khỏi mô đất, leo theo triền dốc một cái đồi nhỏ có cây cối."
+    },
+    {
+      "sent_id": "id_191",
+      "smil_sid": "sid_191",
+      "container_id": "seq_57",
+      "clip_begin": 681.123,
+      "clip_end": 685.515,
+      "method": "aligned",
+      "source_text": "Trong đồi cây ấy, có lẽ em sẽ tìm được cái gì mà em đang tìm kiếm."
+    },
+    {
+      "sent_id": "id_192",
+      "smil_sid": "sid_192",
+      "container_id": "seq_58",
+      "clip_begin": 685.515,
+      "clip_end": 692.857,
+      "method": "aligned",
+      "source_text": "Khi Perin đến gần, đứng trên cao, em nhìn thấy bên bờ mô đất, có một túp lều bằng cành cây và cây sậy."
+    },
+    {
+      "sent_id": "id_193",
+      "smil_sid": "sid_193",
+      "container_id": "seq_58",
+      "clip_begin": 692.857,
+      "clip_end": 697.598,
+      "method": "aligned",
+      "source_text": "Mùa đông, người ta thường dùng lều này để săn bắt bầy chim di trú qua đây."
+    },
+    {
+      "sent_id": "id_194",
+      "smil_sid": "sid_194",
+      "container_id": "seq_58",
+      "clip_begin": 697.598,
+      "clip_end": 702.56,
+      "method": "aligned",
+      "source_text": "Thế là em có ý nghĩ: Nếu đến được túp lều, em sẽ được che chở."
+    },
+    {
+      "sent_id": "id_195",
+      "smil_sid": "sid_195",
+      "container_id": "seq_58",
+      "clip_begin": 702.56,
+      "clip_end": 707.062,
+      "method": "aligned",
+      "source_text": "Không ai để ý đến em giữa cánh đồng, trong buổi sáng sớm."
+    },
+    {
+      "sent_id": "id_196",
+      "smil_sid": "sid_196",
+      "container_id": "seq_58",
+      "clip_begin": 707.062,
+      "clip_end": 715.915,
+      "method": "aligned",
+      "source_text": "Perin có thể, trên đường đi, tránh những giọt sương nặng hạt từ các cành cây rơi xuống như là một cơn mưa thật sự, tắm ướt em."
+    },
+    {
+      "sent_id": "id_197",
+      "smil_sid": "sid_197",
+      "container_id": "seq_59",
+      "clip_begin": 715.915,
+      "clip_end": 723.397,
+      "method": "aligned",
+      "source_text": "Perin bước xuống, tìm kiếm và thấy được trong đám lau sậy một con đường nhỏ chưa rõ rệt, hình như dẫn đến lều cỏ."
+    },
+    {
+      "sent_id": "id_198",
+      "smil_sid": "sid_198",
+      "container_id": "seq_59",
+      "clip_begin": 723.397,
+      "clip_end": 725.017,
+      "method": "aligned",
+      "source_text": "Em đi theo con đường ấy."
+    },
+    {
+      "sent_id": "id_199",
+      "smil_sid": "sid_199",
+      "container_id": "seq_59",
+      "clip_begin": 725.017,
+      "clip_end": 729.659,
+      "method": "aligned",
+      "source_text": "Tuy nó dẫn em đến đúng chỗ, nhưng nó vẫn không đưa em vào túp lều được."
+    },
+    {
+      "sent_id": "id_200",
+      "smil_sid": "sid_200",
+      "container_id": "seq_59",
+      "clip_begin": 729.659,
+      "clip_end": 731.739,
+      "method": "aligned",
+      "source_text": "Lều nằm trên một hòn đảo nhỏ."
+    },
+    {
+      "sent_id": "id_201",
+      "smil_sid": "sid_201",
+      "container_id": "seq_59",
+      "clip_begin": 731.739,
+      "clip_end": 734.46,
+      "method": "aligned",
+      "source_text": "Người ta trồng ba cây liễu để làm sườn lều."
+    },
+    {
+      "sent_id": "id_202",
+      "smil_sid": "sid_202",
+      "container_id": "seq_59",
+      "clip_begin": 734.46,
+      "clip_end": 738.481,
+      "method": "aligned",
+      "source_text": "Một ao hồ ngập nước ngăn cách túp lều với đám lau sậy."
+    },
+    {
+      "sent_id": "id_203",
+      "smil_sid": "sid_203",
+      "container_id": "seq_59",
+      "clip_begin": 738.481,
+      "clip_end": 740.982,
+      "method": "aligned",
+      "source_text": "May thay có một thân cây bắc ngang hồ."
+    },
+    {
+      "sent_id": "id_204",
+      "smil_sid": "sid_204",
+      "container_id": "seq_59",
+      "clip_begin": 740.982,
+      "clip_end": 748.244,
+      "method": "aligned",
+      "source_text": "Cái cầu ấy tuy chật hẹp, ướt đẫm sương mai, rất trơn, nhưng Perin vẫn không ngại vượt qua."
+    },
+    {
+      "sent_id": "id_205",
+      "smil_sid": "sid_205",
+      "container_id": "seq_59",
+      "clip_begin": 748.244,
+      "clip_end": 749.195,
+      "method": "aligned",
+      "source_text": "Em mở cửa."
+    },
+    {
+      "sent_id": "id_206",
+      "smil_sid": "sid_206",
+      "container_id": "seq_60",
+      "clip_begin": 749.195,
+      "clip_end": 755.26,
+      "method": "aligned",
+      "source_text": "Túp lều có hình vuông, từ dưới lên tận mái được che bằng cây sậy và cây cỏ lớn."
+    },
+    {
+      "sent_id": "id_207",
+      "smil_sid": "sid_207",
+      "container_id": "seq_60",
+      "clip_begin": 755.26,
+      "clip_end": 759.423,
+      "method": "aligned",
+      "source_text": "Bốn phía lều có những lỗ nhỏ, đứng phía ngoài không nhìn thấy gì."
+    },
+    {
+      "sent_id": "id_208",
+      "smil_sid": "sid_208",
+      "container_id": "seq_60",
+      "clip_begin": 759.423,
+      "clip_end": 762.266,
+      "method": "aligned",
+      "source_text": "Ở bên trong, có thể thấy rõ chung quanh."
+    },
+    {
+      "sent_id": "id_209",
+      "smil_sid": "sid_209",
+      "container_id": "seq_60",
+      "clip_begin": 762.266,
+      "clip_end": 765.008,
+      "method": "aligned",
+      "source_text": "Ánh sáng theo các lỗ ấy lọt vào trong lều."
+    },
+    {
+      "sent_id": "id_210",
+      "smil_sid": "sid_210",
+      "container_id": "seq_60",
+      "clip_begin": 765.008,
+      "clip_end": 767.991,
+      "method": "aligned",
+      "source_text": "Trên mặt đất có một lớp dương xỉ dày."
+    },
+    {
+      "sent_id": "id_211",
+      "smil_sid": "sid_211",
+      "container_id": "seq_60",
+      "clip_begin": 767.991,
+      "clip_end": 772.665,
+      "method": "aligned",
+      "source_text": "Trong một góc lều, có khúc gỗ bằng thân cây, dùng để thay thế ghế dài!"
+    },
+    {
+      "sent_id": "id_212",
+      "smil_sid": "sid_212",
+      "container_id": "seq_61",
+      "clip_begin": 772.665,
+      "clip_end": 775.166,
+      "method": "aligned",
+      "source_text": "Ôi, cái tổ ấm xinh đẹp quá!"
+    },
+    {
+      "sent_id": "id_213",
+      "smil_sid": "sid_213",
+      "container_id": "seq_61",
+      "clip_begin": 775.166,
+      "clip_end": 779.209,
+      "method": "aligned",
+      "source_text": "Cái tổ này chẳng giống cái buồng trọ Perin vừa ra khỏi."
+    },
+    {
+      "sent_id": "id_214",
+      "smil_sid": "sid_214",
+      "container_id": "seq_61",
+      "clip_begin": 779.209,
+      "clip_end": 783.552,
+      "method": "aligned",
+      "source_text": "Ở đây, em sẽ ngủ ngon giấc trong không khí trong lành, yên tĩnh."
+    },
+    {
+      "sent_id": "id_215",
+      "smil_sid": "sid_215",
+      "container_id": "seq_61",
+      "clip_begin": 783.552,
+      "clip_end": 788.955,
+      "method": "aligned",
+      "source_text": "Em đang nằm trên cây dương xỉ, không còn nghe gì ngoài tiếng lá cây xào xạc và nước chảy."
+    },
+    {
+      "sent_id": "id_216",
+      "smil_sid": "sid_216",
+      "container_id": "seq_61",
+      "clip_begin": 788.955,
+      "clip_end": 800.082,
+      "method": "aligned",
+      "source_text": "Ở đây, Perin không phải nằm trên tấm nệm cứng của mẹ Prăngxoadơ, trong bầu không khí dễ sợ, giữa tiếng kêu la của La Noayden và các bạn cùng phòng."
+    },
+    {
+      "sent_id": "id_217",
+      "smil_sid": "sid_217",
+      "container_id": "seq_61",
+      "clip_begin": 800.082,
+      "clip_end": 803.935,
+      "method": "aligned",
+      "source_text": "Cái mùi mồ hôi ấy vẫn cứ theo đuổi, làm em buồn nôn."
+    },
+    {
+      "sent_id": "id_218",
+      "smil_sid": "sid_218",
+      "container_id": "seq_62",
+      "clip_begin": 803.935,
+      "clip_end": 809.523,
+      "method": "aligned",
+      "source_text": "Perin nằm dài trên cây dương xỉ, trong một góc lều, sát tường bằng cây mệm mại."
+    },
+    {
+      "sent_id": "id_219",
+      "smil_sid": "sid_219",
+      "container_id": "seq_62",
+      "clip_begin": 809.523,
+      "clip_end": 812.487,
+      "method": "aligned",
+      "source_text": "Em nhắm mắt lại, cảm thấy ngây ngất dễ chịu."
+    },
+    {
+      "sent_id": "id_220",
+      "smil_sid": "sid_220",
+      "container_id": "seq_62",
+      "clip_begin": 812.487,
+      "clip_end": 817.945,
+      "method": "aligned",
+      "source_text": "Rồi em đứng lên vì không được phép ngủ, sợ dậy trễ, không kịp đến xưởng."
+    },
+    {
+      "sent_id": "id_221",
+      "smil_sid": "sid_221",
+      "container_id": "seq_63",
+      "clip_begin": 817.945,
+      "clip_end": 819.785,
+      "method": "aligned",
+      "source_text": "Bây giờ mặt trời đã rõ."
+    },
+    {
+      "sent_id": "id_222",
+      "smil_sid": "sid_222",
+      "container_id": "seq_63",
+      "clip_begin": 819.785,
+      "clip_end": 824.186,
+      "method": "aligned",
+      "source_text": "Về phía đông qua cái lỗ đối diện, một tia nắng vàng len vào túp lều."
+    },
+    {
+      "sent_id": "id_223",
+      "smil_sid": "sid_223",
+      "container_id": "seq_63",
+      "clip_begin": 824.186,
+      "clip_end": 829.927,
+      "method": "aligned",
+      "source_text": "Phía ngoài, chim hót quanh hòn đảo nhỏ, trên ao hồ, trong bụi cây, trên cành liễu."
+    },
+    {
+      "sent_id": "id_224",
+      "smil_sid": "sid_224",
+      "container_id": "seq_63",
+      "clip_begin": 829.927,
+      "clip_end": 838.648,
+      "method": "aligned",
+      "source_text": "Tiếng động, tiếng thì thầm, tiếng huýt sáo, tiếng kêu lẫn lộn cho ta hay các con vật trong mỏ than bùn đã thức dậy."
+    },
+    {
+      "sent_id": "id_225",
+      "smil_sid": "sid_225",
+      "container_id": "seq_63",
+      "clip_begin": 838.648,
+      "clip_end": 844.649,
+      "method": "aligned",
+      "source_text": "Qua một lỗ trống, Perin đã nhìn thấy con vật ấy đang vùng vẫy thoải mái quanh túp lều cỏ."
+    },
+    {
+      "sent_id": "id_226",
+      "smil_sid": "sid_226",
+      "container_id": "seq_63",
+      "clip_begin": 844.649,
+      "clip_end": 848.47,
+      "method": "aligned",
+      "source_text": "Trong đám sậy, bầy chuồn chuồn đang bay lượn khắp nơi."
+    },
+    {
+      "sent_id": "id_227",
+      "smil_sid": "sid_227",
+      "container_id": "seq_63",
+      "clip_begin": 848.47,
+      "clip_end": 853.111,
+      "method": "aligned",
+      "source_text": "Dọc theo hai bên bờ, nhiều con chim lấy mỏ mổ sâu bọ trên đất ướt."
+    },
+    {
+      "sent_id": "id_228",
+      "smil_sid": "sid_228",
+      "container_id": "seq_63",
+      "clip_begin": 853.111,
+      "clip_end": 860.032,
+      "method": "aligned",
+      "source_text": "Một con vịt trời màu vàng đậm pha màu xám Ero xinh hơn vịt nhà đang bơi lội trên mặt hồ đầy hơi nước nhẹ."
+    },
+    {
+      "sent_id": "id_229",
+      "smil_sid": "sid_229",
+      "container_id": "seq_63",
+      "clip_begin": 860.032,
+      "clip_end": 862.112,
+      "method": "aligned",
+      "source_text": "Đàn vịt con vây quanh vịt mẹ."
+    },
+    {
+      "sent_id": "id_230",
+      "smil_sid": "sid_230",
+      "container_id": "seq_63",
+      "clip_begin": 862.112,
+      "clip_end": 871.174,
+      "method": "aligned",
+      "source_text": "Vịt mẹ muốn giữ chúng lại, nhưng chúng lẩn tránh, nhào vào đám hoa súng đơn hoa và chúng bị vướng giữa các cọng súng, trong lúc đuổi bắt sâu bọ."
+    },
+    {
+      "sent_id": "id_231",
+      "smil_sid": "sid_231",
+      "container_id": "seq_63",
+      "clip_begin": 871.174,
+      "clip_end": 875.65,
+      "method": "aligned",
+      "source_text": "Thình lình, một tia sáng màu xanh nhạt như tia chớp, làm Perin lóa mắt."
+    },
+    {
+      "sent_id": "id_232",
+      "smil_sid": "sid_232",
+      "container_id": "seq_63",
+      "clip_begin": 875.65,
+      "clip_end": 881.374,
+      "method": "aligned",
+      "source_text": "Sau khi nó biến mất, Perin mới biết đó là loại chim bói cá vừa vượt qua hồ."
+    },
+    {
+      "sent_id": "id_233",
+      "smil_sid": "sid_233",
+      "container_id": "seq_63",
+      "clip_begin": 881.374,
+      "clip_end": 883.355,
+      "method": "aligned",
+      "source_text": "Perin không dám cử động."
+    },
+    {
+      "sent_id": "id_234",
+      "smil_sid": "sid_234",
+      "container_id": "seq_63",
+      "clip_begin": 883.355,
+      "clip_end": 887.538,
+      "method": "aligned",
+      "source_text": "Cả thế giới trong đồng cỏ này sẽ bay đi hết nếu biết em ở đây."
+    },
+    {
+      "sent_id": "id_235",
+      "smil_sid": "sid_235",
+      "container_id": "seq_63",
+      "clip_begin": 887.538,
+      "clip_end": 890.94,
+      "method": "aligned",
+      "source_text": "Đứng bên cửa sổ, Perin nhìn cái thế giới ấy."
+    },
+    {
+      "sent_id": "id_236",
+      "smil_sid": "sid_236",
+      "container_id": "seq_63",
+      "clip_begin": 890.94,
+      "clip_end": 904.38,
+      "method": "aligned",
+      "source_text": "Tất cả đều xinh đẹp, trong ánh sáng tươi mát, sinh động, vui nhộn, rất mới lạ dưới mắt em, gần như huyền ảo, Perin tự hỏi: Hòn đảo với túp lều cỏ có phải là chiếc thuyền của Nôê trong cơn hồng thủy?"
+    },
+    {
+      "sent_id": "id_237",
+      "smil_sid": "sid_237",
+      "container_id": "seq_64",
+      "clip_begin": 904.38,
+      "clip_end": 913.705,
+      "method": "aligned",
+      "source_text": "Nhiều lúc, Perin thấy một bóng đen phủ kín ao hồ và đi qua một cách bất thường, khi to lớn, lúc bé nhỏ, chẳng rõ nguyên nhân."
+    },
+    {
+      "sent_id": "id_238",
+      "smil_sid": "sid_238",
+      "container_id": "seq_64",
+      "clip_begin": 913.705,
+      "clip_end": 916.046,
+      "method": "aligned",
+      "source_text": "Việc ấy, đối với em khó hiểu!"
+    },
+    {
+      "sent_id": "id_239",
+      "smil_sid": "sid_239",
+      "container_id": "seq_64",
+      "clip_begin": 916.046,
+      "clip_end": 921.389,
+      "method": "aligned",
+      "source_text": "Mặt trời đã mọc về phía chân trời và tiếp tục sáng chói trong bầu trời không gợn mây."
+    },
+    {
+      "sent_id": "id_240",
+      "smil_sid": "sid_240",
+      "container_id": "seq_64",
+      "clip_begin": 921.389,
+      "clip_end": 923.43,
+      "method": "aligned",
+      "source_text": "Cái bóng đen ấy từ đâu đến?"
+    },
+    {
+      "sent_id": "id_241",
+      "smil_sid": "sid_241",
+      "container_id": "seq_64",
+      "clip_begin": 923.43,
+      "clip_end": 928.072,
+      "method": "aligned",
+      "source_text": "Những cửa sổ chật hẹp của lều cỏ không cho phép Perin kiểm tra."
+    },
+    {
+      "sent_id": "id_242",
+      "smil_sid": "sid_242",
+      "container_id": "seq_64",
+      "clip_begin": 928.072,
+      "clip_end": 936.997,
+      "method": "aligned",
+      "source_text": "Khi mở cửa, Perin nhận thấy cái bóng ấy là do những luồn khói đi qua cùng với làn gió nhẹ từ những ống khói cao của nhà máy."
+    },
+    {
+      "sent_id": "id_243",
+      "smil_sid": "sid_243",
+      "container_id": "seq_64",
+      "clip_begin": 936.997,
+      "clip_end": 941.39,
+      "method": "aligned",
+      "source_text": "Ở đó, người ta đốt lửa để có áp suất hơi khi thợ thuyền làm việc."
+    },
+    {
+      "sent_id": "id_244",
+      "smil_sid": "sid_244",
+      "container_id": "seq_65",
+      "clip_begin": 941.39,
+      "clip_end": 943.35,
+      "method": "aligned",
+      "source_text": "Ngày lao động sắp bắt đầu."
+    },
+    {
+      "sent_id": "id_245",
+      "smil_sid": "sid_245",
+      "container_id": "seq_65",
+      "clip_begin": 943.35,
+      "clip_end": 947.151,
+      "method": "aligned",
+      "source_text": "Bây giờ, đã đến lúc rời khỏi lều cỏ để đến xưởng."
+    },
+    {
+      "sent_id": "id_246",
+      "smil_sid": "sid_246",
+      "container_id": "seq_65",
+      "clip_begin": 947.151,
+      "clip_end": 953.053,
+      "method": "aligned",
+      "source_text": "Trước khi đi, Perin nhát tờ báo nằm trên khúc gỗ mà trước đó, em chưa nhìn thấy."
+    },
+    {
+      "sent_id": "id_247",
+      "smil_sid": "sid_247",
+      "container_id": "seq_65",
+      "clip_begin": 953.053,
+      "clip_end": 961.596,
+      "method": "aligned",
+      "source_text": "Cửa mở, ánh sáng trọn vẹn đã chỉ cho em thấy rõ tờ báo: đó là tờ Nhật báo xưa Amiêng này 25 tháng 2 vừa qua."
+    },
+    {
+      "sent_id": "id_248",
+      "smil_sid": "sid_248",
+      "container_id": "seq_65",
+      "clip_begin": 961.596,
+      "clip_end": 973.52,
+      "method": "aligned",
+      "source_text": "Perin liền nghĩ: cái chổ mà tờ báo choáng trên ghế độc nhất người ta có thể ngồi được cũng như cái ngày của nó là bằng chứng từ 25 tháng 2 lều cỏ bỏ trống, không ai vào đấy!"
+    },
+    {
+      "sent_id": "id_249",
+      "smil_sid": "sid_249",
+      "container_id": "seq_66",
+      "clip_begin": 973.52,
+      "clip_end": 973.77,
+      "method": "silence",
+      "source_text": "oOo"
+    },
+    {
+      "sent_id": "id_250",
+      "smil_sid": "sid_250",
+      "container_id": "seq_67",
+      "clip_begin": 973.77,
+      "clip_end": 982.143,
+      "method": "aligned",
+      "source_text": "Perin vội vã ra khỏi lùm cây, đến đường cái, thì nghe một tiếng còi the thé, khàn khàn do cái còi lớn của nhà máy phát ra."
+    },
+    {
+      "sent_id": "id_251",
+      "smil_sid": "sid_251",
+      "container_id": "seq_67",
+      "clip_begin": 982.143,
+      "clip_end": 986.1,
+      "method": "aligned",
+      "source_text": "Ngay tức khắc, ở xa gần, nhiều tiếng còi cùng nhịp điệu đáp lại."
+    },
+    {
+      "sent_id": "id_252",
+      "smil_sid": "sid_252",
+      "container_id": "seq_68",
+      "clip_begin": 986.1,
+      "clip_end": 991.361,
+      "method": "aligned",
+      "source_text": "Perin ngầm hiểu đó là dấu hiệu tập hợp thợ thuyền bắt đầu từ Marôcua."
+    },
+    {
+      "sent_id": "id_253",
+      "smil_sid": "sid_253",
+      "container_id": "seq_68",
+      "clip_begin": 991.361,
+      "clip_end": 997.022,
+      "method": "aligned",
+      "source_text": "Nó được lặp lại, từ làng này, sang làng khác, trong các nhà máy của Panhđavoan."
+    },
+    {
+      "sent_id": "id_254",
+      "smil_sid": "sid_254",
+      "container_id": "seq_68",
+      "clip_begin": 997.022,
+      "clip_end": 1003.784,
+      "method": "aligned",
+      "source_text": "Tiếng còi ấy báo cho ông chủ hay cùng thời gian, ở tất cả mọi nơi, có người đã sẵn sàng để vào việc!"
+    },
+    {
+      "sent_id": "id_255",
+      "smil_sid": "sid_255",
+      "container_id": "seq_68",
+      "clip_begin": 1003.784,
+      "clip_end": 1006.645,
+      "method": "aligned",
+      "source_text": "Perin sợ đến trễ nên nhanh chân bước."
+    },
+    {
+      "sent_id": "id_256",
+      "smil_sid": "sid_256",
+      "container_id": "seq_68",
+      "clip_begin": 1006.645,
+      "clip_end": 1010.146,
+      "method": "aligned",
+      "source_text": "Vào đến làng, em thấy mọi nhà đều đã mở cửa."
+    },
+    {
+      "sent_id": "id_257",
+      "smil_sid": "sid_257",
+      "container_id": "seq_68",
+      "clip_begin": 1010.146,
+      "clip_end": 1013.746,
+      "method": "aligned",
+      "source_text": "Trên ngưỡng cửa, thợ thuyền đứng dựa vào khung cửa ăn xúp."
+    },
+    {
+      "sent_id": "id_258",
+      "smil_sid": "sid_258",
+      "container_id": "seq_68",
+      "clip_begin": 1013.746,
+      "clip_end": 1015.707,
+      "method": "aligned",
+      "source_text": "Nhiều tiếng uống rượu trong các quán."
+    },
+    {
+      "sent_id": "id_259",
+      "smil_sid": "sid_259",
+      "container_id": "seq_68",
+      "clip_begin": 1015.707,
+      "clip_end": 1018.988,
+      "method": "aligned",
+      "source_text": "Trong sân, người ta đàng rửa mặt nơi bơm nước."
+    },
+    {
+      "sent_id": "id_260",
+      "smil_sid": "sid_260",
+      "container_id": "seq_68",
+      "clip_begin": 1018.988,
+      "clip_end": 1020.988,
+      "method": "aligned",
+      "source_text": "Chưa ai đi về phía nhà máy."
+    },
+    {
+      "sent_id": "id_261",
+      "smil_sid": "sid_261",
+      "container_id": "seq_68",
+      "clip_begin": 1020.988,
+      "clip_end": 1026.06,
+      "method": "aligned",
+      "source_text": "Điều ấy nói lên bây giờ chưa phải vào xưởng và như thế, em không phải vội."
+    },
+    {
+      "sent_id": "id_262",
+      "smil_sid": "sid_262",
+      "container_id": "seq_69",
+      "clip_begin": 1026.06,
+      "clip_end": 1032.021,
+      "method": "aligned",
+      "source_text": "Nhưng đồng hổ điểm ba tiếng nhỏ, tiếp theo là một tiếng còi mạnh hơn, vang dội hơn lúc nãy."
+    },
+    {
+      "sent_id": "id_263",
+      "smil_sid": "sid_263",
+      "container_id": "seq_69",
+      "clip_begin": 1032.021,
+      "clip_end": 1035.842,
+      "method": "aligned",
+      "source_text": "Ngay tức khắc, tiếp theo sự yên tĩnh là sự chuyển động."
+    },
+    {
+      "sent_id": "id_264",
+      "smil_sid": "sid_264",
+      "container_id": "seq_69",
+      "clip_begin": 1035.842,
+      "clip_end": 1041.724,
+      "method": "aligned",
+      "source_text": "Một đám đông từ các mái nhà, quán rượu tỏa ra dày đặc, che kín mặt đường như một tổ kiến."
+    },
+    {
+      "sent_id": "id_265",
+      "smil_sid": "sid_265",
+      "container_id": "seq_69",
+      "clip_begin": 1041.724,
+      "clip_end": 1045.665,
+      "method": "aligned",
+      "source_text": "Cái đám đàn đông, đàn bà, trẻ em ấy đi vào nhà máy."
+    },
+    {
+      "sent_id": "id_266",
+      "smil_sid": "sid_266",
+      "container_id": "seq_69",
+      "clip_begin": 1045.665,
+      "clip_end": 1050.506,
+      "method": "aligned",
+      "source_text": "Người hút thuốc, kẻ nhai vội mẩu bánh, thiếu điều ngẹt thở."
+    },
+    {
+      "sent_id": "id_267",
+      "smil_sid": "sid_267",
+      "container_id": "seq_69",
+      "clip_begin": 1050.506,
+      "clip_end": 1052.627,
+      "method": "aligned",
+      "source_text": "Số đông chuyện trò ồn ào."
+    },
+    {
+      "sent_id": "id_268",
+      "smil_sid": "sid_268",
+      "container_id": "seq_69",
+      "clip_begin": 1052.627,
+      "clip_end": 1058.509,
+      "method": "aligned",
+      "source_text": "Cứ mỗi lúc, có những đoàn người, từ các con đường nhỏ tỏa ra nhập vào làn sóng đen ấy."
+    },
+    {
+      "sent_id": "id_269",
+      "smil_sid": "sid_269",
+      "container_id": "seq_69",
+      "clip_begin": 1058.509,
+      "clip_end": 1062.16,
+      "method": "aligned",
+      "source_text": "Họ làm cho làn sóng to lớn hơn, mà không hề chậm chạp."
+    },
+    {
+      "sent_id": "id_270",
+      "smil_sid": "sid_270",
+      "container_id": "seq_70",
+      "clip_begin": 1062.16,
+      "clip_end": 1067.895,
+      "method": "aligned",
+      "source_text": "Trong một đợt sóng những người mới đến, Perin nhận thấy Rôdali đi với La Noayde."
+    },
+    {
+      "sent_id": "id_271",
+      "smil_sid": "sid_271",
+      "container_id": "seq_70",
+      "clip_begin": 1067.895,
+      "clip_end": 1069.53,
+      "method": "aligned",
+      "source_text": "Em vội chen đến gặp họ."
+    },
+    {
+      "sent_id": "id_272",
+      "smil_sid": "sid_272",
+      "container_id": "seq_71",
+      "clip_begin": 1069.53,
+      "clip_end": 1070.436,
+      "method": "aligned",
+      "source_text": "- Chị đi đâu về thế?"
+    },
+    {
+      "sent_id": "id_273",
+      "smil_sid": "sid_273",
+      "container_id": "seq_71",
+      "clip_begin": 1070.436,
+      "clip_end": 1072.66,
+      "method": "aligned",
+      "source_text": "– Rôdali ngạc nhiên hỏi."
+    },
+    {
+      "sent_id": "id_274",
+      "smil_sid": "sid_274",
+      "container_id": "seq_72",
+      "clip_begin": 1072.66,
+      "clip_end": 1074.91,
+      "method": "exact",
+      "source_text": "- Tôi dậy sớm, đi dạo một lát!"
+    },
+    {
+      "sent_id": "id_275",
+      "smil_sid": "sid_275",
+      "container_id": "seq_73",
+      "clip_begin": 1074.91,
+      "clip_end": 1076.321,
+      "method": "aligned",
+      "source_text": "- A, tốt thôi!"
+    },
+    {
+      "sent_id": "id_276",
+      "smil_sid": "sid_276",
+      "container_id": "seq_73",
+      "clip_begin": 1076.321,
+      "clip_end": 1077.64,
+      "method": "aligned",
+      "source_text": "Tôi vừa đi tìm chị."
+    },
+    {
+      "sent_id": "id_277",
+      "smil_sid": "sid_277",
+      "container_id": "seq_74",
+      "clip_begin": 1077.64,
+      "clip_end": 1078.605,
+      "method": "aligned",
+      "source_text": "- Cám ơn!"
+    },
+    {
+      "sent_id": "id_278",
+      "smil_sid": "sid_278",
+      "container_id": "seq_74",
+      "clip_begin": 1078.605,
+      "clip_end": 1080.113,
+      "method": "aligned",
+      "source_text": "Nhưng chị đừng tìm tôi!"
+    },
+    {
+      "sent_id": "id_279",
+      "smil_sid": "sid_279",
+      "container_id": "seq_74",
+      "clip_begin": 1080.113,
+      "clip_end": 1081.41,
+      "method": "aligned",
+      "source_text": "Tôi quen dậy sớm."
+    },
+    {
+      "sent_id": "id_280",
+      "smil_sid": "sid_280",
+      "container_id": "seq_75",
+      "clip_begin": 1081.41,
+      "clip_end": 1085.574,
+      "method": "aligned",
+      "source_text": "Đến cổng vào xưởng, cả làn sóng người mất hút trong nhà máy."
+    },
+    {
+      "sent_id": "id_281",
+      "smil_sid": "sid_281",
+      "container_id": "seq_75",
+      "clip_begin": 1085.574,
+      "clip_end": 1090.56,
+      "method": "aligned",
+      "source_text": "Một người đàn ông cao, gầy đứng cách song cửa một quãng, đang chăm chú nhìn họ."
+    },
+    {
+      "sent_id": "id_282",
+      "smil_sid": "sid_282",
+      "container_id": "seq_75",
+      "clip_begin": 1090.56,
+      "clip_end": 1096.167,
+      "method": "aligned",
+      "source_text": "Ông ta cho tay vào túi vét tông, mũ thì tuột ra phía sau, hơi nghiêng đầu về phía trước."
+    },
+    {
+      "sent_id": "id_283",
+      "smil_sid": "sid_283",
+      "container_id": "seq_75",
+      "clip_begin": 1096.167,
+      "clip_end": 1098.76,
+      "method": "aligned",
+      "source_text": "Không một ai lọt khỏi tầm mắt ông ta!"
+    },
+    {
+      "sent_id": "id_284",
+      "smil_sid": "sid_284",
+      "container_id": "seq_76",
+      "clip_begin": 1098.76,
+      "clip_end": 1099.828,
+      "method": "aligned",
+      "source_text": "- Lão Gầy!"
+    },
+    {
+      "sent_id": "id_285",
+      "smil_sid": "sid_285",
+      "container_id": "seq_76",
+      "clip_begin": 1099.828,
+      "clip_end": 1101.49,
+      "method": "aligned",
+      "source_text": "Rôdali nói trong hơi gió."
+    },
+    {
+      "sent_id": "id_286",
+      "smil_sid": "sid_286",
+      "container_id": "seq_77",
+      "clip_begin": 1101.49,
+      "clip_end": 1104.037,
+      "method": "aligned",
+      "source_text": "Chẳng đợi Rôdali phải giới thiệu."
+    },
+    {
+      "sent_id": "id_287",
+      "smil_sid": "sid_287",
+      "container_id": "seq_77",
+      "clip_begin": 1104.037,
+      "clip_end": 1108.14,
+      "method": "aligned",
+      "source_text": "Perin cũng đã đoán được con người ấy là ông quản đốc Taluen."
+    },
+    {
+      "sent_id": "id_288",
+      "smil_sid": "sid_288",
+      "container_id": "seq_78",
+      "clip_begin": 1108.14,
+      "clip_end": 1110.39,
+      "method": "exact",
+      "source_text": "- Tôi có phải cùng đi với chị không?"
+    },
+    {
+      "sent_id": "id_289",
+      "smil_sid": "sid_289",
+      "container_id": "seq_79",
+      "clip_begin": 1110.39,
+      "clip_end": 1111.44,
+      "method": "exact",
+      "source_text": "Perin hỏi."
+    },
+    {
+      "sent_id": "id_290",
+      "smil_sid": "sid_290",
+      "container_id": "seq_80",
+      "clip_begin": 1111.44,
+      "clip_end": 1112.41,
+      "method": "exact",
+      "source_text": "- Có chứ!"
+    },
+    {
+      "sent_id": "id_291",
+      "smil_sid": "sid_291",
+      "container_id": "seq_81",
+      "clip_begin": 1112.41,
+      "clip_end": 1115.276,
+      "method": "aligned",
+      "source_text": "Đối với Perin, đây là phút quyết định."
+    },
+    {
+      "sent_id": "id_292",
+      "smil_sid": "sid_292",
+      "container_id": "seq_81",
+      "clip_begin": 1115.276,
+      "clip_end": 1117.221,
+      "method": "aligned",
+      "source_text": "Em cố che giấu nỗi xúc động."
+    },
+    {
+      "sent_id": "id_293",
+      "smil_sid": "sid_293",
+      "container_id": "seq_81",
+      "clip_begin": 1117.221,
+      "clip_end": 1121.14,
+      "method": "aligned",
+      "source_text": "Chẳng lẽ người ta không nhận em khi người ta thu nhận tất cả mọi người."
+    },
+    {
+      "sent_id": "id_294",
+      "smil_sid": "sid_294",
+      "container_id": "seq_82",
+      "clip_begin": 1121.14,
+      "clip_end": 1123.686,
+      "method": "aligned",
+      "source_text": "Hai cô bé đến trước ông quản đốc."
+    },
+    {
+      "sent_id": "id_295",
+      "smil_sid": "sid_295",
+      "container_id": "seq_82",
+      "clip_begin": 1123.686,
+      "clip_end": 1128.91,
+      "method": "aligned",
+      "source_text": "Rôdali bảo Perin đi theo mình, rồi tách khỏi đám đông, rất tự tin tiến lên:"
+    },
+    {
+      "sent_id": "id_296",
+      "smil_sid": "sid_296",
+      "container_id": "seq_83",
+      "clip_begin": 1128.91,
+      "clip_end": 1133.32,
+      "method": "exact",
+      "source_text": "- Thưa ông quản đốc, - Cô nói – đây là một cô bạn muốn xin việc làm!"
+    },
+    {
+      "sent_id": "id_297",
+      "smil_sid": "sid_297",
+      "container_id": "seq_84",
+      "clip_begin": 1133.32,
+      "clip_end": 1136.29,
+      "method": "exact",
+      "source_text": "Taluen nhìn nhanh về phía cô ấy, và nói:"
+    },
+    {
+      "sent_id": "id_298",
+      "smil_sid": "sid_298",
+      "container_id": "seq_85",
+      "clip_begin": 1136.29,
+      "clip_end": 1138.14,
+      "method": "exact",
+      "source_text": "- Lát nữa chúng ta sẽ bàn!"
+    },
+    {
+      "sent_id": "id_299",
+      "smil_sid": "sid_299",
+      "container_id": "seq_86",
+      "clip_begin": 1138.14,
+      "clip_end": 1140.59,
+      "method": "aligned",
+      "source_text": "Rôdali hiểu cái gì cần làm."
+    },
+    {
+      "sent_id": "id_300",
+      "smil_sid": "sid_300",
+      "container_id": "seq_86",
+      "clip_begin": 1140.59,
+      "clip_end": 1143.11,
+      "method": "aligned",
+      "source_text": "Em đứng tránh một bên cùng với Perin."
+    },
+    {
+      "sent_id": "id_301",
+      "smil_sid": "sid_301",
+      "container_id": "seq_87",
+      "clip_begin": 1143.11,
+      "clip_end": 1146.591,
+      "method": "aligned",
+      "source_text": "Vừa lúc ấy, có tiếng ồn ào ở chỗ song cửa."
+    },
+    {
+      "sent_id": "id_302",
+      "smil_sid": "sid_302",
+      "container_id": "seq_87",
+      "clip_begin": 1146.591,
+      "clip_end": 1150.173,
+      "method": "aligned",
+      "source_text": "Thợ thuyền nhanh nhẹn tránh ra, để chừa một khoảng trống."
+    },
+    {
+      "sent_id": "id_303",
+      "smil_sid": "sid_303",
+      "container_id": "seq_87",
+      "clip_begin": 1150.173,
+      "clip_end": 1156.016,
+      "method": "aligned",
+      "source_text": "Chiếc xe trần bốn bánh của ông Vunphran, cũng do anh thanh niên chiều hôm qua lái, đi vào."
+    },
+    {
+      "sent_id": "id_304",
+      "smil_sid": "sid_304",
+      "container_id": "seq_87",
+      "clip_begin": 1156.016,
+      "clip_end": 1161.91,
+      "method": "aligned",
+      "source_text": "Tuy mọi người đều biết ông ta không nhìn thấy, đàn ông vẫn cất mũ, đàn bà thì cúi chào."
+    },
+    {
+      "sent_id": "id_305",
+      "smil_sid": "sid_305",
+      "container_id": "seq_88",
+      "clip_begin": 1161.91,
+      "clip_end": 1165.725,
+      "method": "aligned",
+      "source_text": "- Chị thấy đấy! ông ta không phải là người đến sau cùng."
+    },
+    {
+      "sent_id": "id_306",
+      "smil_sid": "sid_306",
+      "container_id": "seq_88",
+      "clip_begin": 1165.725,
+      "clip_end": 1166.88,
+      "method": "aligned",
+      "source_text": "– Rôdali nói."
+    },
+    {
+      "sent_id": "id_307",
+      "smil_sid": "sid_307",
+      "container_id": "seq_89",
+      "clip_begin": 1166.88,
+      "clip_end": 1171.93,
+      "method": "exact",
+      "source_text": "Ông quản đốc vội vã bước mấy bước; đến bên cỗ xe, tay cầm chiếc mũ:"
+    },
+    {
+      "sent_id": "id_308",
+      "smil_sid": "sid_308",
+      "container_id": "seq_90",
+      "clip_begin": 1171.93,
+      "clip_end": 1174.74,
+      "method": "exact",
+      "source_text": "- Thưa ông Vunphran, tôi xin kính chào ông!"
+    },
+    {
+      "sent_id": "id_309",
+      "smil_sid": "sid_309",
+      "container_id": "seq_91",
+      "clip_begin": 1174.74,
+      "clip_end": 1176.03,
+      "method": "exact",
+      "source_text": "- Chào Taluen."
+    },
+    {
+      "sent_id": "id_310",
+      "smil_sid": "sid_310",
+      "container_id": "seq_92",
+      "clip_begin": 1176.03,
+      "clip_end": 1179.775,
+      "method": "aligned",
+      "source_text": "Perin liếc mắt nhìn theo cỗ xe vẫn tiếp tục đi."
+    },
+    {
+      "sent_id": "id_311",
+      "smil_sid": "sid_311",
+      "container_id": "seq_92",
+      "clip_begin": 1179.775,
+      "clip_end": 1189.56,
+      "method": "aligned",
+      "source_text": "Phía sau song cửa, nhưng nhân viên lần lượt đi qua: kỹ sư Phabry, ông Benđi, ông Môngblơ và nhiều người nữa mà Rôdali nói tên cho em hay."
+    },
+    {
+      "sent_id": "id_312",
+      "smil_sid": "sid_312",
+      "container_id": "seq_93",
+      "clip_begin": 1189.56,
+      "clip_end": 1191.887,
+      "method": "aligned",
+      "source_text": "Cái đám đông ồn ào ấy thưa dần."
+    },
+    {
+      "sent_id": "id_313",
+      "smil_sid": "sid_313",
+      "container_id": "seq_93",
+      "clip_begin": 1191.887,
+      "clip_end": 1195.97,
+      "method": "aligned",
+      "source_text": "Bây giờ, những người mới đến đang chạy vội vì giờ làm việc sắp điểm."
+    },
+    {
+      "sent_id": "id_314",
+      "smil_sid": "sid_314",
+      "container_id": "seq_94",
+      "clip_begin": 1195.97,
+      "clip_end": 1198.099,
+      "method": "aligned",
+      "source_text": "- Mấy ông thanh niên lại đi trễ!"
+    },
+    {
+      "sent_id": "id_315",
+      "smil_sid": "sid_315",
+      "container_id": "seq_94",
+      "clip_begin": 1198.099,
+      "clip_end": 1199.525,
+      "method": "aligned",
+      "source_text": "Tôi tin chắc như thế."
+    },
+    {
+      "sent_id": "id_316",
+      "smil_sid": "sid_316",
+      "container_id": "seq_94",
+      "clip_begin": 1199.525,
+      "clip_end": 1200.78,
+      "method": "aligned",
+      "source_text": "Rôdali nói nhỏ."
+    },
+    {
+      "sent_id": "id_317",
+      "smil_sid": "sid_317",
+      "container_id": "seq_95",
+      "clip_begin": 1200.78,
+      "clip_end": 1201.801,
+      "method": "aligned",
+      "source_text": "Chuông reo."
+    },
+    {
+      "sent_id": "id_318",
+      "smil_sid": "sid_318",
+      "container_id": "seq_95",
+      "clip_begin": 1201.801,
+      "clip_end": 1203.443,
+      "method": "aligned",
+      "source_text": "Người ta xô đẩy nhau."
+    },
+    {
+      "sent_id": "id_319",
+      "smil_sid": "sid_319",
+      "container_id": "seq_95",
+      "clip_begin": 1203.443,
+      "clip_end": 1206.508,
+      "method": "aligned",
+      "source_text": "Vài người đi trễ, thở hổn hển nối đuôi nhau."
+    },
+    {
+      "sent_id": "id_320",
+      "smil_sid": "sid_320",
+      "container_id": "seq_95",
+      "clip_begin": 1206.508,
+      "clip_end": 1207.87,
+      "method": "aligned",
+      "source_text": "Con đường trống trải."
+    },
+    {
+      "sent_id": "id_321",
+      "smil_sid": "sid_321",
+      "container_id": "seq_95",
+      "clip_begin": 1207.87,
+      "clip_end": 1210.193,
+      "method": "aligned",
+      "source_text": "Thế nhưng Taluen chưa rời khỏi chổ đứng."
+    },
+    {
+      "sent_id": "id_322",
+      "smil_sid": "sid_322",
+      "container_id": "seq_95",
+      "clip_begin": 1210.193,
+      "clip_end": 1215.03,
+      "method": "aligned",
+      "source_text": "Hai tay trong túi áo, đầu ngẩng cao, ông ta vẫn tiếp tục nhìn về phía xa."
+    },
+    {
+      "sent_id": "id_323",
+      "smil_sid": "sid_323",
+      "container_id": "seq_96",
+      "clip_begin": 1215.03,
+      "clip_end": 1216.65,
+      "method": "aligned",
+      "source_text": "Vài phút trôi qua."
+    },
+    {
+      "sent_id": "id_324",
+      "smil_sid": "sid_324",
+      "container_id": "seq_96",
+      "clip_begin": 1216.65,
+      "clip_end": 1224.353,
+      "method": "aligned",
+      "source_text": "Một thanh niên cao lớn, không phải thợ, có dáng điệu và cách ăn mặc chải chuốt vượt qua ông kỹ sư và mấy nhân viên."
+    },
+    {
+      "sent_id": "id_325",
+      "smil_sid": "sid_325",
+      "container_id": "seq_96",
+      "clip_begin": 1224.353,
+      "clip_end": 1230.996,
+      "method": "aligned",
+      "source_text": "Ông ta bước vội vàng,vừa đi vừa thắt cà vạt, cái việc mà ông chưa có thời giờ để làm, hẳn thế!"
+    },
+    {
+      "sent_id": "id_326",
+      "smil_sid": "sid_326",
+      "container_id": "seq_96",
+      "clip_begin": 1230.996,
+      "clip_end": 1237.578,
+      "method": "aligned",
+      "source_text": "Khi ông ta đến trước mặt ông quản đốc, ông này cũng cất mũ chào như đối với ông Vunphran."
+    },
+    {
+      "sent_id": "id_327",
+      "smil_sid": "sid_327",
+      "container_id": "seq_96",
+      "clip_begin": 1237.578,
+      "clip_end": 1240.91,
+      "method": "aligned",
+      "source_text": "Nhưng Perin thấy hai cách chào không giống nhau chút nào!"
+    },
+    {
+      "sent_id": "id_328",
+      "smil_sid": "sid_328",
+      "container_id": "seq_97",
+      "clip_begin": 1240.91,
+      "clip_end": 1243.72,
+      "method": "exact",
+      "source_text": "- Thưa ông Têôdo, tôi xin kính chào ông!"
+    },
+    {
+      "sent_id": "id_329",
+      "smil_sid": "sid_329",
+      "container_id": "seq_98",
+      "clip_begin": 1243.72,
+      "clip_end": 1250.637,
+      "method": "aligned",
+      "source_text": "Taluen nói câu ấy với những từ ngữ ông đã dùng khi chào ông Vunphran, tuy nó không cùng một ý nghĩa."
+    },
+    {
+      "sent_id": "id_330",
+      "smil_sid": "sid_330",
+      "container_id": "seq_98",
+      "clip_begin": 1250.637,
+      "clip_end": 1251.97,
+      "method": "aligned",
+      "source_text": "Điều ấy đã quá rõ!"
+    },
+    {
+      "sent_id": "id_331",
+      "smil_sid": "sid_331",
+      "container_id": "seq_99",
+      "clip_begin": 1251.97,
+      "clip_end": 1254.62,
+      "method": "exact",
+      "source_text": "- Chào Taluen, chú tôi đã đến chưa?"
+    },
+    {
+      "sent_id": "id_332",
+      "smil_sid": "sid_332",
+      "container_id": "seq_100",
+      "clip_begin": 1254.62,
+      "clip_end": 1259.83,
+      "method": "exact",
+      "source_text": "- Lạy chúa, vâng, thưa ông Têôdo, ông chủ đã đến được năm phút rồi!"
+    },
+    {
+      "sent_id": "id_333",
+      "smil_sid": "sid_333",
+      "container_id": "seq_101",
+      "clip_begin": 1259.83,
+      "clip_end": 1260.72,
+      "method": "exact",
+      "source_text": "- Ái chà!"
+    },
+    {
+      "sent_id": "id_334",
+      "smil_sid": "sid_334",
+      "container_id": "seq_102",
+      "clip_begin": 1260.72,
+      "clip_end": 1263.344,
+      "method": "aligned",
+      "source_text": "- Ông không phải là người cuối cùng đâu!"
+    },
+    {
+      "sent_id": "id_335",
+      "smil_sid": "sid_335",
+      "container_id": "seq_102",
+      "clip_begin": 1263.344,
+      "clip_end": 1265.768,
+      "method": "aligned",
+      "source_text": "Người cuối cùng là ông Casimia."
+    },
+    {
+      "sent_id": "id_336",
+      "smil_sid": "sid_336",
+      "container_id": "seq_102",
+      "clip_begin": 1265.768,
+      "clip_end": 1270.596,
+      "method": "aligned",
+      "source_text": "Hôm nay, ông ấy đi trễ, tuy cũng như ông, ông ấy không đi Paris."
+    },
+    {
+      "sent_id": "id_337",
+      "smil_sid": "sid_337",
+      "container_id": "seq_102",
+      "clip_begin": 1270.596,
+      "clip_end": 1272.97,
+      "method": "aligned",
+      "source_text": "Nhưng tôi vừa nhìn thấy ông ấy ở đằng kia!"
+    },
+    {
+      "sent_id": "id_338",
+      "smil_sid": "sid_338",
+      "container_id": "seq_103",
+      "clip_begin": 1272.97,
+      "clip_end": 1275.992,
+      "method": "aligned",
+      "source_text": "Trong lúc Têôdo lao vào phòng làm việc."
+    },
+    {
+      "sent_id": "id_339",
+      "smil_sid": "sid_339",
+      "container_id": "seq_103",
+      "clip_begin": 1275.992,
+      "clip_end": 1278.974,
+      "method": "aligned",
+      "source_text": "Casimia đang còn rảo bước rất nhanh."
+    },
+    {
+      "sent_id": "id_340",
+      "smil_sid": "sid_340",
+      "container_id": "seq_103",
+      "clip_begin": 1278.974,
+      "clip_end": 1283.137,
+      "method": "aligned",
+      "source_text": "Ông này chẳng giống ông anh tí nào, trong cách ăm mặc lẫn ngoại hình."
+    },
+    {
+      "sent_id": "id_341",
+      "smil_sid": "sid_341",
+      "container_id": "seq_103",
+      "clip_begin": 1283.137,
+      "clip_end": 1285.419,
+      "method": "aligned",
+      "source_text": "Bé nhỏ, khô khan, cứng đờ."
+    },
+    {
+      "sent_id": "id_342",
+      "smil_sid": "sid_342",
+      "container_id": "seq_103",
+      "clip_begin": 1285.419,
+      "clip_end": 1291.223,
+      "method": "aligned",
+      "source_text": "Khi ông đi ngang ông quản đốc cái cứng đờ ấy càng rõ trong cách cúi chao không nói ra tiếng."
+    },
+    {
+      "sent_id": "id_343",
+      "smil_sid": "sid_343",
+      "container_id": "seq_103",
+      "clip_begin": 1291.223,
+      "clip_end": 1293.905,
+      "method": "aligned",
+      "source_text": "Hai tay vẫn ở trong túi áo véttông."
+    },
+    {
+      "sent_id": "id_344",
+      "smil_sid": "sid_344",
+      "container_id": "seq_103",
+      "clip_begin": 1293.905,
+      "clip_end": 1296.127,
+      "method": "aligned",
+      "source_text": "Taluen chào Casimia."
+    },
+    {
+      "sent_id": "id_345",
+      "smil_sid": "sid_345",
+      "container_id": "seq_103",
+      "clip_begin": 1296.127,
+      "clip_end": 1299.94,
+      "method": "aligned",
+      "source_text": "Khi Casimia đi khuất Taluen quay về phía Rôdali."
+    },
+    {
+      "sent_id": "id_346",
+      "smil_sid": "sid_346",
+      "container_id": "seq_104",
+      "clip_begin": 1299.94,
+      "clip_end": 1301.79,
+      "method": "exact",
+      "source_text": "- Bạn cháu biết làm việc gì?"
+    },
+    {
+      "sent_id": "id_347",
+      "smil_sid": "sid_347",
+      "container_id": "seq_105",
+      "clip_begin": 1301.79,
+      "clip_end": 1303.96,
+      "method": "exact",
+      "source_text": "Perin tự trả lời câu hỏi đó:"
+    },
+    {
+      "sent_id": "id_348",
+      "smil_sid": "sid_348",
+      "container_id": "seq_106",
+      "clip_begin": 1303.96,
+      "clip_end": 1305.988,
+      "method": "aligned",
+      "source_text": "- Cháu làm việc trong nhà máy."
+    },
+    {
+      "sent_id": "id_349",
+      "smil_sid": "sid_349",
+      "container_id": "seq_106",
+      "clip_begin": 1305.988,
+      "clip_end": 1308.93,
+      "method": "aligned",
+      "source_text": "Perin cố gắng nói với một giọng vững vàng."
+    },
+    {
+      "sent_id": "id_350",
+      "smil_sid": "sid_350",
+      "container_id": "seq_107",
+      "clip_begin": 1308.93,
+      "clip_end": 1312.14,
+      "method": "exact",
+      "source_text": "Taluen liếc nhìn em rồi nói với Rôdali:"
+    },
+    {
+      "sent_id": "id_351",
+      "smil_sid": "sid_351",
+      "container_id": "seq_108",
+      "clip_begin": 1312.14,
+      "clip_end": 1317.357,
+      "method": "aligned",
+      "source_text": "- Cháu đến nói với ông Ônơ rằng tôi bảo sắp xếp cô bạn cháu vào tổ xe rùa!"
+    },
+    {
+      "sent_id": "id_352",
+      "smil_sid": "sid_352",
+      "container_id": "seq_108",
+      "clip_begin": 1317.357,
+      "clip_end": 1318.15,
+      "method": "aligned",
+      "source_text": "Nhanh lên!"
+    },
+    {
+      "sent_id": "id_353",
+      "smil_sid": "sid_353",
+      "container_id": "seq_109",
+      "clip_begin": 1318.15,
+      "clip_end": 1319.297,
+      "method": "aligned",
+      "source_text": "- Xe rùa là cái gì?"
+    },
+    {
+      "sent_id": "id_354",
+      "smil_sid": "sid_354",
+      "container_id": "seq_109",
+      "clip_begin": 1319.297,
+      "clip_end": 1321.52,
+      "method": "aligned",
+      "source_text": "– Perin hỏi Rôdali."
+    },
+    {
+      "sent_id": "id_355",
+      "smil_sid": "sid_355",
+      "container_id": "seq_110",
+      "clip_begin": 1321.52,
+      "clip_end": 1327.802,
+      "method": "aligned",
+      "source_text": "Trong lúc đi theo bạn qua mấy cái sân rộng ngăn cách xưởng này với xưởng nọ, Perin tự hỏi."
+    },
+    {
+      "sent_id": "id_356",
+      "smil_sid": "sid_356",
+      "container_id": "seq_110",
+      "clip_begin": 1327.802,
+      "clip_end": 1331.704,
+      "method": "aligned",
+      "source_text": "Không biết mình có làm nổi cái công việc của sở xe rùa không?"
+    },
+    {
+      "sent_id": "id_357",
+      "smil_sid": "sid_357",
+      "container_id": "seq_110",
+      "clip_begin": 1331.704,
+      "clip_end": 1334.545,
+      "method": "aligned",
+      "source_text": "Mình có đủ sức khỏe, đủ thông minh không chứ?"
+    },
+    {
+      "sent_id": "id_358",
+      "smil_sid": "sid_358",
+      "container_id": "seq_110",
+      "clip_begin": 1334.545,
+      "clip_end": 1336.766,
+      "method": "aligned",
+      "source_text": "Có phải qua thời gian học việc không?"
+    },
+    {
+      "sent_id": "id_359",
+      "smil_sid": "sid_359",
+      "container_id": "seq_110",
+      "clip_begin": 1336.766,
+      "clip_end": 1340.327,
+      "method": "aligned",
+      "source_text": "Tất cả những câu hỏi ấy làm Perin bối rối."
+    },
+    {
+      "sent_id": "id_360",
+      "smil_sid": "sid_360",
+      "container_id": "seq_110",
+      "clip_begin": 1340.327,
+      "clip_end": 1342.868,
+      "method": "aligned",
+      "source_text": "Bây giờ em được nhận vào nhà máy rồi."
+    },
+    {
+      "sent_id": "id_361",
+      "smil_sid": "sid_361",
+      "container_id": "seq_110",
+      "clip_begin": 1342.868,
+      "clip_end": 1346.04,
+      "method": "aligned",
+      "source_text": "Em cảm thấy được ở lại đây hay không là tùy ở mình."
+    },
+    {
+      "sent_id": "id_362",
+      "smil_sid": "sid_362",
+      "container_id": "seq_111",
+      "clip_begin": 1346.04,
+      "clip_end": 1347.304,
+      "method": "aligned",
+      "source_text": "- Chị đừng sợ!"
+    },
+    {
+      "sent_id": "id_363",
+      "smil_sid": "sid_363",
+      "container_id": "seq_111",
+      "clip_begin": 1347.304,
+      "clip_end": 1352.53,
+      "method": "aligned",
+      "source_text": "Rôdali như đã hiểu nỗi lo lắng của bạn, nói: không có cái gì dễ hơn đâu!"
+    },
+    {
+      "sent_id": "id_364",
+      "smil_sid": "sid_364",
+      "container_id": "seq_112",
+      "clip_begin": 1352.53,
+      "clip_end": 1357.131,
+      "method": "aligned",
+      "source_text": "Perin đoán được ý nghĩa của những lời ấy, hơn là nghe nói."
+    },
+    {
+      "sent_id": "id_365",
+      "smil_sid": "sid_365",
+      "container_id": "seq_112",
+      "clip_begin": 1357.131,
+      "clip_end": 1363.453,
+      "method": "aligned",
+      "source_text": "Khi em bước vào, thì những cỗ máy, những máy dệt đang hoạt động trong nhà máy như đã chết."
+    },
+    {
+      "sent_id": "id_366",
+      "smil_sid": "sid_366",
+      "container_id": "seq_112",
+      "clip_begin": 1363.453,
+      "clip_end": 1369.675,
+      "method": "aligned",
+      "source_text": "Bấy giờ một tiếng rống ghê sợ; trong đó lẫn lộn hàng ngàn tiếng ồn ào khác, vang dội các sân."
+    },
+    {
+      "sent_id": "id_367",
+      "smil_sid": "sid_367",
+      "container_id": "seq_112",
+      "clip_begin": 1369.675,
+      "clip_end": 1375.477,
+      "method": "aligned",
+      "source_text": "Ở các xưởng những cái máy đang đập, con thoi đang chạy, kim đan, trục chỉ đang quay."
+    },
+    {
+      "sent_id": "id_368",
+      "smil_sid": "sid_368",
+      "container_id": "seq_112",
+      "clip_begin": 1375.477,
+      "clip_end": 1383.33,
+      "method": "aligned",
+      "source_text": "Trong lúc đó, ở phía ngoài, những trục chuyển lực, bánh xe, dây cua roa, vô lăng làm cho người ta ù tai, choáng váng."
+    },
+    {
+      "sent_id": "id_369",
+      "smil_sid": "sid_369",
+      "container_id": "seq_113",
+      "clip_begin": 1383.33,
+      "clip_end": 1385.163,
+      "method": "aligned",
+      "source_text": "- Chị nói to lên một chút!"
+    },
+    {
+      "sent_id": "id_370",
+      "smil_sid": "sid_370",
+      "container_id": "seq_113",
+      "clip_begin": 1385.163,
+      "clip_end": 1386.14,
+      "method": "aligned",
+      "source_text": "– Perin nói."
+    },
+    {
+      "sent_id": "id_371",
+      "smil_sid": "sid_371",
+      "container_id": "seq_114",
+      "clip_begin": 1386.14,
+      "clip_end": 1387.59,
+      "method": "exact",
+      "source_text": "- Tôi không nghe gì cả!"
+    },
+    {
+      "sent_id": "id_372",
+      "smil_sid": "sid_372",
+      "container_id": "seq_115",
+      "clip_begin": 1387.59,
+      "clip_end": 1389.453,
+      "method": "aligned",
+      "source_text": "- Rồi chị sẽ quen dần!"
+    },
+    {
+      "sent_id": "id_373",
+      "smil_sid": "sid_373",
+      "container_id": "seq_115",
+      "clip_begin": 1389.453,
+      "clip_end": 1390.596,
+      "method": "aligned",
+      "source_text": "Rôdali hét."
+    },
+    {
+      "sent_id": "id_374",
+      "smil_sid": "sid_374",
+      "container_id": "seq_115",
+      "clip_begin": 1390.596,
+      "clip_end": 1392.88,
+      "method": "aligned",
+      "source_text": "Tôi nó với chị là không khó lắm đâu!"
+    },
+    {
+      "sent_id": "id_375",
+      "smil_sid": "sid_375",
+      "container_id": "seq_115",
+      "clip_begin": 1392.88,
+      "clip_end": 1395.405,
+      "method": "aligned",
+      "source_text": "Chỉ việc xếp các ống suốt lên xe rùa."
+    },
+    {
+      "sent_id": "id_376",
+      "smil_sid": "sid_376",
+      "container_id": "seq_115",
+      "clip_begin": 1395.405,
+      "clip_end": 1397.68,
+      "method": "aligned",
+      "source_text": "Chị có biết xe rùa là gì không?"
+    },
+    {
+      "sent_id": "id_377",
+      "smil_sid": "sid_377",
+      "container_id": "seq_116",
+      "clip_begin": 1397.68,
+      "clip_end": 1399.433,
+      "method": "aligned",
+      "source_text": "- Là một loại xe nhỏ."
+    },
+    {
+      "sent_id": "id_378",
+      "smil_sid": "sid_378",
+      "container_id": "seq_116",
+      "clip_begin": 1399.433,
+      "clip_end": 1400.49,
+      "method": "aligned",
+      "source_text": "Tôi nghĩ thế!"
+    },
+    {
+      "sent_id": "id_379",
+      "smil_sid": "sid_379",
+      "container_id": "seq_117",
+      "clip_begin": 1400.49,
+      "clip_end": 1401.492,
+      "method": "aligned",
+      "source_text": "- Đúng thế!"
+    },
+    {
+      "sent_id": "id_380",
+      "smil_sid": "sid_380",
+      "container_id": "seq_117",
+      "clip_begin": 1401.492,
+      "clip_end": 1404.959,
+      "method": "aligned",
+      "source_text": "Khi xe rùa đầy rồi ta chỉ việc đẩy đến xưởng dệt."
+    },
+    {
+      "sent_id": "id_381",
+      "smil_sid": "sid_381",
+      "container_id": "seq_117",
+      "clip_begin": 1404.959,
+      "clip_end": 1406.602,
+      "method": "aligned",
+      "source_text": "Ở đấy người ta bốc dỡ."
+    },
+    {
+      "sent_id": "id_382",
+      "smil_sid": "sid_382",
+      "container_id": "seq_117",
+      "clip_begin": 1406.602,
+      "clip_end": 1410.18,
+      "method": "aligned",
+      "source_text": "Chỉ đẩy một cái lúc xuất phát, rồi nó sẽ lăn một mình."
+    },
+    {
+      "sent_id": "id_383",
+      "smil_sid": "sid_383",
+      "container_id": "seq_118",
+      "clip_begin": 1410.18,
+      "clip_end": 1412.11,
+      "method": "exact",
+      "source_text": "- Còn cái suốt là cái gì?"
+    },
+    {
+      "sent_id": "id_384",
+      "smil_sid": "sid_384",
+      "container_id": "seq_119",
+      "clip_begin": 1412.11,
+      "clip_end": 1414.234,
+      "method": "aligned",
+      "source_text": "- Chị không biết cái suốt à?"
+    },
+    {
+      "sent_id": "id_385",
+      "smil_sid": "sid_385",
+      "container_id": "seq_119",
+      "clip_begin": 1414.234,
+      "clip_end": 1419.286,
+      "method": "aligned",
+      "source_text": "Ừ hôm qua tôi đã nói với chị máy suốt là cái máy quấn chỉ vào cái suốt."
+    },
+    {
+      "sent_id": "id_386",
+      "smil_sid": "sid_386",
+      "container_id": "seq_119",
+      "clip_begin": 1419.286,
+      "clip_end": 1421.0,
+      "method": "aligned",
+      "source_text": "Chị phải nhìn đề hiểu chứ?"
+    },
+    {
+      "sent_id": "id_387",
+      "smil_sid": "sid_387",
+      "container_id": "seq_120",
+      "clip_begin": 1421.0,
+      "clip_end": 1422.37,
+      "method": "exact",
+      "source_text": "- Cũng chưa hiểu lắm!"
+    },
+    {
+      "sent_id": "id_388",
+      "smil_sid": "sid_388",
+      "container_id": "seq_121",
+      "clip_begin": 1422.37,
+      "clip_end": 1427.1,
+      "method": "exact",
+      "source_text": "Rôdali nhìn bạn, tự hỏi Perin có quá ngu đần không và tiếp tục:"
+    },
+    {
+      "sent_id": "id_389",
+      "smil_sid": "sid_389",
+      "container_id": "seq_122",
+      "clip_begin": 1427.1,
+      "clip_end": 1431.862,
+      "method": "aligned",
+      "source_text": "- Tóm lại đó là những cái ghim ngắn trong gôđê trên đó người ta cuốn chỉ."
+    },
+    {
+      "sent_id": "id_390",
+      "smil_sid": "sid_390",
+      "container_id": "seq_122",
+      "clip_begin": 1431.862,
+      "clip_end": 1435.964,
+      "method": "aligned",
+      "source_text": "Khi đã đầy chỉ người ta rút gôđê ra, xếp lên xe rùa."
+    },
+    {
+      "sent_id": "id_391",
+      "smil_sid": "sid_391",
+      "container_id": "seq_122",
+      "clip_begin": 1435.964,
+      "clip_end": 1441.067,
+      "method": "aligned",
+      "source_text": "Xe chạy trên một con đường sắt nhỏ và người ta đưa xe đến xưởng dệt."
+    },
+    {
+      "sent_id": "id_392",
+      "smil_sid": "sid_392",
+      "container_id": "seq_122",
+      "clip_begin": 1441.067,
+      "clip_end": 1443.208,
+      "method": "aligned",
+      "source_text": "Chỉ là một cuộc dạo mát."
+    },
+    {
+      "sent_id": "id_393",
+      "smil_sid": "sid_393",
+      "container_id": "seq_122",
+      "clip_begin": 1443.208,
+      "clip_end": 1447.12,
+      "method": "aligned",
+      "source_text": "Tôi cũng bắt đầu từ đấy. bây giờ tôi ở phân xưởng suốt."
+    },
+    {
+      "sent_id": "id_394",
+      "smil_sid": "sid_394",
+      "container_id": "seq_123",
+      "clip_begin": 1447.12,
+      "clip_end": 1450.123,
+      "method": "aligned",
+      "source_text": "Hai cô gái đi qua nhiều sân quanh co."
+    },
+    {
+      "sent_id": "id_395",
+      "smil_sid": "sid_395",
+      "container_id": "seq_123",
+      "clip_begin": 1450.123,
+      "clip_end": 1455.709,
+      "method": "aligned",
+      "source_text": "Perin vẫn chăm chú nghe những lời giải thích rất bổ ích, không để ý đến xung quanh."
+    },
+    {
+      "sent_id": "id_396",
+      "smil_sid": "sid_396",
+      "container_id": "seq_123",
+      "clip_begin": 1455.709,
+      "clip_end": 1460.434,
+      "method": "aligned",
+      "source_text": "Rôdali tự lấy ta chỉ một dãi nhà mới một tầng, không có cửa sổ."
+    },
+    {
+      "sent_id": "id_397",
+      "smil_sid": "sid_397",
+      "container_id": "seq_123",
+      "clip_begin": 1460.434,
+      "clip_end": 1466.01,
+      "method": "aligned",
+      "source_text": "Phía Bắc, có những cái khuôn lắp kính, chiếm một nữa mái nhà, soi sáng các ngôi nhà."
+    },
+    {
+      "sent_id": "id_398",
+      "smil_sid": "sid_398",
+      "container_id": "seq_124",
+      "clip_begin": 1466.01,
+      "clip_end": 1466.819,
+      "method": "aligned",
+      "source_text": "- Ở đó!"
+    },
+    {
+      "sent_id": "id_399",
+      "smil_sid": "sid_399",
+      "container_id": "seq_124",
+      "clip_begin": 1466.819,
+      "clip_end": 1467.94,
+      "method": "aligned",
+      "source_text": "Rôdali nói."
+    },
+    {
+      "sent_id": "id_400",
+      "smil_sid": "sid_400",
+      "container_id": "seq_125",
+      "clip_begin": 1467.94,
+      "clip_end": 1472.886,
+      "method": "aligned",
+      "source_text": "Liền đó, cô bé mở cửa, đưa Perin vào trong một phòng dài."
+    },
+    {
+      "sent_id": "id_401",
+      "smil_sid": "sid_401",
+      "container_id": "seq_125",
+      "clip_begin": 1472.886,
+      "clip_end": 1478.553,
+      "method": "aligned",
+      "source_text": "Ở đây, có hàng nghìn cây kim đang nhảy một vũ điệu chóng mặt, làm thành một tiếng ồn long óc."
+    },
+    {
+      "sent_id": "id_402",
+      "smil_sid": "sid_402",
+      "container_id": "seq_125",
+      "clip_begin": 1478.553,
+      "clip_end": 1483.47,
+      "method": "aligned",
+      "source_text": "Thế nhưng, mặc dù ồn ào, hai cô bé vẫn nghe rõ có tiếng đàn ông đang hét."
+    },
+    {
+      "sent_id": "id_403",
+      "smil_sid": "sid_403",
+      "container_id": "seq_126",
+      "clip_begin": 1483.47,
+      "clip_end": 1485.48,
+      "method": "exact",
+      "source_text": "- Mày đó à, con lang thang?"
+    },
+    {
+      "sent_id": "id_404",
+      "smil_sid": "sid_404",
+      "container_id": "seq_127",
+      "clip_begin": 1485.48,
+      "clip_end": 1486.764,
+      "method": "aligned",
+      "source_text": "- Ai lang thang?"
+    },
+    {
+      "sent_id": "id_405",
+      "smil_sid": "sid_405",
+      "container_id": "seq_127",
+      "clip_begin": 1486.764,
+      "clip_end": 1488.148,
+      "method": "aligned",
+      "source_text": "Ai lang thang?"
+    },
+    {
+      "sent_id": "id_406",
+      "smil_sid": "sid_406",
+      "container_id": "seq_127",
+      "clip_begin": 1488.148,
+      "clip_end": 1491.97,
+      "method": "aligned",
+      "source_text": "Rôdali hét lên, không phải cháu đâu bố Chân Tháp, nghe chưa?"
+    },
+    {
+      "sent_id": "id_407",
+      "smil_sid": "sid_407",
+      "container_id": "seq_128",
+      "clip_begin": 1491.97,
+      "clip_end": 1493.26,
+      "method": "exact",
+      "source_text": "- Mày ở đâu đến?"
+    },
+    {
+      "sent_id": "id_408",
+      "smil_sid": "sid_408",
+      "container_id": "seq_129",
+      "clip_begin": 1493.26,
+      "clip_end": 1498.23,
+      "method": "exact",
+      "source_text": "- Ông Gầy bảo cháu dẫn cô bé này đến để bố cho cô ta vào tổ xe rùa."
+    },
+    {
+      "sent_id": "id_409",
+      "smil_sid": "sid_409",
+      "container_id": "seq_130",
+      "clip_begin": 1498.23,
+      "clip_end": 1502.871,
+      "method": "aligned",
+      "source_text": "Người mà Rôdali vừa thưa gửi là một bác thợ già có một cái chân gỗ."
+    },
+    {
+      "sent_id": "id_410",
+      "smil_sid": "sid_410",
+      "container_id": "seq_130",
+      "clip_begin": 1502.871,
+      "clip_end": 1508.293,
+      "method": "aligned",
+      "source_text": "Mười năm trước đây, bác bị tai nạn trong nhà máy, nên người ta goi bác là bố Chân Tháp."
+    },
+    {
+      "sent_id": "id_411",
+      "smil_sid": "sid_411",
+      "container_id": "seq_130",
+      "clip_begin": 1508.293,
+      "clip_end": 1511.834,
+      "method": "aligned",
+      "source_text": "Bị tàn phế, bác được xếp làm bảo vệ ở xưởng suốt."
+    },
+    {
+      "sent_id": "id_412",
+      "smil_sid": "sid_412",
+      "container_id": "seq_130",
+      "clip_begin": 1511.834,
+      "clip_end": 1513.815,
+      "method": "aligned",
+      "source_text": "Bác điều khiển một tốp trẻ."
+    },
+    {
+      "sent_id": "id_413",
+      "smil_sid": "sid_413",
+      "container_id": "seq_130",
+      "clip_begin": 1513.815,
+      "clip_end": 1517.116,
+      "method": "aligned",
+      "source_text": "Dưới quyền bác, công việc hoàn thành trọn vẹn nghiêm túc."
+    },
+    {
+      "sent_id": "id_414",
+      "smil_sid": "sid_414",
+      "container_id": "seq_130",
+      "clip_begin": 1517.116,
+      "clip_end": 1524.439,
+      "method": "aligned",
+      "source_text": "Bác luôn mồm la hét, chửi rủa, vì công việc ở các cỗ máy ấy rất nặng nhọc, đỏi hỏi phải để mắt chú ý."
+    },
+    {
+      "sent_id": "id_415",
+      "smil_sid": "sid_415",
+      "container_id": "seq_130",
+      "clip_begin": 1524.439,
+      "clip_end": 1532.342,
+      "method": "aligned",
+      "source_text": "Đôi tay phải nhanh nhẹn để lấy những cái suốt đã quấn đầy thay những cái suốt trống vào đó, nối những sợi chỉ bị đứt."
+    },
+    {
+      "sent_id": "id_416",
+      "smil_sid": "sid_416",
+      "container_id": "seq_130",
+      "clip_begin": 1532.342,
+      "clip_end": 1543.005,
+      "method": "aligned",
+      "source_text": "Vì thế, bác tin rằng nếu không hét không chửi thề liên tục, không nhấn mạnh một lời chửi thề bằng một nhịp chân của cái chân gỗ trên nền nhà, bác sẽ thấy bộ suốt ngừng chạy!"
+    },
+    {
+      "sent_id": "id_417",
+      "smil_sid": "sid_417",
+      "container_id": "seq_130",
+      "clip_begin": 1543.005,
+      "clip_end": 1545.946,
+      "method": "aligned",
+      "source_text": "Chuyện ấy đối với bác, không thể tha thứ được!"
+    },
+    {
+      "sent_id": "id_418",
+      "smil_sid": "sid_418",
+      "container_id": "seq_130",
+      "clip_begin": 1545.946,
+      "clip_end": 1547.947,
+      "method": "aligned",
+      "source_text": "Tuy nhiên, bác là người tốt."
+    },
+    {
+      "sent_id": "id_419",
+      "smil_sid": "sid_419",
+      "container_id": "seq_130",
+      "clip_begin": 1547.947,
+      "clip_end": 1555.06,
+      "method": "aligned",
+      "source_text": "Người ta không chấp nhất đối với bác tí nào, một phần cũng bởi các lời nói của bác lẫn lộn trong tiếng máy chạy."
+    },
+    {
+      "sent_id": "id_420",
+      "smil_sid": "sid_420",
+      "container_id": "seq_131",
+      "clip_begin": 1555.06,
+      "clip_end": 1558.751,
+      "method": "aligned",
+      "source_text": "- Với tất cả những cái đó, bộ suốt của mày đứng sựng!"
+    },
+    {
+      "sent_id": "id_421",
+      "smil_sid": "sid_421",
+      "container_id": "seq_131",
+      "clip_begin": 1558.751,
+      "clip_end": 1561.39,
+      "method": "aligned",
+      "source_text": "Bác hét và đưa nắm đấm dọa Rôdali."
+    },
+    {
+      "sent_id": "id_422",
+      "smil_sid": "sid_422",
+      "container_id": "seq_132",
+      "clip_begin": 1561.39,
+      "clip_end": 1563.24,
+      "method": "exact",
+      "source_text": "- Đâu phải là lỗi của cháu!"
+    },
+    {
+      "sent_id": "id_423",
+      "smil_sid": "sid_423",
+      "container_id": "seq_133",
+      "clip_begin": 1563.24,
+      "clip_end": 1565.211,
+      "method": "aligned",
+      "source_text": "- Bắt tay vào công việc, nhanh lên!"
+    },
+    {
+      "sent_id": "id_424",
+      "smil_sid": "sid_424",
+      "container_id": "seq_133",
+      "clip_begin": 1565.211,
+      "clip_end": 1566.77,
+      "method": "aligned",
+      "source_text": "– Rồi bác hỏi Perin:"
+    },
+    {
+      "sent_id": "id_425",
+      "smil_sid": "sid_425",
+      "container_id": "seq_134",
+      "clip_begin": 1566.77,
+      "clip_end": 1568.06,
+      "method": "exact",
+      "source_text": "- Mày tên là gì?"
+    },
+    {
+      "sent_id": "id_426",
+      "smil_sid": "sid_426",
+      "container_id": "seq_135",
+      "clip_begin": 1568.06,
+      "clip_end": 1570.322,
+      "method": "aligned",
+      "source_text": "Perin không muốn nói tên thật."
+    },
+    {
+      "sent_id": "id_427",
+      "smil_sid": "sid_427",
+      "container_id": "seq_135",
+      "clip_begin": 1570.322,
+      "clip_end": 1576.01,
+      "method": "aligned",
+      "source_text": "Nhưng em chưa chuẩn bị để trả lời câu hỏi đó, mặc dù tối qua Rôdali đã hỏi."
+    },
+    {
+      "sent_id": "id_428",
+      "smil_sid": "sid_428",
+      "container_id": "seq_135",
+      "clip_begin": 1576.01,
+      "clip_end": 1578.032,
+      "method": "aligned",
+      "source_text": "Bị bất ngờ, em đứng sững."
+    },
+    {
+      "sent_id": "id_429",
+      "smil_sid": "sid_429",
+      "container_id": "seq_135",
+      "clip_begin": 1578.032,
+      "clip_end": 1583.99,
+      "method": "aligned",
+      "source_text": "Bác Chân Tháp ngỡ là em không nghe, nên chồm tới bên em, hét trong lúc nện một chân trên nền nhà!"
+    },
+    {
+      "sent_id": "id_430",
+      "smil_sid": "sid_430",
+      "container_id": "seq_136",
+      "clip_begin": 1583.99,
+      "clip_end": 1585.36,
+      "method": "exact",
+      "source_text": "- Tao hỏi tên mày?"
+    },
+    {
+      "sent_id": "id_431",
+      "smil_sid": "sid_431",
+      "container_id": "seq_137",
+      "clip_begin": 1585.36,
+      "clip_end": 1591.93,
+      "method": "exact",
+      "source_text": "Perin đã có thời giờ để trấn tĩnh và nhớ lại cái tên mà em đã nói với Rôdali:"
+    },
+    {
+      "sent_id": "id_432",
+      "smil_sid": "sid_432",
+      "container_id": "seq_138",
+      "clip_begin": 1591.93,
+      "clip_end": 1592.923,
+      "method": "aligned",
+      "source_text": "- Ôrêli."
+    },
+    {
+      "sent_id": "id_433",
+      "smil_sid": "sid_433",
+      "container_id": "seq_138",
+      "clip_begin": 1592.923,
+      "clip_end": 1593.54,
+      "method": "aligned",
+      "source_text": "Em đáp."
+    },
+    {
+      "sent_id": "id_434",
+      "smil_sid": "sid_434",
+      "container_id": "seq_139",
+      "clip_begin": 1593.54,
+      "clip_end": 1594.91,
+      "method": "exact",
+      "source_text": "- Ôrêli gì chứ?"
+    },
+    {
+      "sent_id": "id_435",
+      "smil_sid": "sid_435",
+      "container_id": "seq_140",
+      "clip_begin": 1594.91,
+      "clip_end": 1596.52,
+      "method": "exact",
+      "source_text": "- Ôrêli trơn thôi."
+    },
+    {
+      "sent_id": "id_436",
+      "smil_sid": "sid_436",
+      "container_id": "seq_141",
+      "clip_begin": 1596.52,
+      "clip_end": 1597.73,
+      "method": "exact",
+      "source_text": "- Được, theo tao!"
+    },
+    {
+      "sent_id": "id_437",
+      "smil_sid": "sid_437",
+      "container_id": "seq_142",
+      "clip_begin": 1597.73,
+      "clip_end": 1604.645,
+      "method": "aligned",
+      "source_text": "Bác dẫn em đến trước mặt cái xe rùa để trong góc nhà và nhắc lại những chỉ dẫn mà Rôdali đã nói."
+    },
+    {
+      "sent_id": "id_438",
+      "smil_sid": "sid_438",
+      "container_id": "seq_142",
+      "clip_begin": 1604.645,
+      "clip_end": 1607.02,
+      "method": "aligned",
+      "source_text": "Bác dừng lại ở mỗi từ, để hét:"
+    },
+    {
+      "sent_id": "id_439",
+      "smil_sid": "sid_439",
+      "container_id": "seq_143",
+      "clip_begin": 1607.02,
+      "clip_end": 1608.23,
+      "method": "exact",
+      "source_text": "- Mày hiểu không?"
+    },
+    {
+      "sent_id": "id_440",
+      "smil_sid": "sid_440",
+      "container_id": "seq_144",
+      "clip_begin": 1608.23,
+      "clip_end": 1610.64,
+      "method": "exact",
+      "source_text": "Perin gật gù đầu để trả lời."
+    },
+    {
+      "sent_id": "id_441",
+      "smil_sid": "sid_441",
+      "container_id": "seq_145",
+      "clip_begin": 1610.64,
+      "clip_end": 1614.926,
+      "method": "aligned",
+      "source_text": "Thật ra, công việc quá đơn giản, có ngu đần mới không làm nổi!"
+    },
+    {
+      "sent_id": "id_442",
+      "smil_sid": "sid_442",
+      "container_id": "seq_145",
+      "clip_begin": 1614.926,
+      "clip_end": 1620.414,
+      "method": "aligned",
+      "source_text": "Em để hết tâm trí vào việc làm cho nên đến khi ra về bố Chân Tháp không hét qua mười hai lần."
+    },
+    {
+      "sent_id": "id_443",
+      "smil_sid": "sid_443",
+      "container_id": "seq_145",
+      "clip_begin": 1620.414,
+      "clip_end": 1624.41,
+      "method": "aligned",
+      "source_text": "Bác đến bên Perin, nhưng chỉ để nhắc nhở, hơn là la mắng."
+    },
+    {
+      "sent_id": "id_444",
+      "smil_sid": "sid_444",
+      "container_id": "seq_146",
+      "clip_begin": 1624.41,
+      "clip_end": 1626.5,
+      "method": "exact",
+      "source_text": "- Đừng có chơi đùa trên đường đi!"
+    },
+    {
+      "sent_id": "id_445",
+      "smil_sid": "sid_445",
+      "container_id": "seq_147",
+      "clip_begin": 1626.5,
+      "clip_end": 1629.344,
+      "method": "aligned",
+      "source_text": "Chơi đùa, Perin không có ý nghĩ ấy."
+    },
+    {
+      "sent_id": "id_446",
+      "smil_sid": "sid_446",
+      "container_id": "seq_147",
+      "clip_begin": 1629.344,
+      "clip_end": 1632.749,
+      "method": "aligned",
+      "source_text": "Trong lúc đẩy xe rùa, em bước đều đặn, liên tục."
+    },
+    {
+      "sent_id": "id_447",
+      "smil_sid": "sid_447",
+      "container_id": "seq_147",
+      "clip_begin": 1632.749,
+      "clip_end": 1639.39,
+      "method": "aligned",
+      "source_text": "Em có thể nhìn các khu nhà em đi qua, quan sát những gì mà trước đây em chưa hiểu qua lời chỉ dẫn của Rôdali."
+    },
+    {
+      "sent_id": "id_448",
+      "smil_sid": "sid_448",
+      "container_id": "seq_148",
+      "clip_begin": 1639.39,
+      "clip_end": 1646.702,
+      "method": "aligned",
+      "source_text": "Chồm người tới, lấy hai tay đẩy cho xe chạy, khi gặp cản trở thì choải chân giữ xe lại và thế là đủ."
+    },
+    {
+      "sent_id": "id_449",
+      "smil_sid": "sid_449",
+      "container_id": "seq_148",
+      "clip_begin": 1646.702,
+      "clip_end": 1651.48,
+      "method": "aligned",
+      "source_text": "Đôi mắt cũng như ý nghĩ của Perin hoàn toàn tự do, rời khỏi nơi đây."
+    },
+    {
+      "sent_id": "id_450",
+      "smil_sid": "sid_450",
+      "container_id": "seq_149",
+      "clip_begin": 1651.48,
+      "clip_end": 1656.343,
+      "method": "aligned",
+      "source_text": "Khi ra khỏi nhà máy nghĩ buổi trưa, trong lúc ai cũng nôn nóng trở về nhà."
+    },
+    {
+      "sent_id": "id_451",
+      "smil_sid": "sid_451",
+      "container_id": "seq_149",
+      "clip_begin": 1656.343,
+      "clip_end": 1659.025,
+      "method": "aligned",
+      "source_text": "Perin vào hiệu mua hai trăm rưỡi gam bánh."
+    },
+    {
+      "sent_id": "id_452",
+      "smil_sid": "sid_452",
+      "container_id": "seq_149",
+      "clip_begin": 1659.025,
+      "clip_end": 1661.507,
+      "method": "aligned",
+      "source_text": "Em vừa ăn, vừa dạo quanh các phố."
+    },
+    {
+      "sent_id": "id_453",
+      "smil_sid": "sid_453",
+      "container_id": "seq_149",
+      "clip_begin": 1661.507,
+      "clip_end": 1664.469,
+      "method": "aligned",
+      "source_text": "Mùi xúp tỏa ra từ các cánh cửabỏ ngỏ."
+    },
+    {
+      "sent_id": "id_454",
+      "smil_sid": "sid_454",
+      "container_id": "seq_149",
+      "clip_begin": 1664.469,
+      "clip_end": 1668.872,
+      "method": "aligned",
+      "source_text": "Em đi qua, bước chân chậm chạp, để ngửi mùi xúp mà em thích."
+    },
+    {
+      "sent_id": "id_455",
+      "smil_sid": "sid_455",
+      "container_id": "seq_149",
+      "clip_begin": 1668.872,
+      "clip_end": 1671.834,
+      "method": "aligned",
+      "source_text": "Em bước nhanh, nếu mùi xúp quá xa lạ."
+    },
+    {
+      "sent_id": "id_456",
+      "smil_sid": "sid_456",
+      "container_id": "seq_149",
+      "clip_begin": 1671.834,
+      "clip_end": 1675.157,
+      "method": "aligned",
+      "source_text": "Ổ bánh chẳng thấm vào đâu nên biến mất rất nhanh."
+    },
+    {
+      "sent_id": "id_457",
+      "smil_sid": "sid_457",
+      "container_id": "seq_149",
+      "clip_begin": 1675.157,
+      "clip_end": 1679.27,
+      "method": "aligned",
+      "source_text": "Nhưng không sao, từ dạo em quen nhịn đói, em vẫn khỏe mạnh."
+    },
+    {
+      "sent_id": "id_458",
+      "smil_sid": "sid_458",
+      "container_id": "seq_150",
+      "clip_begin": 1679.27,
+      "clip_end": 1684.979,
+      "method": "aligned",
+      "source_text": "Những người hàng ngày ăn uống đầy đủ không thể tưởng tượng người ta có thể ăn lưng bụng được."
+    },
+    {
+      "sent_id": "id_459",
+      "smil_sid": "sid_459",
+      "container_id": "seq_150",
+      "clip_begin": 1684.979,
+      "clip_end": 1691.51,
+      "method": "aligned",
+      "source_text": "Họ cũng không thể nghĩ rằng khi lấy bàn tay vốc nước một dòng sông trong vắt, người ta có thể uống cho đã khát!"
+    },
+    {
+      "sent_id": "id_460",
+      "smil_sid": "sid_460",
+      "container_id": "seq_151",
+      "clip_begin": 1691.51,
+      "clip_end": 1691.76,
+      "method": "silence",
+      "source_text": "oOo"
+    },
+    {
+      "sent_id": "id_461",
+      "smil_sid": "sid_461",
+      "container_id": "seq_152",
+      "clip_begin": 1691.76,
+      "clip_end": 1696.125,
+      "method": "aligned",
+      "source_text": "Tuy chưa đến giờ, Perin đã có mặt trước cửa song."
+    },
+    {
+      "sent_id": "id_462",
+      "smil_sid": "sid_462",
+      "container_id": "seq_152",
+      "clip_begin": 1696.125,
+      "clip_end": 1699.969,
+      "method": "aligned",
+      "source_text": "Em ngồi trên một hòn đá, dưới bóng cây trụ, đợi còi tập hợp."
+    },
+    {
+      "sent_id": "id_463",
+      "smil_sid": "sid_463",
+      "container_id": "seq_152",
+      "clip_begin": 1699.969,
+      "clip_end": 1705.395,
+      "method": "aligned",
+      "source_text": "Tụi con trai, con gái cùng lứa tuổi cũng đi sớm như em đang chơi đùa, chạy nhảy."
+    },
+    {
+      "sent_id": "id_464",
+      "smil_sid": "sid_464",
+      "container_id": "seq_152",
+      "clip_begin": 1705.395,
+      "clip_end": 1709.05,
+      "method": "aligned",
+      "source_text": "Nhìn chung, Perin rất muốn tham gia, nhưng không dám."
+    },
+    {
+      "sent_id": "id_465",
+      "smil_sid": "sid_465",
+      "container_id": "seq_153",
+      "clip_begin": 1709.05,
+      "clip_end": 1714.312,
+      "method": "aligned",
+      "source_text": "Khi Rôdali đến, Perin cùng vào xưởng với bạn và trở lại với công việc."
+    },
+    {
+      "sent_id": "id_466",
+      "smil_sid": "sid_466",
+      "container_id": "seq_153",
+      "clip_begin": 1714.312,
+      "clip_end": 1721.596,
+      "method": "aligned",
+      "source_text": "Những tiếng la hét, những nhịp chày của cái chân gỗ bố Chân Tháp vẫn thúc giục em, nhưng đúng hơn buổi sáng."
+    },
+    {
+      "sent_id": "id_467",
+      "smil_sid": "sid_467",
+      "container_id": "seq_153",
+      "clip_begin": 1721.596,
+      "clip_end": 1725.418,
+      "method": "aligned",
+      "source_text": "Công việc kéo dài, càng về chiều Perin càng thấm mệt."
+    },
+    {
+      "sent_id": "id_468",
+      "smil_sid": "sid_468",
+      "container_id": "seq_153",
+      "clip_begin": 1725.418,
+      "clip_end": 1734.443,
+      "method": "aligned",
+      "source_text": "Lúc đầu, cúi xuống đứng lên để sắp xếp, bốc dỡ chiếc xe rùa, chồm tới đẩy xe đi, choải chân giữ xe lại, chỉ là một trò chơi."
+    },
+    {
+      "sent_id": "id_469",
+      "smil_sid": "sid_469",
+      "container_id": "seq_153",
+      "clip_begin": 1734.443,
+      "clip_end": 1739.386,
+      "method": "aligned",
+      "source_text": "Công việc lặp đi, lặp lại liên tục không nghỉ, vào mấy giờ cuối, rất mệt."
+    },
+    {
+      "sent_id": "id_470",
+      "smil_sid": "sid_470",
+      "container_id": "seq_153",
+      "clip_begin": 1739.386,
+      "clip_end": 1745.9,
+      "method": "aligned",
+      "source_text": "Những ngày đi bộ gian khổ nhất, Perin cũng chưa hề biết nỗi mệt mỏi như đang đè nặng trên người em lúc này."
+    },
+    {
+      "sent_id": "id_471",
+      "smil_sid": "sid_471",
+      "container_id": "seq_154",
+      "clip_begin": 1745.9,
+      "clip_end": 1747.51,
+      "method": "aligned",
+      "source_text": "- Đừng có làm như rùa bò!"
+    },
+    {
+      "sent_id": "id_472",
+      "smil_sid": "sid_472",
+      "container_id": "seq_154",
+      "clip_begin": 1747.51,
+      "clip_end": 1749.11,
+      "method": "aligned",
+      "source_text": "– Bố Chân Tháp hét."
+    },
+    {
+      "sent_id": "id_473",
+      "smil_sid": "sid_473",
+      "container_id": "seq_155",
+      "clip_begin": 1749.11,
+      "clip_end": 1752.932,
+      "method": "aligned",
+      "source_text": "Tiếng thét kèm theo nhịp chân gỗ đã thức tỉnh cô bé."
+    },
+    {
+      "sent_id": "id_474",
+      "smil_sid": "sid_474",
+      "container_id": "seq_155",
+      "clip_begin": 1752.932,
+      "clip_end": 1761.098,
+      "method": "aligned",
+      "source_text": "Như con ngựa vừa nhận được một roi quất vào mông, Perin sải bước, nhưng rồi lại đi chậm ngay vì đã rời khỏi tầm mắt của bố Chân Tháp."
+    },
+    {
+      "sent_id": "id_475",
+      "smil_sid": "sid_475",
+      "container_id": "seq_155",
+      "clip_begin": 1761.098,
+      "clip_end": 1764.2,
+      "method": "aligned",
+      "source_text": "Bây giờ, khi dồn hết tâm trí vào công việc."
+    },
+    {
+      "sent_id": "id_476",
+      "smil_sid": "sid_476",
+      "container_id": "seq_155",
+      "clip_begin": 1764.2,
+      "clip_end": 1766.362,
+      "method": "aligned",
+      "source_text": "Perin như bị tê cóng."
+    },
+    {
+      "sent_id": "id_477",
+      "smil_sid": "sid_477",
+      "container_id": "seq_155",
+      "clip_begin": 1766.362,
+      "clip_end": 1774.868,
+      "method": "aligned",
+      "source_text": "Em chỉ còn tò mò theo dõi chờ đón những tiếng chuông đồng hồ báo mười lăm phút, nửa giờ, một giờ và tự hỏi khi nào thì hết ngày?"
+    },
+    {
+      "sent_id": "id_478",
+      "smil_sid": "sid_478",
+      "container_id": "seq_155",
+      "clip_begin": 1774.868,
+      "clip_end": 1777.3,
+      "method": "aligned",
+      "source_text": "Liệu em có thể làm việc đến lúc ấy được không?"
+    },
+    {
+      "sent_id": "id_479",
+      "smil_sid": "sid_479",
+      "container_id": "seq_156",
+      "clip_begin": 1777.3,
+      "clip_end": 1783.601,
+      "method": "aligned",
+      "source_text": "Khi câu hỏi trên làm Perin lo ngại thì em tự giận mình về sự yếu đuối của bản thân."
+    },
+    {
+      "sent_id": "id_480",
+      "smil_sid": "sid_480",
+      "container_id": "seq_156",
+      "clip_begin": 1783.601,
+      "clip_end": 1789.002,
+      "method": "aligned",
+      "source_text": "Cái việc mà những đứa trẻ khác đang hoàn thành rất dễ dàng, thì em không làm nổi sao?"
+    },
+    {
+      "sent_id": "id_481",
+      "smil_sid": "sid_481",
+      "container_id": "seq_156",
+      "clip_begin": 1789.002,
+      "clip_end": 1792.363,
+      "method": "aligned",
+      "source_text": "Chúng cũng không khỏe mạnh, không nhiều tuổi hơn em kia mà!"
+    },
+    {
+      "sent_id": "id_482",
+      "smil_sid": "sid_482",
+      "container_id": "seq_156",
+      "clip_begin": 1792.363,
+      "clip_end": 1798.324,
+      "method": "aligned",
+      "source_text": "Perin biết công việc ấy đòi hỏi đôi tay nhanh nhẹn, khéo léo, cái đầu minh mẫn."
+    },
+    {
+      "sent_id": "id_483",
+      "smil_sid": "sid_483",
+      "container_id": "seq_156",
+      "clip_begin": 1798.324,
+      "clip_end": 1803.525,
+      "method": "aligned",
+      "source_text": "Nếu người ta không bố trí em đẩy xe rùa, mà vào xưởng suốt thì như thế nào nhỉ."
+    },
+    {
+      "sent_id": "id_484",
+      "smil_sid": "sid_484",
+      "container_id": "seq_156",
+      "clip_begin": 1803.525,
+      "clip_end": 1807.386,
+      "method": "aligned",
+      "source_text": "Perin tự an ủi là em chưa quen công việc đó."
+    },
+    {
+      "sent_id": "id_485",
+      "smil_sid": "sid_485",
+      "container_id": "seq_156",
+      "clip_begin": 1807.386,
+      "clip_end": 1811.367,
+      "method": "aligned",
+      "source_text": "Với nghị lực, lòng can đảm, sự kiên trì, thói quen sẽ đến."
+    },
+    {
+      "sent_id": "id_486",
+      "smil_sid": "sid_486",
+      "container_id": "seq_156",
+      "clip_begin": 1811.367,
+      "clip_end": 1812.347,
+      "method": "aligned",
+      "source_text": "“Muốn là được!”"
+    },
+    {
+      "sent_id": "id_487",
+      "smil_sid": "sid_487",
+      "container_id": "seq_156",
+      "clip_begin": 1812.347,
+      "clip_end": 1814.788,
+      "method": "aligned",
+      "source_text": "“Thì Perin đang muốn và sẽ muốn”."
+    },
+    {
+      "sent_id": "id_488",
+      "smil_sid": "sid_488",
+      "container_id": "seq_156",
+      "clip_begin": 1814.788,
+      "clip_end": 1816.928,
+      "method": "aligned",
+      "source_text": "Miễn là ngày đầu, em không ngất!"
+    },
+    {
+      "sent_id": "id_489",
+      "smil_sid": "sid_489",
+      "container_id": "seq_156",
+      "clip_begin": 1816.928,
+      "clip_end": 1819.749,
+      "method": "aligned",
+      "source_text": "Ngày thứ hai sẽ ít nặng nhọc hơn nữa!"
+    },
+    {
+      "sent_id": "id_490",
+      "smil_sid": "sid_490",
+      "container_id": "seq_156",
+      "clip_begin": 1819.749,
+      "clip_end": 1823.385,
+      "method": "aligned",
+      "source_text": "Trong lúc bốc dỡ, đẩy xe rùa Perin đã lý luận như thế!"
+    },
+    {
+      "sent_id": "id_491",
+      "smil_sid": "sid_491",
+      "container_id": "seq_156",
+      "clip_begin": 1823.385,
+      "clip_end": 1827.127,
+      "method": "aligned",
+      "source_text": "Em nhìn các bạn làm việc nhanh thoăn thoắt mà phái ghen!"
+    },
+    {
+      "sent_id": "id_492",
+      "smil_sid": "sid_492",
+      "container_id": "seq_156",
+      "clip_begin": 1827.127,
+      "clip_end": 1832.451,
+      "method": "aligned",
+      "source_text": "Bất thình lình, em thấy Rôdali đang nối sợi, ngã xuống bên cạnh cô bạn."
+    },
+    {
+      "sent_id": "id_493",
+      "smil_sid": "sid_493",
+      "container_id": "seq_156",
+      "clip_begin": 1832.451,
+      "clip_end": 1833.812,
+      "method": "aligned",
+      "source_text": "Có một tiếng thét."
+    },
+    {
+      "sent_id": "id_494",
+      "smil_sid": "sid_494",
+      "container_id": "seq_156",
+      "clip_begin": 1833.812,
+      "clip_end": 1836.534,
+      "method": "aligned",
+      "source_text": "Cùng lúc ấy, tất cả ngừng hoạt động."
+    },
+    {
+      "sent_id": "id_495",
+      "smil_sid": "sid_495",
+      "container_id": "seq_156",
+      "clip_begin": 1836.534,
+      "clip_end": 1846.522,
+      "method": "aligned",
+      "source_text": "Một sự im lặng chết chóc tiếp theo tiếng ồn ào của các cỗ máy, tiếng rung, tiếng rống và tiếng chuyển động của nền đất, những bức tường, các khung cửa kính."
+    },
+    {
+      "sent_id": "id_496",
+      "smil_sid": "sid_496",
+      "container_id": "seq_156",
+      "clip_begin": 1846.522,
+      "clip_end": 1850.075,
+      "method": "aligned",
+      "source_text": "Có tiếng than thở của trẻ em làm đứt quãng sự yên lặng ấy."
+    },
+    {
+      "sent_id": "id_497",
+      "smil_sid": "sid_497",
+      "container_id": "seq_157",
+      "clip_begin": 1850.075,
+      "clip_end": 1851.365,
+      "method": "exact",
+      "source_text": "- Ối trời ơi!"
+    },
+    {
+      "sent_id": "id_498",
+      "smil_sid": "sid_498",
+      "container_id": "seq_158",
+      "clip_begin": 1851.365,
+      "clip_end": 1853.673,
+      "method": "aligned",
+      "source_text": "Tất cả mọi người đều chạy đến."
+    },
+    {
+      "sent_id": "id_499",
+      "smil_sid": "sid_499",
+      "container_id": "seq_158",
+      "clip_begin": 1853.673,
+      "clip_end": 1856.895,
+      "method": "aligned",
+      "source_text": "Perin cũng làm như họ mặc dù bố Chân Tháp đang hét:"
+    },
+    {
+      "sent_id": "id_500",
+      "smil_sid": "sid_500",
+      "container_id": "seq_159",
+      "clip_begin": 1856.895,
+      "clip_end": 1857.922,
+      "method": "aligned",
+      "source_text": "- Trời ơi!"
+    },
+    {
+      "sent_id": "id_501",
+      "smil_sid": "sid_501",
+      "container_id": "seq_159",
+      "clip_begin": 1857.922,
+      "clip_end": 1859.785,
+      "method": "aligned",
+      "source_text": "Bộ suốt của tôi ngừng chạy rồi!"
+    },
+    {
+      "sent_id": "id_502",
+      "smil_sid": "sid_502",
+      "container_id": "seq_160",
+      "clip_begin": 1859.785,
+      "clip_end": 1861.852,
+      "method": "aligned",
+      "source_text": "Người ta đỡ Rôdali ngồi dậy."
+    },
+    {
+      "sent_id": "id_503",
+      "smil_sid": "sid_503",
+      "container_id": "seq_160",
+      "clip_begin": 1861.852,
+      "clip_end": 1865.715,
+      "method": "aligned",
+      "source_text": "Họ vây quanh và hỏi dồn, thiếu nỗi làm cô bé ngạt thở."
+    },
+    {
+      "sent_id": "id_504",
+      "smil_sid": "sid_504",
+      "container_id": "seq_161",
+      "clip_begin": 1865.715,
+      "clip_end": 1867.005,
+      "method": "exact",
+      "source_text": "- Làm sao thế?"
+    },
+    {
+      "sent_id": "id_505",
+      "smil_sid": "sid_505",
+      "container_id": "seq_162",
+      "clip_begin": 1867.005,
+      "clip_end": 1868.757,
+      "method": "aligned",
+      "source_text": "- Bàn tay bị máy cán!"
+    },
+    {
+      "sent_id": "id_506",
+      "smil_sid": "sid_506",
+      "container_id": "seq_162",
+      "clip_begin": 1868.757,
+      "clip_end": 1869.975,
+      "method": "aligned",
+      "source_text": "Cô bé trả lời."
+    },
+    {
+      "sent_id": "id_507",
+      "smil_sid": "sid_507",
+      "container_id": "seq_163",
+      "clip_begin": 1869.975,
+      "clip_end": 1872.141,
+      "method": "aligned",
+      "source_text": "Mặt Rôdali tái mét."
+    },
+    {
+      "sent_id": "id_508",
+      "smil_sid": "sid_508",
+      "container_id": "seq_163",
+      "clip_begin": 1872.141,
+      "clip_end": 1874.026,
+      "method": "aligned",
+      "source_text": "Đôi môi nhợt nhạt run rẩy."
+    },
+    {
+      "sent_id": "id_509",
+      "smil_sid": "sid_509",
+      "container_id": "seq_163",
+      "clip_begin": 1874.026,
+      "clip_end": 1877.105,
+      "method": "aligned",
+      "source_text": "Những giọt máu từ bàn tay bị thương nhỏ xuống nền đất."
+    },
+    {
+      "sent_id": "id_510",
+      "smil_sid": "sid_510",
+      "container_id": "seq_164",
+      "clip_begin": 1877.105,
+      "clip_end": 1884.395,
+      "method": "exact",
+      "source_text": "Sau khi kiểm tra, người ta cho hay Rôdali có hai ngón bị thương, có thể một ngón bị cán hay bầm nặng."
+    },
+    {
+      "sent_id": "id_511",
+      "smil_sid": "sid_511",
+      "container_id": "seq_165",
+      "clip_begin": 1884.395,
+      "clip_end": 1891.285,
+      "method": "exact",
+      "source_text": "Bố Chân Tháp trước đó có vẻ thương xót, bây giờ nổi cáu, xô đẩy những người đang vây quanh Rôdali."
+    },
+    {
+      "sent_id": "id_512",
+      "smil_sid": "sid_512",
+      "container_id": "seq_166",
+      "clip_begin": 1891.285,
+      "clip_end": 1893.034,
+      "method": "aligned",
+      "source_text": "- Cút ngay khỏi nơi này!"
+    },
+    {
+      "sent_id": "id_513",
+      "smil_sid": "sid_513",
+      "container_id": "seq_166",
+      "clip_begin": 1893.034,
+      "clip_end": 1895.215,
+      "method": "aligned",
+      "source_text": "Gớm chưa, việc quan trọng đấy nhỉ?"
+    },
+    {
+      "sent_id": "id_514",
+      "smil_sid": "sid_514",
+      "container_id": "seq_167",
+      "clip_begin": 1895.215,
+      "clip_end": 1898.348,
+      "method": "aligned",
+      "source_text": "- Chẳng phải là việc quan trọng nếu bác bị gãy chân sao?"
+    },
+    {
+      "sent_id": "id_515",
+      "smil_sid": "sid_515",
+      "container_id": "seq_167",
+      "clip_begin": 1898.348,
+      "clip_end": 1900.185,
+      "method": "aligned",
+      "source_text": "– Có tiếng thì thầm."
+    },
+    {
+      "sent_id": "id_516",
+      "smil_sid": "sid_516",
+      "container_id": "seq_168",
+      "clip_begin": 1900.185,
+      "clip_end": 1903.414,
+      "method": "aligned",
+      "source_text": "Bác muốn xem người nào ăn nói vô lễ như vậy!"
+    },
+    {
+      "sent_id": "id_517",
+      "smil_sid": "sid_517",
+      "container_id": "seq_168",
+      "clip_begin": 1903.414,
+      "clip_end": 1905.86,
+      "method": "aligned",
+      "source_text": "Nhưng giữa đám đông, bác đành chịu thua."
+    },
+    {
+      "sent_id": "id_518",
+      "smil_sid": "sid_518",
+      "container_id": "seq_168",
+      "clip_begin": 1905.86,
+      "clip_end": 1907.475,
+      "method": "aligned",
+      "source_text": "Thế là bác hét toáng lên."
+    },
+    {
+      "sent_id": "id_519",
+      "smil_sid": "sid_519",
+      "container_id": "seq_169",
+      "clip_begin": 1907.475,
+      "clip_end": 1908.525,
+      "method": "exact",
+      "source_text": "- Cút ngay đi!"
+    },
+    {
+      "sent_id": "id_520",
+      "smil_sid": "sid_520",
+      "container_id": "seq_170",
+      "clip_begin": 1908.525,
+      "clip_end": 1914.215,
+      "method": "exact",
+      "source_text": "Họ tản dần, Perin cũng như mọi người, sắp trở lại xe rùa thì nghe có tiếng gọi:"
+    },
+    {
+      "sent_id": "id_521",
+      "smil_sid": "sid_521",
+      "container_id": "seq_171",
+      "clip_begin": 1914.215,
+      "clip_end": 1915.665,
+      "method": "aligned",
+      "source_text": "- Này con bé mới vào!"
+    },
+    {
+      "sent_id": "id_522",
+      "smil_sid": "sid_522",
+      "container_id": "seq_171",
+      "clip_begin": 1915.665,
+      "clip_end": 1916.39,
+      "method": "aligned",
+      "source_text": "Đến đây!"
+    },
+    {
+      "sent_id": "id_523",
+      "smil_sid": "sid_523",
+      "container_id": "seq_171",
+      "clip_begin": 1916.39,
+      "clip_end": 1917.265,
+      "method": "aligned",
+      "source_text": "Nhanh lên nào!"
+    },
+    {
+      "sent_id": "id_524",
+      "smil_sid": "sid_524",
+      "container_id": "seq_172",
+      "clip_begin": 1917.265,
+      "clip_end": 1919.73,
+      "method": "aligned",
+      "source_text": "Perin sợ sệt, quay lại."
+    },
+    {
+      "sent_id": "id_525",
+      "smil_sid": "sid_525",
+      "container_id": "seq_172",
+      "clip_begin": 1919.73,
+      "clip_end": 1924.299,
+      "method": "aligned",
+      "source_text": "Em tự hỏi em có lỗi gì nặng hơn các bạn, họ cũng đã bỏ dở công việc."
+    },
+    {
+      "sent_id": "id_526",
+      "smil_sid": "sid_526",
+      "container_id": "seq_172",
+      "clip_begin": 1924.299,
+      "clip_end": 1927.115,
+      "method": "aligned",
+      "source_text": "Thế nhưng, đây không phải là gọi đến quở phạt."
+    },
+    {
+      "sent_id": "id_527",
+      "smil_sid": "sid_527",
+      "container_id": "seq_173",
+      "clip_begin": 1927.115,
+      "clip_end": 1930.325,
+      "method": "exact",
+      "source_text": "- Mày đưa cái con vật này đến gặp ông quản đốc!"
+    },
+    {
+      "sent_id": "id_528",
+      "smil_sid": "sid_528",
+      "container_id": "seq_174",
+      "clip_begin": 1930.325,
+      "clip_end": 1932.815,
+      "method": "exact",
+      "source_text": "- Tại sao bác lại gọi cháu là con vật!"
+    },
+    {
+      "sent_id": "id_529",
+      "smil_sid": "sid_529",
+      "container_id": "seq_175",
+      "clip_begin": 1932.815,
+      "clip_end": 1938.345,
+      "method": "exact",
+      "source_text": "Rôdali hét, vì lúc ấy có tiếng ồn của cỗ máy đã bắt đầu hoạt động lại."
+    },
+    {
+      "sent_id": "id_530",
+      "smil_sid": "sid_530",
+      "container_id": "seq_176",
+      "clip_begin": 1938.345,
+      "clip_end": 1940.915,
+      "method": "exact",
+      "source_text": "- Tại mày để cho máy cán bàn tay."
+    },
+    {
+      "sent_id": "id_531",
+      "smil_sid": "sid_531",
+      "container_id": "seq_177",
+      "clip_begin": 1940.915,
+      "clip_end": 1942.925,
+      "method": "exact",
+      "source_text": "- Có phải là lỗi của cháu đâu!"
+    },
+    {
+      "sent_id": "id_532",
+      "smil_sid": "sid_532",
+      "container_id": "seq_178",
+      "clip_begin": 1942.925,
+      "clip_end": 1945.858,
+      "method": "aligned",
+      "source_text": "- Chắc chắn là vì mày vụng về, lười biếng!"
+    },
+    {
+      "sent_id": "id_533",
+      "smil_sid": "sid_533",
+      "container_id": "seq_178",
+      "clip_begin": 1945.858,
+      "clip_end": 1947.495,
+      "method": "aligned",
+      "source_text": "Thế nhưng bác lại dịu giọng:"
+    },
+    {
+      "sent_id": "id_534",
+      "smil_sid": "sid_534",
+      "container_id": "seq_179",
+      "clip_begin": 1947.495,
+      "clip_end": 1948.945,
+      "method": "exact",
+      "source_text": "- Có đau lắm không?"
+    },
+    {
+      "sent_id": "id_535",
+      "smil_sid": "sid_535",
+      "container_id": "seq_180",
+      "clip_begin": 1948.945,
+      "clip_end": 1950.075,
+      "method": "exact",
+      "source_text": "- Không đau lắm!"
+    },
+    {
+      "sent_id": "id_536",
+      "smil_sid": "sid_536",
+      "container_id": "seq_181",
+      "clip_begin": 1950.075,
+      "clip_end": 1951.285,
+      "method": "exact",
+      "source_text": "- Thôi chuồn đi!"
+    },
+    {
+      "sent_id": "id_537",
+      "smil_sid": "sid_537",
+      "container_id": "seq_182",
+      "clip_begin": 1951.285,
+      "clip_end": 1953.833,
+      "method": "aligned",
+      "source_text": "Cả hai cô bé rời khỏi nơi đó."
+    },
+    {
+      "sent_id": "id_538",
+      "smil_sid": "sid_538",
+      "container_id": "seq_182",
+      "clip_begin": 1953.833,
+      "clip_end": 1957.775,
+      "method": "aligned",
+      "source_text": "Rôdali cầm bàn tay trái bị thương, trong bàn tay phải của mình."
+    },
+    {
+      "sent_id": "id_539",
+      "smil_sid": "sid_539",
+      "container_id": "seq_183",
+      "clip_begin": 1957.775,
+      "clip_end": 1959.388,
+      "method": "aligned",
+      "source_text": "- Chị dựa vào tôi nhé?"
+    },
+    {
+      "sent_id": "id_540",
+      "smil_sid": "sid_540",
+      "container_id": "seq_183",
+      "clip_begin": 1959.388,
+      "clip_end": 1960.265,
+      "method": "aligned",
+      "source_text": "– Perin hỏi."
+    },
+    {
+      "sent_id": "id_541",
+      "smil_sid": "sid_541",
+      "container_id": "seq_184",
+      "clip_begin": 1960.265,
+      "clip_end": 1961.11,
+      "method": "aligned",
+      "source_text": "- Cảm ơn!"
+    },
+    {
+      "sent_id": "id_542",
+      "smil_sid": "sid_542",
+      "container_id": "seq_184",
+      "clip_begin": 1961.11,
+      "clip_end": 1962.238,
+      "method": "aligned",
+      "source_text": "Chẳng cần đâu!"
+    },
+    {
+      "sent_id": "id_543",
+      "smil_sid": "sid_543",
+      "container_id": "seq_184",
+      "clip_begin": 1962.238,
+      "clip_end": 1963.315,
+      "method": "aligned",
+      "source_text": "Tôi đi được mà!"
+    },
+    {
+      "sent_id": "id_544",
+      "smil_sid": "sid_544",
+      "container_id": "seq_185",
+      "clip_begin": 1963.315,
+      "clip_end": 1966.045,
+      "method": "exact",
+      "source_text": "- Thế thì chẳng có chuyện gì cả phải không?"
+    },
+    {
+      "sent_id": "id_545",
+      "smil_sid": "sid_545",
+      "container_id": "seq_186",
+      "clip_begin": 1966.045,
+      "clip_end": 1968.312,
+      "method": "aligned",
+      "source_text": "- Người ta cũng chẳng hiểu nữa."
+    },
+    {
+      "sent_id": "id_546",
+      "smil_sid": "sid_546",
+      "container_id": "seq_186",
+      "clip_begin": 1968.312,
+      "clip_end": 1972.375,
+      "method": "aligned",
+      "source_text": "Ngày đầu, có thể chẳng đau đớn gì, nhưng sau này, biết đâu đấy!"
+    },
+    {
+      "sent_id": "id_547",
+      "smil_sid": "sid_547",
+      "container_id": "seq_187",
+      "clip_begin": 1972.375,
+      "clip_end": 1974.225,
+      "method": "exact",
+      "source_text": "- Tại sao chị bị thương?"
+    },
+    {
+      "sent_id": "id_548",
+      "smil_sid": "sid_548",
+      "container_id": "seq_188",
+      "clip_begin": 1974.225,
+      "clip_end": 1975.92,
+      "method": "aligned",
+      "source_text": "- Tôi cũng chẳng hiểu nữa!"
+    },
+    {
+      "sent_id": "id_549",
+      "smil_sid": "sid_549",
+      "container_id": "seq_188",
+      "clip_begin": 1975.92,
+      "clip_end": 1976.635,
+      "method": "aligned",
+      "source_text": "Tôi trượt."
+    },
+    {
+      "sent_id": "id_550",
+      "smil_sid": "sid_550",
+      "container_id": "seq_189",
+      "clip_begin": 1976.635,
+      "clip_end": 1977.922,
+      "method": "aligned",
+      "source_text": "- Chắc là chị mệt!"
+    },
+    {
+      "sent_id": "id_551",
+      "smil_sid": "sid_551",
+      "container_id": "seq_189",
+      "clip_begin": 1977.922,
+      "clip_end": 1980.245,
+      "method": "aligned",
+      "source_text": "– Perin nói và nghĩ đến phận mình."
+    },
+    {
+      "sent_id": "id_552",
+      "smil_sid": "sid_552",
+      "container_id": "seq_190",
+      "clip_begin": 1980.245,
+      "clip_end": 1984.151,
+      "method": "aligned",
+      "source_text": "- Thông thường là người ta hay bị tai nạn khi người ta mệt."
+    },
+    {
+      "sent_id": "id_553",
+      "smil_sid": "sid_553",
+      "container_id": "seq_190",
+      "clip_begin": 1984.151,
+      "clip_end": 1989.381,
+      "method": "aligned",
+      "source_text": "Buổi sáng, người ta còn nhanh nhẹn và còn chú ý nên ít xảy ra tai nạn."
+    },
+    {
+      "sent_id": "id_554",
+      "smil_sid": "sid_554",
+      "container_id": "seq_190",
+      "clip_begin": 1989.381,
+      "clip_end": 1991.615,
+      "method": "aligned",
+      "source_text": "Không biết rồi dì Đênôbi nói gì đây!"
+    },
+    {
+      "sent_id": "id_555",
+      "smil_sid": "sid_555",
+      "container_id": "seq_191",
+      "clip_begin": 1991.615,
+      "clip_end": 1993.465,
+      "method": "exact",
+      "source_text": "- Nhưng nào phải lỗi ở chị."
+    },
+    {
+      "sent_id": "id_556",
+      "smil_sid": "sid_556",
+      "container_id": "seq_192",
+      "clip_begin": 1993.465,
+      "clip_end": 2001.395,
+      "method": "exact",
+      "source_text": "- Mẹ Prăngxoadơ sẽ tin là tôi không có lỗi, nhưng dì Đênôbi thì cho là tôi cố ý để khỏi phải đi làm."
+    },
+    {
+      "sent_id": "id_557",
+      "smil_sid": "sid_557",
+      "container_id": "seq_193",
+      "clip_begin": 2001.395,
+      "clip_end": 2003.645,
+      "method": "exact",
+      "source_text": "- Thì chị cứ để cho dì ấy nói!"
+    },
+    {
+      "sent_id": "id_558",
+      "smil_sid": "sid_558",
+      "container_id": "seq_194",
+      "clip_begin": 2003.645,
+      "clip_end": 2007.415,
+      "method": "exact",
+      "source_text": "- Chị tưởng được nghe nói như thế thì vui lắm hay sao?"
+    },
+    {
+      "sent_id": "id_559",
+      "smil_sid": "sid_559",
+      "container_id": "seq_195",
+      "clip_begin": 2007.415,
+      "clip_end": 2011.516,
+      "method": "aligned",
+      "source_text": "Trên đường đi, những bác thợ đón họ lại, để hỏi thăm."
+    },
+    {
+      "sent_id": "id_560",
+      "smil_sid": "sid_560",
+      "container_id": "seq_195",
+      "clip_begin": 2011.516,
+      "clip_end": 2013.577,
+      "method": "aligned",
+      "source_text": "Có người phàn nàn cho Rôdali."
+    },
+    {
+      "sent_id": "id_561",
+      "smil_sid": "sid_561",
+      "container_id": "seq_195",
+      "clip_begin": 2013.577,
+      "clip_end": 2015.178,
+      "method": "aligned",
+      "source_text": "Phần đông họ thản nhiên."
+    },
+    {
+      "sent_id": "id_562",
+      "smil_sid": "sid_562",
+      "container_id": "seq_195",
+      "clip_begin": 2015.178,
+      "clip_end": 2021.041,
+      "method": "aligned",
+      "source_text": "Họ đã quen với tất cả các chuyện ấy và tự nhủ: Người ta bị thương cũng như ốm thôi!"
+    },
+    {
+      "sent_id": "id_563",
+      "smil_sid": "sid_563",
+      "container_id": "seq_195",
+      "clip_begin": 2021.041,
+      "clip_end": 2023.702,
+      "method": "aligned",
+      "source_text": "Chẳng qua gặp may hay gặp rủi."
+    },
+    {
+      "sent_id": "id_564",
+      "smil_sid": "sid_564",
+      "container_id": "seq_195",
+      "clip_begin": 2023.702,
+      "clip_end": 2025.323,
+      "method": "aligned",
+      "source_text": "Ai rồi cũng sẽ đến lượt."
+    },
+    {
+      "sent_id": "id_565",
+      "smil_sid": "sid_565",
+      "container_id": "seq_195",
+      "clip_begin": 2025.323,
+      "clip_end": 2027.824,
+      "method": "aligned",
+      "source_text": "Hôm nay anh, ngay mai đến tôi!"
+    },
+    {
+      "sent_id": "id_566",
+      "smil_sid": "sid_566",
+      "container_id": "seq_195",
+      "clip_begin": 2027.824,
+      "clip_end": 2029.135,
+      "method": "aligned",
+      "source_text": "Có những người nổi giận."
+    },
+    {
+      "sent_id": "id_567",
+      "smil_sid": "sid_567",
+      "container_id": "seq_196",
+      "clip_begin": 2029.135,
+      "clip_end": 2032.105,
+      "method": "exact",
+      "source_text": "- Đến khi nào thì họ làm cho chúng ta què hết."
+    },
+    {
+      "sent_id": "id_568",
+      "smil_sid": "sid_568",
+      "container_id": "seq_197",
+      "clip_begin": 2032.105,
+      "clip_end": 2033.795,
+      "method": "exact",
+      "source_text": "- Anh ưng chết đói hơn à?"
+    },
+    {
+      "sent_id": "id_569",
+      "smil_sid": "sid_569",
+      "container_id": "seq_198",
+      "clip_begin": 2033.795,
+      "clip_end": 2036.516,
+      "method": "aligned",
+      "source_text": "Hai cô bé đến buồng ông quản đốc."
+    },
+    {
+      "sent_id": "id_570",
+      "smil_sid": "sid_570",
+      "container_id": "seq_198",
+      "clip_begin": 2036.516,
+      "clip_end": 2041.738,
+      "method": "aligned",
+      "source_text": "Buồng này nằm giữa nhà máy trong dãy nhà to lớn bằng gạch sơn xanh và sơn hồng."
+    },
+    {
+      "sent_id": "id_571",
+      "smil_sid": "sid_571",
+      "container_id": "seq_198",
+      "clip_begin": 2041.738,
+      "clip_end": 2043.999,
+      "method": "aligned",
+      "source_text": "Những buồng làm việc ở sát nhau."
+    },
+    {
+      "sent_id": "id_572",
+      "smil_sid": "sid_572",
+      "container_id": "seq_198",
+      "clip_begin": 2043.999,
+      "clip_end": 2046.781,
+      "method": "aligned",
+      "source_text": "Buồng ông Vunphran cũng không có gì đặc biệt."
+    },
+    {
+      "sent_id": "id_573",
+      "smil_sid": "sid_573",
+      "container_id": "seq_198",
+      "clip_begin": 2046.781,
+      "clip_end": 2051.423,
+      "method": "aligned",
+      "source_text": "Người ta chú ý đến buồng ông quản đốc vì có một hành lang che kín."
+    },
+    {
+      "sent_id": "id_574",
+      "smil_sid": "sid_574",
+      "container_id": "seq_198",
+      "clip_begin": 2051.423,
+      "clip_end": 2054.875,
+      "method": "aligned",
+      "source_text": "Muốn đến đó phải đi qua một cầu thang vòng quanh hai lần."
+    },
+    {
+      "sent_id": "id_575",
+      "smil_sid": "sid_575",
+      "container_id": "seq_199",
+      "clip_begin": 2054.875,
+      "clip_end": 2059.361,
+      "method": "aligned",
+      "source_text": "Hai cô bé đi vào cái hàng hiên này thi được ông Taluen tiếp."
+    },
+    {
+      "sent_id": "id_576",
+      "smil_sid": "sid_576",
+      "container_id": "seq_199",
+      "clip_begin": 2059.361,
+      "clip_end": 2067.532,
+      "method": "aligned",
+      "source_text": "Như một hạm trưởng đang đi lại ngang dọc, trên cầu chỉ huy, ông ta bỏ hai tay vào túi áo, đầu vẫn đội mũ."
+    },
+    {
+      "sent_id": "id_577",
+      "smil_sid": "sid_577",
+      "container_id": "seq_199",
+      "clip_begin": 2067.532,
+      "clip_end": 2069.525,
+      "method": "aligned",
+      "source_text": "Ông ta giận dữ, hét lên:"
+    },
+    {
+      "sent_id": "id_578",
+      "smil_sid": "sid_578",
+      "container_id": "seq_200",
+      "clip_begin": 2069.525,
+      "clip_end": 2071.178,
+      "method": "aligned",
+      "source_text": "- Lại có chuyện gì nữa?"
+    },
+    {
+      "sent_id": "id_579",
+      "smil_sid": "sid_579",
+      "container_id": "seq_200",
+      "clip_begin": 2071.178,
+      "clip_end": 2072.175,
+      "method": "aligned",
+      "source_text": "Con bé kia?"
+    },
+    {
+      "sent_id": "id_580",
+      "smil_sid": "sid_580",
+      "container_id": "seq_201",
+      "clip_begin": 2072.175,
+      "clip_end": 2074.905,
+      "method": "exact",
+      "source_text": "Rôdali đưa bàn tay ướt đẫm máu."
+    },
+    {
+      "sent_id": "id_581",
+      "smil_sid": "sid_581",
+      "container_id": "seq_202",
+      "clip_begin": 2074.905,
+      "clip_end": 2076.735,
+      "method": "aligned",
+      "source_text": "- Lấy mùi xoa mà buộc nó lại!"
+    },
+    {
+      "sent_id": "id_582",
+      "smil_sid": "sid_582",
+      "container_id": "seq_202",
+      "clip_begin": 2076.735,
+      "clip_end": 2078.435,
+      "method": "aligned",
+      "source_text": "– Ông ta hét lên."
+    },
+    {
+      "sent_id": "id_583",
+      "smil_sid": "sid_583",
+      "container_id": "seq_203",
+      "clip_begin": 2078.435,
+      "clip_end": 2084.505,
+      "method": "aligned",
+      "source_text": "Trong lúc cô bé khó nhọc, lấy được chiếc mùi xoa, ông ta sải những bước dài trên hành lang."
+    },
+    {
+      "sent_id": "id_584",
+      "smil_sid": "sid_584",
+      "container_id": "seq_203",
+      "clip_begin": 2084.505,
+      "clip_end": 2088.311,
+      "method": "aligned",
+      "source_text": "Rôdali đã lấy mùi xoa buộc bàn tay bị thương."
+    },
+    {
+      "sent_id": "id_585",
+      "smil_sid": "sid_585",
+      "container_id": "seq_203",
+      "clip_begin": 2088.311,
+      "clip_end": 2090.525,
+      "method": "aligned",
+      "source_text": "Ông ta trở lại, đứng ngay trước mặt."
+    },
+    {
+      "sent_id": "id_586",
+      "smil_sid": "sid_586",
+      "container_id": "seq_204",
+      "clip_begin": 2090.525,
+      "clip_end": 2091.735,
+      "method": "exact",
+      "source_text": "- Hãy dốc túi!"
+    },
+    {
+      "sent_id": "id_587",
+      "smil_sid": "sid_587",
+      "container_id": "seq_205",
+      "clip_begin": 2091.735,
+      "clip_end": 2093.665,
+      "method": "exact",
+      "source_text": "Cô bé nhìn ông, không hiểu."
+    },
+    {
+      "sent_id": "id_588",
+      "smil_sid": "sid_588",
+      "container_id": "seq_206",
+      "clip_begin": 2093.665,
+      "clip_end": 2097.035,
+      "method": "exact",
+      "source_text": "Tôi nói: “Hãy lấy tất cả những gì trong túi ra hết”."
+    },
+    {
+      "sent_id": "id_589",
+      "smil_sid": "sid_589",
+      "container_id": "seq_207",
+      "clip_begin": 2097.035,
+      "clip_end": 2109.125,
+      "method": "exact",
+      "source_text": "Cô bé vâng lời và lấy từ trong túi ra những thứ linh tinh: một cái còi làm bằng dẻ, những cục xương nhỏ, một cái đê, một miếng cam thảo, ba đồng xu, một cái gương nhỏ bằng kẽm."
+    },
+    {
+      "sent_id": "id_590",
+      "smil_sid": "sid_590",
+      "container_id": "seq_208",
+      "clip_begin": 2109.125,
+      "clip_end": 2111.455,
+      "method": "exact",
+      "source_text": "Ông ta túm lấy cái gương và hét:"
+    },
+    {
+      "sent_id": "id_591",
+      "smil_sid": "sid_591",
+      "container_id": "seq_209",
+      "clip_begin": 2111.455,
+      "clip_end": 2112.798,
+      "method": "aligned",
+      "source_text": "- Tôi biết mà!"
+    },
+    {
+      "sent_id": "id_592",
+      "smil_sid": "sid_592",
+      "container_id": "seq_209",
+      "clip_begin": 2112.798,
+      "clip_end": 2115.765,
+      "method": "aligned",
+      "source_text": "Trong khi cô bận soi gương, một sợi chỉ đứt."
+    },
+    {
+      "sent_id": "id_593",
+      "smil_sid": "sid_593",
+      "container_id": "seq_209",
+      "clip_begin": 2115.765,
+      "clip_end": 2116.988,
+      "method": "aligned",
+      "source_text": "Suốt ngừng chạy."
+    },
+    {
+      "sent_id": "id_594",
+      "smil_sid": "sid_594",
+      "container_id": "seq_209",
+      "clip_begin": 2116.988,
+      "clip_end": 2119.865,
+      "method": "aligned",
+      "source_text": "Cô muốn lấy lại thời gian đã mất và thế đó!"
+    },
+    {
+      "sent_id": "id_595",
+      "smil_sid": "sid_595",
+      "container_id": "seq_210",
+      "clip_begin": 2119.865,
+      "clip_end": 2121.194,
+      "method": "aligned",
+      "source_text": "- Cháu có soi gương đâu!"
+    },
+    {
+      "sent_id": "id_596",
+      "smil_sid": "sid_596",
+      "container_id": "seq_210",
+      "clip_begin": 2121.194,
+      "clip_end": 2122.755,
+      "method": "aligned",
+      "source_text": "– Cô bé nói."
+    },
+    {
+      "sent_id": "id_597",
+      "smil_sid": "sid_597",
+      "container_id": "seq_211",
+      "clip_begin": 2122.755,
+      "clip_end": 2124.305,
+      "method": "aligned",
+      "source_text": "- Tụi bay giống nhau hết!"
+    },
+    {
+      "sent_id": "id_598",
+      "smil_sid": "sid_598",
+      "container_id": "seq_211",
+      "clip_begin": 2124.305,
+      "clip_end": 2125.885,
+      "method": "aligned",
+      "source_text": "Bây giờ mày thấy thế nào?"
+    },
+    {
+      "sent_id": "id_599",
+      "smil_sid": "sid_599",
+      "container_id": "seq_212",
+      "clip_begin": 2125.885,
+      "clip_end": 2127.194,
+      "method": "aligned",
+      "source_text": "- Cháu không biết!"
+    },
+    {
+      "sent_id": "id_600",
+      "smil_sid": "sid_600",
+      "container_id": "seq_212",
+      "clip_begin": 2127.194,
+      "clip_end": 2128.695,
+      "method": "aligned",
+      "source_text": "Ngón tay cháu bị cán!"
+    },
+    {
+      "sent_id": "id_601",
+      "smil_sid": "sid_601",
+      "container_id": "seq_213",
+      "clip_begin": 2128.695,
+      "clip_end": 2130.865,
+      "method": "exact",
+      "source_text": "- Thế thì cô muốn tôi làm gì nào?"
+    },
+    {
+      "sent_id": "id_602",
+      "smil_sid": "sid_602",
+      "container_id": "seq_214",
+      "clip_begin": 2130.865,
+      "clip_end": 2133.275,
+      "method": "exact",
+      "source_text": "- Bác Chân Tháp bảo cháu đến gặp ông."
+    },
+    {
+      "sent_id": "id_603",
+      "smil_sid": "sid_603",
+      "container_id": "seq_215",
+      "clip_begin": 2133.275,
+      "clip_end": 2135.925,
+      "method": "exact",
+      "source_text": "Quay về phía Perin, ông ta hỏi:"
+    },
+    {
+      "sent_id": "id_604",
+      "smil_sid": "sid_604",
+      "container_id": "seq_216",
+      "clip_begin": 2135.925,
+      "clip_end": 2136.895,
+      "method": "exact",
+      "source_text": "- Còn cô?"
+    },
+    {
+      "sent_id": "id_605",
+      "smil_sid": "sid_605",
+      "container_id": "seq_217",
+      "clip_begin": 2136.895,
+      "clip_end": 2138.279,
+      "method": "aligned",
+      "source_text": "- Cháu không có gì hết!"
+    },
+    {
+      "sent_id": "id_606",
+      "smil_sid": "sid_606",
+      "container_id": "seq_217",
+      "clip_begin": 2138.279,
+      "clip_end": 2142.665,
+      "method": "aligned",
+      "source_text": "– Trước cách đối xử nghiêm khắc ấy, Perin kinh ngạc, trả lời."
+    },
+    {
+      "sent_id": "id_607",
+      "smil_sid": "sid_607",
+      "container_id": "seq_218",
+      "clip_begin": 2142.665,
+      "clip_end": 2143.555,
+      "method": "exact",
+      "source_text": "- Thế thì?…"
+    },
+    {
+      "sent_id": "id_608",
+      "smil_sid": "sid_608",
+      "container_id": "seq_219",
+      "clip_begin": 2143.555,
+      "clip_end": 2146.75,
+      "method": "aligned",
+      "source_text": "- Bác Chân Tháp bảo chị ấy đưa cháu đến gặp ông."
+    },
+    {
+      "sent_id": "id_609",
+      "smil_sid": "sid_609",
+      "container_id": "seq_219",
+      "clip_begin": 2146.75,
+      "clip_end": 2147.805,
+      "method": "aligned",
+      "source_text": "Rôdali nói."
+    },
+    {
+      "sent_id": "id_610",
+      "smil_sid": "sid_610",
+      "container_id": "seq_220",
+      "clip_begin": 2147.805,
+      "clip_end": 2150.329,
+      "method": "aligned",
+      "source_text": "- A, người ta phải đưa cô đi!"
+    },
+    {
+      "sent_id": "id_611",
+      "smil_sid": "sid_611",
+      "container_id": "seq_220",
+      "clip_begin": 2150.329,
+      "clip_end": 2153.476,
+      "method": "aligned",
+      "source_text": "Thế thì người ta sẽ dẫn cô đến bác sĩ Ruysông."
+    },
+    {
+      "sent_id": "id_612",
+      "smil_sid": "sid_612",
+      "container_id": "seq_220",
+      "clip_begin": 2153.476,
+      "clip_end": 2156.041,
+      "method": "aligned",
+      "source_text": "Mà cô biết đấy, tôi sẽ cho điều tra."
+    },
+    {
+      "sent_id": "id_613",
+      "smil_sid": "sid_613",
+      "container_id": "seq_220",
+      "clip_begin": 2156.041,
+      "clip_end": 2158.215,
+      "method": "aligned",
+      "source_text": "Nếu cô có lỗi thì liệu chừng!"
+    },
+    {
+      "sent_id": "id_614",
+      "smil_sid": "sid_614",
+      "container_id": "seq_221",
+      "clip_begin": 2158.215,
+      "clip_end": 2161.78,
+      "method": "aligned",
+      "source_text": "Giọng nói của ông dộ vào các tấm kính của hành lang."
+    },
+    {
+      "sent_id": "id_615",
+      "smil_sid": "sid_615",
+      "container_id": "seq_221",
+      "clip_begin": 2161.78,
+      "clip_end": 2165.165,
+      "method": "aligned",
+      "source_text": "Trong các phòng làm việc, mọi người chắc đã nghe rõ!"
+    },
+    {
+      "sent_id": "id_616",
+      "smil_sid": "sid_616",
+      "container_id": "seq_221",
+      "clip_begin": 2165.165,
+      "clip_end": 2171.905,
+      "method": "aligned",
+      "source_text": "Hai cô gái chuẩn bị rút lui thì họ thấy ông Vunphran thận trọng đi đến, tay không rời bức tường của phòng ngoài."
+    },
+    {
+      "sent_id": "id_617",
+      "smil_sid": "sid_617",
+      "container_id": "seq_222",
+      "clip_begin": 2171.905,
+      "clip_end": 2174.155,
+      "method": "exact",
+      "source_text": "- Có chuyện gì thế Taluen?"
+    },
+    {
+      "sent_id": "id_618",
+      "smil_sid": "sid_618",
+      "container_id": "seq_223",
+      "clip_begin": 2174.155,
+      "clip_end": 2178.405,
+      "method": "exact",
+      "source_text": "- Chẳng có gì thưa ông, một con bé ở xưởng suốt bị kẹt bàn tay."
+    },
+    {
+      "sent_id": "id_619",
+      "smil_sid": "sid_619",
+      "container_id": "seq_224",
+      "clip_begin": 2178.405,
+      "clip_end": 2179.535,
+      "method": "exact",
+      "source_text": "- Nó ở đâu?"
+    },
+    {
+      "sent_id": "id_620",
+      "smil_sid": "sid_620",
+      "container_id": "seq_225",
+      "clip_begin": 2179.535,
+      "clip_end": 2184.185,
+      "method": "exact",
+      "source_text": "- Cháu ở đây, thưa ông Vunphran, Rôdali nói và quay trở lại."
+    },
+    {
+      "sent_id": "id_621",
+      "smil_sid": "sid_621",
+      "container_id": "seq_226",
+      "clip_begin": 2184.185,
+      "clip_end": 2187.555,
+      "method": "exact",
+      "source_text": "- Có phải tiếng con cháu bà Prăngxoadơ đấy không?"
+    },
+    {
+      "sent_id": "id_622",
+      "smil_sid": "sid_622",
+      "container_id": "seq_227",
+      "clip_begin": 2187.555,
+      "clip_end": 2191.32,
+      "method": "aligned",
+      "source_text": "- Vâng, thưa ông Vunphran, cháu Rôdali đây mà!"
+    },
+    {
+      "sent_id": "id_623",
+      "smil_sid": "sid_623",
+      "container_id": "seq_227",
+      "clip_begin": 2191.32,
+      "clip_end": 2192.622,
+      "method": "aligned",
+      "source_text": "Và cô bé khóc."
+    },
+    {
+      "sent_id": "id_624",
+      "smil_sid": "sid_624",
+      "container_id": "seq_227",
+      "clip_begin": 2192.622,
+      "clip_end": 2196.669,
+      "method": "aligned",
+      "source_text": "Những lời nói nghiêm khắc của ông quản đốc đã bóp nghẹt quả tim cô bé."
+    },
+    {
+      "sent_id": "id_625",
+      "smil_sid": "sid_625",
+      "container_id": "seq_227",
+      "clip_begin": 2196.669,
+      "clip_end": 2200.525,
+      "method": "aligned",
+      "source_text": "Giọng thông cảm của mấy từ ít ỏi này đã làm cô bé dễ chịu."
+    },
+    {
+      "sent_id": "id_626",
+      "smil_sid": "sid_626",
+      "container_id": "seq_228",
+      "clip_begin": 2200.525,
+      "clip_end": 2201.574,
+      "method": "aligned",
+      "source_text": "- Sao thế?"
+    },
+    {
+      "sent_id": "id_627",
+      "smil_sid": "sid_627",
+      "container_id": "seq_228",
+      "clip_begin": 2201.574,
+      "clip_end": 2202.855,
+      "method": "aligned",
+      "source_text": "Cháu khốn khổ của ông!"
+    },
+    {
+      "sent_id": "id_628",
+      "smil_sid": "sid_628",
+      "container_id": "seq_229",
+      "clip_begin": 2202.855,
+      "clip_end": 2207.667,
+      "method": "aligned",
+      "source_text": "- Cháu muốn nối một sợi chỉ, cháu trượt chân, cháu cũng chẳng hiểu vì sao!"
+    },
+    {
+      "sent_id": "id_629",
+      "smil_sid": "sid_629",
+      "container_id": "seq_229",
+      "clip_begin": 2207.667,
+      "clip_end": 2208.95,
+      "method": "aligned",
+      "source_text": "Bàn tay cháu bị kẹt."
+    },
+    {
+      "sent_id": "id_630",
+      "smil_sid": "sid_630",
+      "container_id": "seq_229",
+      "clip_begin": 2208.95,
+      "clip_end": 2210.945,
+      "method": "aligned",
+      "source_text": "Hai ngón bị dập, hình như thế!"
+    },
+    {
+      "sent_id": "id_631",
+      "smil_sid": "sid_631",
+      "container_id": "seq_230",
+      "clip_begin": 2210.945,
+      "clip_end": 2212.555,
+      "method": "exact",
+      "source_text": "- Có đau lắm không cháu?"
+    },
+    {
+      "sent_id": "id_632",
+      "smil_sid": "sid_632",
+      "container_id": "seq_231",
+      "clip_begin": 2212.555,
+      "clip_end": 2213.685,
+      "method": "exact",
+      "source_text": "- Không đau lắm."
+    },
+    {
+      "sent_id": "id_633",
+      "smil_sid": "sid_633",
+      "container_id": "seq_232",
+      "clip_begin": 2213.685,
+      "clip_end": 2215.295,
+      "method": "exact",
+      "source_text": "- Tại sao cháu khóc?"
+    },
+    {
+      "sent_id": "id_634",
+      "smil_sid": "sid_634",
+      "container_id": "seq_233",
+      "clip_begin": 2215.295,
+      "clip_end": 2217.385,
+      "method": "exact",
+      "source_text": "- Bởi vì ông không la mắng cháu?"
+    },
+    {
+      "sent_id": "id_635",
+      "smil_sid": "sid_635",
+      "container_id": "seq_234",
+      "clip_begin": 2217.385,
+      "clip_end": 2218.835,
+      "method": "exact",
+      "source_text": "Taluen nhún vai."
+    },
+    {
+      "sent_id": "id_636",
+      "smil_sid": "sid_636",
+      "container_id": "seq_235",
+      "clip_begin": 2218.835,
+      "clip_end": 2219.561,
+      "method": "aligned",
+      "source_text": "- Cháu đi được chứ?"
+    },
+    {
+      "sent_id": "id_637",
+      "smil_sid": "sid_637",
+      "container_id": "seq_235",
+      "clip_begin": 2219.561,
+      "clip_end": 2221.325,
+      "method": "aligned",
+      "source_text": "– ông Vunphran hỏi."
+    },
+    {
+      "sent_id": "id_638",
+      "smil_sid": "sid_638",
+      "container_id": "seq_236",
+      "clip_begin": 2221.325,
+      "clip_end": 2224.775,
+      "method": "exact",
+      "source_text": "- Ồ, thưa ông Vunphran, cháu đi được mà!"
+    },
+    {
+      "sent_id": "id_639",
+      "smil_sid": "sid_639",
+      "container_id": "seq_237",
+      "clip_begin": 2224.775,
+      "clip_end": 2226.401,
+      "method": "aligned",
+      "source_text": "- Cháu về nhà ngay!"
+    },
+    {
+      "sent_id": "id_640",
+      "smil_sid": "sid_640",
+      "container_id": "seq_237",
+      "clip_begin": 2226.401,
+      "clip_end": 2229.665,
+      "method": "aligned",
+      "source_text": "Người ta sẽ mời bác sĩ Ruysông đến thăm cháu."
+    },
+    {
+      "sent_id": "id_641",
+      "smil_sid": "sid_641",
+      "container_id": "seq_238",
+      "clip_begin": 2229.665,
+      "clip_end": 2231.755,
+      "method": "exact",
+      "source_text": "Và ông nói với Taluen:"
+    },
+    {
+      "sent_id": "id_642",
+      "smil_sid": "sid_642",
+      "container_id": "seq_239",
+      "clip_begin": 2231.755,
+      "clip_end": 2240.485,
+      "method": "exact",
+      "source_text": "- Viết một cái phiếu cho ông Ruysông nói ông đến ngay nhà bà Prăngxoadơ, gạch chân chữ “đến ngay” và thêm “thương tích khẩn cấp”."
+    },
+    {
+      "sent_id": "id_643",
+      "smil_sid": "sid_643",
+      "container_id": "seq_240",
+      "clip_begin": 2240.485,
+      "clip_end": 2242.335,
+      "method": "exact",
+      "source_text": "Ông trở lại bên Rôdali:"
+    },
+    {
+      "sent_id": "id_644",
+      "smil_sid": "sid_644",
+      "container_id": "seq_241",
+      "clip_begin": 2242.335,
+      "clip_end": 2244.665,
+      "method": "exact",
+      "source_text": "- Cháu có cần người đưa cháu về không?"
+    },
+    {
+      "sent_id": "id_645",
+      "smil_sid": "sid_645",
+      "container_id": "seq_242",
+      "clip_begin": 2244.665,
+      "clip_end": 2247.955,
+      "method": "exact",
+      "source_text": "- Cám ơn ông Vunphran, cháu có một cô bạn."
+    },
+    {
+      "sent_id": "id_646",
+      "smil_sid": "sid_646",
+      "container_id": "seq_243",
+      "clip_begin": 2247.955,
+      "clip_end": 2249.141,
+      "method": "aligned",
+      "source_text": "- Đi đi!"
+    },
+    {
+      "sent_id": "id_647",
+      "smil_sid": "sid_647",
+      "container_id": "seq_243",
+      "clip_begin": 2249.141,
+      "clip_end": 2251.885,
+      "method": "aligned",
+      "source_text": "Cháu nói với bà cháu là cháu sẽ được trả tiền."
+    },
+    {
+      "sent_id": "id_648",
+      "smil_sid": "sid_648",
+      "container_id": "seq_244",
+      "clip_begin": 2251.885,
+      "clip_end": 2254.71,
+      "method": "aligned",
+      "source_text": "Bây giờ, đến lượt Perin muốn khóc."
+    },
+    {
+      "sent_id": "id_649",
+      "smil_sid": "sid_649",
+      "container_id": "seq_244",
+      "clip_begin": 2254.71,
+      "clip_end": 2257.655,
+      "method": "aligned",
+      "source_text": "Dưới cái nhìn của Taluen em nuốt nước mắt."
+    },
+    {
+      "sent_id": "id_650",
+      "smil_sid": "sid_650",
+      "container_id": "seq_244",
+      "clip_begin": 2257.655,
+      "clip_end": 2263.335,
+      "method": "aligned",
+      "source_text": "Khi hai cô bé vượt qua mấy cái sân để ra ngoài, Perin mới để lộ sự cảm động của mình:"
+    },
+    {
+      "sent_id": "id_651",
+      "smil_sid": "sid_651",
+      "container_id": "seq_245",
+      "clip_begin": 2263.335,
+      "clip_end": 2264.945,
+      "method": "exact",
+      "source_text": "- Ông Vunphran tốt thật!"
+    },
+    {
+      "sent_id": "id_652",
+      "smil_sid": "sid_652",
+      "container_id": "seq_246",
+      "clip_begin": 2264.945,
+      "clip_end": 2268.071,
+      "method": "aligned",
+      "source_text": "- Chỉ một mình ông ấy thôi thì ông ấy sẽ tốt!"
+    },
+    {
+      "sent_id": "id_653",
+      "smil_sid": "sid_653",
+      "container_id": "seq_246",
+      "clip_begin": 2268.071,
+      "clip_end": 2270.656,
+      "method": "aligned",
+      "source_text": "Nhưng với lão Gầy, ông ấy không thế được!"
+    },
+    {
+      "sent_id": "id_654",
+      "smil_sid": "sid_654",
+      "container_id": "seq_246",
+      "clip_begin": 2270.656,
+      "clip_end": 2272.86,
+      "method": "aligned",
+      "source_text": "Với lại ông ấy không có thời giờ!"
+    },
+    {
+      "sent_id": "id_655",
+      "smil_sid": "sid_655",
+      "container_id": "seq_246",
+      "clip_begin": 2272.86,
+      "clip_end": 2275.275,
+      "method": "aligned",
+      "source_text": "Trong đầu ông, có nhiều công chuyện nữa!"
+    },
+    {
+      "sent_id": "id_656",
+      "smil_sid": "sid_656",
+      "container_id": "seq_247",
+      "clip_begin": 2275.275,
+      "clip_end": 2277.445,
+      "method": "exact",
+      "source_text": "- Hình như ông ấy rất tốt với chị!"
+    },
+    {
+      "sent_id": "id_657",
+      "smil_sid": "sid_657",
+      "container_id": "seq_248",
+      "clip_begin": 2277.445,
+      "clip_end": 2279.535,
+      "method": "exact",
+      "source_text": "Rôdali tự hào khoe:"
+    },
+    {
+      "sent_id": "id_658",
+      "smil_sid": "sid_658",
+      "container_id": "seq_249",
+      "clip_begin": 2279.535,
+      "clip_end": 2284.345,
+      "method": "aligned",
+      "source_text": "- Tôi ấy à, chị phải biết thấy tôi là ông ấy nghĩ đến con trai ông!"
+    },
+    {
+      "sent_id": "id_659",
+      "smil_sid": "sid_659",
+      "container_id": "seq_249",
+      "clip_begin": 2284.345,
+      "clip_end": 2288.825,
+      "method": "aligned",
+      "source_text": "Chị hiểu chứ, mẹ tôi và ông Étmông cũng uống chung một bầu sữa."
+    },
+    {
+      "sent_id": "id_660",
+      "smil_sid": "sid_660",
+      "container_id": "seq_250",
+      "clip_begin": 2288.825,
+      "clip_end": 2291.555,
+      "method": "exact",
+      "source_text": "- Ông ấy nghĩ đến người con trai à?"
+    },
+    {
+      "sent_id": "id_661",
+      "smil_sid": "sid_661",
+      "container_id": "seq_251",
+      "clip_begin": 2291.555,
+      "clip_end": 2292.525,
+      "method": "exact",
+      "source_text": "- Chứ sao?"
+    },
+    {
+      "sent_id": "id_662",
+      "smil_sid": "sid_662",
+      "container_id": "seq_252",
+      "clip_begin": 2292.525,
+      "clip_end": 2296.033,
+      "method": "aligned",
+      "source_text": "Người ta ra ngoài cửa đứng nhìn hai cô bé đi qua."
+    },
+    {
+      "sent_id": "id_663",
+      "smil_sid": "sid_663",
+      "container_id": "seq_252",
+      "clip_begin": 2296.033,
+      "clip_end": 2300.003,
+      "method": "aligned",
+      "source_text": "Cái mùi xoa nhuộm máu bọc bàn tay của Rôdali gợi sự tò mò."
+    },
+    {
+      "sent_id": "id_664",
+      "smil_sid": "sid_664",
+      "container_id": "seq_252",
+      "clip_begin": 2300.003,
+      "clip_end": 2300.855,
+      "method": "aligned",
+      "source_text": "Có tiếng hỏi:"
+    },
+    {
+      "sent_id": "id_665",
+      "smil_sid": "sid_665",
+      "container_id": "seq_253",
+      "clip_begin": 2300.855,
+      "clip_end": 2301.985,
+      "method": "exact",
+      "source_text": "- Bị thương à?"
+    },
+    {
+      "sent_id": "id_666",
+      "smil_sid": "sid_666",
+      "container_id": "seq_254",
+      "clip_begin": 2301.985,
+      "clip_end": 2303.275,
+      "method": "exact",
+      "source_text": "- Ngón tay bị dập!"
+    },
+    {
+      "sent_id": "id_667",
+      "smil_sid": "sid_667",
+      "container_id": "seq_255",
+      "clip_begin": 2303.275,
+      "clip_end": 2304.565,
+      "method": "exact",
+      "source_text": "- Ôi, tai họa."
+    },
+    {
+      "sent_id": "id_668",
+      "smil_sid": "sid_668",
+      "container_id": "seq_256",
+      "clip_begin": 2304.565,
+      "clip_end": 2317.972,
+      "method": "aligned",
+      "source_text": "Trong tiêng kêu ấy có lòng thương cảm lẫn sự căm hờn, nhưng người thốt ra những tiếng ấy nghĩ rằng cái gì đến với cô gái này, ngày mai có thể giáng xuống một người trong gia đình họ: cha, chồng, con họ."
+    },
+    {
+      "sent_id": "id_669",
+      "smil_sid": "sid_669",
+      "container_id": "seq_256",
+      "clip_begin": 2317.972,
+      "clip_end": 2322.525,
+      "method": "aligned",
+      "source_text": "Tất cả mọi người này ở Marôcua không phải đều sống ở nhà máy sao?"
+    },
+    {
+      "sent_id": "id_670",
+      "smil_sid": "sid_670",
+      "container_id": "seq_257",
+      "clip_begin": 2322.525,
+      "clip_end": 2329.879,
+      "method": "aligned",
+      "source_text": "Mặc dù hai cô bé phải dừng chân nhiều nơi, nhưng cuối cùng họ đã về đến gần ngôi nhà của mẹ Prăngxoadơ!"
+    },
+    {
+      "sent_id": "id_671",
+      "smil_sid": "sid_671",
+      "container_id": "seq_257",
+      "clip_begin": 2329.879,
+      "clip_end": 2332.775,
+      "method": "aligned",
+      "source_text": "Ở đầu đường, họ đã thấy rõ cái hàng rào xám."
+    },
+    {
+      "sent_id": "id_672",
+      "smil_sid": "sid_672",
+      "container_id": "seq_258",
+      "clip_begin": 2332.775,
+      "clip_end": 2334.327,
+      "method": "aligned",
+      "source_text": "- Chị vào nhà với nhé!"
+    },
+    {
+      "sent_id": "id_673",
+      "smil_sid": "sid_673",
+      "container_id": "seq_258",
+      "clip_begin": 2334.327,
+      "clip_end": 2335.425,
+      "method": "aligned",
+      "source_text": "Rôdali nói."
+    },
+    {
+      "sent_id": "id_674",
+      "smil_sid": "sid_674",
+      "container_id": "seq_259",
+      "clip_begin": 2335.425,
+      "clip_end": 2336.795,
+      "method": "exact",
+      "source_text": "- Tôi cũng muốn thế!"
+    },
+    {
+      "sent_id": "id_675",
+      "smil_sid": "sid_675",
+      "container_id": "seq_260",
+      "clip_begin": 2336.795,
+      "clip_end": 2340.485,
+      "method": "exact",
+      "source_text": "- Có mặt chị, có lẽ dì Đênôbi không làm toáng lên."
+    },
+    {
+      "sent_id": "id_676",
+      "smil_sid": "sid_676",
+      "container_id": "seq_261",
+      "clip_begin": 2340.485,
+      "clip_end": 2345.774,
+      "method": "aligned",
+      "source_text": "Nhưng sự có mặt của Perin không làm cho bà dì dễ sợ ấy bớt cáu gắt tí nào."
+    },
+    {
+      "sent_id": "id_677",
+      "smil_sid": "sid_677",
+      "container_id": "seq_261",
+      "clip_begin": 2345.774,
+      "clip_end": 2351.935,
+      "method": "aligned",
+      "source_text": "Thấy Rôdali trở về trong một giờ bất thường va nhìn thấy bàn tay buộc mùi xoa, bà hét to."
+    },
+    {
+      "sent_id": "id_678",
+      "smil_sid": "sid_678",
+      "container_id": "seq_262",
+      "clip_begin": 2351.935,
+      "clip_end": 2353.703,
+      "method": "aligned",
+      "source_text": "- Bị thương rồi hả?"
+    },
+    {
+      "sent_id": "id_679",
+      "smil_sid": "sid_679",
+      "container_id": "seq_262",
+      "clip_begin": 2353.703,
+      "clip_end": 2354.688,
+      "method": "aligned",
+      "source_text": "Đồ quỷ!"
+    },
+    {
+      "sent_id": "id_680",
+      "smil_sid": "sid_680",
+      "container_id": "seq_262",
+      "clip_begin": 2354.688,
+      "clip_end": 2356.185,
+      "method": "aligned",
+      "source_text": "Tao đánh cuộc là tại mày!"
+    },
+    {
+      "sent_id": "id_681",
+      "smil_sid": "sid_681",
+      "container_id": "seq_263",
+      "clip_begin": 2356.185,
+      "clip_end": 2359.795,
+      "method": "exact",
+      "source_text": "- Cháu sẽ được trả tiền, Rôdali giận dữ, trả lời."
+    },
+    {
+      "sent_id": "id_682",
+      "smil_sid": "sid_682",
+      "container_id": "seq_264",
+      "clip_begin": 2359.795,
+      "clip_end": 2361.165,
+      "method": "exact",
+      "source_text": "- Mày tin thế à?"
+    },
+    {
+      "sent_id": "id_683",
+      "smil_sid": "sid_683",
+      "container_id": "seq_265",
+      "clip_begin": 2361.165,
+      "clip_end": 2363.575,
+      "method": "exact",
+      "source_text": "- Ông Vunphran nói với cháu thế!"
+    },
+    {
+      "sent_id": "id_684",
+      "smil_sid": "sid_684",
+      "container_id": "seq_266",
+      "clip_begin": 2363.575,
+      "clip_end": 2366.639,
+      "method": "aligned",
+      "source_text": "Nhưng chuyện ấy không làm cho dì Đênôbi dịu đi."
+    },
+    {
+      "sent_id": "id_685",
+      "smil_sid": "sid_685",
+      "container_id": "seq_266",
+      "clip_begin": 2366.639,
+      "clip_end": 2373.048,
+      "method": "aligned",
+      "source_text": "Dì lại tiếp tục la hét, đến nỗi mẹ Prăngxoadơ phải rời quầy hàng, đến trước ngưỡng cửa."
+    },
+    {
+      "sent_id": "id_686",
+      "smil_sid": "sid_686",
+      "container_id": "seq_266",
+      "clip_begin": 2373.048,
+      "clip_end": 2375.111,
+      "method": "aligned",
+      "source_text": "Bà ta không la mắng cô cháu."
+    },
+    {
+      "sent_id": "id_687",
+      "smil_sid": "sid_687",
+      "container_id": "seq_266",
+      "clip_begin": 2375.111,
+      "clip_end": 2377.985,
+      "method": "aligned",
+      "source_text": "Bà chạy đến bên Rôdali, ôm cô bé và hỏi."
+    },
+    {
+      "sent_id": "id_688",
+      "smil_sid": "sid_688",
+      "container_id": "seq_267",
+      "clip_begin": 2377.985,
+      "clip_end": 2379.275,
+      "method": "exact",
+      "source_text": "- Cháu bị thương hả?"
+    },
+    {
+      "sent_id": "id_689",
+      "smil_sid": "sid_689",
+      "container_id": "seq_268",
+      "clip_begin": 2379.275,
+      "clip_end": 2383.525,
+      "method": "exact",
+      "source_text": "- Một chút thôi, bà ơi, nơi ngón tay, có lẽ không can gì."
+    },
+    {
+      "sent_id": "id_690",
+      "smil_sid": "sid_690",
+      "container_id": "seq_269",
+      "clip_begin": 2383.525,
+      "clip_end": 2385.455,
+      "method": "exact",
+      "source_text": "- Phải tìm ông Ruysông báo."
+    },
+    {
+      "sent_id": "id_691",
+      "smil_sid": "sid_691",
+      "container_id": "seq_270",
+      "clip_begin": 2385.455,
+      "clip_end": 2389.865,
+      "method": "exact",
+      "source_text": "- Ông Vunphran đã cho người báo tin cho ông ấy hay rồi!"
+    },
+    {
+      "sent_id": "id_692",
+      "smil_sid": "sid_692",
+      "container_id": "seq_271",
+      "clip_begin": 2389.865,
+      "clip_end": 2395.635,
+      "method": "exact",
+      "source_text": "Perin sẵn sàng đi theo hai bà cháu vào trong nhà nhưng dì Đênôbi quay lại, ngăn em:"
+    },
+    {
+      "sent_id": "id_693",
+      "smil_sid": "sid_693",
+      "container_id": "seq_272",
+      "clip_begin": 2395.635,
+      "clip_end": 2399.485,
+      "method": "exact",
+      "source_text": "- Mày nghĩ là chúng tao cần đến mày để săn sóc nó sao?"
+    },
+    {
+      "sent_id": "id_694",
+      "smil_sid": "sid_694",
+      "container_id": "seq_273",
+      "clip_begin": 2399.485,
+      "clip_end": 2401.735,
+      "method": "exact",
+      "source_text": "- Cám ơn, Rôdali nói to."
+    },
+    {
+      "sent_id": "id_695",
+      "smil_sid": "sid_695",
+      "container_id": "seq_274",
+      "clip_begin": 2401.735,
+      "clip_end": 2404.543,
+      "method": "aligned",
+      "source_text": "Perin chỉ còn việc trở lại xưởng."
+    },
+    {
+      "sent_id": "id_696",
+      "smil_sid": "sid_696",
+      "container_id": "seq_274",
+      "clip_begin": 2404.543,
+      "clip_end": 2408.64,
+      "method": "aligned",
+      "source_text": "Vừa tới song cửa em đã nghe một tiếng còi báo hiệu hết giờ làm việc."
+    }
+  ]
+}
